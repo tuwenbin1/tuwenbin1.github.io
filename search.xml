@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/09/02/hello-world/</url>
+    <title>My awesome title</title>
+    <url>/2016/10/12/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -17,14 +17,14 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/2020/09/02/lala%20-%20%E5%89%AF%E6%9C%AC/</url>
-    <content><![CDATA[<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">title: Hexo博客新建文章并发布</span><br><span class="line">date: 2018-12-06 12:16:12</span><br><span class="line">tags:</span><br><span class="line"><span class="bullet"> -</span> Hexo</span><br><span class="line"><span class="bullet"> -</span> Markdown</span><br><span class="line">categories: 搭建博客</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
-]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
   </entry>
   <entry>
     <title>hexo 添加分类及标签</title>
@@ -37,6 +37,14 @@
       <tags>
         <tag>博客</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2020/09/02/lala%20-%20%E5%89%AF%E6%9C%AC/</url>
+    <content><![CDATA[<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">title: Hexo博客新建文章并发布</span><br><span class="line">date: 2018-12-06 12:16:12</span><br><span class="line">tags:</span><br><span class="line"><span class="bullet"> -</span> Hexo</span><br><span class="line"><span class="bullet"> -</span> Markdown</span><br><span class="line">categories: 搭建博客</span><br><span class="line">cover: https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999<span class="emphasis">_10000&amp;sec=1599065793190&amp;di=34a6ebf9e82cb70a01b64b39ec54a6cb&amp;imgtype=0&amp;src=http%3A%2F%2Fcomic.people.com.cn%2FNMediaFile%2F2014%2F1204%2FMAIN201412041454000580086462267.jpg</span></span><br></pre></td></tr></table></figure>
+
+<p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+]]></content>
   </entry>
   <entry>
     <title></title>
