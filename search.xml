@@ -15,8 +15,8 @@
       </tags>
   </entry>
   <entry>
-    <title>11</title>
-    <url>/2016/10/12/11/</url>
+    <title>12</title>
+    <url>/2016/10/12/12/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -29,8 +29,8 @@
       </tags>
   </entry>
   <entry>
-    <title>12</title>
-    <url>/2016/10/12/12/</url>
+    <title>11</title>
+    <url>/2016/10/12/11/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -71,8 +71,8 @@
       </tags>
   </entry>
   <entry>
-    <title>15</title>
-    <url>/2016/10/12/15/</url>
+    <title>16</title>
+    <url>/2016/10/12/16/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -85,8 +85,8 @@
       </tags>
   </entry>
   <entry>
-    <title>16</title>
-    <url>/2016/10/12/16/</url>
+    <title>15</title>
+    <url>/2016/10/12/15/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -127,6 +127,20 @@
       </tags>
   </entry>
   <entry>
+    <title>20</title>
+    <url>/2016/10/12/20/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>19</title>
     <url>/2016/10/12/19/</url>
     <content><![CDATA[<p>11111111</p>
@@ -155,20 +169,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20</title>
-    <url>/2016/10/12/20/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>22</title>
     <url>/2016/10/12/22/</url>
     <content><![CDATA[<p>11111111</p>
@@ -183,8 +183,8 @@
       </tags>
   </entry>
   <entry>
-    <title>24</title>
-    <url>/2016/10/12/24/</url>
+    <title>23</title>
+    <url>/2016/10/12/23/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -197,8 +197,8 @@
       </tags>
   </entry>
   <entry>
-    <title>23</title>
-    <url>/2016/10/12/23/</url>
+    <title>24</title>
+    <url>/2016/10/12/24/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -323,20 +323,6 @@
       </tags>
   </entry>
   <entry>
-    <title>34</title>
-    <url>/2016/10/12/34/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>33</title>
     <url>/2016/10/12/33/</url>
     <content><![CDATA[<p>11111111</p>
@@ -351,8 +337,8 @@
       </tags>
   </entry>
   <entry>
-    <title>37</title>
-    <url>/2016/10/12/37/</url>
+    <title>34</title>
+    <url>/2016/10/12/34/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -379,8 +365,8 @@
       </tags>
   </entry>
   <entry>
-    <title>38</title>
-    <url>/2016/10/12/38/</url>
+    <title>36</title>
+    <url>/2016/10/12/36/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -393,8 +379,22 @@
       </tags>
   </entry>
   <entry>
-    <title>36</title>
-    <url>/2016/10/12/36/</url>
+    <title>37</title>
+    <url>/2016/10/12/37/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>38</title>
+    <url>/2016/10/12/38/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -436,7 +436,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/42/</url>
+    <url>/2016/10/12/41/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -450,7 +450,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/41/</url>
+    <url>/2016/10/12/42/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -492,7 +492,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/46/</url>
+    <url>/2016/10/12/45/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -506,7 +506,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/45/</url>
+    <url>/2016/10/12/46/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -561,36 +561,22 @@
       </tags>
   </entry>
   <entry>
-    <title>52</title>
-    <url>/2016/10/12/52/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>50</title>
-    <url>/2016/10/12/50/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>51</title>
     <url>/2016/10/12/51/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>52</title>
+    <url>/2016/10/12/52/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -631,8 +617,8 @@
       </tags>
   </entry>
   <entry>
-    <title>56</title>
-    <url>/2016/10/12/56/</url>
+    <title>50</title>
+    <url>/2016/10/12/50/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -647,6 +633,20 @@
   <entry>
     <title>55</title>
     <url>/2016/10/12/55/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>56</title>
+    <url>/2016/10/12/56/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -717,34 +717,6 @@
   <entry>
     <title>9</title>
     <url>/2016/10/12/9/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>7</title>
-    <url>/2016/10/12/7/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>8</title>
-    <url>/2016/10/12/8/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -1626,363 +1598,6 @@
       </tags>
   </entry>
   <entry>
-    <title>MyBatis 面试题</title>
-    <url>/2016/10/12/%E7%B2%BE%E5%B0%BD%20MyBatis%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
-    <content><![CDATA[<h1 id="精尽-MyBatis-面试题"><a href="#精尽-MyBatis-面试题" class="headerlink" title="精尽 MyBatis 面试题"></a>精尽 MyBatis 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
-<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 MyBatis 面试题的大保健。</p>
-<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
-<h2 id="MyBatis-编程步骤"><a href="#MyBatis-编程步骤" class="headerlink" title="MyBatis 编程步骤"></a>MyBatis 编程步骤</h2><ol>
-<li>创建 SqlSessionFactory 对象。</li>
-<li>通过 SqlSessionFactory 获取 SqlSession 对象。</li>
-<li>通过 SqlSession 获得 Mapper 代理对象。</li>
-<li>通过 Mapper 代理对象，执行数据库操作。</li>
-<li>执行成功，则使用 SqlSession 提交事务。</li>
-<li>执行失败，则使用 SqlSession 回滚事务。</li>
-<li>最终，关闭会话。</li>
-</ol>
-<h2 id="和-的区别是什么？"><a href="#和-的区别是什么？" class="headerlink" title="#{} 和 ${} 的区别是什么？"></a><code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的区别是什么？</h2><p><code>$&#123;&#125;</code> 是 Properties 文件中的变量占位符，它可以用于 XML 标签属性值和 SQL 内部，属于<strong>字符串替换</strong>。例如将 <code>$&#123;driver&#125;</code> 会被静态替换为 <code>com.mysql.jdbc.Driver</code> ：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;dataSource type&#x3D;&quot;UNPOOLED&quot;&gt;<br>    &lt;property name&#x3D;&quot;driver&quot; value&#x3D;&quot;$&#123;driver&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;url&quot; value&#x3D;&quot;$&#123;url&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;username&quot; value&#x3D;&quot;$&#123;username&#125;&quot;&#x2F;&gt;<br>&lt;&#x2F;dataSource&gt;<br></code></pre></td></tr></table></figure>
-
-<p><code>$&#123;&#125;</code> 也可以对传递进来的参数<strong>原样拼接</strong>在 SQL 中。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;getSubject3&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Subject&quot;&gt;<br>    SELECT * FROM subject<br>    WHERE id &#x3D; $&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>实际场景下，不推荐这么做。因为，可能有 SQL 注入的风险。</li>
-</ul>
-<hr>
-<p><code>#&#123;&#125;</code> 是 SQL 的参数占位符，Mybatis 会将 SQL 中的 <code>#&#123;&#125;</code> 替换为 <code>?</code> 号，在 SQL 执行前会使用 PreparedStatement 的参数设置方法，按序给 SQL 的 <code>?</code> 号占位符设置参数值，比如 <code>ps.setInt(0, parameterValue)</code> 。 所以，<code>#&#123;&#125;</code> 是<strong>预编译处理</strong>，可以有效防止 SQL 注入，提高系统安全性。</p>
-<hr>
-<p>另外，<code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的取值方式非常方便。例如：<code>#&#123;item.name&#125;</code> 的取值方式，为使用反射从参数对象中，获取 <code>item</code> 对象的 <code>name</code> 属性值，相当于 <code>param.getItem().getName()</code> 。</p>
-<h2 id="当实体类中的属性名和表中的字段名不一样-，怎么办？"><a href="#当实体类中的属性名和表中的字段名不一样-，怎么办？" class="headerlink" title="当实体类中的属性名和表中的字段名不一样 ，怎么办？"></a>当实体类中的属性名和表中的字段名不一样 ，怎么办？</h2><p>第一种， 通过在查询的 SQL 语句中定义字段名的别名，让字段名的别名和实体类的属性名一致。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;selectOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Order&quot;&gt; <br>    SELECT order_id AS id, order_no AS orderno, order_price AS price <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>这里，艿艿还有几点建议：<ul>
-<li>1、数据库的关键字，统一使用大写，例如：<code>SELECT</code>、<code>AS</code>、<code>FROM</code>、<code>WHERE</code> 。</li>
-<li>2、每 5 个查询字段换一行，保持整齐。</li>
-<li>3、<code>,</code> 的后面，和 <code>=</code> 的前后，需要有空格，更加清晰。</li>
-<li>4、<code>SELECT</code>、<code>FROM</code>、<code>WHERE</code> 等，单独一行，高端大气。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>第二种，是第一种的特殊情况。大多数场景下，数据库字段名和实体类中的属性名差，主要是前者为<strong>下划线风格</strong>，后者为<strong>驼峰风格</strong>。在这种情况下，可以直接配置如下，实现自动的下划线转驼峰的功能。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;setting name&#x3D;&quot;logImpl&quot; value&#x3D;&quot;LOG4J&quot;&#x2F;&gt;<br>    &lt;setting name&#x3D;&quot;mapUnderscoreToCamelCase&quot; value&#x3D;&quot;true&quot; &#x2F;&gt;<br>&lt;&#x2F;settings&gt;<br></code></pre></td></tr></table></figure>
-
-<p>😈 也就说，约定大于配置。非常推荐！</p>
-<hr>
-<p>第三种，通过 <code>&lt;resultMap&gt;</code> 来映射字段名和实体类属性名的一一对应的关系。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;resultMap type&#x3D;&quot;me.gacl.domain.Order&quot; id&#x3D;”OrderResultMap”&gt; <br>    &lt;!–- 用 id 属性来映射主键字段 -–&gt; <br>    &lt;id property&#x3D;&quot;id&quot; column&#x3D;&quot;order_id&quot;&gt; <br>    &lt;!–- 用 result 属性来映射非主键字段，property 为实体类属性名，column 为数据表中的属性 -–&gt; <br>    &lt;result property&#x3D;&quot;orderNo&quot; column &#x3D;&quot;order_no&quot; &#x2F;&gt; <br>    &lt;result property&#x3D;&quot;price&quot; column&#x3D;&quot;order_price&quot; &#x2F;&gt; <br>&lt;&#x2F;resultMap&gt;<br><br>&lt;select id&#x3D;&quot;getOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultMap&#x3D;&quot;OrderResultMap&quot;&gt;<br>    SELECT * <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>此处 <code>SELECT *</code> 仅仅作为示例只用，实际场景下，千万千万千万不要这么干。用多少字段，查询多少字段。</li>
-<li>相比第一种，第三种的<strong>重用性</strong>会一些。</li>
-</ul>
-<h2 id="XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？"><a href="#XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？" class="headerlink" title="XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？"></a>XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？</h2><p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html">《MyBatis 文档 —— Mapper XML 文件》</a> ：</p>
-<ul>
-<li><pre><code>&lt;cache /&gt;
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   标签，给定命名空间的缓存配置。<br><br>  - &#96;&lt;cache-ref &#x2F;&gt;&#96; 标签，其他命名空间缓存配置的引用。<br><br>- &#96;&lt;resultMap &#x2F;&gt;&#96; 标签，是最复杂也是最强大的元素，用来描述如何从数据库结果集中来加载对象。<br><br>- ~~&#96;&#96; 标签，已废弃！老式风格的参数映射。内联参数是首选,这个元素可能在将来被移除，这里不会记录。~~<br><br>- &#96;&#96;&#96;<br>  &lt;sql &#x2F;&gt;<br></code></pre></td></tr></table></figure>
-
- 标签，可被其他语句引用的可重用语句块。
-
-- `&lt;include /&gt;` 标签，引用 `&lt;sql /&gt;` 标签的语句。</code></pre>
-</li>
-<li><p><code>&lt;selectKey /&gt;</code> 标签，不支持自增的主键生成策略标签。</p>
-</li>
-</ul>
-<p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> ：</p>
-<ul>
-<li><code>&lt;if /&gt;</code></li>
-<li><code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code></li>
-<li><code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code></li>
-<li><code>&lt;foreach /&gt;</code></li>
-<li><code>&lt;bind /&gt;</code></li>
-</ul>
-<h2 id="Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？"><a href="#Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？" class="headerlink" title="Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？"></a>Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？</h2><ul>
-<li>Mybatis 动态 SQL ，可以让我们在 XML 映射文件内，以 XML 标签的形式编写动态 SQL ，完成逻辑判断和动态拼接 SQL 的功能。</li>
-<li>Mybatis 提供了 9 种动态 SQL 标签：<code>&lt;if /&gt;</code>、<code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code>、<code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code>、<code>&lt;foreach /&gt;</code>、<code>&lt;bind /&gt;</code> 。</li>
-<li>其执行原理为，使用 <strong>OGNL</strong> 的表达式，从 SQL 参数对象中计算表达式的值，根据表达式的值动态拼接 SQL ，以此来完成动态 SQL 的功能。</li>
-</ul>
-<p>如上的内容，更加详细的话，请看 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> 文档。</p>
-<h2 id="最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？"><a href="#最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？" class="headerlink" title="最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？"></a>最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？</h2><p>Mapper 接口，对应的关系如下：</p>
-<ul>
-<li>接口的全限名，就是映射文件中的 <code>&quot;namespace&quot;</code> 的值。</li>
-<li>接口的方法名，就是映射文件中 MappedStatement 的 <code>&quot;id&quot;</code> 值。</li>
-<li>接口方法内的参数，就是传递给 SQL 的参数。</li>
-</ul>
-<p>Mapper 接口是没有实现类的，当调用接口方法时，接口全限名 + 方法名拼接字符串作为 key 值，可唯一定位一个对应的 MappedStatement 。举例：<code>com.mybatis3.mappers.StudentDao.findStudentById</code> ，可以唯一找到 <code>&quot;namespace&quot;</code> 为 <code>com.mybatis3.mappers.StudentDao</code> 下面 <code>&quot;id&quot;</code> 为 <code>findStudentById</code> 的 MappedStatement 。</p>
-<p>总结来说，在 Mybatis 中，每一个 <code>&lt;select /&gt;</code>、<code>&lt;insert /&gt;</code>、<code>&lt;update /&gt;</code>、<code>&lt;delete /&gt;</code> 标签，都会被解析为一个 MappedStatement 对象。</p>
-<p>另外，Mapper 接口的实现类，通过 MyBatis 使用 <strong>JDK Proxy</strong> 自动生成其代理对象 Proxy ，而代理对象 Proxy 会拦截接口方法，从而“调用”对应的 MappedStatement 方法，最终执行 SQL ，返回执行结果。整体流程如下图：<a href="http://static2.iocoder.cn/images/MyBatis/2020_03_15/02.png"><img src="http://cdn.tuwenbin.vip/02.png" alt="流程"></a>流程</p>
-<ul>
-<li><p>其中，SqlSession 在调用 Executor 之前，会获得对应的 MappedStatement 方法。例如：<code>DefaultSqlSession#select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler)</code> 方法，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; DefaultSqlSession.java<br><br>@Override<br>public void select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler) &#123;<br>    try &#123;<br>        &#x2F;&#x2F; 获得 MappedStatement 对象<br>        MappedStatement ms &#x3D; configuration.getMappedStatement(statement);<br>        &#x2F;&#x2F; 执行查询<br>        executor.query(ms, wrapCollection(parameter), rowBounds, handler);<br>    &#125; catch (Exception e) &#123;<br>        throw ExceptionFactory.wrapException(&quot;Error querying database.  Cause: &quot; + e, e);<br>    &#125; finally &#123;<br>        ErrorContext.instance().reset();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>完整的流程，胖友可以慢慢撸下 MyBatis 的源码。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Mapper 接口里的方法，是不能重载的，因为是<strong>全限名 + 方法名</strong>的保存和寻找策略。😈 所以有时，想个 Mapper 接口里的方法名，还是蛮闹心的，嘿嘿。</p>
-<h2 id="Mapper-接口绑定有几种实现方式-分别是怎么实现的"><a href="#Mapper-接口绑定有几种实现方式-分别是怎么实现的" class="headerlink" title="Mapper 接口绑定有几种实现方式,分别是怎么实现的?"></a>Mapper 接口绑定有几种实现方式,分别是怎么实现的?</h2><p>接口绑定有三种实现方式：</p>
-<p>第一种，通过 <strong>XML Mapper</strong> 里面写 SQL 来绑定。在这种情况下，要指定 XML 映射文件里面的 <code>&quot;namespace&quot;</code> 必须为接口的全路径名。</p>
-<p>第二种，通过<strong>注解</strong>绑定，就是在接口的方法上面加上 <code>@Select</code>、<code>@Update</code>、<code>@Insert</code>、<code>@Delete</code> 注解，里面包含 SQL 语句来绑定。</p>
-<p>第三种，是第二种的特例，也是通过<strong>注解</strong>绑定，在接口的方法上面加上 <code>@SelectProvider</code>、<code>@UpdateProvider</code>、<code>@InsertProvider</code>、<code>@DeleteProvider</code> 注解，通过 Java 代码，生成对应的动态 SQL 。</p>
-<hr>
-<p>实际场景下，最最最推荐的是<strong>第一种</strong>方式。因为，SQL 通过注解写在 Java 代码中，会非常杂乱。而写在 XML 中，更加有整体性，并且可以更加方便的使用 OGNL 表达式。</p>
-<h2 id="Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？"><a href="#Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？" class="headerlink" title="Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？"></a>Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？</h2><p>不同的 XML Mapper 文件，如果配置了 <code>&quot;namespace&quot;</code> ，那么 id 可以重复；如果没有配置 <code>&quot;namespace&quot;</code> ，那么 id 不能重复。毕竟<code>&quot;namespace&quot;</code> 不是必须的，只是最佳实践而已。</p>
-<p>原因就是，<code>namespace + id</code> 是作为 <code>Map&lt;String, MappedStatement&gt;</code> 的 key 使用的。如果没有 <code>&quot;namespace&quot;</code>，就剩下 id ，那么 id 重复会导致数据互相覆盖。如果有了 <code>&quot;namespace&quot;</code>，自然 id 就可以重复，<code>&quot;namespace&quot;</code>不同，<code>namespace + id</code> 自然也就不同。</p>
-<h2 id="如何获取自动生成的-主-键值"><a href="#如何获取自动生成的-主-键值" class="headerlink" title="如何获取自动生成的(主)键值?"></a>如何获取自动生成的(主)键值?</h2><p>不同的数据库，获取自动生成的(主)键值的方式是不同的。</p>
-<p>MySQL 有两种方式，但是<strong>自增主键</strong>，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 方式一，使用 useGeneratedKeys + keyProperty 属性<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot; useGeneratedKeys&#x3D;&quot;true&quot; keyProperty&#x3D;&quot;id&quot;&gt;<br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br>    <br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot;&gt;<br>    &lt;selectKey keyProperty&#x3D;&quot;id&quot; resultType&#x3D;&quot;long&quot; order&#x3D;&quot;AFTER&quot;&gt;<br>        SELECT LAST_INSERT_ID()<br>    &lt;&#x2F;selectKey&gt;<br>        <br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>其中，<strong>方式一</strong>较为常用。</li>
-</ul>
-<hr>
-<p>Oracle 有两种方式，<strong>序列</strong>和<strong>触发器</strong>。因为艿艿自己不了解 Oracle ，所以问了银行的朋友，他们是使用<strong>序列</strong>。而基于<strong>序列</strong>，根据 <code>&lt;selectKey /&gt;</code> 执行的时机，也有两种方式，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 这个是创建表的自增序列<br>CREATE SEQUENCE student_sequence<br>INCREMENT BY 1<br>NOMAXVALUE<br>NOCYCLE<br>CACHE 10;<br><br>&#x2F;&#x2F; 方式一，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + BEFORE<br>&lt;insert id&#x3D;&quot;add&quot; parameterType&#x3D;&quot;Student&quot;&gt;<br>　　&lt;selectKey keyProperty&#x3D;&quot;student_id&quot; resultType&#x3D;&quot;int&quot; order&#x3D;&quot;BEFORE&quot;&gt;<br>      select student_sequence.nextval FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>     INSERT INTO student(student_id, student_name, student_age)<br>     VALUES (#&#123;student_id&#125;,#&#123;student_name&#125;,#&#123;student_age&#125;)<br>&lt;&#x2F;insert&gt;<br><br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + AFTER<br>&lt;insert id&#x3D;&quot;save&quot; parameterType&#x3D;&quot;com.threeti.to.ZoneTO&quot; &gt;<br>    &lt;selectKey resultType&#x3D;&quot;java.lang.Long&quot; keyProperty&#x3D;&quot;id&quot; order&#x3D;&quot;AFTER&quot; &gt;<br>      SELECT SEQ_ZONE.CURRVAL AS id FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>    INSERT INTO TBL_ZONE (ID, NAME ) <br>    VALUES (SEQ_ZONE.NEXTVAL, #&#123;name,jdbcType&#x3D;VARCHAR&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>他们使用第一种方式，没有具体原因，可能就没什么讲究吧。嘿嘿。</li>
-</ul>
-<p>至于为什么不用<strong>触发器</strong>呢？朋友描述如下：</p>
-<blockquote>
-<p>朋友：触发器不行啊，我们这边原来也有触发器，一有数据更改就会有问题了呀<br>艿艿：数据更改指的是？<br>朋友：就改线上某几条数据<br>艿艿：噢噢。手动改是吧？<br>朋友：不行~</p>
-</blockquote>
-<hr>
-<p>当然，数据库还有 SQLServer、PostgreSQL、DB2、H2 等等，具体的方式，胖友自己 Google 下噢。</p>
-<p>关于如何获取自动生成的(主)键值的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/executor-3/">《精尽 MyBatis 源码分析 —— SQL 执行（三）之 KeyGenerator》</a> 。</p>
-<h2 id="Mybatis-执行批量插入，能返回数据库主键列表吗？"><a href="#Mybatis-执行批量插入，能返回数据库主键列表吗？" class="headerlink" title="Mybatis 执行批量插入，能返回数据库主键列表吗？"></a>Mybatis 执行批量插入，能返回数据库主键列表吗？</h2><p>能，JDBC 都能做，Mybatis 当然也能做。</p>
-<h2 id="在-Mapper-中如何传递多个参数"><a href="#在-Mapper-中如何传递多个参数" class="headerlink" title="在 Mapper 中如何传递多个参数?"></a>在 Mapper 中如何传递多个参数?</h2><p>第一种，使用 Map 集合，装载多个参数进行传递。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>Map&lt;String, Object&gt; map &#x3D; new HashMap();<br>map.put(&quot;start&quot;, start);<br>map.put(&quot;end&quot;, end);<br>return studentMapper.selectStudents(map);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Map&lt;String, Object&gt; map);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; parameterType&#x3D;&quot;Map&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>显然，这不是一种优雅的方式。</li>
-</ul>
-<hr>
-<p>第二种，保持传递多个参数，使用 <code>@Param</code> 注解。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(@Param(&quot;start&quot;) Integer start, @Param(&quot;end&quot;) Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>推荐使用这种方式。</li>
-</ul>
-<hr>
-<p>第三种，保持传递多个参数，不使用 <code>@Param</code> 注解。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Integer start, Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;param1&#125;, #&#123;param2&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>其中，按照参数在方法方法中的位置，从 1 开始，逐个为 <code>#&#123;param1&#125;</code>、<code>#&#123;param2&#125;</code>、<code>#&#123;param3&#125;</code> 不断向下。</li>
-</ul>
-<h2 id="Mybatis-是否可以映射-Enum-枚举类？"><a href="#Mybatis-是否可以映射-Enum-枚举类？" class="headerlink" title="Mybatis 是否可以映射 Enum 枚举类？"></a>Mybatis 是否可以映射 Enum 枚举类？</h2><p>Mybatis 可以映射枚举类，对应的实现类为 EnumTypeHandler 或 EnumOrdinalTypeHandler 。</p>
-<ul>
-<li>EnumTypeHandler ，基于 <code>Enum.name</code> 属性( String )。<strong>默认</strong>。</li>
-<li>EnumOrdinalTypeHandler ，基于 <code>Enum.ordinal</code> 属性( <code>int</code> )。可通过 <code>&lt;setting name=&quot;defaultEnumTypeHandler&quot; value=&quot;EnumOrdinalTypeHandler&quot; /&gt;</code> 来设置。</li>
-</ul>
-<p>😈 当然，实际开发场景，我们很少使用 Enum 类型，更加的方式是，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public class Dog &#123;<br><br>    public static final int STATUS_GOOD &#x3D; 1;<br>    public static final int STATUS_BETTER &#x3D; 2;<br>    public static final int STATUS_BEST &#x3D; 3；<br>    <br>    private int status;<br>    <br>&#125;<br></code></pre></td></tr></table></figure>
-
-<hr>
-<p>并且，不单可以映射枚举类，Mybatis 可以映射任何对象到表的一列上。映射方式为自定义一个 TypeHandler 类，实现 TypeHandler 的<code>#setParameter(...)</code> 和 <code>#getResult(...)</code> 接口方法。</p>
-<p>TypeHandler 有两个作用：</p>
-<ul>
-<li>一是，完成从 javaType 至 jdbcType 的转换。</li>
-<li>二是，完成 jdbcType 至 javaType 的转换。</li>
-</ul>
-<p>具体体现为 <code>#setParameter(...)</code> 和 <code>#getResult(..)</code> 两个方法，分别代表设置 SQL 问号占位符参数和获取列查询结果。</p>
-<p>关于 TypeHandler 的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/type-package/">《精尽 MyBatis 源码分析 —— 类型模块》</a> 。</p>
-<h2 id="Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？"><a href="#Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？" class="headerlink" title="Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？"></a>Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？</h2><p>Mybatis 有四种 Executor 执行器，分别是 SimpleExecutor、ReuseExecutor、BatchExecutor、CachingExecutor 。</p>
-<ul>
-<li>SimpleExecutor ：每执行一次 update 或 select 操作，就创建一个 Statement 对象，用完立刻关闭 Statement 对象。</li>
-<li>ReuseExecutor ：执行 update 或 select 操作，以 SQL 作为key 查找<strong>缓存</strong>的 Statement 对象，存在就使用，不存在就创建；用完后，不关闭 Statement 对象，而是放置于缓存 <code>Map&lt;String, Statement&gt;</code> 内，供下一次使用。简言之，就是重复使用 Statement 对象。</li>
-<li>BatchExecutor ：执行 update 操作（没有 select 操作，因为 JDBC 批处理不支持 select  操作），将所有 SQL 都添加到批处理中（通过 addBatch 方法），等待统一执行（使用 executeBatch 方法）。它缓存了多个  Statement 对象，每个 Statement 对象都是调用 addBatch 方法完毕后，等待一次执行 executeBatch 批处理。<strong>实际上，整个过程与 JDBC 批处理是相同</strong>。</li>
-<li>CachingExecutor ：在上述的三个执行器之上，增加<strong>二级缓存</strong>的功能。</li>
-</ul>
-<hr>
-<p>通过设置 <code>&lt;setting name=&quot;defaultExecutorType&quot; value=&quot;&quot;&gt;</code> 的 <code>&quot;value&quot;</code> 属性，可传入 SIMPLE、REUSE、BATCH 三个值，分别使用 SimpleExecutor、ReuseExecutor、BatchExecutor 执行器。</p>
-<p>通过设置 <code>&lt;setting name=&quot;cacheEnabled&quot; value=&quot;&quot;</code> 的 <code>&quot;value&quot;</code> 属性为 <code>true</code> 时，创建 CachingExecutor 执行器。</p>
-<hr>
-<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-1">《精尽 MyBatis 源码分析 —— SQL 执行（一）之 Executor》</a> 。</p>
-<h2 id="MyBatis-如何执行批量插入"><a href="#MyBatis-如何执行批量插入" class="headerlink" title="MyBatis 如何执行批量插入?"></a>MyBatis 如何执行批量插入?</h2><p>首先，在 Mapper XML 编写一个简单的 Insert 语句。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;insert id&#x3D;&quot;insertUser&quot; parameterType&#x3D;&quot;String&quot;&gt; <br>    INSERT INTO users(name) <br>    VALUES (#&#123;value&#125;) <br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
-
-<p>然后，然后在对应的 Mapper 接口中，编写映射的方法。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public interface UserMapper &#123;<br>    <br>    void insertUser(@Param(&quot;name&quot;) String name);<br><br>&#125;<br></code></pre></td></tr></table></figure>
-
-<p>最后，调用该 Mapper 接口方法。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">private static SqlSessionFactory sqlSessionFactory;<br><br>@Test<br>public void testBatch() &#123;<br>    &#x2F;&#x2F; 创建要插入的用户的名字的数组<br>    List&lt;String&gt; names &#x3D; new ArrayList&lt;&gt;();<br>    names.add(&quot;占小狼&quot;);<br>    names.add(&quot;朱小厮&quot;);<br>    names.add(&quot;徐妈&quot;);<br>    names.add(&quot;飞哥&quot;);<br><br>    &#x2F;&#x2F; 获得执行器类型为 Batch 的 SqlSession 对象，并且 autoCommit &#x3D; false ，禁止事务自动提交<br>    try (SqlSession session &#x3D; sqlSessionFactory.openSession(ExecutorType.BATCH, false)) &#123;<br>        &#x2F;&#x2F; 获得 Mapper 对象<br>        UserMapper mapper &#x3D; session.getMapper(UserMapper.class);<br>        &#x2F;&#x2F; 循环插入<br>        for (String name : names) &#123;<br>            mapper.insertUser(name);<br>        &#125;<br>        &#x2F;&#x2F; 提交批量操作<br>        session.commit();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
-
-<p>代码比较简单，胖友仔细看看。当然，还有另一种方式，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">INSERT INTO [表名]([列名],[列名]) <br>VALUES<br>([列值],[列值])),<br>([列值],[列值])),<br>([列值],[列值]));<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>对于这种方式，需要保证单条 SQL 不超过语句的最大限制 <code>max_allowed_packet</code> 大小，默认为 1 M 。</li>
-</ul>
-<p>这两种方式的性能对比，可以看看 [《<a href="https://www.jianshu.com/p/cce617be9f9e">实验]mybatis批量插入方式的比较》</a> 。</p>
-<h2 id="介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？"><a href="#介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？" class="headerlink" title="介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？"></a>介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？</h2><p>内容有些长，直接参见 <a href="https://tech.meituan.com/mybatis_cache.html">《聊聊 MyBatis 缓存机制》</a> 一文。</p>
-<hr>
-<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/cache-package">《精尽 MyBatis 源码分析 —— 缓存模块》</a> 。</p>
-<h2 id="Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？"><a href="#Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？" class="headerlink" title="Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？"></a>Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？</h2><p>Mybatis 仅支持 association 关联对象和 collection 关联集合对象的延迟加载。其中，association 指的就是<strong>一对一</strong>，collection 指的就是<strong>一对多查询</strong>。</p>
-<p>在 Mybatis 配置文件中，可以配置 <code>&lt;setting name=&quot;lazyLoadingEnabled&quot; value=&quot;true&quot; /&gt;</code> 来启用延迟加载的功能。默认情况下，延迟加载的功能是<strong>关闭</strong>的。</p>
-<hr>
-<p>它的原理是，使用 CGLIB 或 Javassist( 默认 ) 创建目标对象的代理对象。当调用代理对象的延迟加载属性的 getting 方法时，进入拦截器方法。比如调用 <code>a.getB().getName()</code> 方法，进入拦截器的 <code>invoke(...)</code> 方法，发现 <code>a.getB()</code> 需要延迟加载时，那么就会单独发送事先保存好的查询关联 B 对象的 SQL ，把 B 查询上来，然后调用<code>a.setB(b)</code> 方法，于是 <code>a</code> 对象 <code>b</code> 属性就有值了，接着完成<code>a.getB().getName()</code> 方法的调用。这就是延迟加载的基本原理。</p>
-<p>当然了，不光是 Mybatis，几乎所有的包括 Hibernate 在内，支持延迟加载的原理都是一样的。</p>
-<hr>
-<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-5">《 精尽 MyBatis 源码分析 —— SQL 执行（五）之延迟加载》</a> 文章。</p>
-<h2 id="Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"><a href="#Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。" class="headerlink" title="Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"></a>Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。</h2><blockquote>
-<p>艿艿：这道题有点难度。理解倒是好理解，主要那块源码的实现，艿艿看的有点懵逼。大体的意思是懂的，但是一些细节没扣完。</p>
-</blockquote>
-<p>能，Mybatis 不仅可以执行一对一、一对多的关联查询，还可以执行多对一，多对多的关联查询。</p>
-<blockquote>
-<p>艿艿：不过貌似，我自己实际开发中，还是比较喜欢自己去查询和拼接映射的数据。😈</p>
-</blockquote>
-<ul>
-<li>多对一查询，其实就是一对一查询，只需要把 <code>selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/xzm_rainbow/article/details/15336959">《MyBatis：多对一表关系详解》</a> 。</li>
-<li>多对多查询，其实就是一对多查询，只需要把 <code>#selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/eson_15/article/details/51655188">《【MyBatis学习10】高级映射之多对多查询》</a> 。</li>
-</ul>
-<hr>
-<p>关联对象查询，有两种实现方式：</p>
-<blockquote>
-<p>艿艿：所有的技术方案，即会有好处，又会有坏处。很难出现，一个完美的银弹方案。</p>
-</blockquote>
-<ul>
-<li>一种是单独发送一个 SQL 去查询关联对象，赋给主对象，然后返回主对象。好处是多条 SQL 分开，相对简单，坏处是发起的 SQL 可能会比较多。</li>
-<li>另一种是使用嵌套查询，嵌套查询的含义为使用 <code>join</code> 查询，一部分列是 A 对象的属性值，另外一部分列是关联对象 B 的属性值。好处是只发一个 SQL 查询，就可以把主对象和其关联对象查出来，坏处是 SQL 可能比较复杂。</li>
-</ul>
-<p>那么问题来了，<code>join</code> 查询出来 100 条记录，如何确定主对象是 5 个，而不是 100 个呢？其去重复的原理是 <code>&lt;resultMap&gt;</code> 标签内的<code>&lt;id&gt;</code> 子标签，指定了唯一确定一条记录的 <code>id</code> 列。Mybatis 会根据<code>&lt;id&gt;</code> 列值来完成 100 条记录的去重复功能，<code>&lt;id&gt;</code> 可以有多个，代表了联合主键的语意。</p>
-<p>同样主对象的关联对象，也是根据这个原理去重复的。尽管一般情况下，只有主对象会有重复记录，关联对象一般不会重复。例如：下面 <code>join</code> 查询出来6条记录，一、二列是 Teacher 对象列，第三列为 Student 对象列。Mybatis 去重复处理后，结果为 1 个老师和 6 个学生，而不是 6 个老师和 6 个学生。</p>
-<table>
-<thead>
-<tr>
-<th>t_id</th>
-<th>t_name</th>
-<th>s_id</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1</td>
-<td>teacher</td>
-<td>38</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>39</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>40</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>41</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>42</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>43</td>
-</tr>
-</tbody></table>
-<h2 id="简述-Mybatis-的插件运行原理？以及如何编写一个插件？"><a href="#简述-Mybatis-的插件运行原理？以及如何编写一个插件？" class="headerlink" title="简述 Mybatis 的插件运行原理？以及如何编写一个插件？"></a>简述 Mybatis 的插件运行原理？以及如何编写一个插件？</h2><p>Mybatis 仅可以编写针对 ParameterHandler、ResultSetHandler、StatementHandler、Executor 这 4 种接口的插件。</p>
-<p>Mybatis 使用 JDK 的动态代理，为需要拦截的接口生成代理对象以实现接口方法拦截功能，每当执行这 4 种接口对象的方法时，就会进入拦截方法，具体就是 InvocationHandler 的 <code>#invoke(...)</code>方法。当然，只会拦截那些你指定需要拦截的方法。</p>
-<hr>
-<p>编写一个 MyBatis 插件的步骤如下：</p>
-<ol>
-<li>首先，实现 Mybatis 的 Interceptor 接口，并实现 <code>#intercept(...)</code> 方法。</li>
-<li>然后，在给插件编写注解，指定要拦截哪一个接口的哪些方法即可</li>
-<li>最后，在配置文件中配置你编写的插件。</li>
-</ol>
-<p>具体的，可以参考 <a href="http://www.mybatis.org/mybatis-3/zh/configuration.html#plugins">《MyBatis 官方文档 —— 插件》</a> 。</p>
-<hr>
-<p>插件的详细解析，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-1">《精尽 MyBatis 源码分析 —— 插件体系（一）之原理》</a> 。</p>
-<h2 id="Mybatis-是如何进行分页的？分页插件的原理是什么？"><a href="#Mybatis-是如何进行分页的？分页插件的原理是什么？" class="headerlink" title="Mybatis 是如何进行分页的？分页插件的原理是什么？"></a>Mybatis 是如何进行分页的？分页插件的原理是什么？</h2><p>Mybatis 使用 RowBounds 对象进行分页，它是针对 ResultSet 结果集执行的<strong>内存分页</strong>，而非<strong>数据库分页</strong>。</p>
-<p>所以，实际场景下，不适合直接使用 MyBatis 原有的 RowBounds 对象进行分页。而是使用如下两种方案：</p>
-<ul>
-<li>在 SQL 内直接书写带有数据库分页的参数来完成数据库分页功能</li>
-<li>也可以使用分页插件来完成数据库分页。</li>
-</ul>
-<p>这两者都是基于数据库分页，差别在于前者是工程师<strong>手动</strong>编写分页条件，后者是插件<strong>自动</strong>添加分页条件。</p>
-<hr>
-<p>分页插件的基本原理是使用 Mybatis 提供的插件接口，实现自定义分页插件。在插件的拦截方法内，拦截待执行的 SQL ，然后重写 SQL ，根据dialect 方言，添加对应的物理分页语句和物理分页参数。</p>
-<p>举例：<code>SELECT * FROM student</code> ，拦截 SQL 后重写为：<code>select * FROM student LIMI 0，10</code> 。</p>
-<p>目前市面上目前使用比较广泛的 MyBatis 分页插件有：</p>
-<ul>
-<li><a href="https://github.com/pagehelper/Mybatis-PageHelper">Mybatis-PageHelper</a></li>
-<li><a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a></li>
-</ul>
-<p>从现在看来，<a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a> 逐步使用的更加广泛。</p>
-<p>关于 MyBatis 分页插件的原理深入，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-2">《精尽 MyBatis 源码分析 —— 插件体系（二）之 PageHelper》</a> 。</p>
-<h2 id="MyBatis-与-Hibernate-有哪些不同？"><a href="#MyBatis-与-Hibernate-有哪些不同？" class="headerlink" title="MyBatis 与 Hibernate 有哪些不同？"></a>MyBatis 与 Hibernate 有哪些不同？</h2><p>Mybatis 和 Hibernate 不同，它<strong>不完全是</strong>一个 ORM 框架，因为MyBatis 需要程序员自己编写 SQL 语句。不过 MyBatis 可以通过 XML 或注解方式灵活配置要运行的 SQL 语句，并将 Java 对象和 SQL 语句映射生成最终执行的 SQL ，最后将 SQL 执行的结果再映射生成 Java 对象。</p>
-<p>Mybatis 学习门槛低，简单易学，程序员直接编写原生态 SQL ，可严格控制 SQL 执行性能，灵活度高。但是灵活的前提是 MyBatis 无法做到数据库无关性，如果需要实现支持多种数据库的软件则需要自定义多套 SQL 映射文件，工作量大。</p>
-<p>Hibernate 对象/关系映射能力强，数据库无关性好。如果用 Hibernate 开发可以节省很多代码，提高效率。但是  Hibernate 的缺点是学习门槛高，要精通门槛更高，而且怎么设计 O/R 映射，在性能和对象模型之间如何权衡，以及怎样用好  Hibernate 需要具有很强的经验和能力才行。 </p>
-<p>总之，按照用户的需求在有限的资源环境下只要能做出维护性、扩展性良好的软件架构都是好架构，所以框架只有适合才是最好。简单总结如下：</p>
-<ul>
-<li>Hibernate 属于全自动 ORM 映射工具，使用 Hibernate 查询关联对象或者关联集合对象时，可以根据对象关系模型直接获取。</li>
-<li>Mybatis 属于半自动 ORM 映射工具，在查询关联对象或关联集合对象时，需要手动编写 SQL 来完成。</li>
-</ul>
-<p>另外，在 <a href="https://www.jianshu.com/p/96171e647885">《浅析 Mybatis 与 Hibernate 的区别与用途》</a> 文章，也是写的非常不错的。</p>
-<p>当然，实际上，MyBatis 也可以搭配自动生成代码的工具，提升开发效率，还可以使用 <a href="http://mp.baomidou.com/">MyBatis-Plus</a> 框架，已经内置常用的 SQL 操作，也是非常不错的。</p>
-<h2 id="JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？"><a href="#JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？" class="headerlink" title="JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？"></a>JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？</h2><p>问题一：SQL 语句写在代码中造成代码不易维护，且代码会比较混乱。</p>
-<p>解决方式：将 SQL 语句配置在 Mapper XML 文件中，与 Java 代码分离。</p>
-<hr>
-<p>问题二：根据参数不同，拼接不同的 SQL 语句非常麻烦。例如 SQL 语句的 WHERE 条件不一定，可能多也可能少，占位符需要和参数一一对应。 </p>
-<p>解决方式：MyBatis 提供 <code>&lt;where /&gt;</code>、<code>&lt;if /&gt;</code> 等等动态语句所需要的标签，并支持 OGNL 表达式，简化了动态 SQL 拼接的代码，提升了开发效率。</p>
-<hr>
-<p>问题三，对结果集解析麻烦，SQL 变化可能导致解析代码变化，且解析前需要遍历。</p>
-<p>解决方式：Mybatis 自动将 SQL 执行结果映射成 Java 对象。</p>
-<hr>
-<p>问题四，数据库链接创建、释放频繁造成系统资源浪费从而影响系统性能，如果使用数据库链接池可解决此问题。</p>
-<p>解决方式：在 <code>mybatis-config.xml</code> 中，配置数据链接池，使用连接池管理数据库链接。</p>
-<p>😈 当然，即使不使用 MyBatis ，也可以使用数据库连接池。<br>另外，MyBatis 默认提供了数据库连接池的实现，只是说，因为其它开源的数据库连接池性能更好，所以一般很少使用 MyBatis 自带的连接池实现。</p>
-<h2 id="Mybatis-比-IBatis-比较大的几个改进是什么？"><a href="#Mybatis-比-IBatis-比较大的几个改进是什么？" class="headerlink" title="Mybatis 比 IBatis 比较大的几个改进是什么？"></a>Mybatis 比 IBatis 比较大的几个改进是什么？</h2><blockquote>
-<p>这是一个选择性了解的问题，因为可能现在很多面试官，都没用过 IBatis 框架。</p>
-</blockquote>
-<ol>
-<li>有接口绑定，包括注解绑定 SQL 和 XML 绑定 SQL 。</li>
-<li>动态 SQL 由原来的节点配置变成 OGNL 表达式。</li>
-<li>在一对一或一对多的时候，引进了 <code>association</code> ，在一对多的时候，引入了 <code>collection</code>节点，不过都是在 <code>&lt;resultMap /&gt;</code> 里面配置。</li>
-</ol>
-<h2 id="Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？"><a href="#Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？" class="headerlink" title="Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？"></a>Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？</h2><blockquote>
-<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
-</blockquote>
-<p>虽然 Mybatis 解析 XML 映射文件是<strong>按照顺序</strong>解析的。但是，被引用的 B 标签依然可以定义在任何地方，Mybatis 都可以正确识别。<strong>也就是说，无需按照顺序，进行定义</strong>。</p>
-<p>原理是，Mybatis 解析 A 标签，发现 A 标签引用了 B 标签，但是 B 标签尚未解析到，尚不存在，此时，Mybatis 会将 A 标签标记为<strong>未解析状态</strong>。然后，继续解析余下的标签，包含 B 标签，待所有标签解析完毕，Mybatis 会重新解析那些被标记为未解析的标签，此时再解析A标签时，B 标签已经存在，A 标签也就可以正常解析完成了。</p>
-<p>可能有一些绕，胖友可以看看 <a href="http://svip.iocoder.cn/MyBatis/builder-package-1">《精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config》</a> 。</p>
-<p>此处，我们在引申一个问题，Spring IOC 中，存在互相依赖的 Bean 对象，该如何解决呢？答案见 <a href="http://svip.iocoder.cn/Spring/IoC-get-Bean-createBean-5/">《【死磕 Spring】—— IoC 之加载 Bean：创建 Bean（五）之循环依赖处理》</a> 。</p>
-<h2 id="简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？"><a href="#简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？" class="headerlink" title="简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？"></a>简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？</h2><blockquote>
-<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
-</blockquote>
-<p>Mybatis 将所有 XML 配置信息都封装到 All-In-One 重量级对象Configuration内部。</p>
-<p>在 XML Mapper 文件中：</p>
-<ul>
-<li><code>&lt;parameterMap&gt;</code> 标签，会被解析为 ParameterMap 对象，其每个子元素会被解析为 ParameterMapping 对象。</li>
-<li><code>&lt;resultMap&gt;</code> 标签，会被解析为 ResultMap 对象，其每个子元素会被解析为 ResultMapping 对象。</li>
-<li>每一个 <code>&lt;select&gt;</code>、<code>&lt;insert&gt;</code>、<code>&lt;update&gt;</code>、<code>&lt;delete&gt;</code> 标签，均会被解析为一个 MappedStatement 对象，标签内的 SQL 会被解析为一个 BoundSql 对象。</li>
-</ul>
-<h2 id="666-彩蛋"><a href="#666-彩蛋" class="headerlink" title="666. 彩蛋"></a>666. 彩蛋</h2><p>参考与推荐如下文章：</p>
-<ul>
-<li>祖大俊 <a href="https://my.oschina.net/zudajun/blog/747682">《Mybatis3.4.x技术内幕（二十三）：Mybatis面试问题集锦（大结局）》</a></li>
-<li>Java3y <a href="https://segmentfault.com/a/1190000013678579">《Mybatis 常见面试题》</a></li>
-<li>Homiss <a href="https://github.com/Homiss/Java-interview-questions/blob/master/%E6%A1%86%E6%9E%B6/MyBatis%E9%9D%A2%E8%AF%95%E9%A2%98.md">《MyBatis 面试题》</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>MyBatis</category>
-        <category>面试</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-        <tag>MyBatis</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>精尽 Spring Boot 面试题</title>
     <url>/2016/10/12/%E7%B2%BE%E5%B0%BD%20Spring%20Boot%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
     <content><![CDATA[<h1 id="精尽-Spring-Boot-面试题"><a href="#精尽-Spring-Boot-面试题" class="headerlink" title="精尽 Spring Boot 面试题"></a>精尽 Spring Boot 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
@@ -2489,6 +2104,1202 @@
       </tags>
   </entry>
   <entry>
+    <title>MyBatis 面试题</title>
+    <url>/2016/10/12/%E7%B2%BE%E5%B0%BD%20MyBatis%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
+    <content><![CDATA[<h1 id="精尽-MyBatis-面试题"><a href="#精尽-MyBatis-面试题" class="headerlink" title="精尽 MyBatis 面试题"></a>精尽 MyBatis 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
+<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 MyBatis 面试题的大保健。</p>
+<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
+<h2 id="MyBatis-编程步骤"><a href="#MyBatis-编程步骤" class="headerlink" title="MyBatis 编程步骤"></a>MyBatis 编程步骤</h2><ol>
+<li>创建 SqlSessionFactory 对象。</li>
+<li>通过 SqlSessionFactory 获取 SqlSession 对象。</li>
+<li>通过 SqlSession 获得 Mapper 代理对象。</li>
+<li>通过 Mapper 代理对象，执行数据库操作。</li>
+<li>执行成功，则使用 SqlSession 提交事务。</li>
+<li>执行失败，则使用 SqlSession 回滚事务。</li>
+<li>最终，关闭会话。</li>
+</ol>
+<h2 id="和-的区别是什么？"><a href="#和-的区别是什么？" class="headerlink" title="#{} 和 ${} 的区别是什么？"></a><code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的区别是什么？</h2><p><code>$&#123;&#125;</code> 是 Properties 文件中的变量占位符，它可以用于 XML 标签属性值和 SQL 内部，属于<strong>字符串替换</strong>。例如将 <code>$&#123;driver&#125;</code> 会被静态替换为 <code>com.mysql.jdbc.Driver</code> ：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;dataSource type&#x3D;&quot;UNPOOLED&quot;&gt;<br>    &lt;property name&#x3D;&quot;driver&quot; value&#x3D;&quot;$&#123;driver&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;url&quot; value&#x3D;&quot;$&#123;url&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;username&quot; value&#x3D;&quot;$&#123;username&#125;&quot;&#x2F;&gt;<br>&lt;&#x2F;dataSource&gt;<br></code></pre></td></tr></table></figure>
+
+<p><code>$&#123;&#125;</code> 也可以对传递进来的参数<strong>原样拼接</strong>在 SQL 中。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;getSubject3&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Subject&quot;&gt;<br>    SELECT * FROM subject<br>    WHERE id &#x3D; $&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>实际场景下，不推荐这么做。因为，可能有 SQL 注入的风险。</li>
+</ul>
+<hr>
+<p><code>#&#123;&#125;</code> 是 SQL 的参数占位符，Mybatis 会将 SQL 中的 <code>#&#123;&#125;</code> 替换为 <code>?</code> 号，在 SQL 执行前会使用 PreparedStatement 的参数设置方法，按序给 SQL 的 <code>?</code> 号占位符设置参数值，比如 <code>ps.setInt(0, parameterValue)</code> 。 所以，<code>#&#123;&#125;</code> 是<strong>预编译处理</strong>，可以有效防止 SQL 注入，提高系统安全性。</p>
+<hr>
+<p>另外，<code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的取值方式非常方便。例如：<code>#&#123;item.name&#125;</code> 的取值方式，为使用反射从参数对象中，获取 <code>item</code> 对象的 <code>name</code> 属性值，相当于 <code>param.getItem().getName()</code> 。</p>
+<h2 id="当实体类中的属性名和表中的字段名不一样-，怎么办？"><a href="#当实体类中的属性名和表中的字段名不一样-，怎么办？" class="headerlink" title="当实体类中的属性名和表中的字段名不一样 ，怎么办？"></a>当实体类中的属性名和表中的字段名不一样 ，怎么办？</h2><p>第一种， 通过在查询的 SQL 语句中定义字段名的别名，让字段名的别名和实体类的属性名一致。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;selectOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Order&quot;&gt; <br>    SELECT order_id AS id, order_no AS orderno, order_price AS price <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>这里，艿艿还有几点建议：<ul>
+<li>1、数据库的关键字，统一使用大写，例如：<code>SELECT</code>、<code>AS</code>、<code>FROM</code>、<code>WHERE</code> 。</li>
+<li>2、每 5 个查询字段换一行，保持整齐。</li>
+<li>3、<code>,</code> 的后面，和 <code>=</code> 的前后，需要有空格，更加清晰。</li>
+<li>4、<code>SELECT</code>、<code>FROM</code>、<code>WHERE</code> 等，单独一行，高端大气。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>第二种，是第一种的特殊情况。大多数场景下，数据库字段名和实体类中的属性名差，主要是前者为<strong>下划线风格</strong>，后者为<strong>驼峰风格</strong>。在这种情况下，可以直接配置如下，实现自动的下划线转驼峰的功能。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;setting name&#x3D;&quot;logImpl&quot; value&#x3D;&quot;LOG4J&quot;&#x2F;&gt;<br>    &lt;setting name&#x3D;&quot;mapUnderscoreToCamelCase&quot; value&#x3D;&quot;true&quot; &#x2F;&gt;<br>&lt;&#x2F;settings&gt;<br></code></pre></td></tr></table></figure>
+
+<p>😈 也就说，约定大于配置。非常推荐！</p>
+<hr>
+<p>第三种，通过 <code>&lt;resultMap&gt;</code> 来映射字段名和实体类属性名的一一对应的关系。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;resultMap type&#x3D;&quot;me.gacl.domain.Order&quot; id&#x3D;”OrderResultMap”&gt; <br>    &lt;!–- 用 id 属性来映射主键字段 -–&gt; <br>    &lt;id property&#x3D;&quot;id&quot; column&#x3D;&quot;order_id&quot;&gt; <br>    &lt;!–- 用 result 属性来映射非主键字段，property 为实体类属性名，column 为数据表中的属性 -–&gt; <br>    &lt;result property&#x3D;&quot;orderNo&quot; column &#x3D;&quot;order_no&quot; &#x2F;&gt; <br>    &lt;result property&#x3D;&quot;price&quot; column&#x3D;&quot;order_price&quot; &#x2F;&gt; <br>&lt;&#x2F;resultMap&gt;<br><br>&lt;select id&#x3D;&quot;getOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultMap&#x3D;&quot;OrderResultMap&quot;&gt;<br>    SELECT * <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>此处 <code>SELECT *</code> 仅仅作为示例只用，实际场景下，千万千万千万不要这么干。用多少字段，查询多少字段。</li>
+<li>相比第一种，第三种的<strong>重用性</strong>会一些。</li>
+</ul>
+<h2 id="XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？"><a href="#XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？" class="headerlink" title="XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？"></a>XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？</h2><p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html">《MyBatis 文档 —— Mapper XML 文件》</a> ：</p>
+<ul>
+<li><pre><code>&lt;cache /&gt;
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   标签，给定命名空间的缓存配置。<br><br>  - &#96;&lt;cache-ref &#x2F;&gt;&#96; 标签，其他命名空间缓存配置的引用。<br><br>- &#96;&lt;resultMap &#x2F;&gt;&#96; 标签，是最复杂也是最强大的元素，用来描述如何从数据库结果集中来加载对象。<br><br>- ~~&#96;&#96; 标签，已废弃！老式风格的参数映射。内联参数是首选,这个元素可能在将来被移除，这里不会记录。~~<br><br>- &#96;&#96;&#96;<br>  &lt;sql &#x2F;&gt;<br></code></pre></td></tr></table></figure>
+
+ 标签，可被其他语句引用的可重用语句块。
+
+- `&lt;include /&gt;` 标签，引用 `&lt;sql /&gt;` 标签的语句。</code></pre>
+</li>
+<li><p><code>&lt;selectKey /&gt;</code> 标签，不支持自增的主键生成策略标签。</p>
+</li>
+</ul>
+<p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> ：</p>
+<ul>
+<li><code>&lt;if /&gt;</code></li>
+<li><code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code></li>
+<li><code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code></li>
+<li><code>&lt;foreach /&gt;</code></li>
+<li><code>&lt;bind /&gt;</code></li>
+</ul>
+<h2 id="Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？"><a href="#Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？" class="headerlink" title="Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？"></a>Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？</h2><ul>
+<li>Mybatis 动态 SQL ，可以让我们在 XML 映射文件内，以 XML 标签的形式编写动态 SQL ，完成逻辑判断和动态拼接 SQL 的功能。</li>
+<li>Mybatis 提供了 9 种动态 SQL 标签：<code>&lt;if /&gt;</code>、<code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code>、<code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code>、<code>&lt;foreach /&gt;</code>、<code>&lt;bind /&gt;</code> 。</li>
+<li>其执行原理为，使用 <strong>OGNL</strong> 的表达式，从 SQL 参数对象中计算表达式的值，根据表达式的值动态拼接 SQL ，以此来完成动态 SQL 的功能。</li>
+</ul>
+<p>如上的内容，更加详细的话，请看 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> 文档。</p>
+<h2 id="最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？"><a href="#最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？" class="headerlink" title="最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？"></a>最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？</h2><p>Mapper 接口，对应的关系如下：</p>
+<ul>
+<li>接口的全限名，就是映射文件中的 <code>&quot;namespace&quot;</code> 的值。</li>
+<li>接口的方法名，就是映射文件中 MappedStatement 的 <code>&quot;id&quot;</code> 值。</li>
+<li>接口方法内的参数，就是传递给 SQL 的参数。</li>
+</ul>
+<p>Mapper 接口是没有实现类的，当调用接口方法时，接口全限名 + 方法名拼接字符串作为 key 值，可唯一定位一个对应的 MappedStatement 。举例：<code>com.mybatis3.mappers.StudentDao.findStudentById</code> ，可以唯一找到 <code>&quot;namespace&quot;</code> 为 <code>com.mybatis3.mappers.StudentDao</code> 下面 <code>&quot;id&quot;</code> 为 <code>findStudentById</code> 的 MappedStatement 。</p>
+<p>总结来说，在 Mybatis 中，每一个 <code>&lt;select /&gt;</code>、<code>&lt;insert /&gt;</code>、<code>&lt;update /&gt;</code>、<code>&lt;delete /&gt;</code> 标签，都会被解析为一个 MappedStatement 对象。</p>
+<p>另外，Mapper 接口的实现类，通过 MyBatis 使用 <strong>JDK Proxy</strong> 自动生成其代理对象 Proxy ，而代理对象 Proxy 会拦截接口方法，从而“调用”对应的 MappedStatement 方法，最终执行 SQL ，返回执行结果。整体流程如下图：<a href="http://static2.iocoder.cn/images/MyBatis/2020_03_15/02.png"><img src="http://cdn.tuwenbin.vip/02.png" alt="流程"></a>流程</p>
+<ul>
+<li><p>其中，SqlSession 在调用 Executor 之前，会获得对应的 MappedStatement 方法。例如：<code>DefaultSqlSession#select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler)</code> 方法，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; DefaultSqlSession.java<br><br>@Override<br>public void select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler) &#123;<br>    try &#123;<br>        &#x2F;&#x2F; 获得 MappedStatement 对象<br>        MappedStatement ms &#x3D; configuration.getMappedStatement(statement);<br>        &#x2F;&#x2F; 执行查询<br>        executor.query(ms, wrapCollection(parameter), rowBounds, handler);<br>    &#125; catch (Exception e) &#123;<br>        throw ExceptionFactory.wrapException(&quot;Error querying database.  Cause: &quot; + e, e);<br>    &#125; finally &#123;<br>        ErrorContext.instance().reset();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>完整的流程，胖友可以慢慢撸下 MyBatis 的源码。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Mapper 接口里的方法，是不能重载的，因为是<strong>全限名 + 方法名</strong>的保存和寻找策略。😈 所以有时，想个 Mapper 接口里的方法名，还是蛮闹心的，嘿嘿。</p>
+<h2 id="Mapper-接口绑定有几种实现方式-分别是怎么实现的"><a href="#Mapper-接口绑定有几种实现方式-分别是怎么实现的" class="headerlink" title="Mapper 接口绑定有几种实现方式,分别是怎么实现的?"></a>Mapper 接口绑定有几种实现方式,分别是怎么实现的?</h2><p>接口绑定有三种实现方式：</p>
+<p>第一种，通过 <strong>XML Mapper</strong> 里面写 SQL 来绑定。在这种情况下，要指定 XML 映射文件里面的 <code>&quot;namespace&quot;</code> 必须为接口的全路径名。</p>
+<p>第二种，通过<strong>注解</strong>绑定，就是在接口的方法上面加上 <code>@Select</code>、<code>@Update</code>、<code>@Insert</code>、<code>@Delete</code> 注解，里面包含 SQL 语句来绑定。</p>
+<p>第三种，是第二种的特例，也是通过<strong>注解</strong>绑定，在接口的方法上面加上 <code>@SelectProvider</code>、<code>@UpdateProvider</code>、<code>@InsertProvider</code>、<code>@DeleteProvider</code> 注解，通过 Java 代码，生成对应的动态 SQL 。</p>
+<hr>
+<p>实际场景下，最最最推荐的是<strong>第一种</strong>方式。因为，SQL 通过注解写在 Java 代码中，会非常杂乱。而写在 XML 中，更加有整体性，并且可以更加方便的使用 OGNL 表达式。</p>
+<h2 id="Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？"><a href="#Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？" class="headerlink" title="Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？"></a>Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？</h2><p>不同的 XML Mapper 文件，如果配置了 <code>&quot;namespace&quot;</code> ，那么 id 可以重复；如果没有配置 <code>&quot;namespace&quot;</code> ，那么 id 不能重复。毕竟<code>&quot;namespace&quot;</code> 不是必须的，只是最佳实践而已。</p>
+<p>原因就是，<code>namespace + id</code> 是作为 <code>Map&lt;String, MappedStatement&gt;</code> 的 key 使用的。如果没有 <code>&quot;namespace&quot;</code>，就剩下 id ，那么 id 重复会导致数据互相覆盖。如果有了 <code>&quot;namespace&quot;</code>，自然 id 就可以重复，<code>&quot;namespace&quot;</code>不同，<code>namespace + id</code> 自然也就不同。</p>
+<h2 id="如何获取自动生成的-主-键值"><a href="#如何获取自动生成的-主-键值" class="headerlink" title="如何获取自动生成的(主)键值?"></a>如何获取自动生成的(主)键值?</h2><p>不同的数据库，获取自动生成的(主)键值的方式是不同的。</p>
+<p>MySQL 有两种方式，但是<strong>自增主键</strong>，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 方式一，使用 useGeneratedKeys + keyProperty 属性<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot; useGeneratedKeys&#x3D;&quot;true&quot; keyProperty&#x3D;&quot;id&quot;&gt;<br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br>    <br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot;&gt;<br>    &lt;selectKey keyProperty&#x3D;&quot;id&quot; resultType&#x3D;&quot;long&quot; order&#x3D;&quot;AFTER&quot;&gt;<br>        SELECT LAST_INSERT_ID()<br>    &lt;&#x2F;selectKey&gt;<br>        <br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>其中，<strong>方式一</strong>较为常用。</li>
+</ul>
+<hr>
+<p>Oracle 有两种方式，<strong>序列</strong>和<strong>触发器</strong>。因为艿艿自己不了解 Oracle ，所以问了银行的朋友，他们是使用<strong>序列</strong>。而基于<strong>序列</strong>，根据 <code>&lt;selectKey /&gt;</code> 执行的时机，也有两种方式，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 这个是创建表的自增序列<br>CREATE SEQUENCE student_sequence<br>INCREMENT BY 1<br>NOMAXVALUE<br>NOCYCLE<br>CACHE 10;<br><br>&#x2F;&#x2F; 方式一，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + BEFORE<br>&lt;insert id&#x3D;&quot;add&quot; parameterType&#x3D;&quot;Student&quot;&gt;<br>　　&lt;selectKey keyProperty&#x3D;&quot;student_id&quot; resultType&#x3D;&quot;int&quot; order&#x3D;&quot;BEFORE&quot;&gt;<br>      select student_sequence.nextval FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>     INSERT INTO student(student_id, student_name, student_age)<br>     VALUES (#&#123;student_id&#125;,#&#123;student_name&#125;,#&#123;student_age&#125;)<br>&lt;&#x2F;insert&gt;<br><br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + AFTER<br>&lt;insert id&#x3D;&quot;save&quot; parameterType&#x3D;&quot;com.threeti.to.ZoneTO&quot; &gt;<br>    &lt;selectKey resultType&#x3D;&quot;java.lang.Long&quot; keyProperty&#x3D;&quot;id&quot; order&#x3D;&quot;AFTER&quot; &gt;<br>      SELECT SEQ_ZONE.CURRVAL AS id FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>    INSERT INTO TBL_ZONE (ID, NAME ) <br>    VALUES (SEQ_ZONE.NEXTVAL, #&#123;name,jdbcType&#x3D;VARCHAR&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>他们使用第一种方式，没有具体原因，可能就没什么讲究吧。嘿嘿。</li>
+</ul>
+<p>至于为什么不用<strong>触发器</strong>呢？朋友描述如下：</p>
+<blockquote>
+<p>朋友：触发器不行啊，我们这边原来也有触发器，一有数据更改就会有问题了呀<br>艿艿：数据更改指的是？<br>朋友：就改线上某几条数据<br>艿艿：噢噢。手动改是吧？<br>朋友：不行~</p>
+</blockquote>
+<hr>
+<p>当然，数据库还有 SQLServer、PostgreSQL、DB2、H2 等等，具体的方式，胖友自己 Google 下噢。</p>
+<p>关于如何获取自动生成的(主)键值的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/executor-3/">《精尽 MyBatis 源码分析 —— SQL 执行（三）之 KeyGenerator》</a> 。</p>
+<h2 id="Mybatis-执行批量插入，能返回数据库主键列表吗？"><a href="#Mybatis-执行批量插入，能返回数据库主键列表吗？" class="headerlink" title="Mybatis 执行批量插入，能返回数据库主键列表吗？"></a>Mybatis 执行批量插入，能返回数据库主键列表吗？</h2><p>能，JDBC 都能做，Mybatis 当然也能做。</p>
+<h2 id="在-Mapper-中如何传递多个参数"><a href="#在-Mapper-中如何传递多个参数" class="headerlink" title="在 Mapper 中如何传递多个参数?"></a>在 Mapper 中如何传递多个参数?</h2><p>第一种，使用 Map 集合，装载多个参数进行传递。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>Map&lt;String, Object&gt; map &#x3D; new HashMap();<br>map.put(&quot;start&quot;, start);<br>map.put(&quot;end&quot;, end);<br>return studentMapper.selectStudents(map);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Map&lt;String, Object&gt; map);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; parameterType&#x3D;&quot;Map&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>显然，这不是一种优雅的方式。</li>
+</ul>
+<hr>
+<p>第二种，保持传递多个参数，使用 <code>@Param</code> 注解。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(@Param(&quot;start&quot;) Integer start, @Param(&quot;end&quot;) Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>推荐使用这种方式。</li>
+</ul>
+<hr>
+<p>第三种，保持传递多个参数，不使用 <code>@Param</code> 注解。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Integer start, Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;param1&#125;, #&#123;param2&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>其中，按照参数在方法方法中的位置，从 1 开始，逐个为 <code>#&#123;param1&#125;</code>、<code>#&#123;param2&#125;</code>、<code>#&#123;param3&#125;</code> 不断向下。</li>
+</ul>
+<h2 id="Mybatis-是否可以映射-Enum-枚举类？"><a href="#Mybatis-是否可以映射-Enum-枚举类？" class="headerlink" title="Mybatis 是否可以映射 Enum 枚举类？"></a>Mybatis 是否可以映射 Enum 枚举类？</h2><p>Mybatis 可以映射枚举类，对应的实现类为 EnumTypeHandler 或 EnumOrdinalTypeHandler 。</p>
+<ul>
+<li>EnumTypeHandler ，基于 <code>Enum.name</code> 属性( String )。<strong>默认</strong>。</li>
+<li>EnumOrdinalTypeHandler ，基于 <code>Enum.ordinal</code> 属性( <code>int</code> )。可通过 <code>&lt;setting name=&quot;defaultEnumTypeHandler&quot; value=&quot;EnumOrdinalTypeHandler&quot; /&gt;</code> 来设置。</li>
+</ul>
+<p>😈 当然，实际开发场景，我们很少使用 Enum 类型，更加的方式是，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public class Dog &#123;<br><br>    public static final int STATUS_GOOD &#x3D; 1;<br>    public static final int STATUS_BETTER &#x3D; 2;<br>    public static final int STATUS_BEST &#x3D; 3；<br>    <br>    private int status;<br>    <br>&#125;<br></code></pre></td></tr></table></figure>
+
+<hr>
+<p>并且，不单可以映射枚举类，Mybatis 可以映射任何对象到表的一列上。映射方式为自定义一个 TypeHandler 类，实现 TypeHandler 的<code>#setParameter(...)</code> 和 <code>#getResult(...)</code> 接口方法。</p>
+<p>TypeHandler 有两个作用：</p>
+<ul>
+<li>一是，完成从 javaType 至 jdbcType 的转换。</li>
+<li>二是，完成 jdbcType 至 javaType 的转换。</li>
+</ul>
+<p>具体体现为 <code>#setParameter(...)</code> 和 <code>#getResult(..)</code> 两个方法，分别代表设置 SQL 问号占位符参数和获取列查询结果。</p>
+<p>关于 TypeHandler 的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/type-package/">《精尽 MyBatis 源码分析 —— 类型模块》</a> 。</p>
+<h2 id="Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？"><a href="#Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？" class="headerlink" title="Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？"></a>Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？</h2><p>Mybatis 有四种 Executor 执行器，分别是 SimpleExecutor、ReuseExecutor、BatchExecutor、CachingExecutor 。</p>
+<ul>
+<li>SimpleExecutor ：每执行一次 update 或 select 操作，就创建一个 Statement 对象，用完立刻关闭 Statement 对象。</li>
+<li>ReuseExecutor ：执行 update 或 select 操作，以 SQL 作为key 查找<strong>缓存</strong>的 Statement 对象，存在就使用，不存在就创建；用完后，不关闭 Statement 对象，而是放置于缓存 <code>Map&lt;String, Statement&gt;</code> 内，供下一次使用。简言之，就是重复使用 Statement 对象。</li>
+<li>BatchExecutor ：执行 update 操作（没有 select 操作，因为 JDBC 批处理不支持 select  操作），将所有 SQL 都添加到批处理中（通过 addBatch 方法），等待统一执行（使用 executeBatch 方法）。它缓存了多个  Statement 对象，每个 Statement 对象都是调用 addBatch 方法完毕后，等待一次执行 executeBatch 批处理。<strong>实际上，整个过程与 JDBC 批处理是相同</strong>。</li>
+<li>CachingExecutor ：在上述的三个执行器之上，增加<strong>二级缓存</strong>的功能。</li>
+</ul>
+<hr>
+<p>通过设置 <code>&lt;setting name=&quot;defaultExecutorType&quot; value=&quot;&quot;&gt;</code> 的 <code>&quot;value&quot;</code> 属性，可传入 SIMPLE、REUSE、BATCH 三个值，分别使用 SimpleExecutor、ReuseExecutor、BatchExecutor 执行器。</p>
+<p>通过设置 <code>&lt;setting name=&quot;cacheEnabled&quot; value=&quot;&quot;</code> 的 <code>&quot;value&quot;</code> 属性为 <code>true</code> 时，创建 CachingExecutor 执行器。</p>
+<hr>
+<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-1">《精尽 MyBatis 源码分析 —— SQL 执行（一）之 Executor》</a> 。</p>
+<h2 id="MyBatis-如何执行批量插入"><a href="#MyBatis-如何执行批量插入" class="headerlink" title="MyBatis 如何执行批量插入?"></a>MyBatis 如何执行批量插入?</h2><p>首先，在 Mapper XML 编写一个简单的 Insert 语句。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;insert id&#x3D;&quot;insertUser&quot; parameterType&#x3D;&quot;String&quot;&gt; <br>    INSERT INTO users(name) <br>    VALUES (#&#123;value&#125;) <br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
+
+<p>然后，然后在对应的 Mapper 接口中，编写映射的方法。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public interface UserMapper &#123;<br>    <br>    void insertUser(@Param(&quot;name&quot;) String name);<br><br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>最后，调用该 Mapper 接口方法。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">private static SqlSessionFactory sqlSessionFactory;<br><br>@Test<br>public void testBatch() &#123;<br>    &#x2F;&#x2F; 创建要插入的用户的名字的数组<br>    List&lt;String&gt; names &#x3D; new ArrayList&lt;&gt;();<br>    names.add(&quot;占小狼&quot;);<br>    names.add(&quot;朱小厮&quot;);<br>    names.add(&quot;徐妈&quot;);<br>    names.add(&quot;飞哥&quot;);<br><br>    &#x2F;&#x2F; 获得执行器类型为 Batch 的 SqlSession 对象，并且 autoCommit &#x3D; false ，禁止事务自动提交<br>    try (SqlSession session &#x3D; sqlSessionFactory.openSession(ExecutorType.BATCH, false)) &#123;<br>        &#x2F;&#x2F; 获得 Mapper 对象<br>        UserMapper mapper &#x3D; session.getMapper(UserMapper.class);<br>        &#x2F;&#x2F; 循环插入<br>        for (String name : names) &#123;<br>            mapper.insertUser(name);<br>        &#125;<br>        &#x2F;&#x2F; 提交批量操作<br>        session.commit();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>代码比较简单，胖友仔细看看。当然，还有另一种方式，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">INSERT INTO [表名]([列名],[列名]) <br>VALUES<br>([列值],[列值])),<br>([列值],[列值])),<br>([列值],[列值]));<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>对于这种方式，需要保证单条 SQL 不超过语句的最大限制 <code>max_allowed_packet</code> 大小，默认为 1 M 。</li>
+</ul>
+<p>这两种方式的性能对比，可以看看 [《<a href="https://www.jianshu.com/p/cce617be9f9e">实验]mybatis批量插入方式的比较》</a> 。</p>
+<h2 id="介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？"><a href="#介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？" class="headerlink" title="介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？"></a>介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？</h2><p>内容有些长，直接参见 <a href="https://tech.meituan.com/mybatis_cache.html">《聊聊 MyBatis 缓存机制》</a> 一文。</p>
+<hr>
+<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/cache-package">《精尽 MyBatis 源码分析 —— 缓存模块》</a> 。</p>
+<h2 id="Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？"><a href="#Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？" class="headerlink" title="Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？"></a>Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？</h2><p>Mybatis 仅支持 association 关联对象和 collection 关联集合对象的延迟加载。其中，association 指的就是<strong>一对一</strong>，collection 指的就是<strong>一对多查询</strong>。</p>
+<p>在 Mybatis 配置文件中，可以配置 <code>&lt;setting name=&quot;lazyLoadingEnabled&quot; value=&quot;true&quot; /&gt;</code> 来启用延迟加载的功能。默认情况下，延迟加载的功能是<strong>关闭</strong>的。</p>
+<hr>
+<p>它的原理是，使用 CGLIB 或 Javassist( 默认 ) 创建目标对象的代理对象。当调用代理对象的延迟加载属性的 getting 方法时，进入拦截器方法。比如调用 <code>a.getB().getName()</code> 方法，进入拦截器的 <code>invoke(...)</code> 方法，发现 <code>a.getB()</code> 需要延迟加载时，那么就会单独发送事先保存好的查询关联 B 对象的 SQL ，把 B 查询上来，然后调用<code>a.setB(b)</code> 方法，于是 <code>a</code> 对象 <code>b</code> 属性就有值了，接着完成<code>a.getB().getName()</code> 方法的调用。这就是延迟加载的基本原理。</p>
+<p>当然了，不光是 Mybatis，几乎所有的包括 Hibernate 在内，支持延迟加载的原理都是一样的。</p>
+<hr>
+<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-5">《 精尽 MyBatis 源码分析 —— SQL 执行（五）之延迟加载》</a> 文章。</p>
+<h2 id="Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"><a href="#Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。" class="headerlink" title="Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"></a>Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。</h2><blockquote>
+<p>艿艿：这道题有点难度。理解倒是好理解，主要那块源码的实现，艿艿看的有点懵逼。大体的意思是懂的，但是一些细节没扣完。</p>
+</blockquote>
+<p>能，Mybatis 不仅可以执行一对一、一对多的关联查询，还可以执行多对一，多对多的关联查询。</p>
+<blockquote>
+<p>艿艿：不过貌似，我自己实际开发中，还是比较喜欢自己去查询和拼接映射的数据。😈</p>
+</blockquote>
+<ul>
+<li>多对一查询，其实就是一对一查询，只需要把 <code>selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/xzm_rainbow/article/details/15336959">《MyBatis：多对一表关系详解》</a> 。</li>
+<li>多对多查询，其实就是一对多查询，只需要把 <code>#selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/eson_15/article/details/51655188">《【MyBatis学习10】高级映射之多对多查询》</a> 。</li>
+</ul>
+<hr>
+<p>关联对象查询，有两种实现方式：</p>
+<blockquote>
+<p>艿艿：所有的技术方案，即会有好处，又会有坏处。很难出现，一个完美的银弹方案。</p>
+</blockquote>
+<ul>
+<li>一种是单独发送一个 SQL 去查询关联对象，赋给主对象，然后返回主对象。好处是多条 SQL 分开，相对简单，坏处是发起的 SQL 可能会比较多。</li>
+<li>另一种是使用嵌套查询，嵌套查询的含义为使用 <code>join</code> 查询，一部分列是 A 对象的属性值，另外一部分列是关联对象 B 的属性值。好处是只发一个 SQL 查询，就可以把主对象和其关联对象查出来，坏处是 SQL 可能比较复杂。</li>
+</ul>
+<p>那么问题来了，<code>join</code> 查询出来 100 条记录，如何确定主对象是 5 个，而不是 100 个呢？其去重复的原理是 <code>&lt;resultMap&gt;</code> 标签内的<code>&lt;id&gt;</code> 子标签，指定了唯一确定一条记录的 <code>id</code> 列。Mybatis 会根据<code>&lt;id&gt;</code> 列值来完成 100 条记录的去重复功能，<code>&lt;id&gt;</code> 可以有多个，代表了联合主键的语意。</p>
+<p>同样主对象的关联对象，也是根据这个原理去重复的。尽管一般情况下，只有主对象会有重复记录，关联对象一般不会重复。例如：下面 <code>join</code> 查询出来6条记录，一、二列是 Teacher 对象列，第三列为 Student 对象列。Mybatis 去重复处理后，结果为 1 个老师和 6 个学生，而不是 6 个老师和 6 个学生。</p>
+<table>
+<thead>
+<tr>
+<th>t_id</th>
+<th>t_name</th>
+<th>s_id</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>teacher</td>
+<td>38</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>39</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>40</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>41</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>42</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>43</td>
+</tr>
+</tbody></table>
+<h2 id="简述-Mybatis-的插件运行原理？以及如何编写一个插件？"><a href="#简述-Mybatis-的插件运行原理？以及如何编写一个插件？" class="headerlink" title="简述 Mybatis 的插件运行原理？以及如何编写一个插件？"></a>简述 Mybatis 的插件运行原理？以及如何编写一个插件？</h2><p>Mybatis 仅可以编写针对 ParameterHandler、ResultSetHandler、StatementHandler、Executor 这 4 种接口的插件。</p>
+<p>Mybatis 使用 JDK 的动态代理，为需要拦截的接口生成代理对象以实现接口方法拦截功能，每当执行这 4 种接口对象的方法时，就会进入拦截方法，具体就是 InvocationHandler 的 <code>#invoke(...)</code>方法。当然，只会拦截那些你指定需要拦截的方法。</p>
+<hr>
+<p>编写一个 MyBatis 插件的步骤如下：</p>
+<ol>
+<li>首先，实现 Mybatis 的 Interceptor 接口，并实现 <code>#intercept(...)</code> 方法。</li>
+<li>然后，在给插件编写注解，指定要拦截哪一个接口的哪些方法即可</li>
+<li>最后，在配置文件中配置你编写的插件。</li>
+</ol>
+<p>具体的，可以参考 <a href="http://www.mybatis.org/mybatis-3/zh/configuration.html#plugins">《MyBatis 官方文档 —— 插件》</a> 。</p>
+<hr>
+<p>插件的详细解析，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-1">《精尽 MyBatis 源码分析 —— 插件体系（一）之原理》</a> 。</p>
+<h2 id="Mybatis-是如何进行分页的？分页插件的原理是什么？"><a href="#Mybatis-是如何进行分页的？分页插件的原理是什么？" class="headerlink" title="Mybatis 是如何进行分页的？分页插件的原理是什么？"></a>Mybatis 是如何进行分页的？分页插件的原理是什么？</h2><p>Mybatis 使用 RowBounds 对象进行分页，它是针对 ResultSet 结果集执行的<strong>内存分页</strong>，而非<strong>数据库分页</strong>。</p>
+<p>所以，实际场景下，不适合直接使用 MyBatis 原有的 RowBounds 对象进行分页。而是使用如下两种方案：</p>
+<ul>
+<li>在 SQL 内直接书写带有数据库分页的参数来完成数据库分页功能</li>
+<li>也可以使用分页插件来完成数据库分页。</li>
+</ul>
+<p>这两者都是基于数据库分页，差别在于前者是工程师<strong>手动</strong>编写分页条件，后者是插件<strong>自动</strong>添加分页条件。</p>
+<hr>
+<p>分页插件的基本原理是使用 Mybatis 提供的插件接口，实现自定义分页插件。在插件的拦截方法内，拦截待执行的 SQL ，然后重写 SQL ，根据dialect 方言，添加对应的物理分页语句和物理分页参数。</p>
+<p>举例：<code>SELECT * FROM student</code> ，拦截 SQL 后重写为：<code>select * FROM student LIMI 0，10</code> 。</p>
+<p>目前市面上目前使用比较广泛的 MyBatis 分页插件有：</p>
+<ul>
+<li><a href="https://github.com/pagehelper/Mybatis-PageHelper">Mybatis-PageHelper</a></li>
+<li><a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a></li>
+</ul>
+<p>从现在看来，<a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a> 逐步使用的更加广泛。</p>
+<p>关于 MyBatis 分页插件的原理深入，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-2">《精尽 MyBatis 源码分析 —— 插件体系（二）之 PageHelper》</a> 。</p>
+<h2 id="MyBatis-与-Hibernate-有哪些不同？"><a href="#MyBatis-与-Hibernate-有哪些不同？" class="headerlink" title="MyBatis 与 Hibernate 有哪些不同？"></a>MyBatis 与 Hibernate 有哪些不同？</h2><p>Mybatis 和 Hibernate 不同，它<strong>不完全是</strong>一个 ORM 框架，因为MyBatis 需要程序员自己编写 SQL 语句。不过 MyBatis 可以通过 XML 或注解方式灵活配置要运行的 SQL 语句，并将 Java 对象和 SQL 语句映射生成最终执行的 SQL ，最后将 SQL 执行的结果再映射生成 Java 对象。</p>
+<p>Mybatis 学习门槛低，简单易学，程序员直接编写原生态 SQL ，可严格控制 SQL 执行性能，灵活度高。但是灵活的前提是 MyBatis 无法做到数据库无关性，如果需要实现支持多种数据库的软件则需要自定义多套 SQL 映射文件，工作量大。</p>
+<p>Hibernate 对象/关系映射能力强，数据库无关性好。如果用 Hibernate 开发可以节省很多代码，提高效率。但是  Hibernate 的缺点是学习门槛高，要精通门槛更高，而且怎么设计 O/R 映射，在性能和对象模型之间如何权衡，以及怎样用好  Hibernate 需要具有很强的经验和能力才行。 </p>
+<p>总之，按照用户的需求在有限的资源环境下只要能做出维护性、扩展性良好的软件架构都是好架构，所以框架只有适合才是最好。简单总结如下：</p>
+<ul>
+<li>Hibernate 属于全自动 ORM 映射工具，使用 Hibernate 查询关联对象或者关联集合对象时，可以根据对象关系模型直接获取。</li>
+<li>Mybatis 属于半自动 ORM 映射工具，在查询关联对象或关联集合对象时，需要手动编写 SQL 来完成。</li>
+</ul>
+<p>另外，在 <a href="https://www.jianshu.com/p/96171e647885">《浅析 Mybatis 与 Hibernate 的区别与用途》</a> 文章，也是写的非常不错的。</p>
+<p>当然，实际上，MyBatis 也可以搭配自动生成代码的工具，提升开发效率，还可以使用 <a href="http://mp.baomidou.com/">MyBatis-Plus</a> 框架，已经内置常用的 SQL 操作，也是非常不错的。</p>
+<h2 id="JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？"><a href="#JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？" class="headerlink" title="JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？"></a>JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？</h2><p>问题一：SQL 语句写在代码中造成代码不易维护，且代码会比较混乱。</p>
+<p>解决方式：将 SQL 语句配置在 Mapper XML 文件中，与 Java 代码分离。</p>
+<hr>
+<p>问题二：根据参数不同，拼接不同的 SQL 语句非常麻烦。例如 SQL 语句的 WHERE 条件不一定，可能多也可能少，占位符需要和参数一一对应。 </p>
+<p>解决方式：MyBatis 提供 <code>&lt;where /&gt;</code>、<code>&lt;if /&gt;</code> 等等动态语句所需要的标签，并支持 OGNL 表达式，简化了动态 SQL 拼接的代码，提升了开发效率。</p>
+<hr>
+<p>问题三，对结果集解析麻烦，SQL 变化可能导致解析代码变化，且解析前需要遍历。</p>
+<p>解决方式：Mybatis 自动将 SQL 执行结果映射成 Java 对象。</p>
+<hr>
+<p>问题四，数据库链接创建、释放频繁造成系统资源浪费从而影响系统性能，如果使用数据库链接池可解决此问题。</p>
+<p>解决方式：在 <code>mybatis-config.xml</code> 中，配置数据链接池，使用连接池管理数据库链接。</p>
+<p>😈 当然，即使不使用 MyBatis ，也可以使用数据库连接池。<br>另外，MyBatis 默认提供了数据库连接池的实现，只是说，因为其它开源的数据库连接池性能更好，所以一般很少使用 MyBatis 自带的连接池实现。</p>
+<h2 id="Mybatis-比-IBatis-比较大的几个改进是什么？"><a href="#Mybatis-比-IBatis-比较大的几个改进是什么？" class="headerlink" title="Mybatis 比 IBatis 比较大的几个改进是什么？"></a>Mybatis 比 IBatis 比较大的几个改进是什么？</h2><blockquote>
+<p>这是一个选择性了解的问题，因为可能现在很多面试官，都没用过 IBatis 框架。</p>
+</blockquote>
+<ol>
+<li>有接口绑定，包括注解绑定 SQL 和 XML 绑定 SQL 。</li>
+<li>动态 SQL 由原来的节点配置变成 OGNL 表达式。</li>
+<li>在一对一或一对多的时候，引进了 <code>association</code> ，在一对多的时候，引入了 <code>collection</code>节点，不过都是在 <code>&lt;resultMap /&gt;</code> 里面配置。</li>
+</ol>
+<h2 id="Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？"><a href="#Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？" class="headerlink" title="Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？"></a>Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？</h2><blockquote>
+<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
+</blockquote>
+<p>虽然 Mybatis 解析 XML 映射文件是<strong>按照顺序</strong>解析的。但是，被引用的 B 标签依然可以定义在任何地方，Mybatis 都可以正确识别。<strong>也就是说，无需按照顺序，进行定义</strong>。</p>
+<p>原理是，Mybatis 解析 A 标签，发现 A 标签引用了 B 标签，但是 B 标签尚未解析到，尚不存在，此时，Mybatis 会将 A 标签标记为<strong>未解析状态</strong>。然后，继续解析余下的标签，包含 B 标签，待所有标签解析完毕，Mybatis 会重新解析那些被标记为未解析的标签，此时再解析A标签时，B 标签已经存在，A 标签也就可以正常解析完成了。</p>
+<p>可能有一些绕，胖友可以看看 <a href="http://svip.iocoder.cn/MyBatis/builder-package-1">《精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config》</a> 。</p>
+<p>此处，我们在引申一个问题，Spring IOC 中，存在互相依赖的 Bean 对象，该如何解决呢？答案见 <a href="http://svip.iocoder.cn/Spring/IoC-get-Bean-createBean-5/">《【死磕 Spring】—— IoC 之加载 Bean：创建 Bean（五）之循环依赖处理》</a> 。</p>
+<h2 id="简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？"><a href="#简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？" class="headerlink" title="简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？"></a>简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？</h2><blockquote>
+<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
+</blockquote>
+<p>Mybatis 将所有 XML 配置信息都封装到 All-In-One 重量级对象Configuration内部。</p>
+<p>在 XML Mapper 文件中：</p>
+<ul>
+<li><code>&lt;parameterMap&gt;</code> 标签，会被解析为 ParameterMap 对象，其每个子元素会被解析为 ParameterMapping 对象。</li>
+<li><code>&lt;resultMap&gt;</code> 标签，会被解析为 ResultMap 对象，其每个子元素会被解析为 ResultMapping 对象。</li>
+<li>每一个 <code>&lt;select&gt;</code>、<code>&lt;insert&gt;</code>、<code>&lt;update&gt;</code>、<code>&lt;delete&gt;</code> 标签，均会被解析为一个 MappedStatement 对象，标签内的 SQL 会被解析为一个 BoundSql 对象。</li>
+</ul>
+<h2 id="666-彩蛋"><a href="#666-彩蛋" class="headerlink" title="666. 彩蛋"></a>666. 彩蛋</h2><p>参考与推荐如下文章：</p>
+<ul>
+<li>祖大俊 <a href="https://my.oschina.net/zudajun/blog/747682">《Mybatis3.4.x技术内幕（二十三）：Mybatis面试问题集锦（大结局）》</a></li>
+<li>Java3y <a href="https://segmentfault.com/a/1190000013678579">《Mybatis 常见面试题》</a></li>
+<li>Homiss <a href="https://github.com/Homiss/Java-interview-questions/blob/master/%E6%A1%86%E6%9E%B6/MyBatis%E9%9D%A2%E8%AF%95%E9%A2%98.md">《MyBatis 面试题》</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>MyBatis</category>
+        <category>面试</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+        <tag>MyBatis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>精尽 Redis 面试题</title>
+    <url>/2016/10/12/7/</url>
+    <content><![CDATA[<h1 id="精尽-Redis-面试题"><a href="#精尽-Redis-面试题" class="headerlink" title="精尽 Redis 面试题"></a>精尽 Redis 面试题</h1><blockquote>
+<p>这个面试题是建立在胖友看过 <a href="http://svip.iocoder.cn/Cache/Interview">《精尽【缓存 】面试题》</a> 。</p>
+</blockquote>
+<p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
+<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Redis 面试题的大保健。</p>
+<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
+<h2 id="什么是-Redis-？"><a href="#什么是-Redis-？" class="headerlink" title="什么是 Redis ？"></a>什么是 Redis ？</h2><p><a href="http://lib.csdn.net/base/redis">Redis</a> ，全称 Remote Dictionary Server ，是一个基于内存的高性能 Key-Value <a href="http://lib.csdn.net/base/mysql">数据库</a>。</p>
+<p>Redis 已经成为互联网公司在缓存组件选择的唯一。例如说，在各种公有云上，缓存服务都是提供的 Redis。再例如说，招聘简历要求上，都会要求掌握 Redis 。</p>
+<h2 id="Redis-有什么优点？"><a href="#Redis-有什么优点？" class="headerlink" title="Redis 有什么优点？"></a>Redis 有什么优点？</h2><p>🦅 <strong>1. 速度快</strong></p>
+<p>因为数据存在内存中，类似于 HashMap ，HashMap 的优势就是查找和操作的时间复杂度都是O (1) 。</p>
+<blockquote>
+<p>Redis 本质上是一个 Key-Value 类型的内存数据库，很像 Memcached ，整个数据库统统加载在内存当中进行操作，定期通过异步操作把数据库数据 flush 到硬盘上进行保存。</p>
+<p>因为是纯内存操作，Redis 的性能非常出色，每秒可以处理超过 10 万次读写操作，是已知性能最快的 Key-Value 数据库。</p>
+</blockquote>
+<ul>
+<li>如果我们查看在<a href="https://help.aliyun.com/document_detail/26350.html">阿里云销售的 Redis 规格</a>，最低的也是 8W QPS 。</li>
+</ul>
+<p>🦅 <strong>2. 支持丰富数据类型</strong></p>
+<p>支持 String ，List，Set，Sorted Set，Hash 五种基础的数据结构。</p>
+<blockquote>
+<p>Redis 的出色之处不仅仅是性能，Redis 最大的魅力是支持保存多种数据结构，此外单个 Value 的最大限制是 1GB，不像 Memcached只能保存 1MB 的数据，因此 Redis 可以用来实现很多有用的功能。比方说：</p>
+<ul>
+<li>用他的 List 来做 FIFO 双向链表，实现一个轻量级的高性能消息队列服务。</li>
+<li>用他的 Set 可以做高性能的 tag 系统等等。</li>
+</ul>
+</blockquote>
+<p>同时，在基础的数据结构之上，还提供 <a href="http://redisdoc.com/bitmap/index.html">Bitmap</a>、<a href="http://redisdoc.com/hyperloglog/index.html">HyperLogLog</a>、<a href="http://redisdoc.com/geo/index.html">GEO</a> 等高级的数据结构。</p>
+<p>如果面试想要加分，胖友一定要去看看这些高级的数据结构，面试与日常开发，必备神器。</p>
+<p>🦅 <strong>3. 丰富的特性</strong></p>
+<ul>
+<li>订阅发布 Pub / Sub 功能</li>
+<li>Key 过期策略</li>
+<li>事务</li>
+<li>支持多个 DB</li>
+<li>计数</li>
+<li>…</li>
+</ul>
+<p>并且在 Redis 5.0 增加了 Stream 功能，一个新的强大的支持多播的可持久化的消息队列，提供类似 Kafka 的功能。</p>
+<p>🦅 <strong>4. 持久化存储</strong></p>
+<p>Redis 提供 RDB 和 AOF 两种数据的持久化存储方案，解决内存数据库最担心的万一 Redis 挂掉，数据会消失掉。</p>
+<p>🦅 <strong>5、高可用</strong></p>
+<p>内置 Redis Sentinel ，提供高可用方案，实现主从故障自动转移。</p>
+<p>内置 Redis Cluster ，提供集群方案，实现基于槽的分片方案，从而支持更大的 Redis 规模。</p>
+<h2 id="Redis-有什么缺点？"><a href="#Redis-有什么缺点？" class="headerlink" title="Redis 有什么缺点？"></a>Redis 有什么缺点？</h2><ul>
+<li><p>1、由于 Redis 是内存数据库，所以，单台机器，存储的数据量，跟机器本身的内存大小。虽然 Redis 本身有 Key 过期策略，但是还是需要提前预估和节约内存。如果内存增长过快，需要定期删除数据。</p>
+<blockquote>
+<p>另外，可使用 Redis Cluster、Codis 等方案，对 Redis 进行分区，从单机 Redis 变成集群 Redis 。</p>
+</blockquote>
+</li>
+<li><p>2、如果进行完整重同步，由于需要生成 RDB 文件，并进行传输，会占用主机的 CPU ，并会消耗现网的带宽。不过 Redis2.8 版本，已经有部分重同步的功能，但是还是有可能有完整重同步的。比如，新上线的备机。</p>
+</li>
+<li><p>3、修改配置文件，进行重启，将硬盘中的数据加载进内存，时间比较久。在这个过程中，Redis 不能提供服务。</p>
+</li>
+</ul>
+<h2 id="Redis-和-Memcached-的区别有哪些？"><a href="#Redis-和-Memcached-的区别有哪些？" class="headerlink" title="Redis 和 Memcached 的区别有哪些？"></a>Redis 和 Memcached 的区别有哪些？</h2><blockquote>
+<p>艿艿：随着 Memcached 日渐没落，这个问题问的越来越少了。</p>
+</blockquote>
+<p>🦅 <strong>1. Redis 支持复杂的数据结构</strong></p>
+<ul>
+<li>Memcached 仅提供简单的字符串。</li>
+<li>Redis 提供复杂的数据结构，丰富的数据操作。</li>
+</ul>
+<p>也因为 Redis 支持复杂的数据结构，Redis 即使晚于 Memcached 推出，却获得更多开发者的青睐。</p>
+<p>Redis 相比 Memcached 来说，拥有更多的数据结构，能支持更丰富的数据操作。如果需要缓存能够支持更复杂的结构和操作，Redis 会是不错的选择。</p>
+<p>🦅 <strong>2. Redis 原生支持集群模式</strong></p>
+<ul>
+<li>在 Redis3.x 版本中，官方便能支持 Cluster 模式。</li>
+<li>Memcached 没有原生的集群模式，需要依靠客户端来实现往集群中分片写入数据。</li>
+</ul>
+<p>🦅 <strong>3. 性能对比</strong></p>
+<ul>
+<li>Redis 只使用单核，而 Memcached 可以使用多核，所以平均每一个核上 Redis在存储小数据时比 Memcached 性能更高。</li>
+<li>在 100k 以上的数据中，Memcached 性能要高于 Redis 。虽然 Redis 最近也在存储大数据的性能上进行优化，但是比起 Memcached，还是稍有逊色。</li>
+</ul>
+<p>更多关于性能的对比，可以看看 <a href="https://www.jianshu.com/p/34f90813d7c9">《Memcached 与 Redis 的关键性能指标比较》</a> 。</p>
+<p>🦅 <strong>4. 内存管理机制不同</strong></p>
+<p>相比来说，Redis 的内存管理机制，会更加简单。</p>
+<ul>
+<li>Redis 采用的是<strong>包装</strong>的 malloc/free ，使用时现场申请的方式。</li>
+<li>Memcached 采用的是 Slab Allocation 机制管理内存，预分配的内存池的方式。</li>
+</ul>
+<p>如果对比两者的内存使用效率：</p>
+<ul>
+<li>简单的 Key-Value 存储的话，Memcached 的内存利用率更高，可以使用类似内存池。</li>
+<li>如果 Redis 采用 hash 结构来做 key-value 存储，由于其组合式的压缩， 其内存利用率会高于 Memcached 。</li>
+</ul>
+<p>🦅 <strong>5. 网络 IO 模型</strong></p>
+<ul>
+<li>Memcached 是多线程，非阻塞 IO 复用的网络模型，原型上接近 Nignx 。</li>
+<li>Redis 使用单线程的 IO 复用模型，自己封装了一个简单的 AeEvent 事件处理框架，主要实现了 epoll ， kqueue 和 select ，更接近 Apache 早期的模式。</li>
+</ul>
+<p>🦅 <strong>6. 持久化存储</strong></p>
+<ul>
+<li>Memcached 不支持持久化存储，重启时，数据被清空。</li>
+<li>Redis 支持持久化存储，重启时，可以恢复已持久化的数据。</li>
+</ul>
+<hr>
+<p>也推荐阅读下 <a href="https://www.imooc.com/article/23549">《脚踏两只船的困惑 - Memcached 与 Redis》</a> 。</p>
+<h2 id="请说说-Redis-的线程模型？"><a href="#请说说-Redis-的线程模型？" class="headerlink" title="请说说 Redis 的线程模型？"></a>请说说 Redis 的线程模型？</h2><blockquote>
+<p>艿艿：这个是我从网络上找的资料，讲的灰常不错。<strong>一般来说，回答道 Redis 是非阻塞 IO ，多路复用</strong>。</p>
+</blockquote>
+<p>Redis 内部使用文件事件处理器 <code>file event handler</code>，这个文件事件处理器是单线程的，所以 Redis 才叫做单线程的模型。它采用 IO 多路复用机制同时监听多个 Socket，根据 Socket 上的事件来选择对应的事件处理器进行处理。</p>
+<p>文件事件处理器的结构包含 4 个部分：</p>
+<ul>
+<li>多个 Socket 。</li>
+<li>IO 多路复用程序。</li>
+<li>文件事件分派器。</li>
+<li>事件处理器（连接应答处理器、命令请求处理器、命令回复处理器）。</li>
+</ul>
+<p>多个 Socket 可能会并发产生不同的操作，每个操作对应不同的文件事件，但是 IO 多路复用程序会监听多个 socket，会将 socket 产生的事件放入队列中排队，事件分派器每次从队列中取出一个事件，把该事件交给对应的事件处理器进行处理。</p>
+<p>来看客户端与 redis 的一次通信过程：</p>
+<p><img src="http://cdn.tuwenbin.vip/6gtq4m9r.bmp" alt="6gtq4m9r">redis-single-thread-model</p>
+<ul>
+<li>客户端 Socket01 向 Redis 的 Server Socket 请求建立连接，此时 Server Socket 会产生一个 <code>AE_READABLE</code> 事件，IO 多路复用程序监听到 server socket 产生的事件后，将该事件压入队列中。文件事件分派器从队列中获取该事件，交给<code>连接应答处理器</code>。连接应答处理器会创建一个能与客户端通信的 Socket01，并将该 Socket01 的 <code>AE_READABLE</code> 事件与命令请求处理器关联。</li>
+<li>假设此时客户端发送了一个 <code>set key value</code> 请求，此时 Redis 中的 Socket01 会产生 <code>AE_READABLE</code> 事件，IO 多路复用程序将事件压入队列，此时事件分派器从队列中获取到该事件，由于前面 Socket01 的 <code>AE_READABLE</code> 事件已经与命令请求处理器关联，因此事件分派器将事件交给命令请求处理器来处理。命令请求处理器读取 Scket01 的 <code>set key value</code> 并在自己内存中完成 <code>set key value</code> 的设置。操作完成后，它会将 Scket01 的 <code>AE_WRITABLE</code> 事件与令回复处理器关联。</li>
+<li>如果此时客户端准备好接收返回结果了，那么 Redis 中的 Socket01 会产生一个 <code>AE_WRITABLE</code> 事件，同样压入队列中，事件分派器找到相关联的命令回复处理器，由命令回复处理器对 socket01 输入本次操作的一个结果，比如 <code>ok</code>，之后解除 Socket01 的 <code>AE_WRITABLE</code> 事件与命令回复处理器的关联。</li>
+</ul>
+<p>这样便完成了一次通信。😈 耐心理解一下，灰常重要。如果还是不能理解，可以在网络上搜一些资料，在理解理解。</p>
+<h2 id="为什么-Redis-单线程模型也能效率这么高？"><a href="#为什么-Redis-单线程模型也能效率这么高？" class="headerlink" title="为什么 Redis 单线程模型也能效率这么高？"></a>为什么 Redis 单线程模型也能效率这么高？</h2><ul>
+<li><p>1、C 语言实现。</p>
+<blockquote>
+<p>我们都知道，C 语言的执行速度非常快。</p>
+</blockquote>
+</li>
+<li><p>2、纯内存操作。</p>
+<blockquote>
+<p>Redis 为了达到最快的读写速度，将数据都读到内存中，并通过异步的方式将数据写入磁盘。所以 Redis 具有快速和数据持久化的特征。</p>
+<p>如果不将数据放在内存中，磁盘 I/O 速度为严重影响 Redis 的性能。</p>
+</blockquote>
+</li>
+<li><p>3、基于非阻塞的 IO 多路复用机制。</p>
+</li>
+<li><p>4、单线程，避免了多线程的频繁上下文切换问题。</p>
+<blockquote>
+<p>Redis 利用队列技术，将并发访问变为串行访问，消除了传统数据库串行控制的开销。</p>
+<p>实际上，Redis 4.0 开始，也开始有了一些异步线程，用于处理一些耗时操作。例如说，异步线程，实现<a href="https://blog.csdn.net/zhanglong_4444/article/details/88350443">惰性删除</a>（解决大 KEY 删除，阻塞主线程）和异步 AOF （解决磁盘 IO 紧张时，fsync 执行一次很慢）等等。</p>
+</blockquote>
+</li>
+<li><p>5、丰富的数据结构。</p>
+<blockquote>
+<p>Redis 全程使用 hash 结构，读取速度快，还有一些特殊的数据结构，对数据存储进行了优化。例如，压缩表，对短数据进行压缩存储；再再如，跳表，使用有序的数据结构加快读取的速度。</p>
+<p>也因为 Redis 是单线程的，所以可以实现丰富的数据结构，无需考虑并发的问题。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="Redis-是单线程的，如何提高多核-CPU-的利用率？"><a href="#Redis-是单线程的，如何提高多核-CPU-的利用率？" class="headerlink" title="Redis 是单线程的，如何提高多核 CPU 的利用率？"></a>Redis 是单线程的，如何提高多核 CPU 的利用率？</h2><p>可以在同一个服务器部署多个 Redis 的实例，并把他们当作不同的服务器来使用，在某些时候，无论如何一个服务器是不够的， 所以，如果你想使用多个 CPU ，你可以考虑一下分区。</p>
+<h2 id="Redis-有几种持久化方式？"><a href="#Redis-有几种持久化方式？" class="headerlink" title="Redis 有几种持久化方式？"></a>Redis 有几种持久化方式？</h2><blockquote>
+<p>艿艿：这个问题有一丢丢长，耐心看完。</p>
+<p>面试的时候，如果不能完整回答出来，也不会有大问题。重点，在于有条理，对 RDB 和 AOF 有理解。</p>
+</blockquote>
+<p>🦅 <strong>持久化方式</strong></p>
+<p>Redis 提供了两种方式，实现数据的持久化到硬盘。</p>
+<ul>
+<li>1、【全量】RDB 持久化，是指在指定的时间间隔内将内存中的<strong>数据集快照</strong>写入磁盘。实际操作过程是，fork 一个子进程，先将数据集写入临时文件，写入成功后，再替换之前的文件，用二进制压缩存储。</li>
+<li>2、【增量】AOF持久化，以日志的形式记录服务器所处理的每一个<strong>写、删除操作</strong>，查询操作不会记录，以文本的方式记录，可以打开文件看到详细的操作记录。</li>
+</ul>
+<p>🦅 <strong>RDB 优缺点</strong></p>
+<p>① 优点</p>
+<ul>
+<li>灵活设置备份频率和周期。你可能打算每个小时归档一次最近 24 小时的数据，同时还要每天归档一次最近 30 天的数据。通过这样的备份策略，一旦系统出现灾难性故障，我们可以非常容易的进行恢复。</li>
+<li>非常适合冷备份，对于灾难恢复而言，RDB  是非常不错的选择。因为我们可以非常轻松的将一个单独的文件压缩后再转移到其它存储介质上。推荐，可以将这种完整的数据文件发送到一些远程的安全存储上去，比如说 Amazon 的 S3 云服务上去，在国内可以是阿里云的 OSS 分布式存储上。</li>
+<li>性能最大化。对于 Redis 的服务进程而言，在开始持久化时，它唯一需要做的只是 fork  出子进程，之后再由子进程完成这些持久化的工作，这样就可以极大的避免服务进程执行 IO 操作了。也就是说，RDB 对 Redis  对外提供的读写服务，影响非常小，可以让 Redis 保持高性能。</li>
+<li>恢复更快。相比于 AOF 机制，RDB 的恢复速度更更快，更适合恢复数据，特别是在数据集非常大的情况。</li>
+</ul>
+<p>② 缺点</p>
+<ul>
+<li><p>如果你想保证数据的高可用性，即最大限度的避免数据丢失，那么 RDB 将不是一个很好的选择。因为系统一旦在定时持久化之前出现宕机现象，此前没有来得及写入磁盘的数据都将丢失。</p>
+<blockquote>
+<p>所以，RDB 实际场景下，需要和 AOF 一起使用。</p>
+</blockquote>
+</li>
+<li><p>由于 RDB 是通过 fork 子进程来协助完成数据持久化工作的，因此，如果当数据集较大时，可能会导致整个服务器停止服务几百毫秒，甚至是 1 秒钟。</p>
+<blockquote>
+<p>所以，RDB 建议在业务低估，例如在半夜执行。</p>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>AOF 优缺点</strong></p>
+<p>① 优点</p>
+<ul>
+<li><p>该机制可以带来更高的<strong>数据安全性</strong>，即数据持久性。Redis 中提供了 3 种同步策略，即每秒同步、每修改(执行一个命令)同步和不同步。</p>
+<ul>
+<li>事实上，每秒同步也是异步完成的，其效率也是非常高的，所差的是一旦系统出现宕机现象，那么这一秒钟之内修改的数据将会丢失。</li>
+<li>而每修改同步，我们可以将其视为同步持久化，即每次发生的数据变化都会被立即记录到磁盘中。可以预见，这种方式在效率上是最低的。</li>
+<li>至于不同步，无需多言，我想大家都能正确的理解它。</li>
+</ul>
+</li>
+<li><p>由于该机制对日志文件的写入操作采用的是 <strong>append</strong> 模式，因此在写入过程中即使出现宕机现象，也不会破坏日志文件中已经存在的内容。</p>
+<ul>
+<li>因为以 append-only 模式写入，所以没有任何磁盘寻址的开销，写入性能非常高。</li>
+<li>另外，如果我们本次操作只是写入了一半数据就出现了系统崩溃问题，不用担心，在 Redis 下一次启动之前，我们可以通过 redis-check-aof 工具来帮助我们解决数据一致性的问题。</li>
+</ul>
+</li>
+<li><p>如果 AOF 日志过大，Redis 可以自动启用 <strong>rewrite</strong>  机制。即使出现后台重写操作，也不会影响客户端的读写。因为在 rewrite log  的时候，会对其中的指令进行压缩，创建出一份需要恢复数据的最小日志出来。再创建新日志文件的时候，老的日志文件还是照常写入。当新的 merge  后的日志文件 ready 的时候，再交换新老日志文件即可。</p>
+<blockquote>
+<p>注意，AOF <strong>rewrite</strong> 机制，和 RDB 一样，也需要 fork 出一次子进程，如果 Redis 内存比较大，可能会因为 fork 阻塞下主进程。</p>
+</blockquote>
+</li>
+<li><p>AOF 包含一个格式清晰、易于理解的日志文件用于记录所有的<strong>修改操作</strong>。事实上，我们也可以通过该文件完成数据的重建。</p>
+</li>
+</ul>
+<p>② 缺点</p>
+<ul>
+<li>对于相同数量的数据集而言，AOF 文件通常要大于 RDB 文件。RDB 在恢复大数据集时的速度比 AOF 的恢复速度要快。</li>
+<li>根据同步策略的不同，AOF 在运行效率上往往会慢于 RDB 。总之，每秒同步策略的效率是比较高的，同步禁用策略的效率和 RDB 一样高效。</li>
+<li>以前 AOF 发生过 bug ，就是通过 AOF 记录的日志，进行数据恢复的时候，没有恢复一模一样的数据出来。所以说，类似 AOF  这种较为复杂的基于命令日志/merge/回放的方式，比基于 RDB 每次持久化一份完整的数据快照文件的方式，更加脆弱一些，容易有 bug 。不过 AOF 就是为了避免 rewrite 过程导致的 bug ，因此每次 rewrite 并不是基于旧的指令日志进行 merge  的，而是基于当时内存中的数据进行指令的重新构建，这样健壮性会好很多。</li>
+</ul>
+<p>🦅 <strong>如何选择</strong></p>
+<ul>
+<li><p>不要仅仅使用 RDB，因为那样会导致你丢失很多数据。</p>
+</li>
+<li><p>也不要仅仅使用 AOF，因为那样有两个问题，第一，你通过 AOF 做冷备，没有 RDB 做冷备，来的恢复速度更快; 第二，RDB 每次简单粗暴生成数据快照，更加健壮，可以避免 AOF 这种复杂的备份和恢复机制的 bug 。</p>
+</li>
+<li><p>Redis 支持同时开启开启两种持久化方式，我们可以综合使用 AOF 和 RDB 两种持久化机制，用 AOF  来保证数据不丢失，作为数据恢复的第一选择; 用 RDB 来做不同程度的冷备，在 AOF 文件都丢失或损坏不可用的时候，还可以使用 RDB  来进行快速的数据恢复。</p>
+<ul>
+<li>如果同时使用 RDB 和 AOF 两种持久化机制，那么在 Redis 重启的时候，会使用 <strong>AOF</strong> 来重新构建数据，因为 AOF 中的<strong>数据更加完整</strong>。</li>
+</ul>
+<blockquote>
+<p>一般来说， 如果想达到足以媲美 PostgreSQL 的数据安全性， 你应该同时使用两种持久化功能。如果你非常关心你的数据， 但仍然可以承受数分钟以内的数据丢失，那么你可以只使用 RDB 持久化。</p>
+<p>有很多用户都只使用 AOF 持久化，但并不推荐这种方式：因为定时生成 RDB 快照（snapshot）非常便于进行数据库备份， 并且 RDB 恢复数据集的速度也要比AOF恢复的速度要快，除此之外，使用 RDB 还可以避免之前提到的 AOF 程序的 bug。</p>
+</blockquote>
+</li>
+</ul>
+<p>在 Redis4.0 版本开始，允许你使用 RDB-AOF 混合持久化方式，详细可见 <a href="https://yq.aliyun.com/articles/193034">《Redis4.0 之 RDB-AOF 混合持久化》</a> 。也因此，RDB 和 AOF 同时使用，是希望达到安全的持久化的推荐方式。</p>
+<hr>
+<p>另外，RDB 和 AOF 涉及的知识点蛮多的，可以看看：</p>
+<ul>
+<li><a href="https://redisbook.readthedocs.io/en/latest/internal/rdb.html">《Redis 设计与实现 —— RDB》</a></li>
+<li><a href="https://redisbook.readthedocs.io/en/latest/internal/aof.html">《Redis 设计与实现 —— AOF》</a></li>
+</ul>
+<p>如下是老钱对这块的总结，可能更加适合面试的场景：</p>
+<ul>
+<li><p>bgsave 做镜像全量持久化，AOF 做增量持久化。因为 bgsave  会耗费较长时间，不够实时，在停机的时候会导致大量丢失数据，所以需要 AOF 来配合使用。在 Redis 实例重启时，会使用 bgsave  持久化文件重新构建内存，再使用 AOF 重放近期的操作指令来实现完整恢复重启之前的状态。</p>
+<blockquote>
+<p>和老钱沟通了下，最后一句重启恢复，使用的是 RDB-AOF 的混合方案。</p>
+</blockquote>
+</li>
+<li><p>对方追问那如果突然机器掉电会怎样？取决于 AOF 日志 sync 属性的配置，如果不要求性能，在每条写指令时都 sync  一下磁盘，就不会丢失数据。但是在高性能的要求下每次都 sync 是不现实的，一般都使用定时 sync ，比如 1 秒 1  次，这个时候最多就会丢失 1 秒的数据。</p>
+<blockquote>
+<p>实际上，极端情况下，是最多丢失 2 秒的数据。因为 AOF 线程，负责每秒执行一次 fsync 操作，操作完成后，记录最后同步时间。主线程，负责对比上次同步时间，如果超过 2 秒，阻塞等待成功。</p>
+</blockquote>
+</li>
+<li><p>对方追问 bgsave 的原理是什么？你给出两个词汇就可以了，fork 和 cow 。fork 是指 Redis 通过创建子进程来进行  bgsave 操作。cow 指的是 copy on write  ，子进程创建后，父子进程共享数据段，父进程继续提供读写服务，写脏的页面数据会逐渐和子进程分离开来。</p>
+<blockquote>
+<p>艿艿：这里 bgsave 操作后，会产生 RDB 快照文件。</p>
+</blockquote>
+</li>
+</ul>
+<p>为什么不建议在主 Redis 节点开启 RDB 功能呢？因为会带来一定时间的阻塞，特别是数据量大的时候。</p>
+<blockquote>
+<p>如下来自球友【jian】的回答，感恩~</p>
+<ul>
+<li>【重点】<strong>子进程 fork 相关的阻塞：在 bgsave 的时候，Redis 主进程会 fork  一个子进程，利用操作系统的写时复制技术，这个子进程在拷贝父进程的时候理论上是很快的，因为并不需要全拷贝，比如主进程虽然占了 10G  内存，但子进程拷贝他可能只要 200 毫秒，我认为也就阻塞了 200  毫秒(此耗时基本跟主进程占用的内存是成正比的)，这个具体的时间可以通过统计项 info stats 里的 last_fork_usec 查看。</strong></li>
+<li>CPU 单线程相关的阻塞：Redis 主进程是单线程跑在单核 CPU 上的，如果显示绑定了CPU ，则子进程会与主进程共享一个 CPU  ，而子进程进行持久化的时候是非常占CPU（强势  90%），因此这种情况也可能导致提供服务的主进程发生阻塞（因此如果需要持久化功能，不建议绑定CPU）。</li>
+<li>内存相关的阻塞：虽然利用写时复制技术可以大大降低进程拷贝的内存消耗，但这也导致了父进程在处理写请求时需要维护修改的内存页，因此这部分内存过大的话（修改页数多或每页占空间大）也会导致父进程的写操作阻塞。（而不巧的是，Linux中TransparentHugePage 会将复制内存页面单位有 4K 变成 2M ，这对于 Redis 来说是比较不友好的，也是建议优化的，具体可百度之）</li>
+<li>磁盘相关的阻塞：极端情况下，假设整个机器的内存已经所剩无几，触发了内存交换（SWAP），则整个 Redis的效率将会非常低下（显然这不仅仅针对 save/bgsave ），因此，关注系统的 io 情况，也是定位阻塞问题的一种方法。</li>
+</ul>
+<p>艿艿后来又看了下这个答案，是 <a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 的「5.3 持久化 —— 问题定位于优化」小节。</p>
+</blockquote>
+<h2 id="Redis-有几种数据“过期”策略？"><a href="#Redis-有几种数据“过期”策略？" class="headerlink" title="Redis 有几种数据“过期”策略？"></a>Redis 有几种数据“过期”策略？</h2><p>Redis 的过期策略，就是指当 Redis 中缓存的 key 过期了，Redis 如何处理。</p>
+<p>Redis 提供了 3 种数据过期策略：</p>
+<ul>
+<li>被动删除：当读/写一个已经过期的 key 时，会触发惰性删除策略，直接删除掉这个过期 key 。</li>
+<li>主动删除：由于惰性删除策略无法保证冷数据被及时删掉，所以 Redis 会定期主动淘汰一批已过期的 key 。</li>
+<li>主动删除：当前已用内存超过 maxmemory 限定时，触发主动清理策略，即 <a href="http://svip.iocoder.cn/Redis/Interview/#">「数据“淘汰”策略」</a> 。</li>
+</ul>
+<p>在 Redis 中，同时使用了上述 3 种策略，即它们<strong>非互斥</strong>的。</p>
+<p>想要进一步了解，可以看看 <a href="https://www.cnblogs.com/chenpingzhao/p/5022467.html">《关于 Redis 数据过期策略》</a> 文章。</p>
+<h2 id="Redis-有哪几种数据“淘汰”策略？"><a href="#Redis-有哪几种数据“淘汰”策略？" class="headerlink" title="Redis 有哪几种数据“淘汰”策略？"></a>Redis 有哪几种数据“淘汰”策略？</h2><p>Redis 内存数据集大小上升到一定大小的时候，就会进行数据淘汰策略。</p>
+<p>Redis 提供了 6 种数据淘汰策略：</p>
+<ol>
+<li>volatile-lru</li>
+<li>volatile-ttl</li>
+<li>volatile-random</li>
+<li>allkeys-lru</li>
+<li>allkeys-random</li>
+<li>【默认策略】no-enviction</li>
+</ol>
+<p>具体的<strong>每种数据淘汰策略的定义</strong>，和<strong>如何选择讨论策略</strong>，可见 <a href="http://blog.720ui.com/2016/redis_action_02_maxmemory_policy/">《Redis实战（二） 内存淘汰机制》</a> 。</p>
+<p>在 Redis 4.0 后，基于 LFU（Least Frequently Used）最近最少使用算法，增加了 2 种淘汰策略：</p>
+<ol>
+<li>volatile-lfu</li>
+<li>allkeys-lfu</li>
+</ol>
+<p>🦅 <strong>Redis LRU 算法</strong></p>
+<p>另外，Redis 的 LRU 算法，<strong>并不是一个严格的 LRU 实现</strong>。这意味着 Redis 不能选择最佳候选键来回收，也就是最久未被访问的那些键。相反，Redis 会尝试执行一个近似的 LRU 算法，通过采样一小部分键，然后在采样键中回收最适合(拥有最久未被访问时间)的那个。</p>
+<p><strong>Redis 没有使用真正实现严格的 LRU 算是的原因是，因为消耗更多的内存。然而对于使用 Redis 的应用来说，使用近似的 LRU 算法，事实上是等价的。</strong></p>
+<p>具体的可以看看如下文章：</p>
+<ul>
+<li><a href="http://www.iocoder.cn/Fight/Cannot-think-of-The-interviewer-asked-me-what-if-Redis-runs-out-of-memory/?self">《想不到！面试官问我：Redis 内存满了怎么办？》</a></li>
+<li><a href="http://ifeve.com/lru-cache/">《使用 Redis 作为一个 LRU 缓存》</a></li>
+</ul>
+<p>🦅 <strong>MySQL 里有 2000w 数据，Redis 中只存 20w 的数据，如何保证 Redis 中的数据都是热点数据？</strong></p>
+<blockquote>
+<p>艿艿：这个是从网络上找到的一个神奇的问题，并且看了答案之后，觉得有点莫名的对不上。</p>
+<p>所以，感觉这个问题的目的是，如何保证热点数据不要被淘汰。</p>
+</blockquote>
+<p>在 <a href="http://svip.iocoder.cn/Redis/Interview/#">「Redis 有哪几种数据“淘汰”策略？」</a> 问题中，我们已经看到，“Redis 内存数据集大小上升到一定 maxmemory 的时候，就会进行数据淘汰策略。” 。</p>
+<p>那么，如果我们此时要保证热点数据不被淘汰，那么需要选择 volatile-lru 或  allkeys-lru 这两个基于 LRU 算法的淘汰策略。</p>
+<p>相比较来说，最终会选择 allkeys-lru  淘汰策略。原因是，如果我们的应用对缓存的访问符合幂律分布，也就是存在相对热点数据，或者我们不太清楚我们应用的缓存访问分布状况，我们可以选择  allkeys-lru 策略。如果在 Redis 4.0 版本，可以考虑使用 volatile-lfu  ，更加符合“热”的概念，频率越高，代表越热。</p>
+<p>🦅 <strong>Redis 回收进程如何工作的？</strong></p>
+<p>理解回收进程如何工作是非常重要的：</p>
+<ul>
+<li>一个客户端运行了新的写命令，添加了新的数据。</li>
+<li>Redis 检查内存使用情况，如果大于 maxmemory 的限制, 则根据设定好的策略进行回收。</li>
+<li>Redis 执行新命令。</li>
+</ul>
+<p>所以我们不断地穿越内存限制的边界，通过不断达到边界然后不断地回收回到边界以下（跌宕起伏）。</p>
+<h2 id="如果有大量的-key-需要设置同一时间过期，一般需要注意什么？"><a href="#如果有大量的-key-需要设置同一时间过期，一般需要注意什么？" class="headerlink" title="如果有大量的 key 需要设置同一时间过期，一般需要注意什么？"></a>如果有大量的 key 需要设置同一时间过期，一般需要注意什么？</h2><p>如果大量的 key 过期时间设置的过于集中，到过期的那个时间点，Redis可能会出现短暂的卡顿现象。</p>
+<p>一般需要在时间上加一个随机值，使得过期时间分散一些。</p>
+<hr>
+<p>上次基友也碰到这个问题，请教了下，他的方案是调大 hz 参数，每次过期的 key 更多，从而最终达到避免一次过期过多。</p>
+<blockquote>
+<p>这个定期的频率，由配置文件中的 hz 参数决定，代表了一秒钟内，后台任务期望被调用的次数。Redis 3.0.0 中的默认值是 10 ，代表每秒钟调用 10 次后台任务。</p>
+<p>hz 调大将会提高 Redis 主动淘汰的频率，如果你的 Redis 存储中包含很多冷数据占用内存过大的话，可以考虑将这个值调大，但  Redis 作者建议这个值不要超过 100 。我们实际线上将这个值调大到 100 ，观察到 CPU 会增加 2%  左右，但对冷数据的内存释放速度确实有明显的提高（通过观察 keyspace 个数和 used_memory 大小）。</p>
+</blockquote>
+<h2 id="Redis-有哪些数据结构？"><a href="#Redis-有哪些数据结构？" class="headerlink" title="Redis 有哪些数据结构？"></a>Redis 有哪些数据结构？</h2><p>如果你是 Redis 普通玩家，可能你的回答是如下五种数据结构：</p>
+<ul>
+<li>字符串 String</li>
+<li>字典Hash</li>
+<li>列表List</li>
+<li>集合Set</li>
+<li>有序集合 SortedSet</li>
+</ul>
+<p>如果你是 Redis 中级玩家，还需要加上下面几种数据结构：</p>
+<ul>
+<li>HyperLogLog</li>
+<li>Geo</li>
+<li>Bitmap</li>
+</ul>
+<p>如果你是 Redis 高端玩家，你可能玩过 Redis Module ，可以再加上下面几种数据结构：</p>
+<ul>
+<li>BloomFilter</li>
+<li>RedisSearch</li>
+<li>Redis-ML</li>
+<li>JSON</li>
+</ul>
+<p>另外，在 Redis 5.0 增加了 Stream 功能，一个新的强大的支持多播的可持久化的消息队列，提供类似 Kafka 的功能。😈 默默跟面试官在装一波。</p>
+<h2 id="聊聊-Redis-使用场景"><a href="#聊聊-Redis-使用场景" class="headerlink" title="聊聊 Redis 使用场景"></a>聊聊 Redis 使用场景</h2><p>Redis 可用的场景非常之多：</p>
+<ul>
+<li>数据缓存</li>
+<li>会话缓存</li>
+<li>时效性数据</li>
+<li>访问频率</li>
+<li>计数器</li>
+<li>社交列表</li>
+<li>记录用户判定信息</li>
+<li>交集、并集和差集</li>
+<li>热门列表与排行榜</li>
+<li>最新动态</li>
+<li>消息队列</li>
+<li>分布式锁</li>
+</ul>
+<p>详细的介绍，可以看看如下文章：</p>
+<ul>
+<li><a href="http://blog.720ui.com/2017/redis_core_use/">《聊聊 Redis 使用场景》</a></li>
+<li><a href="https://www.jianshu.com/p/af277c77b1c9">《Redis 应用场景及实例》</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/29665317">《Redis 常见的应用场景解析》</a></li>
+<li><a href="https://www.zhihu.com/question/19829601">《Redis 和 Memcached 各有什么优缺点，主要的应用场景是什么样的？》</a></li>
+</ul>
+<h2 id="Redis-支持的-Java-客户端都有哪些？"><a href="#Redis-支持的-Java-客户端都有哪些？" class="headerlink" title="Redis 支持的 Java 客户端都有哪些？"></a>Redis 支持的 Java 客户端都有哪些？</h2><p>使用比较广泛的有三个 Java 客户端：</p>
+<ul>
+<li><p>Redisson</p>
+<blockquote>
+<p>Redisson ，是一个高级的分布式协调 Redis 客服端，能帮助用户在分布式环境中轻松实现一些 Java 的对象 (Bloom  filter, BitSet, Set, SetMultimap, ScoredSortedSet, SortedSet, Map,  ConcurrentMap, List, ListMultimap, Queue, BlockingQueue, Deque,  BlockingDeque, Semaphore, Lock, ReadWriteLock, AtomicLong,  CountDownLatch, Publish / Subscribe, HyperLogLog)。</p>
+</blockquote>
+</li>
+<li><p>Jedis</p>
+<blockquote>
+<p>Jedis 是 Redis 的 Java 实现的客户端，其 API 提供了比较全面的 Redis 命令的支持。</p>
+<p>Redisson 实现了分布式和可扩展的 Java 数据结构，和 Jedis 相比，Jedis 功能较为简单。</p>
+<p>Redisson 的宗旨是促进使用者对 Redis 的关注分离，从而让使用者能够将精力更集中地放在处理业务逻辑上。</p>
+</blockquote>
+</li>
+<li><p>Lettuce</p>
+<blockquote>
+<p>Lettuce 是一个可伸缩线程安全的 Redis 客户端。多个线程可以共享同一个 RedisConnection 。它利用优秀 Netty NIO 框架来高效地管理多个连接。</p>
+</blockquote>
+</li>
+</ul>
+<p>Redis 官方推荐使用 Redisson 或 Jedis 。</p>
+<p>Spring Boot 2.x 内置支持 Jedis 和 Lettuce 。一般情况下，建议：</p>
+<ul>
+<li>使用 Spring Data Redis ，提供了透明使用 Jedis 和 Lettuce  的封装。也就是说，大多数时候，我们可以通过配置使用 Jedis 或 Lettuce 进行 Redis 的操作，而上层使用 Spring Data Redis 提供的统一 API 。</li>
+<li>从目前来说，Jedis 会比 Lettuce 更加流行，并且更加稳定。虽然说 Jedis 有一段时间，不再进行更新，但是突然又开始更新，可能是诈尸了。</li>
+<li>如果想要更加丰富的特性，例如说分布式锁，布隆过滤器，可以考虑研究下 Redisson 。</li>
+</ul>
+<h2 id="如何使用-Redis-实现分布式锁？"><a href="#如何使用-Redis-实现分布式锁？" class="headerlink" title="如何使用 Redis 实现分布式锁？"></a>如何使用 Redis 实现分布式锁？</h2><p>Redis 实现分布式锁，需要考虑如下几个方面：</p>
+<ul>
+<li><p>1、正确的获得锁</p>
+<blockquote>
+<p>set 指令附带 nx 参数，保证有且只有一个进程获得到。</p>
+</blockquote>
+</li>
+<li><p>2、正确的释放锁</p>
+<blockquote>
+<p>使用 Lua 脚本，比对锁持有的是不是自己。如果是，则进行删除来释放。</p>
+</blockquote>
+</li>
+<li><p>3、超时的自动释放锁</p>
+<blockquote>
+<p>set 指令附带 expire 参数，通过过期机制来实现超时释放。</p>
+</blockquote>
+</li>
+<li><p>4、未获得到锁的等待机制</p>
+<blockquote>
+<p>sleep 或者基于 Redis 的订阅 Pub/Sub 机制。</p>
+<p>一些业务场景，可能需要支持获得不到锁，直接返回 false ，不等待。</p>
+</blockquote>
+</li>
+<li><p>5、【可选】锁的重入性</p>
+<blockquote>
+<p>通过 ThreadLocal<Integer> 记录是第几次获得相同的锁。</p>
+<p>1）有且第一次计数为 1 &amp;&amp; 获得锁时，才向 Redis 发起获得锁的操作。 2）有且计数为 0 &amp;&amp; 释放锁时，才向 Redis 发起释放锁的操作。</p>
+</blockquote>
+</li>
+<li><p>6、锁超时的处理</p>
+<blockquote>
+<p>一般情况下，可以考虑告警 + 后台线程自动续锁的超时时间。通过这样的机制，保证有且仅有一个线程，正在持有锁。</p>
+</blockquote>
+</li>
+<li><p>7、Redis 分布式锁丢失问题</p>
+<blockquote>
+<p>具体看「方案二：Redlock」。</p>
+</blockquote>
+</li>
+</ul>
+<p>下面，我们来详细说下每个方案。</p>
+<p>🦅 <strong>方案一：set 指令</strong></p>
+<p>先拿 setnx 来争抢锁，抢到之后，再用 expire 给锁加一个过期时间防止锁忘记了释放。</p>
+<ul>
+<li>这时候对方会告诉你说你回答得不错，然后接着问如果在 setnx 之后执行 expire 之前进程意外 crash 或者要重启维护了，那会怎么样？</li>
+<li>这时候你要给予惊讶的反馈：唉，是喔，这个锁就永远得不到释放了。紧接着你需要抓一抓自己得脑袋，故作思考片刻，好像接下来的结果是你主动思考出来的，然后回答：我记得 set 指令有非常复杂的参数，这个应该是可以同时把 setnx 和 expire  合成一条指令来用的！对方这时会显露笑容，心里开始默念：摁，这小子还不错。</li>
+</ul>
+<p>所以，我们可以使用 <strong>set</strong> 指令，实现分布式锁。指令如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">SET key value [EX seconds] [PX milliseconds] [NX|XX]<br></code></pre></td></tr></table></figure>
+
+
+
+<ul>
+<li>可以使用 <code>SET key value EX seconds NX</code> 命令，尝试获得锁。</li>
+<li>具体的实现，可以参考如下文章：<ul>
+<li><a href="http://svip.iocoder.cn/Redisson/ReentrantLock/?self">《精尽 Redisson 源码分析 —— 可重入分布式锁 ReentrantLock》</a></li>
+<li><a href="http://www.iocoder.cn/Fight/redisfen-bu-shi-suo-jin-hua-shi/?self">《Redis 分布式锁进化史解读 + 缺陷分析》</a></li>
+<li><a href="http://www.iocoder.cn/Fight/Correct-implementation-of-Redis-distributed-locks-by-Java/?self">《Redis 分布式锁的正确实现方式（Java 版）》</a></li>
+</ul>
+</li>
+</ul>
+<p>🦅 <strong>方案二：Redlock</strong></p>
+<p>set 指令的方案，适合用于在单机 Redis 节点的场景下，在多 Redis 节点的场景下，会存在分布式锁丢失的问题。所以，Redis 作者 Antirez 基于分布式环境下提出了一种更高级的分布式锁的实现方式：Redlock 。</p>
+<p>具体的源码解析，可以看看 <a href="http://svip.iocoder.cn/Redisson/RedLock/?self">《精尽 Redisson 源码分析 —— 可靠分布式锁 RedLock》</a> 文章。</p>
+<p>具体的方案，胖友可以看看老友飞哥的两篇博客：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/JLEzNqQsx-Lec03eAsXFOQ">《Redlock：Redis分布式锁最牛逼的实现》</a></li>
+<li><a href="https://www.jianshu.com/p/f302aa345ca8">《Redisson 实现 Redis 分布式锁的 N 种姿势》</a></li>
+</ul>
+<p>最近艿艿画了一个 Redisson 实现分布式锁的流程图，胖友可以点击<a href="https://www.processon.com/view/link/5f4c871d079129356ec6f4d7">传送门</a>阅读。</p>
+<p>🦅 <strong>对比 Zookeeper 分布式锁</strong></p>
+<ul>
+<li>从可靠性上来说，Zookeeper 分布式锁好于 Redis 分布式锁。</li>
+<li>从性能上来说，Redis 分布式锁好于 Zookeeper 分布式锁。</li>
+</ul>
+<p>所以，没有绝对的好坏，可以根据自己的业务来具体选择。如果想要更简单，甚至可以考虑基于 MySQL 行锁来实现分布式锁。</p>
+<h2 id="如何使用-Redis-实现分布式限流？"><a href="#如何使用-Redis-实现分布式限流？" class="headerlink" title="如何使用 Redis 实现分布式限流？"></a>如何使用 Redis 实现分布式限流？</h2><p>在 Spring Cloud Gateway 中，提供了 Redis 分布式限流器的实现，具体直接看艿艿写的 <a href="http://www.iocoder.cn/Spring-Cloud-Gateway/filter-request-rate-limiter/">《Spring-Cloud-Gateway 源码解析 —— 过滤器 (4.10) 之 RequestRateLimiterGatewayFilterFactory 请求限流》</a> 的 <a href="http://svip.iocoder.cn/Redis/Interview/#">「5.3 Redis Lua 脚本」</a> 部分。</p>
+<p>另外，Redisson 库中，也提供了 Redis 分布式限流的实现，不过需要使用 Pro 版本。</p>
+<p>🦅 <strong>请用 Redis 和任意语言实现一段恶意登录保护的代码，限制 1 小时内每用户 Id 最多只能登录 5 次。</strong></p>
+<p>这个问题，关键点，就是每个用户，每 3600 秒，只能登陆 5 次。这么一想，其实就是一个如何使用 Redis 实现限流的问题。Redis 实现限流，一共有两种方案：</p>
+<ul>
+<li><p>使用 zset 实现滑动窗口限流。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public boolean isActionAllowed(String userId, String actionKey, int period,<br>    int maxCount) &#123;<br>    String key &#x3D; String.format(&quot;hist:%s:%s&quot;, userId, actionKey); &#x2F;&#x2F; 使用用户编号 + 行为作为 KEY 。这样，我们就可以统计某个用户的操作行为。<br>    long nowTs &#x3D; System.currentTimeMillis(); &#x2F;&#x2F; 获取当前时间。<br>    Pipeline pipe &#x3D; jedis.pipelined(); &#x2F;&#x2F; pipeline 批量操作，提升效率。<br>    pipe.multi(); &#x2F;&#x2F; 此处启动了事务，可以保证指令的原子性。<br>    pipe.zadd(key, nowTs, &quot;&quot; + nowTs); &#x2F;&#x2F; zset 添加，key value score 要看下。<br>    pipe.zremrangeByScore(key, 0, nowTs - (period * 1000)); &#x2F;&#x2F; zremrangeByScore ，移除超过周期的 value 。<br><br>    Response&lt;Long&gt; count &#x3D; pipe.zcard(key); &#x2F;&#x2F; zcard ，计算 zset 的数量<br>    pipe.expire(key, period + 1); &#x2F;&#x2F; 设置过期。这里多 + 1 秒，为了防止网络延迟。<br>    pipe.exec(); &#x2F;&#x2F; pipeline 执行<br>    pipe.close();<br><br>    return count.get() &lt;&#x3D; maxCount; &#x2F;&#x2F; 是否超过最大次数。<br>&#125;<br></code></pre></td></tr></table></figure>
+
+
+
+</li>
+</ul>
+<ul>
+<li>该实现会存在一个问题，可能一个无效的操作，也被记录到次数中。完美的话，可能需要基于 Lua 脚本实现。</li>
+<li>另外，上述代码是每秒操作的时间，实际需要改成每 N 秒。比较简单，直接上手怼即可。</li>
+</ul>
+<ul>
+<li><p>使用 Lua 脚本，实现令牌桶限流算法。具体可以看看艿艿对 <a href="http://www.iocoder.cn/Spring-Cloud-Gateway/filter-request-rate-limiter/?self">《Spring-Cloud-Gateway 源码解析 —— 过滤器 (4.10) 之 RequestRateLimiterGatewayFilterFactory 请求限流》</a> 的源码解析。</p>
+</li>
+<li><p>使用 Lua 脚本，实现简单的滑动窗口。具体可以看看艿艿对 <a href="http://svip.iocoder.cn/Redisson/RateLimiter/?self">《精尽 Redisson 源码分析 —— 限流器 RateLimiter》</a> 的源码解析。</p>
+</li>
+</ul>
+<h2 id="如何使用-Redis-实现消息队列？"><a href="#如何使用-Redis-实现消息队列？" class="headerlink" title="如何使用 Redis 实现消息队列？"></a>如何使用 Redis 实现消息队列？</h2><p>一般使用 list 结构作为队列，rpush 生产消息，lpop 消费消息。当 lpop 没有消息的时候，要适当 sleep 一会再重试。</p>
+<ul>
+<li><p>如果对方追问可不可以不用 sleep 呢？list 还有个指令叫 blpop ，在没有消息的时候，它会阻塞住直到消息到来。</p>
+</li>
+<li><p>如果对方追问能不能生产一次消费多次呢？使用 pub / sub 主题订阅者模式，可以实现 1:N 的消息队列。</p>
+</li>
+<li><p>如果对方追问 pub / sub 有什么缺点？在消费者下线的情况下，生产的消息会丢失，得使用专业的消息队列如 rabbitmq 等。</p>
+<blockquote>
+<p>之前生产中，艿艿就碰到因为网络闪断，导致订阅的 pub/sub 消息丢失，导致 JVM 应用的数据字典和系统参数等缓存未刷新，业务受到影响。所以，最好还是使用专业的消息队列的订阅功能（广播消费）。</p>
+</blockquote>
+</li>
+<li><p>如果对方追问 redis  如何实现延时队列？我估计现在你很想把面试官一棒打死如果你手上有一根棒球棍的话，怎么问的这么详细。但是你很克制，然后神态自若的回答道：使用  sortedset ，拿时间戳作为 score ，消息内容作为 key 调用 zadd 来生产消息，消费者用 zrangebyscore  指令获取 N 秒之前的数据轮询进行处理。</p>
+<blockquote>
+<p>可能很多胖友会觉得抽象，可以看看 <a href="https://cloud.tencent.com/developer/article/1401122">《Redis 学习笔记之延时队列》</a> 。面试中，能回答到 Redis zset 实现延迟队列，还是蛮加分的。</p>
+</blockquote>
+</li>
+</ul>
+<p>到这里，面试官暗地里已经对你竖起了大拇指。但是他不知道的是此刻你却竖起了中指，在椅子背后。</p>
+<p>当然，实际上 Redis 真的真的真的不推荐作为消息队列使用，它最多只是消息队列的存储层，上层的逻辑，还需要做大量的封装和支持。</p>
+<p>另外，在 Redis 5.0 增加了 Stream 功能，一个新的强大的支持多播的可持久化的消息队列，提供类似 Kafka 的功能。</p>
+<h2 id="什么是-Redis-Pipelining-？"><a href="#什么是-Redis-Pipelining-？" class="headerlink" title="什么是 Redis Pipelining ？"></a>什么是 Redis Pipelining ？</h2><p>一次请求/响应服务器能实现处理新的请求即使旧的请求还未被响应。这样就可以将多个命令发送到服务器，而不用等待回复，最后在一个步骤中读取该答复。</p>
+<blockquote>
+<p>注意，Redis Pipelining 是 Redis Client 实现的功能，而不是 Redis Server 提供的特性。假设我们有 3 个请求进行下举例子。</p>
+<ul>
+<li>未使用 Pipeline 时，那么整个执行的顺序是，req1-&gt;resp1-&gt;req2-&gt;resp2-&gt;req3-&gt;resp3 。</li>
+<li>在使用 Pipeline 时，那么整个执行的顺序是，[req1,req2,req3] 一起发给 Redis Server ，而  Redis Server 收到请求后，一个一个请求进行执行，然后响应，不会进行什么特殊处理。而 Client 在收到  resp1,resp2,resp3 后，进行响应给业务上层。</li>
+</ul>
+<p>所以，Pipeline 的作用，是避免每发一个请求，就阻塞等待这个请求的结果。</p>
+</blockquote>
+<p>这就是管道（pipelining），是一种几十年来广泛使用的技术。例如许多 POP3 协议已经实现支持这个功能，大大加快了从服务器下载新邮件的过程。</p>
+<p>Redis 很早就支持管道（<a href="http://redis.cn/topics/pipelining.html">pipelining</a>）技术，因此无论你运行的是什么版本，你都可以使用管道（pipelining）操作 Redis。</p>
+<p>🦅 <strong>Redis 如何做大量数据插入？</strong></p>
+<p>Redis 2.6 开始，Redis-cli 支持一种新的被称之为 pipe mode 的新模式用于执行大量数据插入工作。</p>
+<p>具体可见 <a href="http://www.redis.cn/topics/mass-insert.html">《Redis 大量数据插入》</a> 文章。</p>
+<h2 id="什么是-Redis-事务？"><a href="#什么是-Redis-事务？" class="headerlink" title="什么是 Redis 事务？"></a>什么是 Redis 事务？</h2><p>和众多其它数据库一样，Redis 作为 NoSQL 数据库也同样提供了事务机制。在 Redis 中，MULTI / EXEC /  DISCARD / WATCH  这四个命令是我们实现事务的基石。相信对有关系型数据库开发经验的开发者而言这一概念并不陌生，即便如此，我们还是会简要的列出 Redis  中事务的实现特征：</p>
+<ul>
+<li><p>1、在事务中的所有命令都将会被串行化的顺序执行，事务执行期间，Redis 不会再为其它客户端的请求提供任何服务，从而保证了事物中的所有命令被原子的执行。</p>
+<blockquote>
+<p>Lua 脚本，也能实现该功能。</p>
+</blockquote>
+</li>
+<li><p>2、和关系型数据库中的事务相比，在 Redis 事务中如果有某一条命令执行失败，其后的命令仍然会被继续执行。</p>
+<blockquote>
+<p>这一点，非常重要。回答错了，就回家面壁思过，一天不许喝可乐。</p>
+<p>这一点，是 Lua 脚本不具备的。</p>
+</blockquote>
+</li>
+<li><p>3、我们可以通过 MULTI 命令开启一个事务，有关系型数据库开发经验的人可以将其理解为 <code>&quot;BEGIN TRANSACTION&quot;</code> 语句。在该语句之后执行的命令，都将被视为事务之内的操作，最后我们可以通过执行 EXEC / DISCARD 命令来提交 / 回滚该事务内的所有操作。这两个 Redis 命令，可被视为等同于关系型数据库中的 COMMIT / ROLLBACK 语句。</p>
+<blockquote>
+<p>开启事务后，所有语句，发送给 Redis Server ，都会暂存在 Server 中。</p>
+</blockquote>
+</li>
+<li><p>4、在事务开启之前，如果客户端与服务器之间出现通讯故障并导致网络断开，其后所有待执行的语句都将不会被服务器执行。然而如果网络中断事件是发生在客户端执行 EXEC 命令之后，那么该事务中的所有命令都会被服务器执行。</p>
+</li>
+</ul>
+<p>🦅 <strong>如何实现 Redis CAS 操作？</strong></p>
+<p>在 Redis 的事务中，WATCH 命令可用于提供 CAS(check-and-set) 功能。</p>
+<p>假设我们通过 WATCH 命令在事务执行之前监控了多个 keys ，倘若在 WATCH 之后有任何 Key 的值发生了变化，EXEC 命令执行的事务都将被放弃，同时返回 <code>nil</code> 应答以通知调用者事务执行失败。</p>
+<p>具体的示例，可以看看 <a href="https://www.jianshu.com/p/0244a875aa26">《Redis 事务锁 CAS 实现以及深入误区》</a> 。</p>
+<h2 id="Redis-集群都有哪些方案？"><a href="#Redis-集群都有哪些方案？" class="headerlink" title="Redis 集群都有哪些方案？"></a>Redis 集群都有哪些方案？</h2><p>Redis 集群方案如下：</p>
+<ul>
+<li>1、Redis Sentinel</li>
+<li>2、Redis Cluster</li>
+<li>3、Twemproxy</li>
+<li>4、Codis</li>
+<li>5、客户端分片</li>
+</ul>
+<p>关于前四种，可以看看 <a href="http://blog.720ui.com/2016/redis_action_04_cluster/">《Redis 实战（四）集群机制》</a> 这篇文章。</p>
+<p>关于最后一种，客户端分片，在 Redis Cluster 出现之前使用较多，目前已经使用比较少了。实现方式如下：</p>
+<blockquote>
+<p>在业务代码层实现，起几个毫无关联的 Redis 实例，在代码层，对 Key 进行 hash 计算，然后去对应的 Redis 实例操作数据。</p>
+<p>这种方式对 hash 层代码要求比较高，考虑部分包括，节点失效后的替代算法方案，数据震荡后的自动脚本恢复，实例的监控，等等。</p>
+</blockquote>
+<p>🦅 <strong>选择</strong></p>
+<p>目前一般在选型上来说：</p>
+<ul>
+<li><p>体量较小时，选择 Redis Sentinel ，单主 Redis 足以支撑业务。</p>
+</li>
+<li><p>体量较大时，选择 Redis Cluster ，通过分片，使用更多内存。</p>
+<blockquote>
+<p>关于这个问题，多大体量需要使用 Redis Cluster 呢？朋友的建议是 10G+ 的时候。主要原因是：</p>
+<ul>
+<li>1、一次 RDB 时间随着内存越大，会变大越来越久。同时，一次 fork 的时间也会变久。还有，重启通过 RDB 文件，或者 AOF 日志，恢复时间都会变长。</li>
+<li>2、体量大之后，读写的 QPS 势必比体量小的时候打的多，那么使用 Redis Cluster 相比 Redis Sentinel ，可以分散读写压力到不同的集群中。</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>Redis 集群如何扩容？</strong></p>
+<ul>
+<li><p>如果 Redis 被当做<strong>缓存</strong>使用，使用一致性哈希实现动态扩容缩容。</p>
+<blockquote>
+<p>删除的原因是，不考虑客户端分片的情况，目前基本已经不在用了。</p>
+</blockquote>
+</li>
+<li><p>如果 Redis 被当做一个<strong>持久化存</strong>储使用，必须使用固定的 keys-to-nodes 映射关系，节点的数量一旦确定不能变化。否则的话(即 Redis 节点需要动态变化的情况），必须使用可以在运行时进行数据再平衡的一套系统，而当前只有 Redis Cluster、Codis 可以做到这样。</p>
+</li>
+</ul>
+<p>如果是 Redis Cluster 集群的扩容，可以看看 <a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 的「10.4 集群 —— 集群伸缩」小节。简单来说，一共三步：</p>
+<ul>
+<li>1、准备新节点。</li>
+<li>2、加入集群。</li>
+<li>3、迁移槽和数据。</li>
+</ul>
+<h2 id="什么是-Redis-主从同步？"><a href="#什么是-Redis-主从同步？" class="headerlink" title="什么是 Redis 主从同步？"></a>什么是 Redis 主从同步？</h2><p><strong>Redis 主从同步</strong></p>
+<p>Redis 的主从同步(replication)机制，允许 Slave 从 Master 那里，通过网络传输拷贝到完整的数据备份，从而达到主从机制。</p>
+<ul>
+<li>主数据库可以进行读写操作，当发生写操作的时候自动将数据同步到从数据库，而从数据库一般是只读的，并接收主数据库同步过来的数据。</li>
+<li>一个主数据库可以有多个从数据库，而一个从数据库只能有一个主数据库。</li>
+<li>第一次同步时，主节点做一次 bgsave 操作，并同时将后续修改操作记录到内存 buffer ，待完成后将 RDB  文件全量同步到复制节点，复制节点接受完成后将 RDB  镜像加载到内存。加载完成后，再通知主节点将期间修改的操作记录同步到复制节点进行重放就完成了同步过程。</li>
+</ul>
+<p><strong>好处</strong></p>
+<p>通过 Redis 的复制功，能可以很好的实现数据库的读写分离，提高服务器的负载能力。主数据库主要进行写操作，而从数据库负责读操作。</p>
+<blockquote>
+<p>实际上，我们不是非常推荐在 Redis 中，使用读写分离。主要有两个原因：</p>
+<ul>
+<li>Redis Sentinel 只保证主节点的故障的失效转移，而例如说 Jedis  库，也只监听了主节点的变化，但是从节点故障的情况，Jedis 是不进行处理的。这就会导致，Jedis  读会访问到从节点，导致问题。当然，Redisson 库的功能比较强大，已经支持从节点的故障监听。</li>
+<li>如果到达需要读写分离的体量，一般写操作也不一定会少，可以考虑上 Redis Cluster 方案，更加可靠。</li>
+</ul>
+</blockquote>
+<hr>
+<p>Redis 主从同步，是很多 Redis 集群方案的基础，例如 Redis Sentinel、Redis Cluster 等等。</p>
+<p>更多详细，可以看看如下：</p>
+<blockquote>
+<p>因为主从复制的内容很多，艿艿这里就不详细哔哔了。实际场景下，对于开发的面试，我们也不会特别问，毕竟更偏运维的内容。</p>
+</blockquote>
+<ul>
+<li><a href="http://redis.cn/topics/replication.html">《Redis 官方文档 —— 复制》</a></li>
+<li><a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 的「6. 复制」章节，更加详细完整。</li>
+</ul>
+<!--[《Redis 主从架构》](https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/redis-master-slave.md) 。-->
+
+<h2 id="如何使用-Redis-Sentinel-实现高可用？"><a href="#如何使用-Redis-Sentinel-实现高可用？" class="headerlink" title="如何使用 Redis Sentinel 实现高可用？"></a>如何使用 Redis Sentinel 实现高可用？</h2><p>详细，可以看看如下：</p>
+<blockquote>
+<p>因为 Redis Sentinel 的内容很多，艿艿这里就不详细哔哔了。实际场景下，对于开发的面试，我们也不会特别问，毕竟更偏运维的内容。</p>
+</blockquote>
+<ul>
+<li><a href="http://redis.cn/topics/sentinel.html">《Redis 官方文档 —— Sentinel 高可用》</a></li>
+<li><a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 的「9. 哨兵」章节，更加详细完整。</li>
+</ul>
+<!--[《Redis 哨兵集群实现高可用》](https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/redis-sentinel.md) 。-->
+
+<h2 id="如果使用-Redis-Cluster-实现高可用？"><a href="#如果使用-Redis-Cluster-实现高可用？" class="headerlink" title="如果使用 Redis Cluster 实现高可用？"></a>如果使用 Redis Cluster 实现高可用？</h2><p>详细，可以看看如下：</p>
+<blockquote>
+<p>因为 Redis Sentinel 的内容很多，艿艿这里就不详细哔哔了。实际场景下，对于开发的面试，我们也不会特别问，毕竟更偏运维的内容。</p>
+</blockquote>
+<ul>
+<li><a href="http://redis.cn/topics/cluster-tutorial.html">《Redis 官方文档 —— Redis Cluster 集群》</a></li>
+<li><a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 的「10. 集群」章节，更加详细完整。</li>
+</ul>
+<!--[《Redis 集群模式的工作原理能说一下么？》](https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/redis-cluster.md) 精简版-->
+
+<p>🦅 <strong>说说 Redis 哈希槽的概念？</strong></p>
+<p>Redis Cluster 没有使用一致性 hash ，而是引入了哈希槽的概念。</p>
+<p>Redis 集群有 16384 个哈希槽，每个 key 通过 CRC16 校验后对 16384 取模来决定放置哪个槽，集群的每个节点负责一部分 hash 槽。</p>
+<p>因为最大是 16384 个哈希槽，所以考虑 Redis 集群中的每个节点都能分配到一个哈希槽，所以最多支持 16384 个 Redis 节点。</p>
+<p>为什么是 16384 呢？主要考虑集群内的网络带宽，而 16384 刚好是 2K 字节大小。</p>
+<p>🦅 <strong>Redis Cluster 的主从复制模型是怎样的？</strong></p>
+<p>为了使在部分节点失败或者大部分节点无法通信的情况下集群仍然可用，所以集群使用了<strong>主从复制</strong>模型，每个节点都会有 N-1 个复制节点。</p>
+<p>所以，Redis Cluster 可以说是 Redis Sentinel 带分片的加强版。也可以说：</p>
+<ul>
+<li>Redis Sentinel 着眼于高可用，在 master 宕机时会自动将 slave 提升为 master ，继续提供服务。</li>
+<li>Redis Cluster 着眼于扩展性，在单个 Redis 内存不足时，使用 Cluster 进行分片存储。</li>
+</ul>
+<p>🦅 <strong>Redis Cluster 方案什么情况下会导致整个集群不可用？</strong></p>
+<p>有 A，B，C 三个节点的集群，在没有复制模型的情况下，如果节点 B 宕机了，那么整个集群就会以为缺少 5501-11000 这个范围的槽而不可用。当然，这种情况也可以配置 <code>cluster-require-full-coverage=no</code> ，整个集群无需所有槽位覆盖。</p>
+<p>🦅 <strong>Redis Cluster 会有写操作丢失吗？为什么？</strong></p>
+<p>Redis 并不能保证数据的强一致性，而是【异步复制】，这意味这在实际中集群在特定的条件下可能会丢失写操作。</p>
+<blockquote>
+<p>艿艿：一定一定一定要注意，无论对于 Redis Sentinel 还是 Redis Cluster 方案，都是通过主从复制，所以在数据的复制方面，都存在相同的情况。</p>
+</blockquote>
+<p>🦅 <strong>Redis 集群如何选择数据库？</strong></p>
+<p>Redis 集群目前无法做数据库选择，默认在 0 数据库。</p>
+<p>🦅 <strong>请说说生产环境中的 Redis 是怎么部署的？</strong></p>
+<blockquote>
+<p>重点问题，仔细理解。</p>
+</blockquote>
+<ul>
+<li><p>Redis Cluster ，10 台机器，5 台机器部署了 Redis 主实例，另外 5 台机器部署了 Redis  的从实例，每个主实例挂了一个从实例，5 个节点对外提供读写服务，每个节点的读写高峰 qps 可能可以达到每秒 5 万，5 台机器最多是 25  万读写请求每秒。</p>
+</li>
+<li><p>机器是什么配置？32G 内存 + 8 核 CPU + 1T 磁盘，但是分配给 Redis 进程的是 10G 内存，一般线上生产环境，Redis 的内存尽量不要超过 10G，超过 10G 可能会有问题。那么，5 台机器对外提供读写，一共有 50G 内存。</p>
+</li>
+<li><p>因为每个主实例都挂了一个从实例，所以是高可用的，任何一个主实例宕机，都会自动故障迁移，Redis 从实例会自动变成主实例继续提供读写服务。</p>
+</li>
+<li><p>你往内存里写的是什么数据？每条数据的大小是多少？商品数据，每条数据是 10kb 。100 条数据是 1mb ，10 万条数据是 1G  。常驻内存的是 200 万条商品数据，占用内存是 20G ，仅仅不到总内存的 50% 。目前高峰期每秒就是 3500 左右的请求量。</p>
+<blockquote>
+<p>一般来说，当公司体量大了之后，建议是一个业务线独占一个或多个 Redis Cluster 集群，实现好业务线与业务线之间的隔离。</p>
+</blockquote>
+</li>
+<li><p>其实大型的公司，会有基础架构的 Team 负责缓存集群的运维。</p>
+</li>
+</ul>
+<h2 id="什么是-Redis-分区？"><a href="#什么是-Redis-分区？" class="headerlink" title="什么是 Redis 分区？"></a>什么是 Redis 分区？</h2><blockquote>
+<p>这个问题，和 <a href="http://svip.iocoder.cn/Redis/Interview/#">「Redis 集群都有哪些方案？」</a> 是同类问题。</p>
+<p>简单看看即可，重点还是去理解 Redis Cluster 集群方案。</p>
+</blockquote>
+<p>🦅 关于如下四个问题，直接看 <a href="http://www.runoob.com/redis/redis-partitioning.html">《Redis 分区》</a> 文章。</p>
+<ul>
+<li>Redis 分区是什么？</li>
+<li>分区的优势？</li>
+<li>分区的不足？</li>
+<li>分区类型？</li>
+</ul>
+<p>可能有胖友会懵逼，又是 Redis 主从复制，又是 Redis 分区，又是 Redis 集群。傻傻分不清啊！</p>
+<ul>
+<li><p>Redis 分区是一种模式，将数据分区到不同的 Redis 节点上，而 Redis 集群的 Redis Cluster、Twemproxy、Codis、客户端分片( 不包括 Redis Sentinel ) 这四种方案，是 Redis 分区的具体实现。</p>
+<blockquote>
+<p>注意，Redis Sentinel 实现的是 Redis 的高可用，一定要分清楚。实际上，胖友可以对比 MySQL 和 MongoDB 的高可用、集群的方案，发现思路都是一致的。</p>
+</blockquote>
+</li>
+<li><p>Redis 每个分区，如果想要实现高可用，需要使用到 Redis 主从复制。</p>
+</li>
+</ul>
+<p>🦅 <strong>你知道有哪些 Redis 分区实现方案</strong>？</p>
+<p>Redis 分区方案，主要分成两种类型：</p>
+<ul>
+<li>客户端分区，就是在客户端就已经决定数据会被存储到哪个 Redis 节点或者从哪个 Redis 节点读取。大多数客户端已经实现了客户端分区。<ul>
+<li>案例：Redis Cluster 和客户端分区。</li>
+</ul>
+</li>
+<li>代理分区，意味着客户端将请求发送给代理，然后代理决定去哪个节点写数据或者读数据。代理根据分区规则决定请求哪些 Redis 实例，然后根据 Redis 的响应结果返回给客户端。<ul>
+<li>案例：Twemproxy 和 Codis 。</li>
+</ul>
+</li>
+</ul>
+<p>查询路由(Query routing)的意思，是客户端随机地请求任意一个 Redis 实例，然后由 Redis 将请求转发给正确的  Redis 节点。Redis Cluster 实现了一种混合形式的查询路由，但并不是直接将请求从一个Redis 节点转发到另一个 Redis  节点，而是在客户端的帮助下直接 Redirect 到正确的 Redis 节点。</p>
+<blockquote>
+<p>Redis Cluster 的重定向，可以认真看看 <a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 的「10.5 集群 - 请求路由」章节。</p>
+</blockquote>
+<p>🦅 <strong>分布式 Redis 是前期做还是后期规模上来了再做好？为什么？？</strong></p>
+<p>如下是网络上的一个答案：</p>
+<blockquote>
+<p>既然 Redis 是如此的轻量，为防止以后的扩容，最好的办法就是一开始就启动较多实例。即便你只有一台服务器，你也可以一开始就让 Redis 以分布式的方式运行，使用分区，在同一台服务器上启动多个实例。</p>
+<p>一开始就多设置几个 Redis 实例，例如 32 或者 64 个实例，对大多数用户来说这操作起来可能比较麻烦，但是从长久来看做这点牺牲是值得的。</p>
+<p>这样的话，当你的数据不断增长，需要更多的 Redis 服务器时，你需要做的就是仅仅将 Redis 实例从一台服务迁移到另外一台服务器而已（而不用考虑重新分区的问题）。一旦你添加了另一台服务器，你需要将你一半的 Redis 实例从第一台机器迁移到第二台机器。</p>
+</blockquote>
+<ul>
+<li>和飞哥沟通了下，这个操作不是很合理。</li>
+<li>无论怎么说，建议，需要搭建下 Redis Sentinel 高可用，至于拓展性，根据自己的情况，是否使用 Redis Cluster  集群。同时， Redis Cluster 集群会有运维的复杂性，同时会存在跨分片操作（例如说 mget 等等）、事务等操作是不支持的。</li>
+</ul>
+<h2 id="Redis-有哪些重要的健康指标？"><a href="#Redis-有哪些重要的健康指标？" class="headerlink" title="Redis 有哪些重要的健康指标？"></a>Redis 有哪些重要的健康指标？</h2><p>推荐阅读 <a href="https://mp.weixin.qq.com/s/D_khsApGkRckEoV75pYpDA">《Redis 几个重要的健康指标》</a></p>
+<ul>
+<li>存活情况</li>
+<li>连接数</li>
+<li>阻塞客户端数量</li>
+<li>使用内存峰值</li>
+<li>内存碎片率</li>
+<li>缓存命中率</li>
+<li>OPS</li>
+<li>持久化</li>
+<li>失效KEY</li>
+<li>慢日志</li>
+</ul>
+<p><strong>如何提高 Redis 命中率？</strong></p>
+<p>推荐阅读 <a href="http://www.cnblogs.com/shamo89/p/8383915.html">《如何提高缓存命中率（Redis）》</a> 。</p>
+<h2 id="怎么优化-Redis-的内存占用？"><a href="#怎么优化-Redis-的内存占用？" class="headerlink" title="怎么优化 Redis 的内存占用？"></a>怎么优化 Redis 的内存占用？</h2><p>推荐阅读 <a href="https://www.jianshu.com/p/8677603d3865">《Redis 的内存优化》</a></p>
+<ul>
+<li>redisObject 对象</li>
+<li>缩减键值对象</li>
+<li>共享对象池</li>
+<li>字符串优化</li>
+<li>编码优化</li>
+<li>控制 key 的数量</li>
+</ul>
+<p>🦅 <strong>一个 Redis 实例最多能存放多少的 keys？List、Set、Sorted Set 他们最多能存放多少元素？</strong></p>
+<p>一个 Redis 实例，最多能存放多少的 keys ，List、Set、Sorted Set 他们最多能存放多少元素。</p>
+<p>理论上，Redis 可以处理多达 2^32 的 keys ，并且在实际中进行了测试，每个实例至少存放了 2 亿 5 千万的 keys。</p>
+<p>任何 list、set、和 sorted set 都可以放 2^32 个元素。</p>
+<p>🦅 <strong>假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？</strong></p>
+<p>使用 <code>keys</code> 指令可以扫出指定模式的 key 列表。</p>
+<ul>
+<li>对方接着追问：如果这个 Redis 正在给线上的业务提供服务，那使用 <code>keys</code> 指令会有什么问题？</li>
+<li>这个时候你要回答 Redis 关键的一个特性：Redis 的单线程的。<code>keys</code> 指令会导致线程阻塞一段时间，线上服务会停顿，直到指令执行完毕，服务才能恢复。这个时候可以使用 <code>scan</code> 指令，<code>scan</code> 指令可以无阻塞的提取出指定模式的 key 列表，但是会有一定的重复概率，在客户端做一次去重就可以了，但是整体所花费的时间会比直接用 <code>keys</code> 指令长。</li>
+</ul>
+<h2 id="Redis-常见的性能问题都有哪些？如何解决？"><a href="#Redis-常见的性能问题都有哪些？如何解决？" class="headerlink" title="Redis 常见的性能问题都有哪些？如何解决？"></a>Redis 常见的性能问题都有哪些？如何解决？</h2><ul>
+<li><p>1、<strong>Master 最好不要做任何持久化工作，如 RDB 内存快照和 AOF 日志文件</strong>。</p>
+<blockquote>
+<p>经过和朋友讨论，主节点开启 AOF 日志功能，尽量避免 AOF 重写。</p>
+</blockquote>
+<ul>
+<li>Master 写内存快照，save 命令调度 rdbSave 函数，会阻塞主线程的工作，当快照比较大时对性能影响是非常大的，会间断性暂停服务，所以 Master 最好不要写内存快照。</li>
+<li>Master AOF 持久化，如果不重写 AOF 文件，这个持久化方式对性能的影响是最小的，但是 AOF 文件会不断增大，AOF 文件过大会影响 Master 重启的恢复速度。</li>
+<li>所以，Master 最好不要做任何持久化工作，包括内存快照和 AOF 日志文件，特别是不要启用内存快照做持久化。如果数据比较关键，某个 Slave 开启AOF备份数据，策略为每秒同步一次。</li>
+</ul>
+</li>
+<li><p>2、Master 调用 BGREWRITEAOF 重写 AOF 文件，AOF 在重写的时候会占大量的 CPU 和内存资源，导致服务 load 过高，出现短暂服务暂停现象。</p>
+<ul>
+<li>一般来说，出现这个问题，很多时候是因为 Master 的内存过大，一次 AOF 重写需要占用的 CPU 和内存的资源较多，此时可以考虑 Redis Cluster 方案。</li>
+</ul>
+</li>
+<li><p>3、尽量避免在压力很大的主库上增加过多的从库。</p>
+<ul>
+<li>可以考虑在从上挂载其它的从。</li>
+</ul>
+</li>
+<li><p>4、主从复制不要用图状结构，用单向链表结构更为稳定，即：<code>Master &lt;- Slave1 &lt;- Slave2 &lt;- Slave3...</code> 。</p>
+<ul>
+<li><p>这样的结构，也方便解决单点故障问题，实现 Slave 对 Master 的替换。如果 Master挂了，可以立刻启用 Slave1 做 Master ，其他不变。</p>
+<blockquote>
+<p>从节点在切换主节点作为复制源的时候，会重新发起全量复制。所以此处通过 Slave1 挂在 Slave 下，可以规避这个问题。同时，也减少了 Master 的复制压力。当然，坏处就是 Slave1 的延迟可能会高一些些，所以还是需要取舍。</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><p>5、Redis 主从复制的性能问题，为了主从复制的速度和连接的稳定性，Slave 和 Master 最好在同一个局域网内。</p>
+</li>
+</ul>
+<hr>
+<p>和飞哥沟通过后，他们主节点开启 AOF ，从节点开启 AOF + RDB 。</p>
+<p>和晓峰沟通后，他们主节点开启 AOF ，从节点开启 RDB 居多，也有开启 AOF + RDB 的。</p>
+<h2 id="修改配置不重启-Redis-会实时生效吗？"><a href="#修改配置不重启-Redis-会实时生效吗？" class="headerlink" title="修改配置不重启 Redis 会实时生效吗？"></a>修改配置不重启 Redis 会实时生效吗？</h2><p>针对运行实例，有许多配置选项可以通过 <code>CONFIG SET</code> 命令进行修改，而无需执行任何形式的重启。</p>
+<p>从 Redis 2.2 开始，可以从 AOF 切换到 RDB 的快照持久性或其他方式而不需要重启 Redis。检索 <code>CONFIG GET *</code> 命令获取更多信息。</p>
+<p>但偶尔重新启动是必须的，如为升级 Redis 程序到新的版本，或者当你需要修改某些目前 CONFIG 命令还不支持的配置参数的时候。</p>
+<h2 id="其他问题"><a href="#其他问题" class="headerlink" title="其他问题"></a>其他问题</h2><p>有些比较凶残的面试官，可能会问我们一些 Redis 数据结构的问题，例如：</p>
+<ul>
+<li><p>Skiplist 插入和查询原理？</p>
+</li>
+<li><p>压缩列表的原理？</p>
+</li>
+<li><p>Redis 底层为什么使用跳跃表而不是红黑树？</p>
+<blockquote>
+<p>跳跃表在范围查找的时候性能比较高。</p>
+</blockquote>
+</li>
+</ul>
+<p>想要了解这块，需要花一定的时间去撸一撸源码，推荐可以看如下两块内容：</p>
+<ul>
+<li><a href="https://juejin.im/book/5afc2e5f6fb9a07a9b362527?referrer=5904c637b123db3ee479d923">《Redis 深度历险：核心原理与应用实践》</a></li>
+<li><a href="https://u.jd.com/Fl5NTt">《Redis 设计与实现》</a></li>
+</ul>
+<p>推荐先读第一本，可以深入浅出的了解 Redis 原理和源码。然后在读第二本，硬核了解 Redis 的设计与实现（源码）。</p>
+<h2 id="666-彩蛋"><a href="#666-彩蛋" class="headerlink" title="666. 彩蛋"></a>666. 彩蛋</h2><p>哇哦，爽。虽然过程痛苦，但是中间请教了蛮多人问题，收获颇多哈。</p>
+<p>嘿嘿，在回答问题的过程中，胖友会发现一直在推荐 <a href="https://u.jd.com/lDNJa9">《Redis 开发与运维》</a> 这本书。在艿艿整理完第一版 Redis 面试题后，发现对有些 Redis 的面试题，理解还是有所欠缺（当然现在可能也是，哈哈哈），重新翻看了下这本书，发现很多问题都得到了非常不错的解答。所以，推荐再推荐。</p>
+<p>参考与推荐如下文章：</p>
+<ul>
+<li>JeffreyLcm <a href="https://segmentfault.com/a/1190000014507534">《Redis 面试题》</a></li>
+<li>烙印99 <a href="https://www.imooc.com/article/36399">《史上最全 Redis 面试题及答案》</a></li>
+<li>yanglbme <a href="https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/redis-single-thread-model.md">《Redis 和 Memcached 有什么区别？Redis 的线程模型是什么？为什么单线程的 Redis 比多线程的 Memcached 效率要高得多？》</a></li>
+<li>老钱 <a href="https://zhuanlan.zhihu.com/p/32540678">《天下无难试之 Redis 面试题刁难大全》</a></li>
+<li>yanglbme <a href="https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/redis-persistence.md">《Redis 的持久化有哪几种方式？不同的持久化机制都有什么优缺点？持久化机制具体底层是如何实现的？》</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Redis</category>
+        <category>面试</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+        <tag>Redis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MySQL学习笔记</title>
     <url>/2019/10/12/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="MySQL学习笔记"><a href="#MySQL学习笔记" class="headerlink" title="MySQL学习笔记"></a>MySQL学习笔记</h1><h2 id="登录和退出MySQL服务器"><a href="#登录和退出MySQL服务器" class="headerlink" title="登录和退出MySQL服务器"></a>登录和退出MySQL服务器</h2><figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"> 登录MySQL</span><br><span class="hljs-meta">$</span><span class="bash"> mysql -u root -p12345612</span><br><br><span class="hljs-meta">#</span><span class="bash"> 退出MySQL数据库服务器</span><br>exit;<br></code></pre></td></tr></table></figure>
@@ -2814,6 +3625,1204 @@
       <tags>
         <tag>学习笔记</tag>
         <tag>mysql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>8</title>
+    <url>/2016/10/12/8/</url>
+    <content><![CDATA[<h1 id="精尽计算机网络面试题"><a href="#精尽计算机网络面试题" class="headerlink" title="精尽计算机网络面试题"></a>精尽计算机网络面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
+<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的【网络】面试题的大保健。</p>
+<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
+<p>因为网络是个很大的话题，所以本文以常见的 TCP 和 HTTP 题目为主，例如：</p>
+<ul>
+<li>TCP 三次握手、四次挥手是什么？</li>
+<li>HTTP1.0、HTTP1.1、HTTP2 等的区别？</li>
+<li>…</li>
+</ul>
+<p><strong>注意，经常问的问题，会在前面加【重要】标识</strong>。</p>
+<h1 id="网络体系结构"><a href="#网络体系结构" class="headerlink" title="网络体系结构"></a>网络体系结构</h1><p>强烈推荐阅读两篇文章：</p>
+<blockquote>
+<p>艿艿：可以后续回过头来看。</p>
+</blockquote>
+<ul>
+<li><a href="https://blog.csdn.net/justloveyou_/article/details/69611328">《计算机网络体系结构综述（上）》</a></li>
+<li><a href="https://blog.csdn.net/justloveyou_/article/details/69612153">《计算机网络体系结构综述（下）》</a></li>
+</ul>
+<p>简单一瞥：</p>
+<ul>
+<li><strong>OSI 七层体系结构</strong>具有概念清楚、理论完整的特点，是一个理论上的国际标准，但却不是事实上的国际标准。</li>
+<li>具有简单易用特点的 <strong>TCP/IP 四层体系结构</strong>则是事实上的标准。</li>
+<li>需要指出的是，<strong>五层体系结构</strong>虽然综合了 OSI 和 TCP/IP 的优点，但其只是为了学术学习研究而提出的，没有具体的实际意义。</li>
+<li>三者结构示意图如下所示：<img src="http://cdn.tuwenbin.vip/d6f64b4331cc61156c5a098c18ce05a9.png" alt="1">原理体系结构 VS OS VS TCP/IP</li>
+</ul>
+<h2 id="简述-OSI-七层体系结构"><a href="#简述-OSI-七层体系结构" class="headerlink" title="简述 OSI 七层体系结构"></a>简述 OSI 七层体系结构</h2><blockquote>
+<p>艿艿：比较复杂，至少要说出有哪些层。</p>
+</blockquote>
+<p>自上而下是：</p>
+<ul>
+<li>应用层（数据）：确定进程之间通信的性质以满足用户需要以及提供网络与用户应用</li>
+<li>表示层（数据）：主要解决用户信息的语法表示问题，如加密解密</li>
+<li>会话层（数据）：提供包括访问验证和会话管理在内的建立和维护应用之间通信的机制，如服务器验证用户登录便是由会话层完成的</li>
+<li>传输层（段）：实现网络不同主机上用户进程之间的数据通信，可靠<br>与不可靠的传输，传输层的错误检测，流量控制等</li>
+<li>网络层（包）：提供逻辑地址（IP）、选路，数据从源端到目的端的<br>传输</li>
+<li>数据链路层（帧）：将上层数据封装成帧，用MAC地址访问媒介，错误检测与修正</li>
+<li>物理层（比特流）：设备之间比特流的传输，物理接口，电气特性等</li>
+</ul>
+<p>详细可以看 <a href="https://blog.csdn.net/justloveyou_/article/details/69612153">《计算机网络体系结构综述（下）》</a> 的 <a href="http://svip.iocoder.cn/Net/Interview/#">「二. OSI 七层体系结构简述」</a> 小节。</p>
+<p><a href="https://user-gold-cdn.xitu.io/2018/7/29/164e529309f0fa33?imageslim">OSI 七层体系结构</a></p>
+<h2 id="简述-TCP-IP-四层体系结构"><a href="#简述-TCP-IP-四层体系结构" class="headerlink" title="简述 TCP/IP 四层体系结构"></a>简述 TCP/IP 四层体系结构</h2><blockquote>
+<p>艿艿：比较复杂，至少要说出有哪些层。</p>
+</blockquote>
+<p>自上而下是：</p>
+<blockquote>
+<p>实际上，如果我们把一些 RPC 框架的分层套到 TCP/IP 四层体系结构，也是可以的。跳到 <a href="http://svip.iocoder.cn/Dubbo/Interview/">《精尽 Dubbo 面试题》</a> 的 <a href="http://svip.iocoder.cn/Dubbo/Interview/#Dubbo-%E6%A1%86%E6%9E%B6%E7%9A%84%E5%88%86%E5%B1%82%E8%AE%BE%E8%AE%A1">「Dubbo 框架的分层设计」</a> 问题瞅瞅噢。</p>
+</blockquote>
+<ul>
+<li><p>应用层</p>
+<blockquote>
+<p>HTTP、TELNET、FTP、SMTP</p>
+</blockquote>
+</li>
+<li><p>传输层</p>
+<blockquote>
+<p>TCP、UDP</p>
+</blockquote>
+</li>
+<li><p>网络层</p>
+<blockquote>
+<p>IP、ICMP</p>
+</blockquote>
+</li>
+<li><p>数据接口</p>
+<blockquote>
+<p>PPP</p>
+</blockquote>
+</li>
+</ul>
+<p>详细可以看 <a href="https://blog.csdn.net/justloveyou_/article/details/69612153">《计算机网络体系结构综述（下）》</a> 的 <a href="http://svip.iocoder.cn/Net/Interview/#">「三. TCP/IP 四层体系结构」</a> 小节。</p>
+<h2 id="知道各个层使用的是哪个数据交换设备？"><a href="#知道各个层使用的是哪个数据交换设备？" class="headerlink" title="知道各个层使用的是哪个数据交换设备？"></a>知道各个层使用的是哪个数据交换设备？</h2><blockquote>
+<p>这个问题，了解即可。</p>
+</blockquote>
+<ul>
+<li><p>网关：应用层、传输层。</p>
+<blockquote>
+<p>网关在传输层上以实现网络互连，是最复杂的网络互连设备，仅用于两个高层协议不同的网络互连。</p>
+<p>网关的结构也和路由器类似，不同的是互连层。网关既可以用于广域网互连，也可以用于局域网互连。</p>
+</blockquote>
+</li>
+<li><p>【重点】路由器：网络层</p>
+<blockquote>
+<p>路由选择、存储转发</p>
+</blockquote>
+</li>
+<li><p>【重点】交换机：数据链路层、网络层</p>
+<blockquote>
+<p>识别数据包中的 MAC 地址信息，根据 MAC 地址进行转发，并将这些 MAC 地址与对应的端口记录在自己内部的一个地址表中。</p>
+</blockquote>
+</li>
+<li><p>网桥：数据链路层</p>
+<blockquote>
+<p>将两个 LAN 连起来，根据 MAC 地址来转发帧。</p>
+</blockquote>
+</li>
+<li><p>集线器（Hub）：物理层</p>
+<blockquote>
+<p>纯硬件设备，主要用来连接计算机等网络终端。</p>
+</blockquote>
+</li>
+<li><p>中继器：物理层</p>
+<blockquote>
+<p>在比特级别对网络信号进行再生和重定时，从而使得它们能够在网络上传输更长的距离。</p>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>交换机是什么？</strong></p>
+<p>在计算机网络系统中，交换机是针对共享工作模式的弱点而推出的。交换机拥有一条高带宽的背部总线和内部交换矩阵。交换机的所有的端口都挂接在这条背部总线上，当控制电路收到数据包以后，处理端口会查找内存中的地址对照表以确定目的 MAC（网卡的硬件地址）的 NIC（网卡）挂接在哪个端口上，通过内部交换矩阵迅速将数据包传送到目的端口。<strong>目的 MAC 若不存在，交换机才广播到所有的端口，接收端口回应后交换机会“学习”新的地址，并把它添加入内部地址表中</strong>。</p>
+<p>交换机工作于 OSI 参考模型的第二层，即数据链路层。交换机内部的 CPU 会在每个端口成功连接时，通过 ARP 协议学习它的 MAC  地址，保存成一张 ARP 表。在今后的通讯中，发往该 MAC  地址的数据包将仅送往其对应的端口，而不是所有的端口。因此，交换机可用于划分数据链路层广播，即冲突域；但它不能划分网络层广播，即广播域。</p>
+<p>🦅  <strong>路由器是什么？</strong></p>
+<p>路由器（Router），是一种计算机网络设备，提供了路由与转发两种重要机制，可以决定数据包从来源端到目的端所经过的路由路径（host 到 host 之间的传输路径），这个过程称为<strong>路由</strong>；将路由器输入端的数据包移送至适当的路由器输出端(在路由器内部进行)，这称为<strong>转发</strong>。所以，路由器的一个作用是连通不同的网络，另一个作用是选择信息传送的线路。</p>
+<p>路由工作在 OSI 模型的第三层 —— 即网络层，例如 IP 协议。当然，这也是路由器与交换器的<strong>差别</strong>，路由器是属于 OSI 第三层的产品，交换器是 OSI 第二层的产品(这里特指二层交换机)。</p>
+<p>🦅 <strong>常见的路由选择协议，以及它们的区别？</strong></p>
+<p>常见的路由选择协议有：RIP 协议、OSPF 协议。</p>
+<ul>
+<li>RIP 协议：底层是贝尔曼福特算法，它选择路由的度量标准（metric)是跳数，最大跳数是 15 跳。如果大于 15 跳，它就会丢弃数据包。</li>
+<li>OSPF 协议：底层是迪杰斯特拉算法，是链路状态路由选择协议，它选择路由的度量标准是带宽，延迟。</li>
+</ul>
+<p>🦅 <strong>什么是网关设备？</strong></p>
+<p>这个我们就不在本文中多写，感兴趣的胖友，可以看看 <a href="https://zh.wikipedia.org/wiki/%E7%BD%91%E5%85%B3">《维基百科 —— 网关》</a> 文章。</p>
+<p>🦅 <strong>详细说明 Keepalived 的故障切换工作原理？</strong></p>
+<p>这种故障切换，是通过 <strong>VRRP</strong> 协议来实现的。</p>
+<ul>
+<li>主节点会按一定的时间间隔发送心跳信息的广播包，告诉备节点自己的存活状态信息。</li>
+<li>当主节点发生故障时，备节点在一段时间内就收到广播包，从而判断主节点出现故障，因此会调用自身的接管程序来接管主节点的 IP 资源及服务。</li>
+<li>当主节点恢复时，备节点会主动释放资源，恢复到接管前的状态，从而来实现主备故障切换</li>
+</ul>
+<p>例如，MySQL 基于 Keepalived 实现高可用。详细的，可以看看 <a href="https://www.cnblogs.com/gomysql/p/3856484.html">《Keepalived + MySQL实现高可用》</a> 。</p>
+<h1 id="IP"><a href="#IP" class="headerlink" title="IP"></a>IP</h1><h2 id="IP-地址的分类？"><a href="#IP-地址的分类？" class="headerlink" title="IP 地址的分类？"></a>IP 地址的分类？</h2><p>IP 地址是指互联网协议地址，是 IP 协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异。</p>
+<p>IP 地址编址方案将IP地址空间划分为 A、B、C、D、E 五类，其中 A、B、C 是基本类，D、E 类作为多播和保留使用，为特殊地址。</p>
+<p>每个 IP 地址包括两个标识码（ID），即网络 ID 和主机 ID 。同一个物理网络上的所有主机都使用同一个网络 ID ，网络上的一个主机（包括网络上工作站，服务器和路由器等）有一个主机 ID 与其对应。A~E 类地址的特点如下：</p>
+<p><img src="http://cdn.tuwenbin.vip/l7re66fk.bmp">五类互联网地址</p>
+<ul>
+<li>A 类地址：以 0 开头，第一个字节范围：0~127 。</li>
+<li>B 类地址：以 10 开头，第一个字节范围：128~191 。</li>
+<li>C 类地址：以 110 开头，第一个字节范围：192~223。</li>
+<li>D 类地址：以 1110 开头，第一个字节范围：224~239 。</li>
+<li>E 类地址：以 1111 开头，保留地址。</li>
+</ul>
+<p>详细的，可以看看 <a href="https://blog.csdn.net/kzadmxz/article/details/73658168">《IP 地址分类（A类 B类 C类 D类 E类）》</a> 文章。</p>
+<p>🦅 <strong>IP 地址与物理地址的区别？</strong></p>
+<ul>
+<li>物理地址(MAC 地址)，是数据链路层和物理层使用的地址。</li>
+<li>IP 地址是网络层和以上各层使用的地址，是一种逻辑地址。</li>
+<li>其中 ARP 协议用于 IP 地址与物理地址的对应。</li>
+</ul>
+<p>详细的，可以看看 <a href="http://blog.sciencenet.cn/blog-411071-1037673.html">《即生瑜，何生亮 —— MAC 地址与 IP 地址》</a> 文章。</p>
+<h2 id="网络层的-ARP-协议工作原理？"><a href="#网络层的-ARP-协议工作原理？" class="headerlink" title="网络层的 ARP 协议工作原理？"></a>网络层的 ARP 协议工作原理？</h2><p>网络层的 ARP 协议完成了 IP 地址与物理地址的映射。</p>
+<ul>
+<li>首先，每台主机都会在自己的 ARP 缓冲区中建立一个 ARP 列表，以表示 IP 地址和 MAC 地址的对应关系。</li>
+<li>当源主机需要将一个数据包要发送到目的主机时，会首先检查自己 ARP 列表中是否存在该 IP 地址对应的 MAC 地址：<ul>
+<li>如果有，就直接将数据包发送到这个 MAC 地址。</li>
+<li>如果没有，就向本地网段发起一个ARP请求的广播包，查询此目的主机对应的 MAC 地址。此 ARP 请求数据包里包括源主机的 IP  地址、硬件地址、以及目的主机的 IP 地址。网络中所有的主机收到这个 ARP 请求后，会检查数据包中的目的 IP 是否和自己的 I P地址一致。<ul>
+<li>如果不相同，就忽略此数据包。</li>
+<li>如果相同，该主机首先将发送端的 MAC 地址和 IP 地址添加到自己的 ARP 列表中(如果 ARP 表中已经存在该 IP 的信息，则将其覆盖)，然后给源主机发送一个 ARP 响应数据包，告诉对方自己是它需要查找的 MAC 地址。<ul>
+<li>源主机收到这个 ARP 响应数据包后，将得到的目的主机的 IP 地址和 MAC 地址添加到自己的 ARP 列表中，并利用此信息开始数据的传输。</li>
+<li>如果源主机一直没有收到 ARP 响应数据包，表示 ARP 查询失败。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>注意，在 OSI 模型中 ARP 协议属于链路层；而在 TCP/IP 模型中，ARP 协议属于网络层。</p>
+</blockquote>
+<h2 id="如何划分子网、超网？"><a href="#如何划分子网、超网？" class="headerlink" title="如何划分子网、超网？"></a>如何划分子网、超网？</h2><p>🦅 <strong>如何划分子网？</strong></p>
+<blockquote>
+<p>艿艿：可选了解。</p>
+</blockquote>
+<p>划分子网（变长子网掩码 VLSM）：划分子网的方法是从网络的主机号借用若干位作为子网号 subnet-id ，与此同时主机号也减少相应位数（总位数 32 位不变）。</p>
+<p>由此两级 IP 地址可变为三级 IP 地址：<code>IP地址 ::= &#123;&lt;网络号&gt;,&lt;子网号&gt;,&lt;主机号&gt;&#125;</code> ，划分子网只是把 IP 地址的主机号这部分进行再划分，并不改变 IP 地址原来的网络号。</p>
+<p>🦅 <strong>如何划分超网？</strong></p>
+<blockquote>
+<p>艿艿：可选了解。</p>
+</blockquote>
+<p>构造超网（无分类编址 CIDR）：CIDR 消除了传统的 A 类、B 类和 C 类地址以及划分子网的概念，把 32 位的 IP 地址划分为两个部分。</p>
+<p>例如：<code>128.14.35.7/20</code> 是某个 CIDR 地址块中的一个地址，其前 20 位是网络前缀（用下划线表示的部分），后面的 12 位为主机号</p>
+<p>🦅 <strong>子网掩码的作用？</strong></p>
+<p>子网掩码只有一个作用，就是将某个 IP 地址划分成<strong>网络地址</strong>和<strong>主机地址</strong>两部分。</p>
+<p>用于子网掩码的位数，决定于可能的子网数目和每个子网的主机数目。</p>
+<h2 id="什么是单播、组播-多播-、广播、任播？"><a href="#什么是单播、组播-多播-、广播、任播？" class="headerlink" title="什么是单播、组播(多播)、广播、任播？"></a>什么是单播、组播(多播)、广播、任播？</h2><blockquote>
+<p>艿艿：这个问题，一般面试应该不问，主要是为了大家扩充下知识面吧。</p>
+</blockquote>
+<ul>
+<li><strong>单播</strong>(unicast): 是指封包在计算机网络的传输中，目的地址为单一目标的一种传输方式。它是现今网络应用最为广泛，通常所使用的网络协议或服务大多采用单播传输，例如一切基于TCP的协议。</li>
+<li><strong>组播</strong>(multicast): 也叫多播， 多点广播或群播。 指把信息同时传递给一组目的地址。它使用策略是最高效的，因为消息在每条网络链路上只需传递一次，而且只有在链路分叉的时候，消息才会被复制。</li>
+<li><strong>广播</strong>(broadcast):是指封包在计算机网络中传输时，目的地址为网络中所有设备的一种传输方式。实际上，这里所说的“所有设备”也是限定在一个范围之中，称为“广播域”。</li>
+<li><strong>任播</strong>(anycast):是一种网络寻址和路由的策略，使得资料可以根据路由拓朴来决定送到“最近”或“最好”的目的地。</li>
+</ul>
+<p>感兴趣的胖友，可以详细看 <a href="https://colobu.com/2014/10/21/udp-and-unicast-multicast-broadcast-anycast/">《单播，组播(多播)，广播以及任播》</a> 文章。</p>
+<h2 id="区别-IPv4-和-IPv6-？"><a href="#区别-IPv4-和-IPv6-？" class="headerlink" title="区别 IPv4 和 IPv6 ？"></a>区别 IPv4 和 IPv6 ？</h2><ul>
+<li>我们大多数人使用的是第二代互联网 IPv4 技术，它的最大问题是网络地址资源有限，从理论上讲能编址 1600 万个网络、链接 40 亿台主机。而根据相关数据，全球 IPv4 的 IP 地址已经即将用完。</li>
+<li>而 IPv6 是作为 IETF 设计的用于替代现行版本 IP 协议(IPv4)的下一代 IP 协议，其 IPV6 地址长度为 12 8位，地址空间增大了 2^98 次方倍，几乎可以说是用之不竭的。所以随着 IPv4 不足，支持 IPv6 的网络势必会增长。</li>
+</ul>
+<h1 id="ICMP"><a href="#ICMP" class="headerlink" title="ICMP"></a>ICMP</h1><blockquote>
+<p>艿艿：这个小节，可以快速看。因为，面试不一定问的很多。</p>
+</blockquote>
+<h2 id="ICMP-协议的主要功能？"><a href="#ICMP-协议的主要功能？" class="headerlink" title="ICMP 协议的主要功能？"></a>ICMP 协议的主要功能？</h2><p>用于在 IP 主机、路由器之间传递控制消息。</p>
+<p>如下图所示：<a href="http://static2.iocoder.cn/d1fd249da13a52e27748fbfcbb06942c">![ICMP 协议](D:\新建文件夹 (3)\d1fd249da13a52e27748fbfcbb06942c)</a>ICMP 协议</p>
+<h2 id="简述一下-ping-的原理？"><a href="#简述一下-ping-的原理？" class="headerlink" title="简述一下 ping 的原理？"></a>简述一下 ping 的原理？</h2><p>一般在网络不通的时候，大家会用 ping 测一下网络是否通畅。</p>
+<p>ping 是基于 ICMP 协议工作的。ICMP 全称 Internet Control Message Protocol ，就是互联网<strong>控制</strong>报文协议。这里的关键词是“控制”，那具体是怎么控制的呢？ 网络包在异常负责的网络环境中传输时，会遇到各种问题，当遇到问题时，要传出消息，报告情况，这样才能调整传输策略。</p>
+<p>ICMP 报文是封装在 IP 包里面的。因为传输指令的时候，肯定需要源地址和目标地址。如下图：<a href="http://static2.iocoder.cn/bd1dd61fc5562ec031e0c6aa712c926b">![ICMP 报文](D:\新建文件夹 (3)\bd1dd61fc5562ec031e0c6aa712c926b)</a>ICMP 报文</p>
+<h2 id="什么是-Traceroute-？"><a href="#什么是-Traceroute-？" class="headerlink" title="什么是 Traceroute ？"></a>什么是 Traceroute ？</h2><blockquote>
+<p>Traceroute 是构建在 ICMP 协议之上的应用。</p>
+</blockquote>
+<p>Traceroute ，是用来侦测主机到目的主机之间所经路由情况的重要工具，也是最便利的工具。</p>
+<blockquote>
+<p>前面说到，尽管 ping 工具也可以进行侦测，但是，因为 IP 头的限制，ping 不能完全的记录下所经过的路由器。所以Traceroute 正好就填补了这个缺憾。</p>
+</blockquote>
+<p>Traceroute 的<strong>原理</strong>是非常非常的有意思。</p>
+<blockquote>
+<ul>
+<li>它受到目的主机的 IP 后，首先给目的主机发送一个 TTL=1（还记得 TTL 是什么吗？）的 UDP(后面就知道  UDP是什么了)数据包，而经过的第一个路由器收到这个数据包以后，就自动把 TTL 减1，而 TTL 变为 0  以后，路由器就把这个包给抛弃了，并同时产生 一个主机不可达的 ICMP 数据报给主机。</li>
+<li>主机收到这个数据报以后再发一个 TTL=2 的 UDP 数据报给目的主机，然后刺激第二个路由器给主机发 ICMP 数据 报。如此往复直到到达目的主机。</li>
+</ul>
+<p>这样，traceroute 就拿到了所有的路由器 IP 。从而避开了 IP 头只能记录有限路由 IP 的问题。</p>
+</blockquote>
+<p>有人要问，我怎么知道 UDP 到没到达目的主机呢？</p>
+<blockquote>
+<p>这就涉及一个技巧的问题，TCP 和 UDP 协议有一个端口号定义，而普通的网络程序只监控少数的几个号码较小的端口，比如说 80、23  等等。而 traceroute 发送的是端口号 &gt;30000(真变态) 的 UDP  包，所以到达目的主机的时候，目的主机只能发送一个端口不可达的 ICMP 数据报给主机。主机接到这个报告以后就知道，目标主机到了。</p>
+</blockquote>
+<p>😈 很多情况下，在我们 ping 不通目标地址时，会尝试使用 traceroute 命令，看看是否在中间哪个 IP 无法访问。</p>
+<h1 id="TCP"><a href="#TCP" class="headerlink" title="TCP"></a>TCP</h1><h2 id="TCP-是什么？"><a href="#TCP-是什么？" class="headerlink" title="TCP 是什么？"></a>TCP 是什么？</h2><p>TCP(Transmission Control Protocol)，传输控制协议，是一种面向连接的、可靠的、基于字节流的传输层通信协议。主要特点如下：</p>
+<ul>
+<li><p>TCP 是面向连接的。</p>
+<blockquote>
+<p>就好像打电话一样，通话前需要先拨号建立连接，通话结束后要挂机释放连接</p>
+</blockquote>
+</li>
+<li><p>每一条 TCP 连接只能有两个端点，每一条TCP连接只能是点对点的（一对一）。</p>
+</li>
+<li><p>TCP 提供可靠交付的服务。通过TCP连接传送的数据，无差错、不丢失、不重复、并且按序到达。</p>
+</li>
+<li><p>TCP 提供全双工通信。TCP 允许通信双方的应用进程在任何时候都能发送数据。TCP 连接的两端都设有发送缓存和接收缓存，用来临时存放双方通信的数据。</p>
+</li>
+<li><p>面向字节流。</p>
+<blockquote>
+<p>TCP 中的“流”（Stream），指的是流入进程或从进程流出的字节序列。</p>
+<p>“面向字节流”的含义是：虽然应用程序和 TCP 的交互是一次一个数据块（大小不等），但 TCP 把应用程序交下来的数据仅仅看成是一连串的无结构的字节流。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="TCP-对应的应用层协议？"><a href="#TCP-对应的应用层协议？" class="headerlink" title="TCP 对应的应用层协议？"></a>TCP 对应的应用层协议？</h2><ul>
+<li>FTP ：定义了文件传输协议，使用 21 端口。常说某某计算机开了 FTP 服务便是启动了文件传输服务。下载文件，上传主页，都要用到 FTP 服务。</li>
+<li>Telnet ：它是一种用于远程登陆的端口，用户可以以自己的身份远程连接到计算机上，通过这种端口可以提供一种基于 DOS 模式下的通信服务。如以前的 BBS 是纯字符界面的，支持 BBS 的服务器将 23 端口打开，对外提供服务。</li>
+<li>邮箱<ul>
+<li>SMTP ：定义了简单邮件传送协议，现在很多邮件服务器都用的是这个协议，用于发送邮件。如常见的免费邮件服务中用的就是这个邮件服务端口，所以在电子邮件设置-中常看到有这么 SMTP 端口设置这个栏，服务器开放的是 25 号端口。</li>
+<li>POP3 ：它是和 SMTP 对应，POP3 用于接收邮件。通常情况下，POP3 协议所用的是 110 端口。也是说，只要你有相应的使用 POP3 协议的程序（例如 Foxmail 或 Outlook），就可以不以 Web 方式登陆进邮箱界面，直接用邮件程序就可以收到邮件（如是  163 邮箱就没有必要先进入网易网站，再进入自己的邮箱来收信）。</li>
+</ul>
+</li>
+<li>HTTP ：从 Web 服务器传输超文本到本地浏览器的传送协议。</li>
+</ul>
+<h2 id="TCP-头部是怎么样的？"><a href="#TCP-头部是怎么样的？" class="headerlink" title="TCP 头部是怎么样的？"></a>TCP 头部是怎么样的？</h2><ul>
+<li><a href="https://github.com/jawil/blog/issues/14">《通俗大白话来理解 TCP 协议的三次握手和四次分手》</a> 的 <a href="http://svip.iocoder.cn/Net/Interview/#">「TCP头部」</a> 小节。</li>
+<li><a href="https://blog.csdn.net/qq_34501940/article/details/51073691">《TCP 协议的学习    （二）TCP 头部信息》</a></li>
+</ul>
+<h2 id="【重要】什么是-TCP-三次握手？"><a href="#【重要】什么是-TCP-三次握手？" class="headerlink" title="【重要】什么是 TCP 三次握手？"></a>【重要】什么是 TCP 三次握手？</h2><p>三次握手，简单来说，就是：</p>
+<p><a href="https://camo.githubusercontent.com/91cee189ca7c400e3be6aa35cdda000ecbb58930/687474703a2f2f6f6f327239726e7a702e626b742e636c6f7564646e2e636f6d2f3630363537332d32303137303331373139313333363933322d313635343735313132332e706e67">TCP 三次握手的漫画</a></p>
+<ul>
+<li>发送方：我要和你建立链接？</li>
+<li>接收方：你真的要和我建立链接么？</li>
+<li>发送方：我真的要和你建立链接，成功。</li>
+</ul>
+<p>详细来说，步骤如下：</p>
+<p><a href="http://static2.iocoder.cn/04edb57536fc9bbd3ea096cafa5d3630">![TCP 三次握手的干货](D:\新建文件夹 (3)\04edb57536fc9bbd3ea096cafa5d3630)</a>TCP 三次握手的干货</p>
+<ul>
+<li><p>第一次握手：Client 将标志位 <code>SYN=1</code> ，随机产生一个值 <code>seq=J</code> ，并将该数据包发送给 Server 。此时，Client 进入SYN_SENT 状态，等待 Server 确认。</p>
+</li>
+<li><p>第二次握手：Server 收到数据包后由标志位 <code>SYN=1</code> 知道Client请求建立连接，Server 将标志位 <code>SYN</code> 和 <code>ACK</code> 都置为 1 ，<code>ack=J+1</code>，随机产生一个值 <code>seq=K</code> ，并将该数据包发送给 Client 以确认连接请求，Server 进入 <code>SYN_RCVD</code> 状态。此时，Server 进入 SYC_RCVD 状态。</p>
+</li>
+<li><p>第三次握手：Client 收到确认后，检查 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">ack<br></code></pre></td></tr></table></figure>
+
+<p> 是否为 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">J+1<br></code></pre></td></tr></table></figure>
+
+<p> ，</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">ACK<br></code></pre></td></tr></table></figure>
+
+<p> 是否为 1 。</p>
+<ul>
+<li>如果正确，则将标志位 <code>ACK</code> 置为 1 ，<code>ack=K+1</code> ，并将该数据包发送给 Server 。此时，Client 进入 ESTABLISHED 状态。</li>
+<li>Server 检查 <code>ack</code> 是否为 <code>K+1</code> ，<code>ACK</code> 是否为 1 ，如果正确则连接建立成功。此时 Server 进入 ESTABLISHED 状态，完成三次握手，随后 Client 与 Server 之间可以开始传输数据了。</li>
+</ul>
+</li>
+<li><p>仔细看来，Client 会发起两次数据包，分别是 <code>SYNC</code> 和 <code>ACK</code> ；Server 会发起一次数据包，包含 <code>SYNC</code> 和 <code>ACK</code> 。也就是说，三次握手的过程中，Client 和 Server 互相做了一次 <code>SYNC</code> 和 <code>ACK</code> 。</p>
+</li>
+</ul>
+<p>🦅 <strong>为什么 TCP 连接需要三次握手，两次不可以么，为什么？</strong></p>
+<p>为了防止<strong>已失效的连接请求</strong>报文突然又传送到了服务端，因而产生错误。</p>
+<blockquote>
+<p>客户端发出的连接请求报文并未丢失，而是在某个网络节点长时间滞留了，以致延误到链接释放以后的某个时间才到达 Server 。</p>
+<ul>
+<li>若不采用“三次握手”，那么只要 Server 发出确认数据包，新的连接就建立了。由于 Client  此时并未发出建立连接的请求，所以其不会理睬 Server 的确认，也不与 Server 通信；而这时 Server 一直在等待 Client  的请求，这样 Server 就白白浪费了一定的资源。</li>
+<li>若采用“三次握手”，在这种情况下，由于 Server 端没有收到来自客户端的确认，则就会知道 Client 并没有要求建立请求，就不会建立连接。</li>
+</ul>
+</blockquote>
+<p>在 <a href="https://github.com/jawil/blog/issues/14">《通俗大白话来理解 TCP 协议的三次握手和四次挥手》</a> 中，搜 <a href="http://svip.iocoder.cn/Net/Interview/#">“为什么要三次握手”</a> 关键字，也有非常好的解答。</p>
+<ul>
+<li><strong>这就很明白了，防止了服务器端的一直等待而浪费资源</strong>。</li>
+</ul>
+<p><strong>🦅 客户端不断进行请求链接会怎样？</strong></p>
+<p>服务器端准备为每个请求创建一个链接，并向其发送确认报文，然后等待客户端进行确认后创建。如果此时客户端一直不确认，会造成 SYN 攻击，即：</p>
+<blockquote>
+<p>SYN 攻击，英文为 SYN Flood ，是一种典型的 DoS/DDoS 攻击。</p>
+</blockquote>
+<ul>
+<li><p>1、客户端向服务端发送请求连接数据包。</p>
+</li>
+<li><p>2、服务端向客户端发送确认数据包。</p>
+</li>
+<li><p>3、客户端不向服务端发送确认数据包，服务器一直等待来自客户端的确认。</p>
+<blockquote>
+<p>这是这一步！！！</p>
+</blockquote>
+</li>
+</ul>
+<p>🚀 如何检测 SYN 攻击？检测 SYN 攻击非常的方便，当你在服务器上看到大量的半连接状态时，特别是源 IP 地址是随机的，基本上可以断定这是一次 SYN 攻击。在 Linux/Unix 上可以使用系统自带的 netstat 命令来检测 SYN 攻击。</p>
+<p>🚀 怎么解决 SYN 攻击呢？答案是<strong>只能预防</strong>，没有彻底根治的办法，除非不使用 TCP 。方式如下：</p>
+<ul>
+<li><p>1、限制同时打开 SYN 半链接的数目</p>
+<blockquote>
+<p>艿艿：是不是很像我们常用的“限流”。</p>
+</blockquote>
+</li>
+<li><p>2、缩短 SYN 半链接的 Timeout 时间</p>
+<blockquote>
+<p>艿艿：是不是很像我们常用的“超时”。</p>
+</blockquote>
+</li>
+<li><p>3、关闭不必要的服务。</p>
+<blockquote>
+<p>艿艿：酱紫，这个服务就不会被 SYN 攻击连接。</p>
+</blockquote>
+</li>
+<li><p>4、增加最大半连接数。</p>
+</li>
+<li><p>5、过滤网关防护。</p>
+</li>
+<li><p>6、</p>
+<p>SYN cookie</p>
+<p> 技术。</p>
+<blockquote>
+<p>艿艿：有一点点重新“设计” TCP 的味道，或者可以理解成对 TCP 的增强。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="【重要】什么是-TCP-四次挥手？"><a href="#【重要】什么是-TCP-四次挥手？" class="headerlink" title="【重要】什么是 TCP 四次挥手？"></a>【重要】什么是 TCP 四次挥手？</h2><p>四次挥手，简单来说，就是：</p>
+<ul>
+<li>发送方：我要和你断开连接！</li>
+<li>接收方：好的，断吧。</li>
+<li>接收方：我也要和你断开连接！</li>
+<li>发送方：好的，断吧。</li>
+</ul>
+<p>详细来说，步骤如下：</p>
+<p><a href="http://static2.iocoder.cn/2cf7b8d1689ae6e920ef1b2c3eafb8b2">![TCP 四次挥手的干货](D:\新建文件夹 (3)\2cf7b8d1689ae6e920ef1b2c3eafb8b2)</a>TCP 四次挥手的干货</p>
+<blockquote>
+<p>如下使用 Client 和 Server 的方式，仅仅是为了方便，也是可以从 Server 向 Client 发起。</p>
+</blockquote>
+<ul>
+<li>第一次挥手：Client 发送一个 <code>FIN=M</code> ，用来关闭 Client 到 Server 的数据传送。此时，Client 进入 FIN_WAIT_1 状态。</li>
+<li>第二次挥手，Server 收到 <code>FIN</code> 后，发送一个 <code>ACK</code> 给 Client ，确认序号为 <code>M+1</code>（与 <code>SYN</code> 相同，一个 <code>FIN</code> 占用一个序号）。此时，Server 进入 CLOSE_WAIT 状态。注意，TCP 链接处于<strong>半关闭</strong>状态，即客户端已经没有要发送的数据了，但服务端若发送数据，则客户端仍要接收。</li>
+<li>第三次挥手，Server 发送一个 <code>FIN=N</code> ，用来关闭 Server 到 Client 的数据传送。此时 Server 进入 LAST_ACK 状态。</li>
+<li>第四次挥手，Client 收到 <code>FIN</code> 后，此时 Client 进入 TIME_WAIT 状态。接着，Client 发送一个 <code>ACK</code> 给 Server ，确认序号为 <code>N+1</code> 。Server 接收到后，此时 Server 进入 CLOSED 状态，完成四次挥手。</li>
+</ul>
+<p>🦅 <strong>为什么要四次挥手？</strong></p>
+<p>TCP 协议是一种面向连接的、可靠的、基于字节流的运输层通信协议。<strong>TCP 是全双工模式</strong>，这就意味着：</p>
+<ul>
+<li><p>当主机 1 发出 <code>FIN</code> 报文段时，只是表示主机 1 已经没有数据要发送了，主机 1 告诉主机 2 ，它的数据已经全部发送完毕了；<strong>但是，这个时候主机 1 还是可以接受来自主机 2 的数据；</strong>当主机 2 返回 <code>ACK</code> 报文段时，表示它已经知道主机 1 没有数据发送了，但是主机 2 还是可以发送数据到主机 1 的。</p>
+<blockquote>
+<p>艿艿：因为主机 2 此时可能还有数据想要发送给主机 1 ，所以挥手不能像握手只有三次，而是多了那么“一次”！</p>
+</blockquote>
+</li>
+<li><p>当主机 2 也发送了 <code>FIN</code> 报文段时，这个时候就表示主机 2 也没有数据要发送了，就会告诉主机 1 ，我也没有数据要发送了，之后彼此就会愉快的中断这次 TCP 连接。</p>
+<blockquote>
+<p>艿艿：我们把四次挥手，理解成一次和平的挥手~</p>
+</blockquote>
+</li>
+</ul>
+<p>如果要正确的理解四次的原理，就需要了解四次挥手过程中的状态变化。</p>
+<blockquote>
+<p>主动方=发送方；被动方=接收方。</p>
+<p>状态前面的（主动方）（被动方），表示该状态属于谁。</p>
+</blockquote>
+<ul>
+<li><p>（主动方）FIN_WAIT_1 ：这个状态要好好解释一下，其实 FIN_WAIT_1 和 FIN_WAIT_2 状态的真正含义都是表示等待对方的 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">FIN<br></code></pre></td></tr></table></figure>
+
+<p> 报文。而这两种状态的区别是：</p>
+<ul>
+<li>FIN_WAIT_1 状态实际上是当 Socket 在 ESTABLISHED 状态时，它想主动关闭连接，向对方发送了 <code>FIN</code> 报文，此时该 Socket 即进入到 FIN_WAIT_1 状态。</li>
+<li>而当对方回应 <code>ACK</code> 报文后，则进入到 FIN_WAIT_2 状态，当然在实际的正常情况下，无论对方何种情况下，都应该马上回应<code>ACK</code> 报文。所以， FIN_WAIT_1 状态一般是比较难见到的，而 FIN_WAIT_2 状态还有时常常可以用 netstat 看到。</li>
+</ul>
+</li>
+<li><p>（主动方）FIN_WAIT_2 ：上面已经详细解释了这种状态，实际上 FIN_WAIT_2 状态下的 Socket，表示半连接，也即有一方要求 close 连接，但另外还告诉对方，我暂时还有点数据需要传送给你(<code>ACK</code> 信息)，稍后再关闭连接。</p>
+</li>
+<li><p>（被动方）CLOSE_WAIT ：这种状态的含义其实是表示在等待关闭。怎么理解呢？当对方 close 一个 Socket 后发送 <code>FIN</code> 报文给自己，你系统毫无疑问地会回应一个 <code>ACK</code> 报文给对方，此时则进入到 CLOSE_WAIT 状态。接下来呢，实际上你真正需要考虑的事情是察看你是否还有数据发送给对方，如果没有的话，那么你也就可以 close 这个 Socket ，发送 <code>FIN</code> 报文给对方，也即关闭连接。所以你在 CLOSE_WAIT 状态下，需要完成的事情是等待你去关闭连接。</p>
+</li>
+<li><p>（被动方）LAST_ACK ：这个状态还是比较容易好理解的，它是被动关闭一方在发送 <code>FIN</code> 报文后，最后等待对方的 <code>ACK</code> 报文。当收到 <code>ACK</code> 报文后，也即可以进入到 CLOSED 可用状态了。</p>
+</li>
+<li><p>（主动方）TIME_WAIT ：表示收到了对方的 <code>FIN</code> 报文，并发送出了 <code>ACK</code> 报文，就等 <a href="https://blog.csdn.net/xiaofei0859/article/details/6044694">2MSL</a> 后即可回到 CLOSED 可用状态了。如果 FIN_WAIT_1 状态下，收到了对方同时带 <code>FIN</code> 标志和 <code>ACK</code> 标志的报文时，可以直接进入到 TIME_WAIT 状态，而无须经过 FIN_WAIT_2 状态。</p>
+<blockquote>
+<p><strong>为何一定要等 2MSL ？</strong></p>
+<p>如果不等，释放的端口可能会重连刚断开的服务器端口，这样依然存活在网络里的老的 TCP 报文可能与新 TCP 连接报文冲突，造成数据冲突，为避免此种情况，需要耐心等待网络老的 TCP 连接的活跃报文全部死翘翘，2MSL 时间可以满足这个需求（尽管非常保守）！</p>
+<p>更多，可以看看知乎 <a href="https://www.zhihu.com/question/67013338">《为什么 TCP 4 次挥手时等待为 2MSL？》</a> 的讨论。</p>
+</blockquote>
+</li>
+<li><p>CLOSED ：表示连接中断。</p>
+</li>
+</ul>
+<p>另外，关于 TIME_WAIT 和 CLOSE_WAIT 状态的区别，胖友可以在细看下 <a href="https://blog.csdn.net/kobejayandy/article/details/17655739">《TIME_WAIT 和 CLOSE_WAIT 状态区别》</a> 。</p>
+<h2 id="【重要】TCP-数据如何传输？"><a href="#【重要】TCP-数据如何传输？" class="headerlink" title="【重要】TCP 数据如何传输？"></a>【重要】TCP 数据如何传输？</h2><p>建立连接后，两台主机就可以相互传输数据了。如下图所示：<a href="http://static2.iocoder.cn/6ed78395a32a0fbf56afed309dc1eb71">![TCP 套接字的数据交换过程](D:\新建文件夹 (3)\6ed78395a32a0fbf56afed309dc1eb71)</a>TCP 套接字的数据交换过程</p>
+<ul>
+<li><p>上图给出了主机 A 分 2 次（分 2 个数据包）向主机 B 传递 200 字节的过程。</p>
+</li>
+<li><p>首先，主机 A 通过 1 个数据包发送 100 个字节的数据，数据包的 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Seq<br></code></pre></td></tr></table></figure>
+
+<p> 号设置为 1200 。主机 B 为了确认这一点，向主机 A 发送 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">ACK<br></code></pre></td></tr></table></figure>
+
+<p> 包，并将 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Ack<br></code></pre></td></tr></table></figure>
+
+<p> 号设置为 1301 。</p>
+<ul>
+<li><p>为了保证数据准确到达，目标机器在收到数据包（包括 <code>SYN</code> 包、<code>FIN</code> 包、普通数据包等）包后必须立即回传 <code>ACK</code> 包，这样发送方才能确认数据传输成功。</p>
+</li>
+<li><p>此时 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Ack<br></code></pre></td></tr></table></figure>
+
+<p> 号为 1301 而不是 1201，原因在于 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Ack<br></code></pre></td></tr></table></figure>
+
+<p> 号的增量为传输的数据字节数。假设每次 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Ack<br></code></pre></td></tr></table></figure>
+
+<p> 号不加传输的字节数，这样虽然可以确认数据包的传输，但无法明确 100 字节全部正确传递还是丢失了一部分，比如只传递了 80 字节。因此按如下的公式确认 </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Ack<br></code></pre></td></tr></table></figure>
+
+<p> 号：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Ack<br></code></pre></td></tr></table></figure>
+
+<p> 号 = </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Seq<br></code></pre></td></tr></table></figure>
+
+<p> 号 + 传递的字节数 + 1 。</p>
+<ul>
+<li>与三次握手协议相同，最后加 1 是为了告诉对方要传递的 <code>Seq</code> 号。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>OK，让我们重新来看下 TCP 的整个过程。如下图所示：<a href="https://camo.githubusercontent.com/36cf7d4e1598683fe72a5e1c3e837b16840f4085/687474703a2f2f6f6f327239726e7a702e626b742e636c6f7564646e2e636f6d2f6a656c6c797468696e6b544350342e6a7067">TCP 过程</a></p>
+<p>🦅 <strong>TCP 数据传输丢失怎么办？</strong></p>
+<blockquote>
+<p>艿艿：这个问题，也可以改成提问，什么是 TCP 重传。</p>
+</blockquote>
+<p>因为各种原因，TCP 数据包可能存在丢失的情况，TCP 会进行数据重传。如下图所示：</p>
+<p><a href="http://static2.iocoder.cn/a36ed3dad53b9b4439bc8156bc63a2c0">![TCP套接字数据传输过程中发生错误](D:\新建文件夹 (3)\a36ed3dad53b9b4439bc8156bc63a2c0)</a>TCP套接字数据传输过程中发生错误</p>
+<ul>
+<li><p>上图表示通过 <code>Seq</code> 1301 数据包向主机 B 传递 100 字节的数据，但中间发生了错误，主机 B 未收到。经过一段时间后，主机 A 仍未收到对于 <code>Seq</code> 1301 的 <code>ACK</code> 确认，因此尝试重传数据。为了完成数据包的重传，TCP 套接字每次发送数据包时都会<strong>启动定时器</strong>，如果在一定时间内没有收到目标机器传回的 <code>ACK</code> 包，那么定时器超时，数据包会重传。上图演示的是数据包丢失的情况，也会有 <code>ACK</code> 包丢失的情况，一样会重传。</p>
+</li>
+<li><p>重传超时时间(RTO，Retransmission Time Out)</p>
+<blockquote>
+<p>这个值太大了会导致不必要的等待，太小会导致不必要的重传，理论上最好是网络 RTT 时间，但又受制于网络距离与瞬态时延变化，所以实际上使用自适应的动态算法（例如 Jacobson 算法和 Karn 算法等）来确定超时时间。</p>
+<p>往返时间（RTT，Round-Trip Time）表示从发送端发送数据开始，到发送端收到来自接收端的 <code>ACK</code> 确认包（接收端收到数据后便立即确认），总共经历的时延。</p>
+</blockquote>
+</li>
+<li><p>重传次数</p>
+<blockquote>
+<p>TCP 数据包重传次数，根据系统设置的不同而有所区别。有些系统，一个数据包只会被重传 3 次，如果重传 3 次后还未收到该数据包的 <code>ACK</code> 确认，就不再尝试重传。但有些要求很高的业务系统，会不断地重传丢失的数据包，以尽最大可能保证业务数据的正常交互。</p>
+<p>最后需要说明的是，发送端只有在收到对方的 <code>ACK</code> 确认包后，才会清空输出缓冲区中的数据。</p>
+</blockquote>
+</li>
+</ul>
+<p><strong>ps：TCP 数据传输的过程，和 MQ Broker 投递消息给 Consumer 是一样的，只有在 Consumer Ack 确认消息已经消费，该消息才不会再被投递给 Consumer 。</strong></p>
+<p>另外，也推荐阅读 <a href="https://wizardforcel.gitbooks.io/network-basic/content/8.html">《网络基本功（九）：细说TCP重传》</a> 。</p>
+<h2 id="【重要】什么是-TCP-滑动窗口？"><a href="#【重要】什么是-TCP-滑动窗口？" class="headerlink" title="【重要】什么是 TCP 滑动窗口？"></a>【重要】什么是 TCP 滑动窗口？</h2><p>在看 TCP 滑动窗口的概念之前，我们先来看看它出现的<strong>背景</strong>？</p>
+<blockquote>
+<p>将 TCP 与 UDP 这样的简单传输协议区分开来的是，它传输数据的质量。TCP 对于发送数据进行跟踪，这种数据管理需要协议有以下两大关键功能：</p>
+<ul>
+<li>可靠性：保证数据确实到达目的地。如果未到达，能够发现并重传。</li>
+<li>数据流控：管理数据的发送速率，以使接收设备不致于过载。</li>
+</ul>
+<p>要完成这些任务，整个协议操作是围绕<strong>滑动窗口</strong> + <strong>确认机制</strong>来进行的。因此，理解了滑动窗口，也就是理解了 TCP 。</p>
+</blockquote>
+<p>那么，到底什么是 TCP 滑动窗口呢？</p>
+<blockquote>
+<p>滑动窗口协议，是传输层进行流控的一种措施，接收方通过通告发送方自己的窗口大小，从而控制发送方的发送速度，从而达到防止发送方发送速度过快而导致自己被淹没的目的。</p>
+<p>TCP 的滑动窗口解决了端到端的流量控制问题，允许接受方对传输进行限制，直到它拥有足够的缓冲空间来容纳更多的数据。</p>
+</blockquote>
+<p>可能这么描述之后，胖友会有点懵逼，那么建议看下面三篇文章，耐心~</p>
+<ul>
+<li><p><a href="https://www.cnblogs.com/luoquan/p/4886345.html">《TCP 滑动窗口控制流量的原理》</a></p>
+<blockquote>
+<p>比较易懂的一篇文章。</p>
+</blockquote>
+</li>
+<li><p><a href="https://wizardforcel.gitbooks.io/network-basic/content/7.html">《网络基本功（八）：细说 TCP 滑动窗口》</a></p>
+<blockquote>
+<p>更为详细的一篇文章。</p>
+</blockquote>
+</li>
+<li><p><a href="https://www.zhihu.com/question/32255109">《TCP 协议的滑动窗口具体是怎样控制流量的？》</a></p>
+<blockquote>
+<p>知乎上的讨论，重点看「wuxinliulei」和「安静的木小昊」的回答。特别是后者的，回答很生动形象。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="TCP-协议如何来保证传输的可靠性？"><a href="#TCP-协议如何来保证传输的可靠性？" class="headerlink" title="TCP 协议如何来保证传输的可靠性？"></a>TCP 协议如何来保证传输的可靠性？</h2><p>TCP 提供一种面向连接的、可靠的字节流服务。其中，面向连接意味着两个使用 TCP 的应用（通常是一个客户和一个服务器）在彼此交换数据之前必须先建立一个 TCP 连接。</p>
+<ul>
+<li>在一个 TCP 连接中，仅有两方进行彼此通信。</li>
+<li>而字节流服务意味着两个应用程序通过 TCP 链接交换 8bit 字节构成的字节流，TCP 不在字节流中插入记录标识符。</li>
+</ul>
+<p>对于可靠性，TCP 通过以下方式进行保证：</p>
+<ul>
+<li>数据包校验：目的是检测数据在传输过程中的任何变化，若校验出包有错，则丢弃报文段并且不给出响应，这时 TCP 发送数据端超时后会重发数据。</li>
+<li>对失序数据包重排序：既然 TCP 报文段作为 IP 数据报来传输，而 IP 数据报的到达可能会失序，因此 TC P报文段的到达也可能会失序。TCP 将对失序数据进行重新排序，然后才交给应用层。</li>
+<li>丢弃重复数据：对于重复数据，能够丢弃重复数据。</li>
+<li>应答机制：当 TCP 收到发自 TCP 连接另一端的数据，它将发送一个确认。这个确认不是立即发送，通常将推迟几分之一秒。</li>
+<li>超时重发：当 TCP 发出一个段后，它启动一个定时器，等待目的端确认收到这个报文段。如果不能及时收到一个确认，将重发这个报文段。</li>
+<li>流量控制：TCP 连接的每一方都有固定大小的缓冲空间。TCP 的接收端只允许另一端发送接收端缓冲区所能接纳的数据，这可以防止较快主机致使较慢主机的缓冲区溢出，这就是流量控制。TCP 使用的流量控制协议是可变大小的<strong>滑动窗口协议</strong>。</li>
+</ul>
+<h2 id="什么是-TCP-拥堵？"><a href="#什么是-TCP-拥堵？" class="headerlink" title="什么是 TCP 拥堵？"></a>什么是 TCP 拥堵？</h2><p>计算机网络中的带宽、交换结点中的缓存及处理机等都是网络的资源。在某段时间，若对网络中某一资源的需求超过了该资源所能提供的可用部分，网络的性能就会变坏，这种情况就叫做<strong>拥塞</strong>。</p>
+<p>🦅 <strong>怎么解决 TCP 拥堵？</strong></p>
+<p>通过拥塞控制来解决。拥堵控制，就是防止过多的数据注入网络中，这样可以使网络中的路由器或链路不致过载。注意，拥塞控制和流量控制不同，前者是一个<strong>全局性</strong>的过程，而后者指<strong>点对点</strong>通信量的控制。</p>
+<p>拥塞控制的方法主要有以下四种：</p>
+<ul>
+<li>1、慢开始。</li>
+<li>2、拥塞避免。</li>
+<li>3、快重传。</li>
+<li>4、快恢复。</li>
+</ul>
+<p><strong>1）慢开始</strong></p>
+<p>不要一开始就发送大量的数据，先探测一下网络的拥塞程度，也就是说由小到大逐渐增加拥塞窗口的大小。</p>
+<p><strong>2）拥塞避免</strong></p>
+<p>拥塞避免算法，让拥塞窗口缓慢增长，即每经过一个往返时间 RTT 就把发送方的拥塞窗口 cwnd 加 1 ，而不是加倍，这样拥塞窗口按线性规律缓慢增长。</p>
+<p><a href="http://static2.iocoder.cn/3ed1936c7ee8639606bc8b3dccc2d5bc">![慢开始和拥塞避免算法的实现举例](D:\新建文件夹 (3)\3ed1936c7ee8639606bc8b3dccc2d5bc)</a>慢开始和拥塞避免算法的实现举例</p>
+<p><strong>3）快重传</strong></p>
+<p>快重传，要求接收方在收到一个<strong>失序的报文段</strong>后就立即发出<strong>重复确认</strong>（为的是使发送方及早知道有报文段没有到达对方），而不要等到自己发送数据时捎带确认。</p>
+<p>快重传算法规定，发送方只要一连收到三个重复确认，就应当立即重传对方尚未收到的报文段，而不必继续等待设置的重传计时器时间到期。</p>
+<p><a href="http://static2.iocoder.cn/96da7b757bb0dc2f2eaf86ac8ad20858">![快重传的示意图](D:\新建文件夹 (3)\96da7b757bb0dc2f2eaf86ac8ad20858)</a>快重传的示意图</p>
+<p><strong>4）快恢复</strong></p>
+<p>快重传配合使用的还有快恢复算法，当发送方连续收到三个重复确认时，就执行“乘法减小”算法，把 ssthresh 门限减半。</p>
+<ul>
+<li>但是接下去并不执行慢开始算法：因为如果网络出现拥塞的话就不会收到好几个重复的确认，所以发送方现在认为网络可能没有出现拥塞。</li>
+<li>所以此时不执行慢开始算法，而是将 cwnd 设置为 ssthresh 的大小，然后执行拥塞避免算法。</li>
+</ul>
+<p><a href="http://static2.iocoder.cn/d5ac995144720c33399d8e518cb973a6">![从连续收到三个重复的确认转入拥堵避免](D:\新建文件夹 (3)\d5ac995144720c33399d8e518cb973a6)</a>从连续收到三个重复的确认转入拥堵避免</p>
+<h1 id="UDP"><a href="#UDP" class="headerlink" title="UDP"></a>UDP</h1><h2 id="UDP-是什么？"><a href="#UDP-是什么？" class="headerlink" title="UDP 是什么？"></a>UDP 是什么？</h2><p>UDP（User Data Protocol，用户数据报协议），是与 TCP 相对应的协议。它是面向非连接的协议，它不与对方建立连接，而是直接就把数据包发送过去。</p>
+<p>主要特点如下：</p>
+<ul>
+<li><p>UDP 是无连接的。</p>
+</li>
+<li><p>UDP 使用尽最大努力交付，即不保证可靠交付，因此主机不需要维持复杂的链接状态（这里面有许多参数）。</p>
+</li>
+<li><p>UDP 是面向报文的。</p>
+</li>
+<li><p>UDP 没有拥塞控制，因此网络出现拥塞不会使源主机的发送速率降低。</p>
+<blockquote>
+<p>对实时应用很有用，如 直播，实时视频会议等</p>
+</blockquote>
+</li>
+<li><p>UDP 支持一对一、一对多、多对一和多对多的交互通信。</p>
+</li>
+<li><p>UDP 的首部开销小，只有 8 个字节，比 TCP 的 20 个字节的首部要短。</p>
+</li>
+</ul>
+<h2 id="UDP-对应的应用层协议？"><a href="#UDP-对应的应用层协议？" class="headerlink" title="UDP 对应的应用层协议？"></a>UDP 对应的应用层协议？</h2><ul>
+<li>DNS ：用于域名解析服务，将域名地址转换为 IP 地址。DNS 用的是 53 号端口。</li>
+<li>SNMP ：简单网络管理协议，使用 161 号端口，是用来管理网络设备的。由于网络设备很多，无连接的服务就体现出其优势。</li>
+<li>TFTP(Trivial File Transfer Protocol)：简单文件传输协议，该协议在熟知端口 69 上使用 UDP 服务。</li>
+</ul>
+<h2 id="【重要】TCP-与-UDP-的区别"><a href="#【重要】TCP-与-UDP-的区别" class="headerlink" title="【重要】TCP 与 UDP 的区别"></a>【重要】TCP 与 UDP 的区别</h2><blockquote>
+<p>这个问题，上面在介绍 TCP 和 UDP 都提到了，就是做了整合哈。</p>
+</blockquote>
+<p>TCP(Transmission Control Protocol)和 UDP(User Datagram Protocol) 协议属于传输层协议，它们之间的区别包括：</p>
+<p><a href="http://static2.iocoder.cn/047b5c455b1153e895df36e364134fcd">![TCP 与 UDP 的区别](D:\新建文件夹 (3)\047b5c455b1153e895df36e364134fcd)</a>TCP 与 UDP 的区别</p>
+<ul>
+<li>TCP 是面向连接的；UDP 是无连接的。</li>
+<li>TCP 是可靠的；UDP 是不可靠的。</li>
+<li>TCP 只支持点对点通信；UDP 支持一对一、一对多、多对一、多对多的通信模式。</li>
+<li>TCP 是面向字节流的；UDP 是面向报文的。</li>
+<li>TCP 有拥塞控制机制；UDP 没有拥塞控制，适合媒体通信。</li>
+<li>TCP 首部开销(20 个字节)，比 UDP 的首部开销(8 个字节)要大。</li>
+</ul>
+<p>🦅 <strong>为什么 TCP 叫数据流模式？ UDP 叫数据报模式？</strong></p>
+<p>所谓的<strong>“流模式”</strong>，是指<strong>TCP 发送端发送几次数据和接收端接收几次数据是没有必然联系的</strong>。</p>
+<ul>
+<li>比如你通过 TCP 连接给另一端发送数据，你只调用了一次 write ，发送了 100 个字节，但是对方可以分 10 次收完，每次 10 个字节；你也可以调用 10 次 write ，每次 10 个字节，但是对方可以一次就收完。</li>
+<li>原因：这是因为 TCP 是面向连接的，一个 Socket 中收到的数据都是由同一台主机发出，且有序地到达，所以每次读取多少数据都可以。</li>
+</ul>
+<p>所谓的<strong>“数据报模式”</strong>，是指 <strong>UDP 发送端调用了几次 write ，接收端必须用相同次数的 read 读完</strong>。</p>
+<ul>
+<li>UDP 是基于报文的，在接收的时候，每次最多只能读取一个报文，报文和报文是不会合并的，如果缓冲区小于报文长度，则多出的部分会被丢弃。</li>
+<li>原因：这是因为 UDP 是无连接的，只要知道接收端的 IP 和端口，任何主机都可以向接收端发送数据。这时候，如果一次能读取超过一个报文的数据，则会乱套。</li>
+</ul>
+<h2 id="UDP-报文的格式"><a href="#UDP-报文的格式" class="headerlink" title="UDP 报文的格式"></a>UDP 报文的格式</h2><p><a href="http://static2.iocoder.cn/e80a784ed96b6c688ef8e4e409f4cd18">![UDP 报文格式](D:\新建文件夹 (3)\e80a784ed96b6c688ef8e4e409f4cd18)</a>UDP 报文格式</p>
+<ul>
+<li>16 位 * 4 = 64 位 = 8 字节。</li>
+</ul>
+<h1 id="DNS"><a href="#DNS" class="headerlink" title="DNS"></a>DNS</h1><h2 id="DNS-是什么？"><a href="#DNS-是什么？" class="headerlink" title="DNS 是什么？"></a>DNS 是什么？</h2><ul>
+<li>域名解析，<a href="http://www.xxx.com/">www.xxx.com</a> 转换成 IP ，能够使用户更方便的访问互联网，而不用去记住能够被机器直接读取的 IP 数串。</li>
+<li>DNS 协议运行在 UDP 协议之上，使用端口号 53 。</li>
+</ul>
+<h2 id="主机解析域名的顺序？"><a href="#主机解析域名的顺序？" class="headerlink" title="主机解析域名的顺序？"></a>主机解析域名的顺序？</h2><ol>
+<li>浏览器缓存</li>
+<li>找本机的 hosts 文件</li>
+<li>路由缓存</li>
+<li>找 DNS 服务器(本地域名、顶级域名、根域名)<ul>
+<li><a href="https://blog.csdn.net/wuchuanpingstone/article/details/6720723">迭代查询</a></li>
+<li><a href="https://blog.csdn.net/wuchuanpingstone/article/details/6720723">递归查询</a></li>
+</ul>
+</li>
+</ol>
+<h2 id="DNS-使用什么协议？"><a href="#DNS-使用什么协议？" class="headerlink" title="DNS 使用什么协议？"></a>DNS 使用什么协议？</h2><blockquote>
+<p>参见 <a href="https://benbenxiongyuan.iteye.com/blog/1088085">《DNS使用的是 TCP 协议还是 UDP 协议》</a> 文章。</p>
+</blockquote>
+<p>既使用 TCP 又使用 UDP 。</p>
+<ul>
+<li><p>区域传送时使用 TCP 协议。</p>
+<blockquote>
+<ul>
+<li>辅域名服务器会定时（一般时 3 小时）向主域名服务器进行查询以便了解数据是否有变动。如有变动，则会执行一次区域传送，进行数据同步。区域传送将使用 TCP 而不是 UDP ，因为数据同步传送的数据量比一个请求和应答的数据量要多得多。</li>
+<li>TCP 是一种可靠的连接，保证了数据的准确性。</li>
+</ul>
+</blockquote>
+</li>
+<li><p>域名解析时使用 UDP 协议。</p>
+<blockquote>
+<ul>
+<li><p>客户端向 DNS 服务器查询域名，一般返回的内容都不超过 512 字节，用 UDP 传输即可。</p>
+<blockquote>
+<p>UDP 报文的最大长度为 512 字节。</p>
+</blockquote>
+</li>
+<li><p>不用经过 TCP 三次握手，这样 DNS 服务器负载更低，响应更快。虽然从理论上说，客户端也可以指定向 DNS 服务器查询的时候使用 TCP ，但事实上，很多 DNS 服务器进行配置的时候，仅支持 UDP 查询包。</p>
+</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<h1 id="HTTP"><a href="#HTTP" class="headerlink" title="HTTP"></a>HTTP</h1><h2 id="HTTP-是什么？"><a href="#HTTP-是什么？" class="headerlink" title="HTTP 是什么？"></a>HTTP 是什么？</h2><p>HTTP 协议，是 Hyper Text Transfer Protocol（超文本传输协议）的缩写，是用于从万维网（WWW:World Wide Web ）服务器传输超文本到本地浏览器的传送协议。</p>
+<p>主要特点如下：</p>
+<ul>
+<li><p>简单快速：客户向服务器请求服务时，只需传送请求方法和路径。请求方法常用的有 GET、HEAD、POST 等等。每种方法规定了客户与服务器联系的类型不同。由于 HTTP 协议简单，使得 HTTP 服务器的程序规模小，因而通信速度很快。</p>
+</li>
+<li><p>数据格式灵活：HTTP 允许传输任意类型的数据对象。正在传输的类型由Content-Type 加以标记。</p>
+</li>
+<li><p>无连接：无连接的含义是限制每次连接只处理一个请求。服务器处理完客户的请求，并收到客户的应答后，即断开连接。采用这种方式可以节省传输时间。</p>
+<blockquote>
+<p>主要指的是不使用 Keep-Alive 机制的情况下。</p>
+</blockquote>
+</li>
+<li><p>无状态：HTTP 协议是无状态协议。无状态，是指协议对于事务处理没有记忆能力。无状态意味着如果后续处理需要前面的信息，则它必须重传，这样可能导致每次连接传送的数据量增大。另一方面，在服务器不需要先前信息时它的应答就较快。</p>
+<blockquote>
+<p>无状态，所以更容易做服务的扩容，支撑更大的访问量。</p>
+</blockquote>
+</li>
+<li><p>支持 B/S 及 C/S 模式。</p>
+<blockquote>
+<p>另外，HTTP 协议已经不仅仅使用在浏览器上。在前后端分离的架构中，又或者微服务架构的内部通信中，HTTP 因为其数据格式的通用性，和语言无关，被大规模使用。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="HTTP-基本格式"><a href="#HTTP-基本格式" class="headerlink" title="HTTP 基本格式"></a>HTTP 基本格式</h2><blockquote>
+<p>艿艿：详细的，可以看看 <a href="https://github.com/kaiye/kaiye.github.com/issues/3">《猫哥网络编程系列：详解 BAT 面试题》</a> 文章。</p>
+</blockquote>
+<p>🦅 <strong>HTTP 请求格式</strong></p>
+<p><a href="http://static2.iocoder.cn/e0f66085155bdcdaa170fab4507fa4f1"><img src="http://static2.iocoder.cn/e0f66085155bdcdaa170fab4507fa4f1" alt="HTTP 请求格式"></a>HTTP 请求格式</p>
+<ul>
+<li>请求行：用来说明请求类型，要访问的资源以及所使用的 HTTP 版本。</li>
+<li>请求头部：紧接着请求行（即第一行）之后的部分，用来说明服务器要使用的附加信息从第二行起为请求头部。<ul>
+<li>HOST ，将指出请求的目的地。</li>
+<li>User-Agent ，服务器端和客户端脚本都能访问它,它是浏览器类型检测逻辑的重要基础。该信息由你的浏览器来定义，并且在每个请求中自动发送等等</li>
+<li>…</li>
+</ul>
+</li>
+<li>空行：请求头部后面的空行是必须的。</li>
+<li>请求数据：也叫主体，可以添加任意的其他数据。</li>
+</ul>
+<p>🦅 <strong>HTTP 响应格式</strong></p>
+<p><a href="http://static2.iocoder.cn/da1ada597b5feedcd7d6c17d1989629d">![HTTP 响应格式](D:\新建文件夹 (3)\da1ada597b5feedcd7d6c17d1989629d)</a>HTTP 响应格式</p>
+<ul>
+<li>状态行：由 HTTP 协议版本号、状态码、状态消息三部分组成。</li>
+<li>消息报头：用来说明客户端要使用的一些附加信息。</li>
+<li>空行：消息报头后面的空行是必须的。</li>
+<li>响应正文：服务器返回给客户端的文本信息。</li>
+</ul>
+<p>🦅 <strong>URI 和 URL 的区别？</strong></p>
+<p>见 <a href="https://www.jianshu.com/p/ba15d066f777">《URI 和 URL 的区别》</a> 文章。</p>
+<h2 id="HTTP-协议包括哪些请求？"><a href="#HTTP-协议包括哪些请求？" class="headerlink" title="HTTP 协议包括哪些请求？"></a>HTTP 协议包括哪些请求？</h2><ul>
+<li>GET: 对服务器资源的简单请求。</li>
+<li>POST: 用于发送包含用户提交数据的请求。</li>
+<li>HEAD：类似于 GET 请求，不过返回的响应中没有具体内容，用于获取报头。</li>
+<li>PUT：传说中请求文档的一个版本。</li>
+<li>DELETE：发出一个删除指定文档的请求。</li>
+<li>TRACE：发送一个请求副本，以跟踪其处理进程。</li>
+<li>OPTIONS：返回所有可用的方法，检查服务器支持哪些方法。</li>
+<li>CONNECT：用于 SSL 隧道的基于代理的请求。</li>
+</ul>
+<p>🦅 <strong>GET 和 POST 的区别？</strong></p>
+<table>
+<thead>
+<tr>
+<th>请求方式</th>
+<th>数据位置</th>
+<th>明文密文</th>
+<th>数据安全</th>
+<th>长度限制</th>
+<th>应用场景</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>GET</td>
+<td>HTTP 请求的 path 中</td>
+<td>明文</td>
+<td>不安全</td>
+<td>长度较小，一般 2k</td>
+<td>查询数据</td>
+</tr>
+<tr>
+<td>POST</td>
+<td>HTTP 请求 body 中</td>
+<td>可明可密</td>
+<td>安全</td>
+<td>支持较大数据传输</td>
+<td>修改数据</td>
+</tr>
+</tbody></table>
+<ul>
+<li><p>GET 请求可被缓存；POST 请求不会被缓存。</p>
+</li>
+<li><p>GET 请求可被收藏为书签；POST 不能被收藏为书签。</p>
+</li>
+<li><p>【非常有趣】参见 <a href="https://www.oschina.net/news/77354/http-get-post-different">《99%的人理解错 HTTP 中 GET 与 POST 的区别》</a></p>
+<blockquote>
+<ul>
+<li>对于 GET 方式的请求，浏览器会把 HTTP header 和 data 一并发送出去，服务器响应 200（返回数据）。</li>
+<li>而对于 POST，浏览器先发送 header ，服务器响应 100 continue ，浏览器再发送 data ，服务器响应 200 ok（返回数据）。</li>
+</ul>
+<p>也就是说，GET 只需要汽车跑一趟就把货送到了，而 POS T得跑两趟，第一趟，先去和服务器打个招呼“嗨，我等下要送一批货来，你们打开门迎接我”，然后再回头把货送过去。</p>
+<p>ps：不过要注意，POST 具体发几次，也和浏览器的实现有关系。例如：Firefox 只发一次。<br>ps2：据研究，在网络环境好的情况下，发一次包的时间和发两次包的时间差别基本可以无视。而在网络环境差的情况下，两次包的 TCP 在验证数据包完整性上，有非常大的优点。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="HTTP-有哪些状态码？"><a href="#HTTP-有哪些状态码？" class="headerlink" title="HTTP 有哪些状态码？"></a>HTTP 有哪些状态码？</h2><ul>
+<li>1×× : 请求处理中，请求已被接受，正在处理</li>
+<li>2×× : 请求成功，请求被成功处理<ul>
+<li>200 OK // 客户端请求成功</li>
+</ul>
+</li>
+<li>3×× : 重定向，要完成请求必须进行进一步处理<ul>
+<li>301 Moved Permanently // 永久重定向,使用域名跳转</li>
+<li>302 Found // 临时重定向,未登陆的用户访问用户中心重定向到登录页面</li>
+</ul>
+</li>
+<li>4×× : 客户端错误，请求不合法<ul>
+<li>400 Bad Request // 客户端请求有语法错误，不能被服务器所理解</li>
+<li>401 Unauthorized // 请求未经授权，这个状态代码必须和 WWW-Authenticate 报头域一起使用</li>
+<li>403 Forbidden // 服务器收到请求，但是拒绝提供服务</li>
+<li>404 Not Found // 请求资源不存在，eg：输入了错误的 URL</li>
+</ul>
+</li>
+<li>5×× : 服务器端错误，服务器不能处理合法请求<ul>
+<li>500 Internal Server Error // 服务器发生不可预期的错误</li>
+<li>503 Server Unavailable // 服务器当前不能处理客户端的请求，一段时间后可能恢复正常</li>
+</ul>
+</li>
+</ul>
+<p>完整的状态码列表，可以看看 <a href="https://zh.wikipedia.org/zh-hans/HTTP%E7%8A%B6%E6%80%81%E7%A0%81">《HTTP 状态码》</a> 文章。</p>
+<p>🦅 <strong>forward 和 redirect 的区别？</strong></p>
+<ul>
+<li>直接转发方式（Forward），客户端和浏览器只发出一次请求，Servlet、HTML、JSP 或其它信息资源，由第二个信息资源响应该请求，在请求对象 request 中，保存的对象对于每个信息资源是共享的。</li>
+<li>间接转发方式（Redirect），实际是两次 HTTP 请求，服务器端在响应第一次请求的时候，让浏览器再向另外一个 URL 发出请求，从而达到转发的目的。</li>
+</ul>
+<p>详细的，请看 <a href="https://www.cnblogs.com/Qian123/p/5345527.html">《请求转发（Forward）和重定向（Redirect）的区别》</a> 。</p>
+<p>🦅 <strong>HTTP 返回码中 301 与 302 的区别？</strong></p>
+<p>301，302 都是 HTTP 状态的编码，都代表着某个 URL 发生了转移，不同之处在于：</p>
+<ul>
+<li>301 redirect: 301 代表永久性转移(Permanently Moved)。</li>
+<li>302 redirect: 302 代表暂时性转移(Temporarily Moved)。</li>
+</ul>
+<p>详细的，请看 <a href="https://blog.csdn.net/qmhball/article/details/7838989">《HTTP 返回码中 301 与 302 的区别》</a> 文章。</p>
+<h2 id="HTTP、TCP、Socket-的关系是什么？"><a href="#HTTP、TCP、Socket-的关系是什么？" class="headerlink" title="HTTP、TCP、Socket 的关系是什么？"></a>HTTP、TCP、Socket 的关系是什么？</h2><ul>
+<li>TCP/IP 代表传输控制协议/网际协议，指的是一系列协议族。</li>
+<li>HTTP 本身就是一个协议，是从 Web 服务器传输超文本到本地浏览器的传送协议。</li>
+<li>Socket 是 TCP/IP 网络的 API ，其实就是一个门面模式，它把复杂的 TCP/IP 协议族隐藏在 Socket 接口后面。对用户来说，一组简单的接口就是全部，让 Socket 去组织数据，以符合指定的协议。</li>
+</ul>
+<p>综上所述：</p>
+<ul>
+<li>需要 IP 协议来连接网络</li>
+<li>TCP 是一种允许我们安全传输数据的机制，使用 TCP 协议来传输数据的 HTTP 是 Web 服务器和客户端使用的特殊协议。</li>
+<li>HTTP 基于 TCP 协议，所以可以使用 Socket 去建立一个 TCP 连接。</li>
+</ul>
+<h2 id="Cookies-和-Session-的区别"><a href="#Cookies-和-Session-的区别" class="headerlink" title="Cookies 和 Session 的区别"></a>Cookies 和 Session 的区别</h2><ul>
+<li><p>Session 在服务器端，Cookie 在客户端（浏览器）。</p>
+<blockquote>
+<p>Session 默认被存在在服务器的一个文件里（不是内存）。</p>
+</blockquote>
+</li>
+<li><p>Session 的运行依赖 sessionid ，而 sessionid 是存在 Cookie 中的，也就是说，如果浏览器禁用了 Cookie ，同时 session 也会失效。但是，可以通过其它方式实现，比如在 url 参数中传递 sessionid 。</p>
+</li>
+<li><p>Session 可以放在文件、数据库、或内存中都可以。</p>
+</li>
+<li><p>【关键】<strong>用户验证这种场合一般会用 Session</strong> 。</p>
+</li>
+</ul>
+<h2 id="【重要】一次完整的-HTTP-请求所经历的步骤"><a href="#【重要】一次完整的-HTTP-请求所经历的步骤" class="headerlink" title="【重要】一次完整的 HTTP 请求所经历的步骤"></a>【重要】一次完整的 HTTP 请求所经历的步骤</h2><blockquote>
+<p>这里的客户端，更多指的是浏览器。</p>
+</blockquote>
+<ul>
+<li><p>1、DNS 解析(通过访问的域名找出其 IP 地址，递归搜索)。</p>
+</li>
+<li><p>2、HTTP 请求，当输入一个请求时，建立一个 Socket 连接发起 TCP的 3 次握手。</p>
+<blockquote>
+<p>如果是 HTTPS 请求，会略微有不同。等到 HTTPS 小节，我们在来讲。</p>
+</blockquote>
+</li>
+<li><p>3.1、客户端向服务器发送请求命令（一般是 GET 或 POST 请求）。</p>
+<blockquote>
+<p>这个是补充内容，面试一般不用回答。</p>
+<p>客户端的网络层不用关心应用层或者传输层的东西，主要做的是通过查找路由表确定如何到达服务器，期间可能经过多个路由器，这些都是由路由器来完成的工作，我不作过多的描述，无非就是通过查找路由表决定通过那个路径到达服务器。</p>
+<p>客户端的链路层，包通过链路层发送到路由器，通过邻居协议查找给定 IP 地址的 MAC 地址，然后发送 ARP 请求查找目的地址，如果得到回应后就可以使用 ARP 的请求应答交换的 IP 数据包现在就可以传输了，然后发送 IP 数据包到达服务器的地址。</p>
+</blockquote>
+</li>
+<li><p>3.2、客户端发送请求头信息和数据。</p>
+</li>
+<li><p>4.1、服务器发送应答头信息。</p>
+</li>
+<li><p>4.2、服务器向客户端发送数据。</p>
+</li>
+<li><p>5、服务器关闭 TCP 连接（4次挥手）。</p>
+<blockquote>
+<p>这里是否关闭 TCP 连接，也根据 HTTP Keep-Alive 机制有关。</p>
+<p>同时，客户端也可以主动发起关闭 TCP 连接。</p>
+</blockquote>
+</li>
+<li><p>6、客户端根据返回的 HTML、CSS、JS 进行渲染。</p>
+</li>
+</ul>
+<p>如下是《图解HTTP》提供的图片：<a href="http://static2.iocoder.cn/be5603b1bb6ff46b640909b5b8976827">![HTTP 请求所经历的步骤](D:\新建文件夹 (3)\be5603b1bb6ff46b640909b5b8976827)</a>HTTP 请求所经历的步骤</p>
+<h2 id="HTTP1-0-和-HTTP1-1-有什么区别？"><a href="#HTTP1-0-和-HTTP1-1-有什么区别？" class="headerlink" title="HTTP1.0 和 HTTP1.1 有什么区别？"></a>HTTP1.0 和 HTTP1.1 有什么区别？</h2><p>主要是如下 8 点：</p>
+<ul>
+<li><p>1、可扩展性</p>
+</li>
+<li><p>2、缓存</p>
+</li>
+<li><p>3、带宽优化</p>
+<blockquote>
+<p>带来了<a href="https://zh.wikipedia.org/wiki/%E5%88%86%E5%9D%97%E4%BC%A0%E8%BE%93%E7%BC%96%E7%A0%81">分块传输</a> 。可能的话，面试也会问。</p>
+</blockquote>
+</li>
+<li><p>【最重要】4、长连接</p>
+</li>
+<li><p>5、消息传递</p>
+</li>
+<li><p>6、Host 头域</p>
+</li>
+<li><p>7、错误提示</p>
+</li>
+<li><p>8、内容协商</p>
+</li>
+</ul>
+<p>详细的每一点的说明，可以看 <a href="https://blog.csdn.net/ForgotAboutGirl/article/details/6936982">《HTTP1.0 与 HTTP1.1 的区别》</a> 文章，特别是第 4 点【长连接】。</p>
+<blockquote>
+<p>HTTP1.1 支持长连接（PersistentConnection）和请求的流水线（Pipelining）。</p>
+<ul>
+<li>长连接（PersistentConnection）：处理在一个 TCP 连接上可以传送多个 HTTP 请求和响应，减少了建立和关闭连接的消耗和延迟。在 HTTP1.1中 默认开启<code>Connection：keep-alive</code> ，一定程度上弥补了 HTTP1.0 每次请求都要创建连接的缺点。</li>
+<li>请求的流水线（Pipelining）：HTTP1.1  还允许客户端不用等待上一次请求结果返回，就可以发出下一次请求，但服务器端必须按照接收到客户端请求的先后顺序依次回送响应结果，以保证客户端能够区分出每次请求的响应内容，这样也显著地减少了整个下载过程所需要的时间。</li>
+</ul>
+<p>推荐，在看看 <a href="http://www.nowamagic.net/academy/detail/23350305">《HTTP Keep-Alive 是什么？如何工作？》</a> 文章。</p>
+<p>关于这一点，可能演变的问题有：</p>
+<ul>
+<li>HTTP 的长连接是什么意思？</li>
+<li>HTTP Keep-Alive 机制是什么？</li>
+<li>HTTP Keep-Alive 机制和 TCP Keep-Alive 有什么区别？</li>
+</ul>
+</blockquote>
+<h2 id="SPDY-是什么？"><a href="#SPDY-是什么？" class="headerlink" title="SPDY 是什么？"></a>SPDY 是什么？</h2><blockquote>
+<p>艿艿：关于这个问题，了解就好。</p>
+<p>HTTP Working-Group 最终决定以 SPDY/2 为基础，开发 HTTP/2 。</p>
+</blockquote>
+<p>2012 年，Google 如一声惊雷提出了 SPDY 的方案，优化了 HTTP1.X 的请求延迟，解决了 HTTP1.X 的安全性，具体如下：</p>
+<ul>
+<li><p>1、降低延迟</p>
+<blockquote>
+<p>针对 HTTP 高延迟的问题，SPDY 优雅的采取了多路复用（multiplexing）。多路复用通过多个请求 Stream 共享一个 Tcp连 接的方式，解决了 HOL blocking 的问题，降低了延迟同时提高了带宽的利用率。</p>
+</blockquote>
+</li>
+<li><p>2、请求优先级（request prioritization）</p>
+<blockquote>
+<p>多路复用带来一个新的问题是，在连接共享的基础之上有可能会导致关键请求被阻塞。SPDY 允许给每个 request 设置优先级，这样重要的请求就会优先得到响应。</p>
+<p>比如浏览器加载首页，首页的 html 内容应该优先展示，之后才是各种静态资源文件，脚本文件等加载，这样可以保证用户能第一时间看到网页内容。</p>
+</blockquote>
+</li>
+<li><p>3、header 压缩</p>
+<blockquote>
+<p>前面提到 HTTP1.x 的 header 很多时候都是重复多余的。选择合适的压缩算法可以减小包的大小和数量。</p>
+</blockquote>
+</li>
+<li><p>4、基于 HTTPS 的加密协议传输</p>
+<blockquote>
+<p>大大提高了传输数据的安全性。</p>
+</blockquote>
+</li>
+<li><p>5、服务端推送（server push）</p>
+<blockquote>
+<p>采用了 SPDY 的网页，例如我的网页有一个 <code>sytle.css</code> 的请求，在客户端收到 <code>sytle.css</code> 数据的同时，服务端会将 <code>sytle.js</code> 的文件推送给客户端。当客户端再次尝试获取 <code>sytle.js</code> 时就可以直接从缓存中获取到，不用再发请求了。</p>
+<p>🙂 和我们理解的服务端推送，有点（非常）不一样哈。</p>
+</blockquote>
+</li>
+</ul>
+<p>🚀 SPDY 构成图如下：<a href="http://static2.iocoder.cn/82cf7ea112281d126f23db03a502c249">![SPDY 构成图](D:\新建文件夹 (3)\82cf7ea112281d126f23db03a502c249)</a>SPDY 构成图</p>
+<ul>
+<li>SPDY 位于 HTTP 之下，TCP 和 SSL 之上，这样可以轻松兼容老版本的 HTTP 协议(将 HTTP1.x 的内容封装成一种新的 frame 格式)，同时可以使用已有的 SSL 功能。</li>
+</ul>
+<h1 id="HTTPS"><a href="#HTTPS" class="headerlink" title="HTTPS"></a>HTTPS</h1><p>推荐先看下 <a href="http://juejin.im/post/58c5268a61ff4b005d99652a">《九个问题从入门到熟悉 HTTPS》</a> 文章，写的很有趣~</p>
+<p>另外，也看看 <a href="https://blog.csdn.net/ustccw/article/details/76691248">《SSL/TLS 双向认证(一) – SSL/TLS工作原理》</a> 文章，写的更技术向~</p>
+<p>下面的面试题的答案，我们会基于上述文章来整理。</p>
+<h2 id="HTTPS-是什么？"><a href="#HTTPS-是什么？" class="headerlink" title="HTTPS 是什么？"></a>HTTPS 是什么？</h2><p>HTTPS ，实际就是在 TCP 层与 HTTP 层之间加入了 SSL/TLS 来为上层的安全保驾护航，主要用到对称加密、非对称加密、证书，等技术进行客户端与服务器的数据加密传输，最终达到保证整个通信的安全性。</p>
+<p><a href="http://static2.iocoder.cn/a9e8780d6b899cf5709579fc9c451fd9">![img](D:\新建文件夹 (3)\a9e8780d6b899cf5709579fc9c451fd9)</a></p>
+<p>一句话概括：<strong>HTTP + 加密 + 认证 + 完整性保护 = HTTPS</strong> 。</p>
+<p>🦅 <strong>什么是 SSL 呢？什么是 TLS 呢？</strong></p>
+<p>官方定义，SSL 是安全套接层(secure sockets layer)；TLS 是 SSL 的继任者，叫传输层安全(transport layer security)。</p>
+<p>它们存在的唯一目的就是保证上层通讯安全的一套机制。它的发展依次经历了下面几个时期，像手机软件升级一样，每次更新都添加或去除功能，比如引进新的加密算法，修改握手方式等。</p>
+<ul>
+<li>SSL1.0: 已废除</li>
+<li>SSL2.0: RFC6176 ，已废除</li>
+<li>SSL3.0: RFC6101 ，基本废除</li>
+<li><strong>TLS1.0</strong>: RFC2246 ，目前大都采用此种方式</li>
+<li>TLS1.1: RFC4346</li>
+<li>TLS1.2: RFC5246 ，没有广泛使用</li>
+<li>TLS1.3: IETF 正在酝酿中</li>
+</ul>
+<blockquote>
+<p>艿艿：为了下面描述方便，统一先叫 SSL 。</p>
+</blockquote>
+<p>🦅 <strong>SSL/TLS 协议作用？</strong></p>
+<ol>
+<li><p>认证用户和服务器，确保数据发送到正确的客户机和服务器。</p>
+<blockquote>
+<p>客户端必须避免中间人攻击，即除了真正的服务器，任何第三方都无法冒充服务器。</p>
+</blockquote>
+</li>
+<li><p>加密数据以防止数据中途被窃取。</p>
+</li>
+<li><p>维护数据的完整性，确保数据在传输过程中不被改变。</p>
+</li>
+</ol>
+<h2 id="HTTP-和-HTTPS-的区别？"><a href="#HTTP-和-HTTPS-的区别？" class="headerlink" title="HTTP 和 HTTPS 的区别？"></a>HTTP 和 HTTPS 的区别？</h2><ul>
+<li><p>端口不同：HTTP 与 HTTPS 使用不同的连接方式，用的端口也不一样，前者是 80，后者是 443。</p>
+<blockquote>
+<p>艿艿：个人的想法，实际 HTTPS 也是可以使用 80 端口，但是考虑继续保持 HTTP 的兼容，只好退而求其次，使用 443 端口。</p>
+</blockquote>
+</li>
+<li><p>资源消耗：和 HTTP 通信相比，HTTPS 通信会由于加解密处理消耗更多的 CPU 和内存资源。</p>
+</li>
+<li><p>开销：HTTPS 通信需要证书，而证书一般需要向认证机构申请免费或者付费购买。</p>
+<blockquote>
+<p>HTTPS 可以有效的防止运营商劫持，解决了防劫持的一个大问题。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="SSL-加密方式是什么？"><a href="#SSL-加密方式是什么？" class="headerlink" title="SSL 加密方式是什么？"></a>SSL 加密方式是什么？</h2><blockquote>
+<ul>
+<li>对称密钥加密，是指加密和解密使用同一个密钥的方式，这种方式存在的最大问题就是密钥发送问题，即如何安全地将密钥发给对方。</li>
+<li>非对称加密，指使用一对非对称密钥，即公钥和私钥，公钥可以随意发布，但私钥只有自己知道。发送密文的一方使用对方的公钥进行加密处理，对方接收到加密信息后，使用自己的私钥进行解密。</li>
+</ul>
+</blockquote>
+<p>SSL 协议，即用到了对称加密也用到了非对称加密，如下图所示：<a href="http://static2.iocoder.cn/images/Net/2020_03_01/01.jpeg">![SSL 加密过程](D:\新建文件夹 (3)\01.jpeg)</a>SSL 加密过程</p>
+<blockquote>
+<p>TODO 这个配图有问题。原图我在翻，貌似不小心被我删除了。。。。</p>
+</blockquote>
+<ul>
+<li><p>在建立传输链路时，SSL 首先对对称加密的密钥使用公钥进行非对称加密。</p>
+<blockquote>
+<p>艿艿：注意哟，这里 Server 返回给 Client 的不是公钥( <code>server.pub</code> )，而是 <code>server.crt</code> 。Client 需要使用 <code>ca.key</code> 从 <code>server.crt</code> 中解密出公钥( <code>server.pub</code> ) 。</p>
+</blockquote>
+</li>
+<li><p>链路建立好之后，SSL 对传输内容使用公钥( <code>server.pub</code> )对称加密。</p>
+</li>
+</ul>
+<p>🦅 <strong>为什么公钥传输的步骤这么复杂呢？</strong></p>
+<p>答案请看 <a href="http://juejin.im/post/58c5268a61ff4b005d99652a">《九个问题从入门到熟悉 HTTPS》</a> 文章的如下问题：</p>
+<ul>
+<li>Q5: 那公钥怎么传输</li>
+<li>Q6: 你在逗我么。。。。</li>
+<li>Q7: 怎么知道证书有没有被篡改？</li>
+<li>Q8: 这样可以防止第三方冒充服务器么</li>
+</ul>
+<p>也就是说，通过 CA 来保证。至于 <code>server.crt</code> 证书是怎么申请的呢？请看 <a href="https://blog.csdn.net/ustccw/article/details/76691248">《SSL/TLS 双向认证(一) – SSL/TLS工作原理》</a> 文章的 <a href="http://svip.iocoder.cn/Net/Interview/#">「CA 的证书 ca.crt 和 SSL Server 的证书 server.crt  是什么关系呢？ 」</a> 问题的解答。</p>
+<blockquote>
+<p>艿艿：看这块，我已经要被绕晕了！！！耐心~胖友，理解后会很爽。</p>
+</blockquote>
+<h2 id="什么是单向认证、双向认证？"><a href="#什么是单向认证、双向认证？" class="headerlink" title="什么是单向认证、双向认证？"></a>什么是单向认证、双向认证？</h2><ul>
+<li><p>单向认证，指的是只有一个对象校验对端的证书合法性。</p>
+<blockquote>
+<p>通常都是 Client 来校验服务器的合法性。那么 Client 需要一个<code>ca.crt</code> ，服务器需要 <code>server.crt</code> 和 <code>server.key</code> 。</p>
+</blockquote>
+</li>
+<li><p>双向认证，指的是相互校验，Server 需要校验每个 Client ，Client 也需要校验服务器。</p>
+<blockquote>
+<ul>
+<li>Server 需要 <code>server.key</code>、<code>server.crt</code>、<code>ca.crt</code> 。</li>
+<li>Client 需要 <code>client.key</code>、<code>client.crt</code>、<code>ca.crt</code> 。</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>1）单向认证的过程？</strong></p>
+<p><a href="http://static2.iocoder.cn/bdf6be06c37bcc026ed906f392661e3b"><img src="http://static2.iocoder.cn/bdf6be06c37bcc026ed906f392661e3b" alt="单向认证"></a>单向认证</p>
+<ul>
+<li><p>1、客户端向服务端发送 SSL 协议版本号、加密算法种类、随机数等信息。</p>
+</li>
+<li><p>2、服务端给客户端返回 SSL 协议版本号、加密算法种类、随机数等信息，同时也返回服务器端的证书，即公钥证书。</p>
+</li>
+<li><p>3、客户端使用服务端返回的信息验证服务器的合法性，包括：</p>
+<ul>
+<li><p>证书是否过期。</p>
+</li>
+<li><p>发型服务器证书的 CA 是否可靠。</p>
+</li>
+<li><p>返回的公钥是否能正确解开返回证书中的数字签名。</p>
+</li>
+<li><p>服务器证书上的域名是否和服务器的实际域名相匹配</p>
+<blockquote>
+<p>验证通过后，将继续进行通信；否则，终止通信。</p>
+</blockquote>
+</li>
+<li><p>4、客户端向服务端发送自己所能支持的对称加密方案，供服务器端进行选择。</p>
+</li>
+<li><p>5、服务器端在客户端提供的加密方案中选择加密程度最高的加密方式。</p>
+</li>
+</ul>
+</li>
+<li><p>6、服务器将选择好的加密方案通过明文方式返回给客户端。</p>
+</li>
+<li><p>7、客户端接收到服务端返回的加密方式后，使用该加密方式生成产生随机码，用作通信过程中对称加密的密钥，使用服务端返回的公钥进行加密，将加密后的随机码发送至服务器。</p>
+</li>
+<li><p>8、服务器收到客户端返回的加密信息后，使用自己的私钥进行解密，获取对称加密密钥。</p>
+<blockquote>
+<p><strong>在接下来的会话中，服务器和客户端将会使用该密码进行对称加密，保证通信过程中信息的安全</strong>。</p>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>2）双向认证的过程？</strong></p>
+<p>双向认证和单向认证原理基本差不多，只是除了客户端需要认证服务端以外，增加了服务端对客户端的认证，具体过程如下：</p>
+<p><a href="http://static2.iocoder.cn/61ed2a8b189fc549a9c7407c2ebedb64"><img src="http://static2.iocoder.cn/61ed2a8b189fc549a9c7407c2ebedb64" alt="双向认证"></a>双向认证</p>
+<ul>
+<li><p>1、客户端向服务端发送 SSL 协议版本号、加密算法种类、随机数等信息。</p>
+</li>
+<li><p>2、服务端给客户端返回 SSL 协议版本号、加密算法种类、随机数等信息，同时也返回服务器端的证书，即公钥证书。</p>
+</li>
+<li><p>3、客户端使用服务端返回的信息验证服务器的合法性，包括：</p>
+<ul>
+<li><p>证书是否过期。</p>
+</li>
+<li><p>发型服务器证书的 CA 是否可靠。</p>
+</li>
+<li><p>返回的公钥是否能正确解开返回证书中的数字签名。</p>
+</li>
+<li><p>服务器证书上的域名是否和服务器的实际域名相匹配</p>
+<blockquote>
+<p>验证通过后，将继续进行通信；否则，终止通信。</p>
+</blockquote>
+</li>
+<li><p><strong>【新增】4、服务端要求客户端发送客户端的证书，客户端会将自己的证书发送至服务端。</strong></p>
+</li>
+<li><p><strong>【新增】5、验证客户端的证书，通过验证后，会获得客户端的公钥。</strong></p>
+</li>
+<li><p>6、客户端向服务端发送自己所能支持的对称加密方案，供服务器端进行选择。</p>
+</li>
+<li><p>7、服务器端在客户端提供的加密方案中选择加密程度最高的加密方式。</p>
+</li>
+</ul>
+</li>
+<li><p>8、服务器将选择好的加密方案通过明文方式返回给客户端。</p>
+</li>
+<li><p>9、客户端接收到服务端返回的加密方式后，使用该加密方式生成产生随机码，用作通信过程中对称加密的密钥，使用服务端返回的公钥进行加密，将加密后的随机码发送至服务器。</p>
+</li>
+<li><p>10、服务器收到客户端返回的加密信息后，使用自己的私钥进行解密，获取对称加密密钥。</p>
+<blockquote>
+<p><strong>在接下来的会话中，服务器和客户端将会使用该密码进行对称加密，保证通信过程中信息的安全</strong>。</p>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>如何选择单向认证还是双向认证</strong></p>
+<ul>
+<li><p>一般一个站点很多用户访问就用单向认证。</p>
+</li>
+<li><p>企业接口对接就用双向认证。</p>
+<blockquote>
+<p>如果想要提高 APP 的安全级别，也可以考虑双向认证。因为，APP 天然方便放入客户端证书，从而提高安全级别。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="为什么抓包工具还能抓到-HTTPS-数据包并解密成功呢"><a href="#为什么抓包工具还能抓到-HTTPS-数据包并解密成功呢" class="headerlink" title="为什么抓包工具还能抓到 HTTPS 数据包并解密成功呢"></a>为什么抓包工具还能抓到 HTTPS 数据包并解密成功呢</h2><p>不是说HTTPS在网络中传输的是密文吗？这个问题就是<strong>中间者攻击</strong>（man in zhe middle）。</p>
+<p><a href="http://static2.iocoder.cn/0332b5d6001f7446a04a5d54b9b93d7e">![中间者攻击原理图](D:\新建文件夹 (3)\0332b5d6001f7446a04a5d54b9b93d7e)</a>中间者攻击原理图</p>
+<ul>
+<li>解决办法，就是 HTTPS 单向验证。在客户端中内置服务器公钥，在第三步服务器返回的公钥，除了验证公钥的有效性之外，再比对公钥是不是和内置的公钥一样，不一样说明被中间者攻击了，就断开链接不在请求了。</li>
+<li>这个原理的前提是服务器的私钥没有泄露，客户端的代码不会被破解，道高一尺魔高一丈。信息安全就是在合理的范围内，选择比较合适的加密方法，没有绝对论，只有相对论。在某个范围内比较安全。</li>
+</ul>
+<h2 id="HTTPS-握手会影响性能么？"><a href="#HTTPS-握手会影响性能么？" class="headerlink" title="HTTPS 握手会影响性能么？"></a>HTTPS 握手会影响性能么？</h2><p>TCP 有三次握手，再加上 HTTPS 的四次握手，影响肯定有，但是可以接受。</p>
+<ul>
+<li>首先，HTTPS 肯定会更慢一点，时间主要花费在两组 SSL 之间的耗时和证书的读取验证上，对称算法的加解密时间几乎可以忽略不计。</li>
+<li>而且如果不是首次握手，后续的请求并不需要完整的握手过程。客户端可以把上次的加密情况直接发送给服务器从而快速恢复，具体细节可以参考 <a href="http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html">《图解 SSL/TLS 协议》</a> 。</li>
+<li>除此以外，SSL 握手的时间并不是只能用来传递加密信息，还可以承担起客户端和服务器沟通 HTTP2 兼容情况的任务。因此从 HTTPS 切换到 HTTP2.0 不会有任何性能上的开销，反倒是得益于 HTTP2.0 的多路复用等技术，后续可以节约大量时间。</li>
+<li>如果把 HTTPS2.0 当做目标，那么 HTTPS 的性能损耗就更小了，远远比不上它带来的安全性提升。</li>
+</ul>
+<h1 id="HTTP2"><a href="#HTTP2" class="headerlink" title="HTTP2"></a>HTTP2</h1><p><a href="http://static2.iocoder.cn/482a127d8fd07940d8f255610c716792">![HTTP2 和 HTTP1.1 的区别](D:\新建文件夹 (3)\482a127d8fd07940d8f255610c716792)</a>HTTP2 和 HTTP1.1 的区别</p>
+<h2 id="什么是-HTTP2-0-？"><a href="#什么是-HTTP2-0-？" class="headerlink" title="什么是 HTTP2.0 ？"></a>什么是 HTTP2.0 ？</h2><p>HTTP2.0 ，可以说是SPDY的升级版（其实原本也是基于SPDY设计的），但是，HTTP2.0 跟 SPDY 仍有不同的地方，如下：</p>
+<ul>
+<li>HTTP2.0 支持明文 HTTP 传输，而 SPDY 强制使用 HTTPS 。</li>
+<li>HTTP2.0 消息头的压缩算法采用 <a href="https://link.jianshu.com/?t=http://http2.github.io/http2-spec/compression.html">HPACK</a>，而非 SPDY 采用的 <a href="https://link.jianshu.com/?t=http://zh.wikipedia.org/wiki/DEFLATE">DEFLATE</a> 。</li>
+</ul>
+<h2 id="HTTP2-0-和-HTTP1-X-相比的新特性？"><a href="#HTTP2-0-和-HTTP1-X-相比的新特性？" class="headerlink" title="HTTP2.0 和 HTTP1.X 相比的新特性？"></a>HTTP2.0 和 HTTP1.X 相比的新特性？</h2><ul>
+<li><p>1、新的二进制格式（Binary Format）</p>
+<blockquote>
+<p>HTTP1.x 的解析是基于文本。基于文本协议的格式解析存在天然缺陷，文本的表现形式有多样性，要做到健壮性考虑的场景必然很多，二进制则不同，只认 0 和 1 的组合。基于这种考虑 HTTP2.0 的协议解析决定采用二进制格式，实现方便且健壮。</p>
+</blockquote>
+</li>
+<li><p>同 SPDY 对 HTTP1.1 的改进。</p>
+<ul>
+<li>2、降低延迟</li>
+<li>3、多路复用（MultiPlexing）</li>
+<li>4、header 压缩</li>
+<li>5、服务端推送（server push）</li>
+</ul>
+</li>
+</ul>
+<h2 id="Nginx-怎么做-HTTP2-0-的升级改造？"><a href="#Nginx-怎么做-HTTP2-0-的升级改造？" class="headerlink" title="Nginx 怎么做 HTTP2.0 的升级改造？"></a>Nginx 怎么做 HTTP2.0 的升级改造？</h2><ul>
+<li>1、虽然 HTTP2.0 其实可以支持非 HTTPS 的，但是现在主流的浏览器像 Chrome，Firefox 表示还是只支持基于 TLS 部署的 HTTP2.0协议，所以要想升级成 HTTP2.0 还是先升级 HTTPS 为好。</li>
+<li>2、当你的网站已经升级 HTTPS 之后，那么升级 HTTP2.0 就简单很多，如果你使用 NGINX ，只要在配置文件中启动相应的协议就可以了，可以参考 <a href="https://link.jianshu.com/?t=https://www.nginx.com/wp-content/uploads/2015/09/NGINX_HTTP2_White_Paper_v4.pdf">NGINX白皮书</a>，<a href="https://link.jianshu.com/?t=https://www.nginx.com/blog/nginx-1-9-5/">NGINX配置HTTP2.0官方指南</a> 。</li>
+<li>3、使用了 HTTP2.0 那么，原本的 HTTP1.x 怎么办？这个问题其实不用担心，HTTP2.0 完全兼容 HTTP1.x 的语义，对于不支持 HTTP2.0 的浏览器，NGINX 会自动向下兼容的。</li>
+</ul>
+<p>在我们内部的微服务 API 接口，也可以做 HTTP2 的改造，可以参考如下文章：</p>
+<blockquote>
+<p>艿艿：选读，作为知识的扩充</p>
+</blockquote>
+<ul>
+<li><a href="https://www.jianshu.com/p/ed3f8f983764">《Spring Cloud 使用 HTTP2》</a></li>
+<li><a href="https://www.jianshu.com/p/7ddcdd3847d6">《再说 SpringBoot2.0 与 HTTP/2》</a></li>
+</ul>
+<h2 id="HTTP2-0-的多路复用和-HTTP1-X-中的长连接复用有什么区别？"><a href="#HTTP2-0-的多路复用和-HTTP1-X-中的长连接复用有什么区别？" class="headerlink" title="HTTP2.0 的多路复用和 HTTP1.X 中的长连接复用有什么区别？"></a>HTTP2.0 的多路复用和 HTTP1.X 中的长连接复用有什么区别？</h2><ul>
+<li>HTTP/1.0：一次请求-响应，建立一个连接，用完关闭；每一个请求都要建立一个连接。</li>
+<li>HTTP/1.1：Pipeling 解决方式为，若干个请求排队串行化单线程处理，后面的请求等待前面请求的返回才能获得执行机会。一旦有某请求超时等，后续请求只能被阻塞，毫无办法，也就是人们常说的线头阻塞。</li>
+<li>HTTP/2：多个请求可同时在一个连接上并行执行。某个请求任务耗时严重，不会影响到其它连接的正常执行。</li>
+</ul>
+<p>如下图所示：<a href="http://static2.iocoder.cn/7268e2a2553c6612396b7de03667d348">![HTTP/1.1 对比 HTTP/2](D:\新建文件夹 (3)\7268e2a2553c6612396b7de03667d348)</a>HTTP/1.1 对比 HTTP/2</p>
+<p>🦅  <strong>HTTP2.0 多路复用有多好？</strong></p>
+<blockquote>
+<p>艿艿：最近重新看了 TCP ，发现再看这个问题，真的是有趣！</p>
+</blockquote>
+<p>HTTP 性能优化的关键并不在于高带宽，而是低延迟。TCP  连接会随着时间进行自我「调谐」，起初会限制连接的最大速度，如果数据成功传输，会随着时间的推移提高传输的速度。这种调谐则被称为 TCP  慢启动。由于这种原因，让原本就具有突发性和短时性的 HTTP 连接变的十分低效。</p>
+<p>HTTP/2 通过让所有数据流共用同一个连接，可以更有效地使用 TCP 连接，让高带宽也能真正的服务于 HTTP 的性能提升。</p>
+<h2 id="服务器推送到底是什么？"><a href="#服务器推送到底是什么？" class="headerlink" title="服务器推送到底是什么？"></a>服务器推送到底是什么？</h2><p>服务端推送能把客户端所需要的资源伴随着 <code>index.html</code> 一起发送到客户端，省去了客户端重复请求的步骤。正因为没有发起请求，建立连接等操作，所以静态资源通过服务端推送的方式可以极大地提升速度。具体如下：</p>
+<ul>
+<li>普通的客户端请求过程：<a href="http://static2.iocoder.cn/9eecd5ec56714731d0e38c6ef9c468d1">![普通的客户端请求过程](D:\新建文件夹 (3)\9eecd5ec56714731d0e38c6ef9c468d1)</a>普通的客户端请求过程</li>
+<li>服务端推送的过程：<a href="http://static2.iocoder.cn/c30ec0b3743d1f9751d3ba511f94578b">![服务端推送的过程](D:\新建文件夹 (3)\c30ec0b3743d1f9751d3ba511f94578b)</a>服务端推送的过程</li>
+</ul>
+<h2 id="为什么需要头部-header-压缩？"><a href="#为什么需要头部-header-压缩？" class="headerlink" title="为什么需要头部(header)压缩？"></a>为什么需要头部(header)压缩？</h2><p>假定一个页面有 100 个资源需要加载（这个数量对于今天的 Web 而言还是挺保守的），而每一次请求都有 1kb 的消息头（这同样也并不少见，因为  Cookie 和引用等东西的存在），则至少需要多消耗 100kb 来获取这些消息头。HTTP2.0 可以维护一个字典，差量更新 HTTP  头部，大大降低因头部传输产生的流量。</p>
+<p>具体参考：<a href="https://link.jianshu.com/?t=https://imququ.com/post/header-compression-in-http2.html">《HTTP/2 头部压缩技术介绍》</a> 文章。</p>
+<ul>
+<li>维护一份相同的静态字典（Static Table），包含常见的头部名称，以及特别常见的头部名称与值的组合。</li>
+<li>维护一份相同的动态字典（Dynamic Table），可以动态地添加内容。</li>
+<li>支持基于静态哈夫曼码表的哈夫曼编码（Huffman Coding）。</li>
+</ul>
+<h1 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h1><p>感觉，大学丢掉的网络知识，又一次回到我的脑子中了。好开心，又可以遗忘一轮啦，哈哈哈哈。</p>
+<p>参考与推荐如下文章：</p>
+<ul>
+<li><a href="https://blog.csdn.net/duanbokan/article/details/50847612">《Https 单向认证和双向认证》</a></li>
+<li><a href="https://blog.csdn.net/Maybe_ch/article/details/82598782">《【网络协议】ping 的工作原理》</a></li>
+<li><a href="https://www.jianshu.com/p/be29d679cbff">《HTTP1.0、HTTP1.1 和 HTTP2.0 的区别》</a></li>
+<li><a href="https://segmentfault.com/a/1190000010819141">《计算机网络常见面试题》</a></li>
+<li><a href="https://www.jianshu.com/p/a1f5daf7ada5">《总结的网络面试题》</a></li>
+<li><a href="https://blog.csdn.net/justloveyou_/article/details/78303617">《面试/笔试第一弹 —— 计算机网络面试问题集锦》</a></li>
+<li><a href="https://github.com/jawil/blog/issues/14">《通俗大白话来理解 TCP 协议的三次握手和四次挥手》</a></li>
+<li><a href="https://www.jianshu.com/p/b71ec62b6eb5">《TCP 数据的传输过程》</a></li>
+<li><a href="https://juejin.im/post/5b7be0b2e51d4538db34a51e">《搞定计算机网络面试，看这篇就够了（补充版）》</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
       </tags>
   </entry>
   <entry>
