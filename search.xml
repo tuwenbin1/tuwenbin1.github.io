@@ -71,20 +71,6 @@
       </tags>
   </entry>
   <entry>
-    <title>15</title>
-    <url>/2016/10/12/15/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>16</title>
     <url>/2016/10/12/16/</url>
     <content><![CDATA[<p>11111111</p>
@@ -155,8 +141,8 @@
       </tags>
   </entry>
   <entry>
-    <title>22</title>
-    <url>/2016/10/12/22/</url>
+    <title>21</title>
+    <url>/2016/10/12/21/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -169,8 +155,8 @@
       </tags>
   </entry>
   <entry>
-    <title>21</title>
-    <url>/2016/10/12/21/</url>
+    <title>22</title>
+    <url>/2016/10/12/22/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -450,7 +436,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/42/</url>
+    <url>/2016/10/12/43/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -464,7 +450,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/43/</url>
+    <url>/2016/10/12/42/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -506,7 +492,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/47/</url>
+    <url>/2016/10/12/46/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -520,7 +506,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/46/</url>
+    <url>/2016/10/12/47/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -759,6 +745,20 @@
   <entry>
     <title>9</title>
     <url>/2016/10/12/9/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>15</title>
+    <url>/2016/10/12/15/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -1082,7 +1082,7 @@
       </tags>
   </entry>
   <entry>
-    <title>4</title>
+    <title>精尽 Spring Boot 面试题</title>
     <url>/2016/10/12/4/</url>
     <content><![CDATA[<h1 id="精尽-Spring-Boot-面试题"><a href="#精尽-Spring-Boot-面试题" class="headerlink" title="精尽 Spring Boot 面试题"></a>精尽 Spring Boot 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
 <p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Spring Boot 面试题的大保健。</p>
@@ -1118,7 +1118,7 @@
 </blockquote>
 </li>
 <li><p>3、提供 Starter 简化 Maven 配置</p>
-<p>  Spring 提供了一系列的 starter pom 来简化 Maven 的依赖加载。例如，当你使用了 <code>spring-boot-starter-web</code> ，会自动加入如下依赖：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/01.png">![<code>spring-boot-starter-web</code> 的 pom 文件](D:\新建文件夹 (3)\01.png)</a><code>spring-boot-starter-web</code> 的 pom 文件</p>
+<p>  Spring 提供了一系列的 starter pom 来简化 Maven 的依赖加载。例如，当你使用了 <code>spring-boot-starter-web</code> ，会自动加入如下依赖：<img src="http://cdn.tuwenbin.vip/01-1601209309189.jpg" alt="01"><code>spring-boot-starter-web</code> 的 pom 文件</p>
 </li>
 <li><p>4、<a href="https://www.jianshu.com/p/ddb6e32e3faf">自动配置 Spring Bean</a></p>
 <p>  Spring Boot 检测到特定类的存在，就会针对这个应用做一定的配置，进行自动配置 Bean ，这样会极大地减少我们要使用的配置。</p>
@@ -1174,7 +1174,7 @@
 <p>所以，上面的缺点，严格来说可能不太适合在面试中回答。艿艿认为，Spring Boot 的缺点主要是，因为自动配置 Spring Bean  的功能，我们可能无法知道，哪些 Bean 被进行创建了。这个时候，如果我们想要自定义一些 Bean ，可能存在冲突，或者不知道实际注入的情况。</p>
 <h2 id="Spring-Boot、Spring-MVC-和-Spring-有什么区别？"><a href="#Spring-Boot、Spring-MVC-和-Spring-有什么区别？" class="headerlink" title="Spring Boot、Spring MVC 和 Spring 有什么区别？"></a>Spring Boot、Spring MVC 和 Spring 有什么区别？</h2><p>Spring 的完整名字，应该是 Spring Framework 。它提供了多个模块，Spring IoC、Spring AOP、Spring MVC 等等。所以，Spring MVC 是 Spring Framework 众多模块中的一个。</p>
 <p>而 Spring Boot 是构造在 Spring Framework 之上的 Boot 启动器，旨在更容易的配置一个 Spring 项目。</p>
-<p>总结说来，如下图所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/02.png">![Spring Boot 对比 Spring MVC 对比 Spring ？](D:\新建文件夹 (3)\02.png)</a>Spring Boot 对比 Spring MVC 对比 Spring ？</p>
+<p>总结说来，如下图所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/02.png"><img src="http://cdn.tuwenbin.vip/02.png" alt="Spring Boot 对比 Spring MVC 对比 Spring ？"></a>Spring Boot 对比 Spring MVC 对比 Spring ？</p>
 <h2 id="Spring-Boot-中的-Starter-是什么？"><a href="#Spring-Boot-中的-Starter-是什么？" class="headerlink" title="Spring Boot 中的 Starter 是什么？"></a>Spring Boot 中的 Starter 是什么？</h2><p>比较<strong>通俗</strong>的说法：</p>
 <blockquote>
 <p>FROM <a href="https://www.cnblogs.com/EasonJim/p/7615801.html">《Spring Boot 中 Starter 是什么》</a></p>
@@ -2219,7 +2219,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>3</title>
+    <title>精尽 Spring 面试题</title>
     <url>/2016/10/12/3/</url>
     <content><![CDATA[<h1 id="精尽-Spring-面试题"><a href="#精尽-Spring-面试题" class="headerlink" title="精尽 Spring 面试题"></a>精尽 Spring 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
 <p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Spring 面试题的大保健。</p>
@@ -2437,7 +2437,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <blockquote>
 <p>艿艿，注意上面三段段话的<strong>加粗</strong>部分的内容。</p>
 </blockquote>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/02.jpg">![Spring IoC](D:\新建文件夹 (3)\02.jpg)</a>Spring IoC</p>
+<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/02.jpg"><img src="http://cdn.tuwenbin.vip/02.jpg" alt="Spring IoC"></a>Spring IoC</p>
 <h2 id="什么是依赖注入？"><a href="#什么是依赖注入？" class="headerlink" title="什么是依赖注入？"></a>什么是依赖注入？</h2><p>在依赖注入中，你不必主动、手动创建对象，但必须描述如何创建它们。</p>
 <ul>
 <li>你不是直接在代码中将组件和服务连接在一起，而是描述配置文件中哪些组件需要哪些服务。</li>
@@ -2697,9 +2697,9 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <li>如果 Bean 实现 <strong>DisposableBean</strong> 接口，当 spring 容器关闭时，会调用 <code>#destroy()</code> 方法。</li>
 <li>如果为 bean 指定了 <strong>destroy</strong> 方法（例如 <code>&lt;bean /&gt;</code> 的 <code>destroy-method</code> 属性），那么将调用该方法。</li>
 </ul>
-<p>整体如下图：<a href="http://static2.iocoder.cn/images/Spring/2018-12-24/03.jpg">![流程图](D:\新建文件夹 (3)\03.jpg)</a>流程图</p>
+<p>整体如下图：<a href="http://static2.iocoder.cn/images/Spring/2018-12-24/03.jpg"><img src="http://cdn.tuwenbin.vip/03.jpg" alt="流程图"></a>流程图</p>
 <p>无意中，艿艿又翻到一张有趣的整体图，如下图：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/08.png">![流程图](D:\新建文件夹 (3)\08.png)</a>流程图</p>
+<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/08.png"><img src="http://cdn.tuwenbin.vip/08.png" alt="流程图"></a>流程图</p>
 <h2 id="什么是-Spring-的内部-bean？"><a href="#什么是-Spring-的内部-bean？" class="headerlink" title="什么是 Spring 的内部 bean？"></a>什么是 Spring 的内部 bean？</h2><p>只有将 Bean <strong>仅</strong>用作另一个 Bean 的属性时，才能将 Bean 声明为内部 Bean。</p>
 <ul>
 <li>为了定义 Bean，Spring 提供基于 XML 的配置元数据在 <code>&lt;property&gt;</code>或 <code>&lt;constructor-arg&gt;</code> 中提供了 <code>&lt;bean&gt;</code>元素的使用。</li>
@@ -2832,7 +2832,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <li>如何在 Advice 中编写切面代码。</li>
 </ol>
 <p><strong>可以简单地认为, 使用 @Aspect 注解的类就是切面</strong></p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/04.jpg">![流程图](D:\新建文件夹 (3)\04.jpg)</a>流程图</p>
+<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/04.jpg"><img src="http://cdn.tuwenbin.vip/04.jpg" alt="流程图"></a>流程图</p>
 <h2 id="什么是-JoinPoint"><a href="#什么是-JoinPoint" class="headerlink" title="什么是 JoinPoint ?"></a>什么是 JoinPoint ?</h2><p>JoinPoint ，<strong>切点</strong>，程序运行中的一些时间点, 例如：</p>
 <ul>
 <li>一个方法的执行。</li>
@@ -2930,7 +2930,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <h2 id="什么是编织（Weaving）？"><a href="#什么是编织（Weaving）？" class="headerlink" title="什么是编织（Weaving）？"></a>什么是编织（Weaving）？</h2><p>Weaving ，<strong>编织</strong>。</p>
 <ul>
 <li>为了创建一个 Advice 对象而链接一个 Aspect 和其它应用类型或对象，称为编织（Weaving）。</li>
-<li>在 Spring AOP 中，编织在运行时执行，即动态代理。请参考下图：<a href="http://static2.iocoder.cn/images/Spring/2018-12-24/05.jpg">![Proxy](D:\新建文件夹 (3)\05.jpg)</a>Proxy</li>
+<li>在 Spring AOP 中，编织在运行时执行，即动态代理。请参考下图：<a href="http://static2.iocoder.cn/images/Spring/2018-12-24/05.jpg"><img src="http://cdn.tuwenbin.vip/05.jpg" alt="Proxy"></a>Proxy</li>
 </ul>
 <h2 id="Spring-如何使用-AOP-切面？"><a href="#Spring-如何使用-AOP-切面？" class="headerlink" title="Spring 如何使用 AOP 切面？"></a>Spring 如何使用 AOP 切面？</h2><p>在 Spring AOP 中，有两种方式配置 AOP 切面：</p>
 <ul>
@@ -2945,7 +2945,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <h2 id="什么是事务？"><a href="#什么是事务？" class="headerlink" title="什么是事务？"></a>什么是事务？</h2><p>事务就是对一系列的数据库操作（比如插入多条数据）进行统一的提交或回滚操作，如果插入成功，那么一起成功，如果中间有一条出现异常，那么回滚之前的所有操作。</p>
 <p>这样可以防止出现脏数据，防止数据库数据出现问题。</p>
 <h2 id="事务的特性指的是？"><a href="#事务的特性指的是？" class="headerlink" title="事务的特性指的是？"></a>事务的特性指的是？</h2><p>指的是 <strong>ACID</strong> ，如下图所示：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/06.png">![事务的特性](D:\新建文件夹 (3)\06.png)</a>事务的特性</p>
+<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/06.png"><img src="http://cdn.tuwenbin.vip/06.png" alt="事务的特性"></a>事务的特性</p>
 <ol>
 <li><strong>原子性</strong> Atomicity  ：一个事务（transaction）中的所有操作，或者全部完成，或者全部不完成，不会结束在中间某个环节。事务在执行过程中发生错误，会被恢复（Rollback）到事务开始前的状态，就像这个事务从来没有执行过一样。即，事务不可分割、不可约简。</li>
 <li><strong>一致性</strong> Consistency ：在事务开始之前和事务结束以后，数据库的完整性没有被破坏。这表示写入的资料必须完全符合所有的预设<a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%AE%8C%E6%95%B4%E6%80%A7">约束</a>、<a href="https://zh.wikipedia.org/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8_(%E6%95%B0%E6%8D%AE%E5%BA%93)">触发器</a>、<a href="https://zh.wikipedia.org/w/index.php?title=%E7%BA%A7%E8%81%94%E5%9B%9E%E6%BB%9A&action=edit&redlink=1">级联回滚</a>等。</li>
@@ -2985,7 +2985,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
   - 而是在 A 方法结束调用后，执行 `PlatformTransactionManager#commit(TransactionStatus status)` 方法，提交事务。</code></pre>
 </li>
 <li><pre><code>#rollback(TransactionStatus status)
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   方法，根据 TransactionStatus 情况，回滚事务。<br><br>  - 为什么根据 TransactionStatus 情况，进行回滚？原因同 &#96;#commit(TransactionStatus status)&#96; 方法。<br><br>③ 再之后，PlatformTransactionManager 有**抽象子**类 &#96;org.springframework.transaction.support.AbstractPlatformTransactionManager&#96; ，基于 [模板方法模式](https:&#x2F;&#x2F;blog.csdn.net&#x2F;carson_ho&#x2F;article&#x2F;details&#x2F;54910518) ，实现事务整体逻辑的骨架，而抽象 &#96;#doCommit(DefaultTransactionStatus status)&#96;、&#96;#doRollback(DefaultTransactionStatus status)&#96; 等等方法，交由子类类来实现。<br><br>&gt; 前方高能，即将进入关键的 ④ 步骤。<br><br>④ 最后，不同的数据持久层框架，会有其对应的 PlatformTransactionManager 实现类，如下图所示：[![事务的特性](D:\新建文件夹 (3)\07.png)](http:&#x2F;&#x2F;static2.iocoder.cn&#x2F;images&#x2F;Spring&#x2F;2018-12-24&#x2F;07.png)事务的特性<br><br>- 所有的实现类，都基于 AbstractPlatformTransactionManager 这个骨架类。<br>- HibernateTransactionManager ，和 Hibernate5 的事务管理做集成。<br>- DataSourceTransactionManager ，和 JDBC 的事务管理做集成。所以，它也适用于 MyBatis、Spring JDBC 等等。<br>- JpaTransactionManager ，和 JPA 的事务管理做集成。<br><br>如下，是一个比较常见的 XML 方式来配置的事务管理器，使用的是 DataSourceTransactionManager 。代码如下：<br><br></code></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   方法，根据 TransactionStatus 情况，回滚事务。<br><br>  - 为什么根据 TransactionStatus 情况，进行回滚？原因同 &#96;#commit(TransactionStatus status)&#96; 方法。<br><br>③ 再之后，PlatformTransactionManager 有**抽象子**类 &#96;org.springframework.transaction.support.AbstractPlatformTransactionManager&#96; ，基于 [模板方法模式](https:&#x2F;&#x2F;blog.csdn.net&#x2F;carson_ho&#x2F;article&#x2F;details&#x2F;54910518) ，实现事务整体逻辑的骨架，而抽象 &#96;#doCommit(DefaultTransactionStatus status)&#96;、&#96;#doRollback(DefaultTransactionStatus status)&#96; 等等方法，交由子类类来实现。<br><br>&gt; 前方高能，即将进入关键的 ④ 步骤。<br><br>④ 最后，不同的数据持久层框架，会有其对应的 PlatformTransactionManager 实现类，如下图所示：[![事务的特性](http:&#x2F;&#x2F;cdn.tuwenbin.vip&#x2F;07.png)](http:&#x2F;&#x2F;static2.iocoder.cn&#x2F;images&#x2F;Spring&#x2F;2018-12-24&#x2F;07.png)事务的特性<br><br>- 所有的实现类，都基于 AbstractPlatformTransactionManager 这个骨架类。<br>- HibernateTransactionManager ，和 Hibernate5 的事务管理做集成。<br>- DataSourceTransactionManager ，和 JDBC 的事务管理做集成。所以，它也适用于 MyBatis、Spring JDBC 等等。<br>- JpaTransactionManager ，和 JPA 的事务管理做集成。<br><br>如下，是一个比较常见的 XML 方式来配置的事务管理器，使用的是 DataSourceTransactionManager 。代码如下：<br><br></code></pre></td></tr></table></figure>
 &lt;!-- 事务管理器 --&gt;
 &lt;bean id=&quot;transactionManager&quot;
 class=&quot;org.springframework.jdbc.datasource.DataSourceTransactionManager&quot;&gt;
@@ -3125,7 +3125,7 @@ boolean isCompleted();</code></pre>
 <p>对于开发者，只需要使用 JdbcTemplate 类，它提供了很多便利的方法解决诸如把数据库数据转变成基本数据类型或对象，执行写好的或可调用的数据库操作语句，提供自定义的数据错误处理。</p>
 <p>没有使用过的胖友，可以看看 <a href="https://www.tianmaying.com/tutorial/spring-jdbc-data-accessing">《Spring JDBC 访问关系型数据库》</a> 文章。</p>
 <h2 id="Spring-数据数据访问层有哪些异常？"><a href="#Spring-数据数据访问层有哪些异常？" class="headerlink" title="Spring 数据数据访问层有哪些异常？"></a>Spring 数据数据访问层有哪些异常？</h2><p>通过使用 Spring 数据数据访问层，它统一了各个数据持久层框架的不同异常，统一进行提供 <code>org.springframework.dao.DataAccessException</code> 异常及其子类。如下图所示：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/09.jpg">![流程图](D:\新建文件夹 (3)\09.jpg)</a>流程图</p>
+<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/09.jpg"><img src="http://cdn.tuwenbin.vip/09.jpg" alt="流程图"></a>流程图</p>
 <h2 id="使用-Spring-访问-Hibernate-的方法有哪些？"><a href="#使用-Spring-访问-Hibernate-的方法有哪些？" class="headerlink" title="使用 Spring 访问 Hibernate 的方法有哪些？"></a>使用 Spring 访问 Hibernate 的方法有哪些？</h2><blockquote>
 <p>艿艿：这个问题很灵异，因为艿艿已经好久不使用 Hibernate 了，所以答案是直接复制的。</p>
 </blockquote>
