@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>11</title>
-    <url>/2016/10/12/11/</url>
+    <title>10</title>
+    <url>/2016/10/12/10/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -15,8 +15,8 @@
       </tags>
   </entry>
   <entry>
-    <title>10</title>
-    <url>/2016/10/12/10/</url>
+    <title>11</title>
+    <url>/2016/10/12/11/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -141,8 +141,8 @@
       </tags>
   </entry>
   <entry>
-    <title>20</title>
-    <url>/2016/10/12/20/</url>
+    <title>21</title>
+    <url>/2016/10/12/21/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -155,8 +155,8 @@
       </tags>
   </entry>
   <entry>
-    <title>21</title>
-    <url>/2016/10/12/21/</url>
+    <title>20</title>
+    <url>/2016/10/12/20/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -183,8 +183,8 @@
       </tags>
   </entry>
   <entry>
-    <title>23</title>
-    <url>/2016/10/12/23/</url>
+    <title>24</title>
+    <url>/2016/10/12/24/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -197,8 +197,8 @@
       </tags>
   </entry>
   <entry>
-    <title>24</title>
-    <url>/2016/10/12/24/</url>
+    <title>23</title>
+    <url>/2016/10/12/23/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -239,8 +239,8 @@
       </tags>
   </entry>
   <entry>
-    <title>28</title>
-    <url>/2016/10/12/28/</url>
+    <title>27</title>
+    <url>/2016/10/12/27/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -253,8 +253,8 @@
       </tags>
   </entry>
   <entry>
-    <title>27</title>
-    <url>/2016/10/12/27/</url>
+    <title>28</title>
+    <url>/2016/10/12/28/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -281,8 +281,8 @@
       </tags>
   </entry>
   <entry>
-    <title>31</title>
-    <url>/2016/10/12/31/</url>
+    <title>30</title>
+    <url>/2016/10/12/30/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -295,8 +295,8 @@
       </tags>
   </entry>
   <entry>
-    <title>30</title>
-    <url>/2016/10/12/30/</url>
+    <title>31</title>
+    <url>/2016/10/12/31/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -323,6 +323,20 @@
       </tags>
   </entry>
   <entry>
+    <title>34</title>
+    <url>/2016/10/12/34/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>33</title>
     <url>/2016/10/12/33/</url>
     <content><![CDATA[<p>11111111</p>
@@ -337,8 +351,8 @@
       </tags>
   </entry>
   <entry>
-    <title>34</title>
-    <url>/2016/10/12/34/</url>
+    <title>37</title>
+    <url>/2016/10/12/37/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -365,20 +379,6 @@
       </tags>
   </entry>
   <entry>
-    <title>36</title>
-    <url>/2016/10/12/36/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>38</title>
     <url>/2016/10/12/38/</url>
     <content><![CDATA[<p>11111111</p>
@@ -393,8 +393,8 @@
       </tags>
   </entry>
   <entry>
-    <title>37</title>
-    <url>/2016/10/12/37/</url>
+    <title>36</title>
+    <url>/2016/10/12/36/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -436,7 +436,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/41/</url>
+    <url>/2016/10/12/42/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -450,7 +450,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/42/</url>
+    <url>/2016/10/12/41/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -492,6 +492,20 @@
   </entry>
   <entry>
     <title>My awesome title</title>
+    <url>/2016/10/12/46/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My awesome title</title>
     <url>/2016/10/12/45/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
@@ -507,20 +521,6 @@
   <entry>
     <title>My awesome title</title>
     <url>/2016/10/12/47/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My awesome title</title>
-    <url>/2016/10/12/46/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -561,8 +561,8 @@
       </tags>
   </entry>
   <entry>
-    <title>51</title>
-    <url>/2016/10/12/51/</url>
+    <title>52</title>
+    <url>/2016/10/12/52/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -589,8 +589,8 @@
       </tags>
   </entry>
   <entry>
-    <title>52</title>
-    <url>/2016/10/12/52/</url>
+    <title>51</title>
+    <url>/2016/10/12/51/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -631,8 +631,8 @@
       </tags>
   </entry>
   <entry>
-    <title>55</title>
-    <url>/2016/10/12/55/</url>
+    <title>56</title>
+    <url>/2016/10/12/56/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -645,8 +645,8 @@
       </tags>
   </entry>
   <entry>
-    <title>56</title>
-    <url>/2016/10/12/56/</url>
+    <title>55</title>
+    <url>/2016/10/12/55/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -701,8 +701,8 @@
       </tags>
   </entry>
   <entry>
-    <title>6</title>
-    <url>/2016/10/12/6/</url>
+    <title>60</title>
+    <url>/2016/10/12/60/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -715,8 +715,8 @@
       </tags>
   </entry>
   <entry>
-    <title>60</title>
-    <url>/2016/10/12/60/</url>
+    <title>9</title>
+    <url>/2016/10/12/9/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -757,22 +757,8 @@
       </tags>
   </entry>
   <entry>
-    <title>9</title>
-    <url>/2016/10/12/9/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>精尽 Spring MVC 面试题</title>
-    <url>/2018/10/12/2/</url>
+    <url>/2018/10/12/%E7%B2%BE%E5%B0%BD%20Spring%20MVC%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
     <content><![CDATA[<h1 id="精尽-Spring-MVC-面试题"><a href="#精尽-Spring-MVC-面试题" class="headerlink" title="精尽 Spring MVC 面试题"></a>精尽 Spring MVC 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
 <p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Spring MVC 面试题的大保健。</p>
 <p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
@@ -1082,8 +1068,923 @@
       </tags>
   </entry>
   <entry>
+    <title>精尽 Java【基础】面试题</title>
+    <url>/2016/10/12/6/</url>
+    <content><![CDATA[<h1 id="精尽-Java【基础】面试题"><a href="#精尽-Java【基础】面试题" class="headerlink" title="精尽 Java【基础】面试题"></a>精尽 Java【基础】面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
+<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Java【基础】面试题的大保健。</p>
+<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
+<p>考虑到 Java 涉及的知识点非常非常非常之多，所以我们会分成五大篇来分享，分别是：</p>
+<ul>
+<li><p>Java【基础】</p>
+<blockquote>
+<p>本文。😈 分不到其它类别里的，都会放到本文。</p>
+</blockquote>
+</li>
+<li><p>Java【集合】</p>
+</li>
+<li><p>Java【并发】</p>
+</li>
+<li><p>Java【网络】</p>
+<blockquote>
+<p>因为 Java 网络编程大多使用 Netty ，所以面试题统一整理到 <a href="http://svip.iocoder.cn/Netty/Interview">《精尽 Netty 面试题》</a> 中，避免重复。</p>
+</blockquote>
+</li>
+<li><p>Java【虚拟机】</p>
+</li>
+</ul>
+<h2 id="什么是面向对象？"><a href="#什么是面向对象？" class="headerlink" title="什么是面向对象？"></a>什么是面向对象？</h2><p>面向对象是一种思想，世间万物都可以看做一个对象，这里只讨论面向对象编程（OOP），Java 是一个支持并发、基于类和面向对象的计算机编程语言。面向对象软件开发具有以下优点：</p>
+<ul>
+<li>代码开发模块化，更易维护和修改。</li>
+<li>代码复用性强。</li>
+<li>增强代码的可靠性和灵活性。</li>
+<li>增加代码的可读性。</li>
+</ul>
+<p>🦅 <strong>请说说面向对象的特征？</strong></p>
+<p>四点：<strong>封装</strong>、<strong>继承</strong>、<strong>多态</strong>、<strong>抽象</strong>。</p>
+<blockquote>
+<p>艿艿：这个题目，能说出上述四点就好了。</p>
+</blockquote>
+<p>1）封装</p>
+<p>封装，给对象提供了隐藏内部特性和行为的能力。对象提供一些能被其他对象访问的方法来改变它内部的数据。在 Java 当中，有 4 种修饰符： <code>default</code>、<code>public</code>、<code>private</code> 和 <code>protected</code> 。每一种修饰符给其他的位于同一个包或者不同包下面对象赋予了不同的访问权限。</p>
+<p>下面列出了使用封装的一些好处：</p>
+<ul>
+<li>通过隐藏对象的属性来保护对象内部的状态。</li>
+<li>提高了代码的可用性和可维护性，因为对象的行为可以被单独的改变或者是扩展。</li>
+<li>禁止对象之间的不良交互提高模块化。</li>
+</ul>
+<p>2）继承</p>
+<p>继承，给对象提供了从基类获取字段和方法的能力。继承提供了代码的重用行，也可以在不修改类的情况下给现存的类添加新特性。</p>
+<p>3）多态</p>
+<p>多态，是编程语言给不同的底层数据类型做相同的接口展示的一种能力。一个多态类型上的操作，可以应用到其他类型的值上面。</p>
+<p>4）抽象</p>
+<p>抽象，是把想法从具体的实例中分离出来的步骤，因此，要根据他们的功能而不是实现细节来创建类。</p>
+<p>Java 支持创建只暴漏接口而不包含方法实现的抽象的类。这种抽象技术的主要目的是把类的行为和实现细节分离开。</p>
+<p>🦅 <strong>面向对象和面向过程的区别？</strong></p>
+<ul>
+<li>面向过程<ul>
+<li>优点：性能比面向对象高，因为类调用时需要实例化，开销比较大，比较消耗资源。比如，单片机、嵌入式开发、Linux/Unix 等一般采用面向过程开发，性能是最重要的因素。</li>
+<li>缺点：没有面向对象易维护、易复用、易扩展。</li>
+</ul>
+</li>
+<li>面向对象<ul>
+<li>优点：易维护、易复用、易扩展，由于面向对象有封装、继承、多态性的特性，可以设计出低耦合的系统，使系统更加灵活、更加易于维护。</li>
+<li>缺点：性能比面向过程低。</li>
+</ul>
+</li>
+</ul>
+<p>🦅 <strong>重载和重写的区别？</strong></p>
+<p>1）重写 <code>override</code></p>
+<ul>
+<li>方法名、参数、返回值相同。</li>
+<li>子类方法不能缩小父类方法的访问权限。</li>
+<li>子类方法不能抛出比父类方法更多的异常(但子类方法可以不抛出异常)。</li>
+<li>存在于父类和子类之间。</li>
+<li>方法被定义为 <code>final</code> 不能被重写。</li>
+</ul>
+<p>2）重载 <code>overload</code></p>
+<ul>
+<li>参数类型、个数、顺序至少有一个不相同。</li>
+<li>不能重载只有返回值不同的方法名。</li>
+<li>存在于父类和子类、同类中。</li>
+</ul>
+<p>🦅 <strong>对比图</strong></p>
+<p><a href="https://user-gold-cdn.xitu.io/2018/5/9/16342c734014a933?imageView2/0/w/1280/h/960/format/jpeg/ignore-error/1">对比图</a></p>
+<p>🦅 <strong>Java 中，什么是构造方法？什么是构造方法重载？什么是拷贝构造方法？</strong></p>
+<p>1）构造方法</p>
+<p>当新对象被创建的时候，构造方法会被调用。每一个类都有构造方法。在程序员没有给类提供构造方法的情况下，Java 编译器会为这个类创建一个默认的构造方法。</p>
+<p>2）构造方法重载</p>
+<p>Java 中构造方法重载和方法重载很相似。可以为一个类创建多个构造方法。每一个构造方法必须有它自己唯一的参数列表。</p>
+<p>3）拷贝构造方法</p>
+<p>Java 不支持像 C++ 中那样的<a href="http://www.runoob.com/cplusplus/cpp-copy-constructor.html">拷贝构造方法</a>，这个不同点是因为如果你不自己写构造方法的情况下，Java 不会创建默认的拷贝构造方法。</p>
+<h2 id="JDK、JRE、JVM-分别是什么关系？"><a href="#JDK、JRE、JVM-分别是什么关系？" class="headerlink" title="JDK、JRE、JVM 分别是什么关系？"></a>JDK、JRE、JVM 分别是什么关系？</h2><p>🦅 <strong>JDK</strong></p>
+<p>JDK 即为 Java 开发工具包，包含编写 Java 程序所必须的编译、运行等开发工具以及 JRE。开发工具如：</p>
+<ul>
+<li>用于编译 Java 程序的 javac 命令。</li>
+<li>用于启动 JVM 运行 Java 程序的 Java 命令。</li>
+<li>用于生成文档的 Javadoc 命令。</li>
+<li>用于打包的 jar 命令等等。</li>
+</ul>
+<blockquote>
+<p>简单说，就是 JDK 包含 JRE 包含 JVM。</p>
+</blockquote>
+<p>🦅 <strong>JRE</strong></p>
+<p>JRE 即为 Java 运行环境，提供了运行 Java 应用程序所必须的软件环境，包含有 Java 虚拟机（JVM）和丰富的系统类库。系统类库即为 Java 提前封装好的功能类，只需拿来直接使用即可，可以大大的提高开发效率。</p>
+<blockquote>
+<p>简单说，就是 JRE 包含 JVM。</p>
+</blockquote>
+<p>🦅 <strong>JVM</strong></p>
+<p>JVM 即为 Java 虚拟机，提供了字节码文件(<code>.class</code>)的运行环境支持。</p>
+<blockquote>
+<p><img src="http://cdn.tuwenbin.vip/57u4a9gq.bmp" alt="57u4a9gq">JDK &gt; JRE &gt; JVM</p>
+</blockquote>
+<p>🦅 <strong>为什么 Java 被称作是“平台无关的编程语言”？</strong></p>
+<p>Java 虚拟机是一个可以执行 Java 字节码的虚拟机进程。</p>
+<ul>
+<li>Java 源文件( <code>.java</code> )被编译成能被 Java 虚拟机执行的字节码文件( <code>.class</code> )。</li>
+<li>Java 被设计成允许应用程序可以运行在任意的平台，而不需要程序员为每一个平台单独重写或者是重新编译。Java 虚拟机让这个变为可能，因为它知道底层硬件平台的指令长度和其他特性。</li>
+</ul>
+<p>🦅 <strong>JDK 各版本的新特性？</strong></p>
+<ul>
+<li>JDK5 ~ JDK10 ，看 <a href="https://www.jianshu.com/p/37b52f1ebd4a">https://www.jianshu.com/p/37b52f1ebd4a</a> 。</li>
+<li>JDK11 ，看 <a href="https://www.jianshu.com/p/81b65eded96c">https://www.jianshu.com/p/81b65eded96c</a> 。</li>
+</ul>
+<p>对于大多数面试官，肯定不会问你 JDK 各版本的新特性，更多的会问 JDK8 引入了什么重要的特性？一般上，关键的回答是Lambda 表达式和集合之流式操作，然后说说你在项目中怎么使用的。</p>
+<p>🦅 <strong>Java 和 C++ 的区别？</strong></p>
+<ul>
+<li>都是面向对象的语言，都支持封装、继承和多态。</li>
+<li>Java 不提供指针来直接访问内存，程序内存更加安全。</li>
+<li>Java 的类是单继承的，C++ 支持多重继承；虽然 Java 的类不可以多继承，但是接口可以多继承。</li>
+<li>【重要】Java 有自动内存管理机制，不需要程序员手动释放无用内存。</li>
+</ul>
+<h2 id="什么是字节码？采用字节码的最大好处是什么？"><a href="#什么是字节码？采用字节码的最大好处是什么？" class="headerlink" title="什么是字节码？采用字节码的最大好处是什么？"></a>什么是字节码？采用字节码的最大好处是什么？</h2><p>🦅 <strong>什么是字节码？</strong></p>
+<blockquote>
+<p>这个问题，面试官可以衍生提问，Java 是编译执行的语言，还是解释执行的语言。</p>
+</blockquote>
+<p>Java 中引入了虚拟机的概念，即在机器和编译程序之间加入了一层抽象的虚拟的机器。这台虚拟的机器在任何平台上都提供给编译程序一个的共同的接口。</p>
+<p>编译程序只需要面向虚拟机，生成虚拟机能够理解的代码，然后由解释器来将虚拟机代码转换为特定系统的机器码执行。在 Java 中，这种供虚拟机理解的代码叫做字节码（即扩展名为 <code>.class</code> 的文件），它不面向任何特定的处理器，只面向虚拟机。</p>
+<p>每一种平台的解释器是不同的，但是实现的虚拟机是相同的。Java 源程序经过编译器编译后变成字节码，字节码由虚拟机解释执行，虚拟机将每一条要执行的字节码送给解释器，解释器将其翻译成特定机器上的机器码，然后在特定的机器上运行。<strong>这也就是解释了 Java 的编译与解释并存的特点</strong>。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Java 源代码<br>&#x3D;&gt; 编译器 &#x3D;&gt; JVM 可执行的 Java 字节码(即虚拟指令)<br>&#x3D;&gt; JVM &#x3D;&gt; JVM 中解释器 &#x3D;&gt; 机器可执行的二进制机器码 &#x3D;&gt; 程序运行<br></code></pre></td></tr></table></figure>
+
+<p>🦅 <strong>采用字节码的好处？</strong></p>
+<p>Java 语言通过字节码的方式，在一定程度上解决了传统解释型语言执行效率低的问题，同时又保留了解释型语言可移植的特点。所以 Java 程序运行时比较高效，而且，由于字节码并不专对一种特定的机器，因此，Java程序无须重新编译便可在多种不同的计算机上运行。</p>
+<blockquote>
+<p>解释型语言：解释型语言，是在运行的时候将程序翻译成机器语言。解释型语言的程序不需要在运行前编译，在运行程序的时候才翻译，专门的解释器负责在每个语句执行的时候解释程序代码。这样解释型语言每执行一次就要翻译一次，效率比较低。——百度百科</p>
+<p>例如：Python、PHP 。</p>
+</blockquote>
+<h2 id="Java-中的几种基本数据类型是什么？各自占用多少字节？"><a href="#Java-中的几种基本数据类型是什么？各自占用多少字节？" class="headerlink" title="Java 中的几种基本数据类型是什么？各自占用多少字节？"></a>Java 中的几种基本数据类型是什么？各自占用多少字节？</h2><p>Java 支持的数据类型包括基本数据类型和引用类型。</p>
+<p><strong>基本数据</strong>类型如下：</p>
+<ul>
+<li>整数值型：<code>byte</code>、<code>short</code>、<code>int</code>、<code>long</code></li>
+<li>字符型：<code>char</code></li>
+<li>浮点类型：<code>float</code>、<code>double</code></li>
+<li>布尔型：<code>boolean</code></li>
+<li>整数型：默认 <code>int</code> 型，小数默认是 <code>double</code> 型。Float 和 Long 类型的必须加后缀。比如：<code>float f = 100f</code> 。</li>
+</ul>
+<p><strong>引用类型</strong>声明的变量是指该变量在内存中实际存储的是一个引用地址，实体在堆中。</p>
+<ul>
+<li>引用类型包括类、接口、数组等。</li>
+<li>特别注意，String 是引用类型不是基本类型。</li>
+</ul>
+<p>🦅 <strong>什么是值传递和引用传递？</strong></p>
+<ul>
+<li>值传递，是对基本型变量而言的，传递的是该变量的一个副本，改变副本不影响原变量。</li>
+<li>引用传递，一般是对于对象型变量而言的，传递的是该对象地址的一个副本，并不是原对象本身。</li>
+</ul>
+<p>一般认为，Java 内的传递都是值传递，Java 中实例对象的传递是引用传递。</p>
+<p>🦅 <strong>是否可以在 static 环境中访问非 static 变量？</strong></p>
+<p><code>static</code> 变量在 Java 中是属于类的，它在所有的实例中的值是一样的。当类被 Java 虚拟机载入的时候，会对 <code>static</code> 变量进行初始化。</p>
+<p>如果你的代码尝试不用实例来访问非 <code>static</code> 的变量，编译器会报错，因为这些变量还没有被创建出来，还没有跟任何实例关联上。</p>
+<p>🦅 <strong>char 型变量中能不能存贮一个中文汉字？为什么？</strong></p>
+<ul>
+<li>在 C 语言中，char 类型占 1 个字节，而汉字占 2 个字节，所以不能存储。</li>
+<li>在 Java 语言中，char 类型占 2 个字节，而且 Java 默认采用 Unicode 编码，一个 Unicode 码是 16  位，所以一个 Unicode 码占两个字节，Java 中无论汉字还是英文字母，都是用 Unicode 编码来表示的。所以，在 Java  中，char 类型变量可以存储一个中文汉字。</li>
+</ul>
+<h2 id="String、StringBuffer、StringBuilder-的区别？"><a href="#String、StringBuffer、StringBuilder-的区别？" class="headerlink" title="String、StringBuffer、StringBuilder 的区别？"></a>String、StringBuffer、StringBuilder 的区别？</h2><p>Java 平台提供了两种类型的字符串：String 和 StringBuffer/StringBuilder，它们可以储存和操作字符串。</p>
+<ul>
+<li><p>String ，是只读字符串，也就意味着 String 引用的字符串内容是不能被改变的。</p>
+<blockquote>
+<p>每次对 String 类型进行改变的时候，都会生成一个新的 String 对象，然后将指针指向新的 String 对象。</p>
+</blockquote>
+</li>
+<li><p>StringBuffer/StringBuilder 类，表示的字符串对象可以直接进行修改。StringBuilder 是 Java 5 中引入的，它和 StringBuffer 的方法完全相同，区别在于它是在单线程环境下使用的，因为它的所有方面都没有被 <code>synchronized</code> 修饰，因此它的效率也比 StringBuffer 要高。</p>
+<blockquote>
+<p>StringBuffer 每次都会对 StringBuffer 对象本身进行操作，而不是生成新的对象并改变对象引用。</p>
+<p>相同情况下使用 StirngBuilder 相比使用 StringBuffer 仅能获得 10%~15% 左右的性能提升，但却要冒多线程不安全的风险。</p>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong>对于三者使用的总结？</strong></p>
+<ul>
+<li><p>操作少量的数据 = String 。</p>
+<blockquote>
+<p>这个也是实际编码较为经常使用的方式。</p>
+</blockquote>
+</li>
+<li><p>单线程操作字符串缓冲区下操作大量数据 = StringBuilder 。</p>
+<blockquote>
+<p>甚至有时，我们为了避免每个线程重复创建 StringBuilder 对象，会通过 ThreadLocal + StringBuilder 的方式，进行对 StringBuilder 的重用。具体可以参考 <a href="http://nathanchen.github.io/14596982516208.html">《StringBuilder 在高性能场景下的正确用法》</a> 文章。</p>
+</blockquote>
+</li>
+<li><p>多线程操作字符串缓冲区下操作大量数据 = StringBuffer</p>
+<blockquote>
+<p>实际场景下，我们基本不太会出现，多线程操作同一个 StringBuffer 对象。</p>
+</blockquote>
+</li>
+</ul>
+<p>🦅 <strong><code>String s = new String(&quot;xyz&quot;)</code> 会创建几个对象？</strong></p>
+<ul>
+<li>首先，在 String 池内找，找到 <code>&quot;xyz&quot;</code> 字符串，不创建 <code>&quot;xyz&quot;</code> 对应的 String 对象，否则创建一个对象。</li>
+<li>然后，遇到 <code>new</code> 关键字，在内存上创建 String 对象，并将其返回给 <code>s</code> ，又一个对象。</li>
+</ul>
+<p>所以，总共是 1 个或者 2 个对象。</p>
+<p>具体的，可以看看 <a href="https://blog.csdn.net/tzs_1041218129/article/details/69367423">《关于String s = new String(“xyz”); 创建几个对象的问题》</a> 文章的测试代码。</p>
+<p>🦅 <strong>String 为什么是不可变的？</strong></p>
+<p>简单的来说，String 类中使用 <code>final</code> 关键字字符数组保存字符串。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; String.java<br><br>private final char[] value;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>所以 String 对象是不可变的。</li>
+</ul>
+<p>而 StringBuilder 与 StringBuffer 都继承自 AbstractStringBuilder 类，在 AbstractStringBuilder 中也是使用字符数组保存字符串 <code>char[] value</code> ，但是没有用 <code>final</code> 关键字修饰。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; AbstractStringBuilder.java<br><br>char[] value;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>所以这两种对象都是可变的。</li>
+</ul>
+<p>🦅 <strong>StringTokenizer 是什么？</strong></p>
+<p>StringTokenizer ，是一个用来分割字符串的工具类。</p>
+<p>示例代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">StringTokenizer st &#x3D; new StringTokenizer(”Hello World”);<br>while (st.hasMoreTokens()) &#123;<br>    System.out.println(st.nextToken());<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>输出如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">Hello<br>World<br></code></pre></td></tr></table></figure>
+
+<h2 id="什么是自动拆装箱？"><a href="#什么是自动拆装箱？" class="headerlink" title="什么是自动拆装箱？"></a>什么是自动拆装箱？</h2><p>自动装箱和拆箱，就是基本类型和引用类型之间的转换。</p>
+<p>🦅 <strong>为什么要转换？</strong></p>
+<p>如果你在 Java5 下进行过编程的话，你一定不会陌生这一点，你不能直接地向集合( Collection )中放入原始类型值，因为集合只接收对象。</p>
+<ul>
+<li>通常这种情况下你的做法是，将这些原始类型的值转换成对象，然后将这些转换的对象放入集合中。使用 Integer、Double、Boolean 等这些类，我们可以将原始类型值转换成对应的对象，但是从某些程度可能使得代码不是那么简洁精炼。</li>
+<li>为了让代码简练，Java5 引入了具有在原始类型和对象类型自动转换的装箱和拆箱机制。</li>
+<li>但是自动装箱和拆箱并非完美，在使用时需要有一些注意事项，如果没有搞明白自动装箱和拆箱，可能会引起难以察觉的 Bug 。</li>
+</ul>
+<p>🦅 <strong>int 和 Integer 有什么区别？</strong></p>
+<ul>
+<li><code>int</code> 是基本数据类型。</li>
+<li>Integer 是其包装类，注意是一个类。</li>
+</ul>
+<p>当然，要注意下 Integer 的缓存策略，可以看看 <a href="http://www.importnew.com/18884.html">《理解Java Integer 的缓存策略》</a> 文章。</p>
+<h2 id="equals-与-的区别？"><a href="#equals-与-的区别？" class="headerlink" title="equals 与 == 的区别？"></a>equals 与 == 的区别？</h2><ul>
+<li><p>值类型（<code>int</code>,<code>char</code>,<code>long</code>,<code>boolean</code>等）的话</p>
+<ul>
+<li>都是用 == 判断相等性。</li>
+</ul>
+</li>
+<li><p>对象引用的话</p>
+<ul>
+<li><p>== 判断引用所指的对象是否是同一个。</p>
+</li>
+<li><p>equals 方法，是 Object 的成员函数，有些类会覆盖(<code>override</code>) 这个方法，用于判断对象的等价性。</p>
+<blockquote>
+<p>例如 String 类，两个引用所指向的 String 都是 <code>&quot;abc&quot;</code> ，但可能出现他们实际对应的对象并不是同一个（和 JVM 实现方式有关），因此用 == 判断他们可能不相等，但用 equals 方法判断一定是相等的。</p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ul>
+<p>🦅 <strong>如何在父类中为子类自动完成所有的 hashCode 和 equals 实现？这么做有何优劣？</strong></p>
+<p>父类的 equals ，一般情况下是无法满足子类的 equals 的需求。</p>
+<ul>
+<li>比如所有的对象都继承 Object ，默认使用的是 Object 的 equals  方法，在比较两个对象的时候，是看他们是否指向同一个地址。但是我们的需求是对象的某个属性相同，就相等了，而默认的 equals  方法满足不了当前的需求，所以我们要重写 equals 方法。</li>
+<li>如果重写了 equals 方法，就必须重写 hashCode 方法，否则就会降低 Map 等集合的索引速度。</li>
+</ul>
+<p>🦅 <strong>说一说你对 <code>java.lang.Object</code> 对象中 hashCode 和 equals 方法的理解。在什么场景下需要重新实现这两个方法?</strong></p>
+<p>这个问题，和上个 <a href="http://svip.iocoder.cn/Java/Core/Interview/#">「如何在父类中为子类自动完成所有的 hashCode 和 equals 实现？这么做有何优劣？」</a> 一样的答案。</p>
+<p>🦅 <strong>这样的 a.hashCode() 有什么用，与 a.equals(b) 有什么关系?</strong></p>
+<blockquote>
+<p>这个问题，和上述问题，就是换个姿势，差不了太多。</p>
+</blockquote>
+<ol>
+<li><p>equals 方法，用于比较对象的内容是否相等。</p>
+<blockquote>
+<p>当覆盖了 equals 方法时，比较对象是否相等将通过覆盖后的 equals 方法进行比较（判断对象的内容是否相等）。</p>
+</blockquote>
+</li>
+<li><p>hashCode 方法，大多在集合中用到。</p>
+<blockquote>
+<p>将对象放入到集合中时，首先判断要放入对象的 hashCode 值与集合中的任意一个元素的 hashCode 值是否相等，如果不相等直接将该对象放入集合中。</p>
+<p>如果 hashCode 值相等，然后再通过 equals 方法判断要放入对象与集合中的任意一个对象是否相等，如果 equals 判断不相等，直接将该元素放入到集合中，否则不放入。</p>
+</blockquote>
+</li>
+</ol>
+<p>🦅 <strong>有没有可能 2 个不相等的对象有相同的 hashCode？</strong></p>
+<p>可能会发生，这个被称为<strong>哈希碰撞</strong>。当然，相等的对象，即我们重写了 equals 方法，一定也要重写 hashCode 方法，否则将出现我们在 HashMap 中，相等的对象作为 key ，将找不到对应的 value 。</p>
+<p>所以说，equals 和 hashCode 的关系会是：</p>
+<ul>
+<li>equals 不相等，hashCode 可能相等。</li>
+<li>equals 相等，请重写 hashCode 方法，保证 hashCode 相等。</li>
+</ul>
+<p>一般来说，hashCode 方法的重写，可以看看 <a href="https://segmentfault.com/a/1190000010799123">《科普：为什么 String hashCode 方法选择数字31作为乘子》</a> 方法。</p>
+<h2 id="final、finally、finalize-的区别？"><a href="#final、finally、finalize-的区别？" class="headerlink" title="final、finally、finalize 的区别？"></a>final、finally、finalize 的区别？</h2><p>1）final</p>
+<p><code>final</code> ，是修饰符关键字。</p>
+<ul>
+<li>如果一个类被声明为 <code>final</code> ，意味着它不能再派生出新的子类，不能作为父类被继承。因此一个类不能既被声明为 <code>abstract</code> 的，又被声明为 <code>final</code> 的。</li>
+<li>将变量或方法声明为 <code>final</code> ，可以保证它们在使用中不被改变。被声明为 final 的变量必须在声明时给定初值，而在以后的引用中只能读取，不可修改。被声明为 <code>final</code> 的方法也同样只能使用，不能重写。</li>
+</ul>
+<blockquote>
+<p>另外，在早期的 Java 实现版本中，会将 <code>final</code> 方法转为内嵌调用。但是如果方法过于庞大，可能看不到内嵌调用带来的任何性能提升（现在的 Java 版本已经不需要使用 <code>final</code> 方法进行这些优化了）。类中所有的<code>private</code> 方法都隐式地指定为 <code>final</code> 。</p>
+</blockquote>
+<p>2）finally</p>
+<p>在异常处理时提供 <code>finally</code> 块来执行任何清除操作。如果抛出一个异常，那么相匹配的 <code>catch</code> 子句就会执行，然后控制就会进入 <code>finally</code> 块（如果有的话）。</p>
+<p>在以下 4 种特殊情况下，finally块不会被执行：</p>
+<ul>
+<li>在 <code>finally</code> 语句块中发生了异常。</li>
+<li>在前面的代码中用了 <code>System.exit()</code> 退出程序。</li>
+<li>程序所在的线程死亡。</li>
+<li>关闭 CPU 。</li>
+</ul>
+<p>3）finalize</p>
+<p><code>finalize</code> ，是方法名。</p>
+<p>Java 允许使用 <code>#finalize()</code> 方法，在垃圾收集器将对象从内存中清除出去之前做必要的清理工作。这个方法是由垃圾收集器在确定这个对象没有被引用时对这个对象调用的。</p>
+<ul>
+<li>它是在 Object 类中定义的，因此所有的类都继承了它。</li>
+<li>子类覆盖 <code>finalize()</code> 方法，以整理系统资源或者执行其他清理工作。</li>
+<li><code>#finalize()</code> 方法，是在垃圾收集器删除对象之前对这个对象调用的。</li>
+</ul>
+<p>一般情况下，我们在业务中不会自己实现这个方法，更多是在一些框架中使用，例如 <a href="https://github.com/netty/netty/issues/4145">《Netty Using finalize() to release ByteBufs》</a> 。</p>
+<p>🦅 <strong>String 类能被继承吗，为什么？</strong></p>
+<p>不能，因为 String 是 <code>final</code> 修饰。</p>
+<h2 id="抽象类和接口有什么区别？"><a href="#抽象类和接口有什么区别？" class="headerlink" title="抽象类和接口有什么区别？"></a>抽象类和接口有什么区别？</h2><p>从设计层面来说，抽象是对类的抽象，是一种模板设计，接口是行为的抽象，是一种行为的规范。</p>
+<ul>
+<li>Java 提供和支持创建抽象类和接口。它们的实现有共同点，不同点在于：接口中所有的方法隐含的都是抽象的，而抽象类则可以同时包含抽象和非抽象的方法。</li>
+<li>类可以实现很多个接口，但是只能继承一个抽象类。类可以不实现抽象类和接口声明的所有方法，当然，在这种情况下，类也必须得声明成是抽象的。</li>
+<li>抽象类可以在不提供接口方法实现的情况下实现接口。</li>
+<li>Java 接口中声明的变量默认都是 <code>final</code> 的。抽象类可以包含非 <code>final</code> 的变量。</li>
+<li>Java 接口中的成员函数默认是 <code>public</code> 的。抽象类的成员函数可以是 <code>private</code>，<code>protected</code> 或者是 <code>public</code> 。</li>
+<li>接口是绝对抽象的，不可以被实例化。抽象类也不可以被实例化，但是，如果它包含 <code>#main(String[] args)</code> 方法的话是可以被调用的。</li>
+</ul>
+<p>🦅 <strong>继承和组合的区别在哪？</strong></p>
+<ul>
+<li>继承：指的是一个类（称为子类、子接口）继承另外的一个类（称为父类、父接口）的功能，并可以增加它自己的新功能的能力，继承是类与类或者接口与接口之间最常见的关系。在 Java 中，此类关系通过关键字 <code>extends</code> 明确标识，在设计时一般没有争议性。</li>
+<li>组合：组合是关联关系的一种特例，他体现的是整体与部分、拥有的关系，即 has-a 的关系，此时整体与部分之间是可分离的，他们可以具有各自的生命周期，部分可以属于多个整体对象，也可以为多个整体对象共享。<ul>
+<li>比如，计算机与 CPU 、公司与员工的关系等。</li>
+<li>表现在代码层面，和关联关系是一致的，只能从语义级别来区分。</li>
+</ul>
+</li>
+</ul>
+<p>因为组合能带来比继承更好的灵活性，所以有句话叫做“组合优于继承”。感兴趣的胖友，可以看看 <a href="https://www.zhihu.com/question/21862257">《怎样理解“组合优于继承”以及“OO的反模块化”，在这些方面FP具体来说有什么优势？》</a> 文章。</p>
+<p>🦅 <strong>请详细讲述一下 RandomAccess 接口有什么作用？</strong></p>
+<p>RandomAccess 用来当标记的，是一种<strong>标记</strong>接口，接口的非典型用法。意思是，随机访问任意下标元素都比较快。</p>
+<p>用处，当要实现某些算法时，会判断当前类是否实现了 RandomAccess 接口，会根据结果选择不同的算法。</p>
+<h2 id="讲讲类的实例化顺序？"><a href="#讲讲类的实例化顺序？" class="headerlink" title="讲讲类的实例化顺序？"></a>讲讲类的实例化顺序？</h2><p>初始化顺序如下：</p>
+<ul>
+<li>父类静态变量</li>
+<li>父类静态代码块</li>
+<li>子类静态变量、</li>
+<li>子类静态代码块</li>
+<li>父类非静态变量（父类实例成员变量）</li>
+<li>父类构造函数</li>
+<li>子类非静态变量（子类实例成员变量）</li>
+<li>子类构造函数</li>
+</ul>
+<p>感兴趣的胖友，可以详细看看 <a href="https://blog.csdn.net/Vencc__/article/details/52222628">《Java 类的实例化顺序》</a> 文章，提供的示例。</p>
+<h2 id="什么是内部类？"><a href="#什么是内部类？" class="headerlink" title="什么是内部类？"></a>什么是内部类？</h2><p>简单的说，就是在一个类、接口或者方法的内部创建另一个类。这样理解的话，创建内部类的方法就很明确了。当然，详细的可以看看 <a href="https://blog.csdn.net/hikvision_java_gyh/article/details/8964155">《Java 内部类总结（吐血之作）》</a> 文章。</p>
+<p>🦅 <strong>内部类的作用是什么？</strong></p>
+<p>内部类提供了更好的封装，除了该外围类，其他类都不能访问。</p>
+<p>🦅 <strong>Anonymous Inner Class(匿名内部类)是否可以继承其它类？是否可以实现接口？</strong></p>
+<p>可以继承其他类或实现其他接口，在 Java 集合的流式操作中，我们常常这么干。</p>
+<p>🦅 <strong>内部类可以引用它的包含类（外部类）的成员吗？有没有什么限制？</strong></p>
+<p>一个内部类对象可以访问创建它的外部类对象的成员，包括私有成员。</p>
+<h2 id="什么是-Java-IO-？"><a href="#什么是-Java-IO-？" class="headerlink" title="什么是 Java IO ？"></a>什么是 Java IO ？</h2><p>Java IO 相关的类，在 <code>java.io</code> 包下，具体操作分成面向字节(Byte)和面向字符(Character)两种方式。如下图所示：</p>
+<p><img src="http://cdn.tuwenbin.vip/ne9xds34.bmp" alt="ne9xds34">类图</p>
+<h2 id="什么是-Java-序列化？"><a href="#什么是-Java-序列化？" class="headerlink" title="什么是 Java 序列化？"></a>什么是 Java 序列化？</h2><p>序列化就是一种用来处理对象流的机制，所谓对象流也就是将对象的内容进行流化。</p>
+<ul>
+<li>可以对流化后的对象进行读写操作，也可将流化后的对象传输于网络之间。</li>
+<li>序列化是为了解决在对对象流进行读写操作时所引发的问题。</li>
+</ul>
+<p>反序列化的过程，则是和序列化相反的过程。</p>
+<blockquote>
+<p>另外，我们不能将序列化局限在 Java 对象转换成二进制数组，例如说，我们将一个 Java 对象，转换成 JSON 字符串，或者 XML 字符串，这也可以理解为是序列化。</p>
+</blockquote>
+<p>🦅 <strong>如何实现 Java 序列化？</strong></p>
+<blockquote>
+<p>如下的方式，就是 Java 内置的序列化方案，实际场景下，我们可以自定义序列化的方案，例如说 Google Protobuf 。</p>
+</blockquote>
+<p>将需要被序列化的类，实现 Serializable 接口，该接口没有需要实现的方法，<code>implements Serializable</code> 只是为了标注该对象是可被序列化的。</p>
+<ul>
+<li>序列化<ul>
+<li>然后，使用一个输出流(如：FileOutputStream)来构造一个 ObjectOutputStream(对象流)对象</li>
+<li>接着，使用 ObjectOutputStream 对象的 <code>#writeObject(Object obj)</code> 方法，就可以将参数为 <code>obj</code> 的对象写出(即保存其状态)。</li>
+</ul>
+</li>
+<li>反序列化<ul>
+<li>要恢复的话则用输入流。</li>
+</ul>
+</li>
+</ul>
+<p>🦅 <strong>Java 序列话中，如果有些字段不想进行序列化怎么办？</strong></p>
+<p>对于不想进行序列化的变量，使用 <code>transient</code> 关键字修饰。</p>
+<ul>
+<li>当对象被序列化时，阻止实例中那些用此关键字修饰的的变量序列化。</li>
+<li>当对象被反序列化时，被 <code>transient</code> 修饰的变量值不会被持久化和恢复。</li>
+<li><code>transient</code> 只能修饰变量，不能修饰类和方法。</li>
+</ul>
+<h2 id="如何实现对象克隆？"><a href="#如何实现对象克隆？" class="headerlink" title="如何实现对象克隆？"></a>如何实现对象克隆？</h2><p>一般来说，有两种方式：</p>
+<ul>
+<li>1、实现 Cloneable 接口，并重写 Object 类中的 <code>#clone()</code> 方法。可以实现<strong>浅克隆</strong>，也可以实现<strong>深克隆</strong>。</li>
+<li>2、实现 Serializable 接口，通过对象的序列化和反序列化实现克隆。可以实现真正的<strong>深克隆</strong>。</li>
+</ul>
+<blockquote>
+<p>艿艿：这个问题，也可以变种来问，什么是<strong>浅克隆</strong>和<strong>深克隆</strong>。</p>
+</blockquote>
+<p>具体的代码实现，可以看看 <a href="https://blog.csdn.net/caomiao2006/article/details/52590622">《Java 对象的浅克隆和深克隆》</a> 文章。</p>
+<p>实际场景下，我们使用的克隆比较少，更多是对象之间的属性克隆。例如说，将 DO 的属性复制到 DTO 中，又或者将 DTO 的属性复制到 VO 中。此时，我们一般使用 BeanUtils 工具类。具体的使用，看看 <a href="https://www.cnblogs.com/tison/p/7840647.html">《浅谈 BeanUtils 的拷贝，深度克隆》</a> 文章。</p>
+<h2 id="error-和-exception-有什么区别？CheckedException-和-RuntimeException-有什么区别？"><a href="#error-和-exception-有什么区别？CheckedException-和-RuntimeException-有什么区别？" class="headerlink" title="error 和 exception 有什么区别？CheckedException 和 RuntimeException 有什么区别？"></a>error 和 exception 有什么区别？CheckedException 和 RuntimeException 有什么区别？</h2><p>Java 的异常体系，基于共同的祖先 <code>java.lang.Throwable</code> 类。如下图所示：</p>
+<p><img src="http://cdn.tuwenbin.vip/9dx75n14.bmp" alt="9dx75n14">Throwable 类图</p>
+<blockquote>
+<p>感谢【贾鹤鸣】胖友指出的问题。图有点问题：</p>
+<ol>
+<li>图中的 ArrithmeticException 异常，多了一个 r ，正确拼写是 ArithmeticException 。</li>
+<li>图中 ClassNotFoundException 异常，父类是 <code>ReflectiveOperationException =&gt; Exception</code> ，不属于 RunTimeException 。</li>
+</ol>
+</blockquote>
+<ul>
+<li>Error（错误），表示系统级的错误和程序不必处理的异常，是 Java 运行环境中的内部错误或者硬件问题。<ul>
+<li>例如：内存资源不足等。</li>
+<li>对于这种错误，程序基本无能为力，除了退出运行外别无选择，它是由 Java 虚拟机抛出的。</li>
+</ul>
+</li>
+<li>Exception（异常），表示需要捕捉或者需要程序进行处理的异常，它处理的是因为程序设计的瑕疵而引起的问题或者在外的输入等引起的一般性问题，是程序必须处理的。Exception 又分为运行时异常，受检查异常。<ul>
+<li>RuntimeException(运行时异常)，表示无法让程序恢复的异常，导致的原因通常是因为执行了错误的操作，建议终止逻辑，因此，编译器不检查这些异常。</li>
+<li>CheckedException(受检查异常)，是表示程序可以处理的异常，也即表示程序可以修复（由程序自己接受异常并且做出处理），所以称之为受检查异常。</li>
+</ul>
+</li>
+</ul>
+<p>🦅 <strong>异常的使用的注意地方？</strong></p>
+<p>神作《Effective Java》中对异常的使用给出了以下指导原则：</p>
+<blockquote>
+<p>艿艿：该书，十分推荐去阅读。</p>
+</blockquote>
+<ul>
+<li>不要将异常处理用于正常的控制流（设计良好的 API 不应该强迫它的调用者为了正常的控制流而使用异常）。</li>
+<li>对可以恢复的情况使用受检异常，对编程错误使用运行时异常。</li>
+<li>避免不必要的使用受检异常（可以通过一些状态检测手段来避免异常的发生）。</li>
+<li>优先使用标准的异常。</li>
+<li>每个方法抛出的异常都要有文档。</li>
+<li>保持异常的原子性</li>
+<li>不要在 <code>catch</code> 中忽略掉捕获到的异常。</li>
+</ul>
+<p>🦅 <strong>Throwable 类常用方法？</strong></p>
+<ul>
+<li><code>#getMessage()</code> 方法：返回异常发生时的详细信息。</li>
+<li><code>#getCause()</code> 方法：获得导致当前 Throwable 异常的 Throwable 异常。</li>
+<li><code>#getStackTrace()</code>方法：获得 Throwable 对象封装的异常信息。<ul>
+<li><code>#printStackTrace()</code> 方法：在控制台上打印。</li>
+</ul>
+</li>
+</ul>
+<p>🦅 <strong>请列出 5 个运行时异常？</strong></p>
+<ul>
+<li>NullPointerException</li>
+<li>IndexOutOfBoundsException</li>
+<li>ClassCastException</li>
+<li>ArrayStoreException</li>
+<li>BufferOverflowException</li>
+</ul>
+<p>🦅 <strong><code>throw</code> 与 <code>throws</code> 的区别 ？</strong></p>
+<ul>
+<li><code>throw</code> ，用于在程序中显式地抛出一个异常。</li>
+<li><code>throws</code> ，用于指出在该方法中没有处理的异常。<strong>每个方法必须显式指明哪些异常没有处理，以便该方法的调用者可以预防可能发生的异常</strong>。最后，多个异常用逗号分隔。</li>
+</ul>
+<p>🦅 <strong>异常处理中 <code>finally</code> 语句块的重要性?</strong></p>
+<p>不管程序是否发生了异常, <code>finally</code> 语句块都会被执行，甚至当没有<code>catch</code> 声明但抛出了一个异常时, <code>finally</code> 语句块也会被执行。</p>
+<p><code>finally</code> 语句块通常用于释放资源, 如 I/O 缓冲区, 数据库连接等等。</p>
+<p>🦅 <strong>异常被处理后异常对象会发生什么?</strong></p>
+<blockquote>
+<p>艿艿：这个问题有点奇怪，从网上找来的…</p>
+</blockquote>
+<p>异常对象会在下次 GC 执行时被回收。</p>
+<h2 id="说说反射的用途及实现？"><a href="#说说反射的用途及实现？" class="headerlink" title="说说反射的用途及实现？"></a>说说反射的用途及实现？</h2><p>Java 反射机制主要提供了以下功能：</p>
+<ul>
+<li>在运行时构造一个类的对象。</li>
+<li>判断一个类所具有的成员变量和方法。</li>
+<li>调用一个对象的方法。</li>
+<li>生成动态代理。</li>
+</ul>
+<p>反射的应用很多，很多框架都有用到：</p>
+<ul>
+<li>Spring 框架的 IoC 基于反射创建对象和设置依赖属性。</li>
+<li>Spring MVC 的请求调用对应方法，也是通过反射。</li>
+<li>JDBC 的 <code>Class#forName(String className)</code> 方法，也是使用反射。</li>
+</ul>
+<p>不了解 Java 反射的同学，可以看看 <a href="http://www.cnblogs.com/zhaopei/p/reflection.html">《什么是反射、反射可以做些什么》</a> 。</p>
+<blockquote>
+<p>对于大多数 Java 萌新，包括艿艿在内。不过后来发现，再难的 Java 知识，未来都需要变成我们的基础知识，嘻嘻。</p>
+</blockquote>
+<p>🦅 <strong>反射中，Class.forName 和 ClassLoader 区别？</strong></p>
+<p>这两者，都可用来对类进行加载。差别在于：</p>
+<ul>
+<li><p><code>Class#forName(...)</code> 方法，除了将类的 <code>.class</code> 文件加载到JVM 中之外，还会对类进行解释，执行类中的 <code>static</code> 块。</p>
+</li>
+<li><p>ClassLoader 只干一件事情，就是将 <code>.class</code> 文件加载到 JVM 中，不会执行 <code>static</code> 中的内容，只有在 newInstance 才会去执行 <code>static</code> 块。</p>
+<blockquote>
+<p><code>Class#forName(name, initialize, loader)</code> 方法，带参函数也可控制是否加载 <code>static</code> 块，并且只有调用了newInstance 方法采用调用构造函数，创建类的对象。</p>
+</blockquote>
+</li>
+</ul>
+<p>详细的测试，可以看看 <a href="https://blog.csdn.net/qq_27093465/article/details/52262340">《Java 反射中，Class.forName 和ClassLoader 的区别(代码说话)》</a> 文章。</p>
+<p>🦅 <strong>UnsupportedOperationException 是什么？</strong></p>
+<p>UnsupportedOperationException ，是用于表明操作不支持的异常。</p>
+<p>在 JDK 类中已被大量运用，在集合框架<code>java.util.Collections.UnmodifiableCollection</code> 将会在所有 add 和 remove 操作中抛出这个异常。</p>
+<h2 id="什么是注解？"><a href="#什么是注解？" class="headerlink" title="什么是注解？"></a>什么是注解？</h2><p>直接看 <a href="https://www.jianshu.com/p/5cac4cb9be54">《深入浅出 Java 注解》</a> 。</p>
+<p>如果胖友没有自己实现自定义的注解，千万一定马上去尝试写下。酱紫，我们会对注解，有更好且清晰的认识。</p>
+<h2 id="什么时候用断言（assert）？"><a href="#什么时候用断言（assert）？" class="headerlink" title="什么时候用断言（assert）？"></a>什么时候用断言（<code>assert</code>）？</h2><p>断言，在软件开发中是一种常用的调试方式，很多开发语言中都支持这种机制。</p>
+<ul>
+<li><p>一般来说，断言用于保证程序最基本、关键的正确性。断言检查通常在开发和测试时开启。为了保证程序的执行效率，在软件发布后断言检查通常是关闭的。</p>
+</li>
+<li><p>断言是一个包含布尔表达式的语句，在执行这个语句时假定该表达式为<code>true</code>；如果表达式的值为 <code>false</code> ，那么系统会报告一个AssertionError 错误。断言的使用如下面的代码所示：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">assert(a &gt; 0); &#x2F;&#x2F; throws an AssertionError if a &lt;&#x3D; 0<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>断言可以有两种形式：<ul>
+<li><code>assert Expression1;</code> 。</li>
+<li><code>assert Expression1 : Expression2;</code> 。</li>
+<li>Expression1 应该总是产生一个布尔值。</li>
+<li>Expression2 可以是得出一个值的任意表达式；这个值用于生成显示更多调试信息的字符串消息。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>要在运行时启用断言，可以在启动 JVM 时使用 <code>-enableassertions</code> 或者 <code>-ea</code> 标记。要在运行时选择禁用断言，可以在启动 JVM 时使用 <code>-da</code> 或者 <code>-disableassertions</code> 标记。要在系统类中启用或禁用断言，可使用 <code>-esa</code> 或 <code>-dsa</code> 标记。还可以在包的基础上启用或者禁用断言。</p>
+</li>
+</ul>
+<p>当然，实际场景下，我们会在 Spring 的源码中看到，它自己封装了 Assert 类，实现更方便的断言功能，并且，在生产环境下也启用。</p>
+<p>另外，在单元测试中，也会使用自己封装的断言类，判断执行结果的正确与错误。</p>
+<h2 id="Java-对象创建的方式？"><a href="#Java-对象创建的方式？" class="headerlink" title="Java 对象创建的方式？"></a>Java 对象创建的方式？</h2><ol>
+<li>使用 <code>new</code> 关键字创建对象。</li>
+<li>使用 Class 类的 newInstance 方法(反射机制)。</li>
+<li>使用 Constructor 类的 newInstance 方法(反射机制)。</li>
+<li>使用 clone 方法创建对象。</li>
+<li>使用(反)序列化机制创建对象。</li>
+</ol>
+<h2 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h2><p>一写到 Java 基础，怎么说呢？就觉着概念挺多的，有点无从下手。实际情况下呢，艿艿自己面试的时候，很多问题可能都不太会问。那么，就把本文当成一种复习的文章吧，哈哈哈哈。</p>
+<p>参考与推荐如下文章：</p>
+<ul>
+<li><a href="https://juejin.im/entry/5af2557c6fb9a07aa83eb59c">《2018 年最新 Java 面试题及答案整理》</a></li>
+<li><a href="http://www.ituring.com.cn/article/507089">《32 道常见的 Java 基础面试题》</a></li>
+<li><a href="http://www.n35n.com/2017/07/JAVA%E6%80%BB%E7%BB%93/">《Java 总结》</a></li>
+<li><a href="https://github.com/Snailclimb/JavaGuide/blob/3dc5234d3a77d134e4768b17cc864c4cc1030e41/Java%E7%9B%B8%E5%85%B3/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md">《Java 基础知识》</a></li>
+<li><a href="http://wiki.jikexueyuan.com/project/java-interview-bible/basic-concept.html">Java 面试宝典</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Java【基础】</category>
+        <category>面试</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+        <tag>Java【基础】</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MyBatis 面试题</title>
+    <url>/2016/10/12/%E7%B2%BE%E5%B0%BD%20MyBatis%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
+    <content><![CDATA[<h1 id="精尽-MyBatis-面试题"><a href="#精尽-MyBatis-面试题" class="headerlink" title="精尽 MyBatis 面试题"></a>精尽 MyBatis 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
+<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 MyBatis 面试题的大保健。</p>
+<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
+<h2 id="MyBatis-编程步骤"><a href="#MyBatis-编程步骤" class="headerlink" title="MyBatis 编程步骤"></a>MyBatis 编程步骤</h2><ol>
+<li>创建 SqlSessionFactory 对象。</li>
+<li>通过 SqlSessionFactory 获取 SqlSession 对象。</li>
+<li>通过 SqlSession 获得 Mapper 代理对象。</li>
+<li>通过 Mapper 代理对象，执行数据库操作。</li>
+<li>执行成功，则使用 SqlSession 提交事务。</li>
+<li>执行失败，则使用 SqlSession 回滚事务。</li>
+<li>最终，关闭会话。</li>
+</ol>
+<h2 id="和-的区别是什么？"><a href="#和-的区别是什么？" class="headerlink" title="#{} 和 ${} 的区别是什么？"></a><code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的区别是什么？</h2><p><code>$&#123;&#125;</code> 是 Properties 文件中的变量占位符，它可以用于 XML 标签属性值和 SQL 内部，属于<strong>字符串替换</strong>。例如将 <code>$&#123;driver&#125;</code> 会被静态替换为 <code>com.mysql.jdbc.Driver</code> ：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;dataSource type&#x3D;&quot;UNPOOLED&quot;&gt;<br>    &lt;property name&#x3D;&quot;driver&quot; value&#x3D;&quot;$&#123;driver&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;url&quot; value&#x3D;&quot;$&#123;url&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;username&quot; value&#x3D;&quot;$&#123;username&#125;&quot;&#x2F;&gt;<br>&lt;&#x2F;dataSource&gt;<br></code></pre></td></tr></table></figure>
+
+<p><code>$&#123;&#125;</code> 也可以对传递进来的参数<strong>原样拼接</strong>在 SQL 中。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;getSubject3&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Subject&quot;&gt;<br>    SELECT * FROM subject<br>    WHERE id &#x3D; $&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>实际场景下，不推荐这么做。因为，可能有 SQL 注入的风险。</li>
+</ul>
+<hr>
+<p><code>#&#123;&#125;</code> 是 SQL 的参数占位符，Mybatis 会将 SQL 中的 <code>#&#123;&#125;</code> 替换为 <code>?</code> 号，在 SQL 执行前会使用 PreparedStatement 的参数设置方法，按序给 SQL 的 <code>?</code> 号占位符设置参数值，比如 <code>ps.setInt(0, parameterValue)</code> 。 所以，<code>#&#123;&#125;</code> 是<strong>预编译处理</strong>，可以有效防止 SQL 注入，提高系统安全性。</p>
+<hr>
+<p>另外，<code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的取值方式非常方便。例如：<code>#&#123;item.name&#125;</code> 的取值方式，为使用反射从参数对象中，获取 <code>item</code> 对象的 <code>name</code> 属性值，相当于 <code>param.getItem().getName()</code> 。</p>
+<h2 id="当实体类中的属性名和表中的字段名不一样-，怎么办？"><a href="#当实体类中的属性名和表中的字段名不一样-，怎么办？" class="headerlink" title="当实体类中的属性名和表中的字段名不一样 ，怎么办？"></a>当实体类中的属性名和表中的字段名不一样 ，怎么办？</h2><p>第一种， 通过在查询的 SQL 语句中定义字段名的别名，让字段名的别名和实体类的属性名一致。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;selectOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Order&quot;&gt; <br>    SELECT order_id AS id, order_no AS orderno, order_price AS price <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>这里，艿艿还有几点建议：<ul>
+<li>1、数据库的关键字，统一使用大写，例如：<code>SELECT</code>、<code>AS</code>、<code>FROM</code>、<code>WHERE</code> 。</li>
+<li>2、每 5 个查询字段换一行，保持整齐。</li>
+<li>3、<code>,</code> 的后面，和 <code>=</code> 的前后，需要有空格，更加清晰。</li>
+<li>4、<code>SELECT</code>、<code>FROM</code>、<code>WHERE</code> 等，单独一行，高端大气。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>第二种，是第一种的特殊情况。大多数场景下，数据库字段名和实体类中的属性名差，主要是前者为<strong>下划线风格</strong>，后者为<strong>驼峰风格</strong>。在这种情况下，可以直接配置如下，实现自动的下划线转驼峰的功能。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;setting name&#x3D;&quot;logImpl&quot; value&#x3D;&quot;LOG4J&quot;&#x2F;&gt;<br>    &lt;setting name&#x3D;&quot;mapUnderscoreToCamelCase&quot; value&#x3D;&quot;true&quot; &#x2F;&gt;<br>&lt;&#x2F;settings&gt;<br></code></pre></td></tr></table></figure>
+
+<p>😈 也就说，约定大于配置。非常推荐！</p>
+<hr>
+<p>第三种，通过 <code>&lt;resultMap&gt;</code> 来映射字段名和实体类属性名的一一对应的关系。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;resultMap type&#x3D;&quot;me.gacl.domain.Order&quot; id&#x3D;”OrderResultMap”&gt; <br>    &lt;!–- 用 id 属性来映射主键字段 -–&gt; <br>    &lt;id property&#x3D;&quot;id&quot; column&#x3D;&quot;order_id&quot;&gt; <br>    &lt;!–- 用 result 属性来映射非主键字段，property 为实体类属性名，column 为数据表中的属性 -–&gt; <br>    &lt;result property&#x3D;&quot;orderNo&quot; column &#x3D;&quot;order_no&quot; &#x2F;&gt; <br>    &lt;result property&#x3D;&quot;price&quot; column&#x3D;&quot;order_price&quot; &#x2F;&gt; <br>&lt;&#x2F;resultMap&gt;<br><br>&lt;select id&#x3D;&quot;getOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultMap&#x3D;&quot;OrderResultMap&quot;&gt;<br>    SELECT * <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>此处 <code>SELECT *</code> 仅仅作为示例只用，实际场景下，千万千万千万不要这么干。用多少字段，查询多少字段。</li>
+<li>相比第一种，第三种的<strong>重用性</strong>会一些。</li>
+</ul>
+<h2 id="XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？"><a href="#XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？" class="headerlink" title="XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？"></a>XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？</h2><p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html">《MyBatis 文档 —— Mapper XML 文件》</a> ：</p>
+<ul>
+<li><pre><code>&lt;cache /&gt;
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   标签，给定命名空间的缓存配置。<br><br>  - &#96;&lt;cache-ref &#x2F;&gt;&#96; 标签，其他命名空间缓存配置的引用。<br><br>- &#96;&lt;resultMap &#x2F;&gt;&#96; 标签，是最复杂也是最强大的元素，用来描述如何从数据库结果集中来加载对象。<br><br>- ~~&#96;&#96; 标签，已废弃！老式风格的参数映射。内联参数是首选,这个元素可能在将来被移除，这里不会记录。~~<br><br>- &#96;&#96;&#96;<br>  &lt;sql &#x2F;&gt;<br></code></pre></td></tr></table></figure>
+
+ 标签，可被其他语句引用的可重用语句块。
+
+- `&lt;include /&gt;` 标签，引用 `&lt;sql /&gt;` 标签的语句。</code></pre>
+</li>
+<li><p><code>&lt;selectKey /&gt;</code> 标签，不支持自增的主键生成策略标签。</p>
+</li>
+</ul>
+<p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> ：</p>
+<ul>
+<li><code>&lt;if /&gt;</code></li>
+<li><code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code></li>
+<li><code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code></li>
+<li><code>&lt;foreach /&gt;</code></li>
+<li><code>&lt;bind /&gt;</code></li>
+</ul>
+<h2 id="Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？"><a href="#Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？" class="headerlink" title="Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？"></a>Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？</h2><ul>
+<li>Mybatis 动态 SQL ，可以让我们在 XML 映射文件内，以 XML 标签的形式编写动态 SQL ，完成逻辑判断和动态拼接 SQL 的功能。</li>
+<li>Mybatis 提供了 9 种动态 SQL 标签：<code>&lt;if /&gt;</code>、<code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code>、<code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code>、<code>&lt;foreach /&gt;</code>、<code>&lt;bind /&gt;</code> 。</li>
+<li>其执行原理为，使用 <strong>OGNL</strong> 的表达式，从 SQL 参数对象中计算表达式的值，根据表达式的值动态拼接 SQL ，以此来完成动态 SQL 的功能。</li>
+</ul>
+<p>如上的内容，更加详细的话，请看 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> 文档。</p>
+<h2 id="最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？"><a href="#最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？" class="headerlink" title="最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？"></a>最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？</h2><p>Mapper 接口，对应的关系如下：</p>
+<ul>
+<li>接口的全限名，就是映射文件中的 <code>&quot;namespace&quot;</code> 的值。</li>
+<li>接口的方法名，就是映射文件中 MappedStatement 的 <code>&quot;id&quot;</code> 值。</li>
+<li>接口方法内的参数，就是传递给 SQL 的参数。</li>
+</ul>
+<p>Mapper 接口是没有实现类的，当调用接口方法时，接口全限名 + 方法名拼接字符串作为 key 值，可唯一定位一个对应的 MappedStatement 。举例：<code>com.mybatis3.mappers.StudentDao.findStudentById</code> ，可以唯一找到 <code>&quot;namespace&quot;</code> 为 <code>com.mybatis3.mappers.StudentDao</code> 下面 <code>&quot;id&quot;</code> 为 <code>findStudentById</code> 的 MappedStatement 。</p>
+<p>总结来说，在 Mybatis 中，每一个 <code>&lt;select /&gt;</code>、<code>&lt;insert /&gt;</code>、<code>&lt;update /&gt;</code>、<code>&lt;delete /&gt;</code> 标签，都会被解析为一个 MappedStatement 对象。</p>
+<p>另外，Mapper 接口的实现类，通过 MyBatis 使用 <strong>JDK Proxy</strong> 自动生成其代理对象 Proxy ，而代理对象 Proxy 会拦截接口方法，从而“调用”对应的 MappedStatement 方法，最终执行 SQL ，返回执行结果。整体流程如下图：<a href="http://static2.iocoder.cn/images/MyBatis/2020_03_15/02.png"><img src="http://cdn.tuwenbin.vip/02.png" alt="流程"></a>流程</p>
+<ul>
+<li><p>其中，SqlSession 在调用 Executor 之前，会获得对应的 MappedStatement 方法。例如：<code>DefaultSqlSession#select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler)</code> 方法，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; DefaultSqlSession.java<br><br>@Override<br>public void select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler) &#123;<br>    try &#123;<br>        &#x2F;&#x2F; 获得 MappedStatement 对象<br>        MappedStatement ms &#x3D; configuration.getMappedStatement(statement);<br>        &#x2F;&#x2F; 执行查询<br>        executor.query(ms, wrapCollection(parameter), rowBounds, handler);<br>    &#125; catch (Exception e) &#123;<br>        throw ExceptionFactory.wrapException(&quot;Error querying database.  Cause: &quot; + e, e);<br>    &#125; finally &#123;<br>        ErrorContext.instance().reset();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>完整的流程，胖友可以慢慢撸下 MyBatis 的源码。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Mapper 接口里的方法，是不能重载的，因为是<strong>全限名 + 方法名</strong>的保存和寻找策略。😈 所以有时，想个 Mapper 接口里的方法名，还是蛮闹心的，嘿嘿。</p>
+<h2 id="Mapper-接口绑定有几种实现方式-分别是怎么实现的"><a href="#Mapper-接口绑定有几种实现方式-分别是怎么实现的" class="headerlink" title="Mapper 接口绑定有几种实现方式,分别是怎么实现的?"></a>Mapper 接口绑定有几种实现方式,分别是怎么实现的?</h2><p>接口绑定有三种实现方式：</p>
+<p>第一种，通过 <strong>XML Mapper</strong> 里面写 SQL 来绑定。在这种情况下，要指定 XML 映射文件里面的 <code>&quot;namespace&quot;</code> 必须为接口的全路径名。</p>
+<p>第二种，通过<strong>注解</strong>绑定，就是在接口的方法上面加上 <code>@Select</code>、<code>@Update</code>、<code>@Insert</code>、<code>@Delete</code> 注解，里面包含 SQL 语句来绑定。</p>
+<p>第三种，是第二种的特例，也是通过<strong>注解</strong>绑定，在接口的方法上面加上 <code>@SelectProvider</code>、<code>@UpdateProvider</code>、<code>@InsertProvider</code>、<code>@DeleteProvider</code> 注解，通过 Java 代码，生成对应的动态 SQL 。</p>
+<hr>
+<p>实际场景下，最最最推荐的是<strong>第一种</strong>方式。因为，SQL 通过注解写在 Java 代码中，会非常杂乱。而写在 XML 中，更加有整体性，并且可以更加方便的使用 OGNL 表达式。</p>
+<h2 id="Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？"><a href="#Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？" class="headerlink" title="Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？"></a>Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？</h2><p>不同的 XML Mapper 文件，如果配置了 <code>&quot;namespace&quot;</code> ，那么 id 可以重复；如果没有配置 <code>&quot;namespace&quot;</code> ，那么 id 不能重复。毕竟<code>&quot;namespace&quot;</code> 不是必须的，只是最佳实践而已。</p>
+<p>原因就是，<code>namespace + id</code> 是作为 <code>Map&lt;String, MappedStatement&gt;</code> 的 key 使用的。如果没有 <code>&quot;namespace&quot;</code>，就剩下 id ，那么 id 重复会导致数据互相覆盖。如果有了 <code>&quot;namespace&quot;</code>，自然 id 就可以重复，<code>&quot;namespace&quot;</code>不同，<code>namespace + id</code> 自然也就不同。</p>
+<h2 id="如何获取自动生成的-主-键值"><a href="#如何获取自动生成的-主-键值" class="headerlink" title="如何获取自动生成的(主)键值?"></a>如何获取自动生成的(主)键值?</h2><p>不同的数据库，获取自动生成的(主)键值的方式是不同的。</p>
+<p>MySQL 有两种方式，但是<strong>自增主键</strong>，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 方式一，使用 useGeneratedKeys + keyProperty 属性<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot; useGeneratedKeys&#x3D;&quot;true&quot; keyProperty&#x3D;&quot;id&quot;&gt;<br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br>    <br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot;&gt;<br>    &lt;selectKey keyProperty&#x3D;&quot;id&quot; resultType&#x3D;&quot;long&quot; order&#x3D;&quot;AFTER&quot;&gt;<br>        SELECT LAST_INSERT_ID()<br>    &lt;&#x2F;selectKey&gt;<br>        <br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>其中，<strong>方式一</strong>较为常用。</li>
+</ul>
+<hr>
+<p>Oracle 有两种方式，<strong>序列</strong>和<strong>触发器</strong>。因为艿艿自己不了解 Oracle ，所以问了银行的朋友，他们是使用<strong>序列</strong>。而基于<strong>序列</strong>，根据 <code>&lt;selectKey /&gt;</code> 执行的时机，也有两种方式，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 这个是创建表的自增序列<br>CREATE SEQUENCE student_sequence<br>INCREMENT BY 1<br>NOMAXVALUE<br>NOCYCLE<br>CACHE 10;<br><br>&#x2F;&#x2F; 方式一，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + BEFORE<br>&lt;insert id&#x3D;&quot;add&quot; parameterType&#x3D;&quot;Student&quot;&gt;<br>　　&lt;selectKey keyProperty&#x3D;&quot;student_id&quot; resultType&#x3D;&quot;int&quot; order&#x3D;&quot;BEFORE&quot;&gt;<br>      select student_sequence.nextval FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>     INSERT INTO student(student_id, student_name, student_age)<br>     VALUES (#&#123;student_id&#125;,#&#123;student_name&#125;,#&#123;student_age&#125;)<br>&lt;&#x2F;insert&gt;<br><br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + AFTER<br>&lt;insert id&#x3D;&quot;save&quot; parameterType&#x3D;&quot;com.threeti.to.ZoneTO&quot; &gt;<br>    &lt;selectKey resultType&#x3D;&quot;java.lang.Long&quot; keyProperty&#x3D;&quot;id&quot; order&#x3D;&quot;AFTER&quot; &gt;<br>      SELECT SEQ_ZONE.CURRVAL AS id FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>    INSERT INTO TBL_ZONE (ID, NAME ) <br>    VALUES (SEQ_ZONE.NEXTVAL, #&#123;name,jdbcType&#x3D;VARCHAR&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>他们使用第一种方式，没有具体原因，可能就没什么讲究吧。嘿嘿。</li>
+</ul>
+<p>至于为什么不用<strong>触发器</strong>呢？朋友描述如下：</p>
+<blockquote>
+<p>朋友：触发器不行啊，我们这边原来也有触发器，一有数据更改就会有问题了呀<br>艿艿：数据更改指的是？<br>朋友：就改线上某几条数据<br>艿艿：噢噢。手动改是吧？<br>朋友：不行~</p>
+</blockquote>
+<hr>
+<p>当然，数据库还有 SQLServer、PostgreSQL、DB2、H2 等等，具体的方式，胖友自己 Google 下噢。</p>
+<p>关于如何获取自动生成的(主)键值的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/executor-3/">《精尽 MyBatis 源码分析 —— SQL 执行（三）之 KeyGenerator》</a> 。</p>
+<h2 id="Mybatis-执行批量插入，能返回数据库主键列表吗？"><a href="#Mybatis-执行批量插入，能返回数据库主键列表吗？" class="headerlink" title="Mybatis 执行批量插入，能返回数据库主键列表吗？"></a>Mybatis 执行批量插入，能返回数据库主键列表吗？</h2><p>能，JDBC 都能做，Mybatis 当然也能做。</p>
+<h2 id="在-Mapper-中如何传递多个参数"><a href="#在-Mapper-中如何传递多个参数" class="headerlink" title="在 Mapper 中如何传递多个参数?"></a>在 Mapper 中如何传递多个参数?</h2><p>第一种，使用 Map 集合，装载多个参数进行传递。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>Map&lt;String, Object&gt; map &#x3D; new HashMap();<br>map.put(&quot;start&quot;, start);<br>map.put(&quot;end&quot;, end);<br>return studentMapper.selectStudents(map);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Map&lt;String, Object&gt; map);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; parameterType&#x3D;&quot;Map&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>显然，这不是一种优雅的方式。</li>
+</ul>
+<hr>
+<p>第二种，保持传递多个参数，使用 <code>@Param</code> 注解。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(@Param(&quot;start&quot;) Integer start, @Param(&quot;end&quot;) Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>推荐使用这种方式。</li>
+</ul>
+<hr>
+<p>第三种，保持传递多个参数，不使用 <code>@Param</code> 注解。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Integer start, Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;param1&#125;, #&#123;param2&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>其中，按照参数在方法方法中的位置，从 1 开始，逐个为 <code>#&#123;param1&#125;</code>、<code>#&#123;param2&#125;</code>、<code>#&#123;param3&#125;</code> 不断向下。</li>
+</ul>
+<h2 id="Mybatis-是否可以映射-Enum-枚举类？"><a href="#Mybatis-是否可以映射-Enum-枚举类？" class="headerlink" title="Mybatis 是否可以映射 Enum 枚举类？"></a>Mybatis 是否可以映射 Enum 枚举类？</h2><p>Mybatis 可以映射枚举类，对应的实现类为 EnumTypeHandler 或 EnumOrdinalTypeHandler 。</p>
+<ul>
+<li>EnumTypeHandler ，基于 <code>Enum.name</code> 属性( String )。<strong>默认</strong>。</li>
+<li>EnumOrdinalTypeHandler ，基于 <code>Enum.ordinal</code> 属性( <code>int</code> )。可通过 <code>&lt;setting name=&quot;defaultEnumTypeHandler&quot; value=&quot;EnumOrdinalTypeHandler&quot; /&gt;</code> 来设置。</li>
+</ul>
+<p>😈 当然，实际开发场景，我们很少使用 Enum 类型，更加的方式是，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public class Dog &#123;<br><br>    public static final int STATUS_GOOD &#x3D; 1;<br>    public static final int STATUS_BETTER &#x3D; 2;<br>    public static final int STATUS_BEST &#x3D; 3；<br>    <br>    private int status;<br>    <br>&#125;<br></code></pre></td></tr></table></figure>
+
+<hr>
+<p>并且，不单可以映射枚举类，Mybatis 可以映射任何对象到表的一列上。映射方式为自定义一个 TypeHandler 类，实现 TypeHandler 的<code>#setParameter(...)</code> 和 <code>#getResult(...)</code> 接口方法。</p>
+<p>TypeHandler 有两个作用：</p>
+<ul>
+<li>一是，完成从 javaType 至 jdbcType 的转换。</li>
+<li>二是，完成 jdbcType 至 javaType 的转换。</li>
+</ul>
+<p>具体体现为 <code>#setParameter(...)</code> 和 <code>#getResult(..)</code> 两个方法，分别代表设置 SQL 问号占位符参数和获取列查询结果。</p>
+<p>关于 TypeHandler 的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/type-package/">《精尽 MyBatis 源码分析 —— 类型模块》</a> 。</p>
+<h2 id="Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？"><a href="#Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？" class="headerlink" title="Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？"></a>Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？</h2><p>Mybatis 有四种 Executor 执行器，分别是 SimpleExecutor、ReuseExecutor、BatchExecutor、CachingExecutor 。</p>
+<ul>
+<li>SimpleExecutor ：每执行一次 update 或 select 操作，就创建一个 Statement 对象，用完立刻关闭 Statement 对象。</li>
+<li>ReuseExecutor ：执行 update 或 select 操作，以 SQL 作为key 查找<strong>缓存</strong>的 Statement 对象，存在就使用，不存在就创建；用完后，不关闭 Statement 对象，而是放置于缓存 <code>Map&lt;String, Statement&gt;</code> 内，供下一次使用。简言之，就是重复使用 Statement 对象。</li>
+<li>BatchExecutor ：执行 update 操作（没有 select 操作，因为 JDBC 批处理不支持 select  操作），将所有 SQL 都添加到批处理中（通过 addBatch 方法），等待统一执行（使用 executeBatch 方法）。它缓存了多个  Statement 对象，每个 Statement 对象都是调用 addBatch 方法完毕后，等待一次执行 executeBatch 批处理。<strong>实际上，整个过程与 JDBC 批处理是相同</strong>。</li>
+<li>CachingExecutor ：在上述的三个执行器之上，增加<strong>二级缓存</strong>的功能。</li>
+</ul>
+<hr>
+<p>通过设置 <code>&lt;setting name=&quot;defaultExecutorType&quot; value=&quot;&quot;&gt;</code> 的 <code>&quot;value&quot;</code> 属性，可传入 SIMPLE、REUSE、BATCH 三个值，分别使用 SimpleExecutor、ReuseExecutor、BatchExecutor 执行器。</p>
+<p>通过设置 <code>&lt;setting name=&quot;cacheEnabled&quot; value=&quot;&quot;</code> 的 <code>&quot;value&quot;</code> 属性为 <code>true</code> 时，创建 CachingExecutor 执行器。</p>
+<hr>
+<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-1">《精尽 MyBatis 源码分析 —— SQL 执行（一）之 Executor》</a> 。</p>
+<h2 id="MyBatis-如何执行批量插入"><a href="#MyBatis-如何执行批量插入" class="headerlink" title="MyBatis 如何执行批量插入?"></a>MyBatis 如何执行批量插入?</h2><p>首先，在 Mapper XML 编写一个简单的 Insert 语句。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;insert id&#x3D;&quot;insertUser&quot; parameterType&#x3D;&quot;String&quot;&gt; <br>    INSERT INTO users(name) <br>    VALUES (#&#123;value&#125;) <br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
+
+<p>然后，然后在对应的 Mapper 接口中，编写映射的方法。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public interface UserMapper &#123;<br>    <br>    void insertUser(@Param(&quot;name&quot;) String name);<br><br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>最后，调用该 Mapper 接口方法。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">private static SqlSessionFactory sqlSessionFactory;<br><br>@Test<br>public void testBatch() &#123;<br>    &#x2F;&#x2F; 创建要插入的用户的名字的数组<br>    List&lt;String&gt; names &#x3D; new ArrayList&lt;&gt;();<br>    names.add(&quot;占小狼&quot;);<br>    names.add(&quot;朱小厮&quot;);<br>    names.add(&quot;徐妈&quot;);<br>    names.add(&quot;飞哥&quot;);<br><br>    &#x2F;&#x2F; 获得执行器类型为 Batch 的 SqlSession 对象，并且 autoCommit &#x3D; false ，禁止事务自动提交<br>    try (SqlSession session &#x3D; sqlSessionFactory.openSession(ExecutorType.BATCH, false)) &#123;<br>        &#x2F;&#x2F; 获得 Mapper 对象<br>        UserMapper mapper &#x3D; session.getMapper(UserMapper.class);<br>        &#x2F;&#x2F; 循环插入<br>        for (String name : names) &#123;<br>            mapper.insertUser(name);<br>        &#125;<br>        &#x2F;&#x2F; 提交批量操作<br>        session.commit();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>代码比较简单，胖友仔细看看。当然，还有另一种方式，代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">INSERT INTO [表名]([列名],[列名]) <br>VALUES<br>([列值],[列值])),<br>([列值],[列值])),<br>([列值],[列值]));<br></code></pre></td></tr></table></figure>
+
+<ul>
+<li>对于这种方式，需要保证单条 SQL 不超过语句的最大限制 <code>max_allowed_packet</code> 大小，默认为 1 M 。</li>
+</ul>
+<p>这两种方式的性能对比，可以看看 [《<a href="https://www.jianshu.com/p/cce617be9f9e">实验]mybatis批量插入方式的比较》</a> 。</p>
+<h2 id="介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？"><a href="#介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？" class="headerlink" title="介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？"></a>介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？</h2><p>内容有些长，直接参见 <a href="https://tech.meituan.com/mybatis_cache.html">《聊聊 MyBatis 缓存机制》</a> 一文。</p>
+<hr>
+<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/cache-package">《精尽 MyBatis 源码分析 —— 缓存模块》</a> 。</p>
+<h2 id="Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？"><a href="#Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？" class="headerlink" title="Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？"></a>Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？</h2><p>Mybatis 仅支持 association 关联对象和 collection 关联集合对象的延迟加载。其中，association 指的就是<strong>一对一</strong>，collection 指的就是<strong>一对多查询</strong>。</p>
+<p>在 Mybatis 配置文件中，可以配置 <code>&lt;setting name=&quot;lazyLoadingEnabled&quot; value=&quot;true&quot; /&gt;</code> 来启用延迟加载的功能。默认情况下，延迟加载的功能是<strong>关闭</strong>的。</p>
+<hr>
+<p>它的原理是，使用 CGLIB 或 Javassist( 默认 ) 创建目标对象的代理对象。当调用代理对象的延迟加载属性的 getting 方法时，进入拦截器方法。比如调用 <code>a.getB().getName()</code> 方法，进入拦截器的 <code>invoke(...)</code> 方法，发现 <code>a.getB()</code> 需要延迟加载时，那么就会单独发送事先保存好的查询关联 B 对象的 SQL ，把 B 查询上来，然后调用<code>a.setB(b)</code> 方法，于是 <code>a</code> 对象 <code>b</code> 属性就有值了，接着完成<code>a.getB().getName()</code> 方法的调用。这就是延迟加载的基本原理。</p>
+<p>当然了，不光是 Mybatis，几乎所有的包括 Hibernate 在内，支持延迟加载的原理都是一样的。</p>
+<hr>
+<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-5">《 精尽 MyBatis 源码分析 —— SQL 执行（五）之延迟加载》</a> 文章。</p>
+<h2 id="Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"><a href="#Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。" class="headerlink" title="Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"></a>Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。</h2><blockquote>
+<p>艿艿：这道题有点难度。理解倒是好理解，主要那块源码的实现，艿艿看的有点懵逼。大体的意思是懂的，但是一些细节没扣完。</p>
+</blockquote>
+<p>能，Mybatis 不仅可以执行一对一、一对多的关联查询，还可以执行多对一，多对多的关联查询。</p>
+<blockquote>
+<p>艿艿：不过貌似，我自己实际开发中，还是比较喜欢自己去查询和拼接映射的数据。😈</p>
+</blockquote>
+<ul>
+<li>多对一查询，其实就是一对一查询，只需要把 <code>selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/xzm_rainbow/article/details/15336959">《MyBatis：多对一表关系详解》</a> 。</li>
+<li>多对多查询，其实就是一对多查询，只需要把 <code>#selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/eson_15/article/details/51655188">《【MyBatis学习10】高级映射之多对多查询》</a> 。</li>
+</ul>
+<hr>
+<p>关联对象查询，有两种实现方式：</p>
+<blockquote>
+<p>艿艿：所有的技术方案，即会有好处，又会有坏处。很难出现，一个完美的银弹方案。</p>
+</blockquote>
+<ul>
+<li>一种是单独发送一个 SQL 去查询关联对象，赋给主对象，然后返回主对象。好处是多条 SQL 分开，相对简单，坏处是发起的 SQL 可能会比较多。</li>
+<li>另一种是使用嵌套查询，嵌套查询的含义为使用 <code>join</code> 查询，一部分列是 A 对象的属性值，另外一部分列是关联对象 B 的属性值。好处是只发一个 SQL 查询，就可以把主对象和其关联对象查出来，坏处是 SQL 可能比较复杂。</li>
+</ul>
+<p>那么问题来了，<code>join</code> 查询出来 100 条记录，如何确定主对象是 5 个，而不是 100 个呢？其去重复的原理是 <code>&lt;resultMap&gt;</code> 标签内的<code>&lt;id&gt;</code> 子标签，指定了唯一确定一条记录的 <code>id</code> 列。Mybatis 会根据<code>&lt;id&gt;</code> 列值来完成 100 条记录的去重复功能，<code>&lt;id&gt;</code> 可以有多个，代表了联合主键的语意。</p>
+<p>同样主对象的关联对象，也是根据这个原理去重复的。尽管一般情况下，只有主对象会有重复记录，关联对象一般不会重复。例如：下面 <code>join</code> 查询出来6条记录，一、二列是 Teacher 对象列，第三列为 Student 对象列。Mybatis 去重复处理后，结果为 1 个老师和 6 个学生，而不是 6 个老师和 6 个学生。</p>
+<table>
+<thead>
+<tr>
+<th>t_id</th>
+<th>t_name</th>
+<th>s_id</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>teacher</td>
+<td>38</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>39</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>40</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>41</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>42</td>
+</tr>
+<tr>
+<td>1</td>
+<td>teacher</td>
+<td>43</td>
+</tr>
+</tbody></table>
+<h2 id="简述-Mybatis-的插件运行原理？以及如何编写一个插件？"><a href="#简述-Mybatis-的插件运行原理？以及如何编写一个插件？" class="headerlink" title="简述 Mybatis 的插件运行原理？以及如何编写一个插件？"></a>简述 Mybatis 的插件运行原理？以及如何编写一个插件？</h2><p>Mybatis 仅可以编写针对 ParameterHandler、ResultSetHandler、StatementHandler、Executor 这 4 种接口的插件。</p>
+<p>Mybatis 使用 JDK 的动态代理，为需要拦截的接口生成代理对象以实现接口方法拦截功能，每当执行这 4 种接口对象的方法时，就会进入拦截方法，具体就是 InvocationHandler 的 <code>#invoke(...)</code>方法。当然，只会拦截那些你指定需要拦截的方法。</p>
+<hr>
+<p>编写一个 MyBatis 插件的步骤如下：</p>
+<ol>
+<li>首先，实现 Mybatis 的 Interceptor 接口，并实现 <code>#intercept(...)</code> 方法。</li>
+<li>然后，在给插件编写注解，指定要拦截哪一个接口的哪些方法即可</li>
+<li>最后，在配置文件中配置你编写的插件。</li>
+</ol>
+<p>具体的，可以参考 <a href="http://www.mybatis.org/mybatis-3/zh/configuration.html#plugins">《MyBatis 官方文档 —— 插件》</a> 。</p>
+<hr>
+<p>插件的详细解析，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-1">《精尽 MyBatis 源码分析 —— 插件体系（一）之原理》</a> 。</p>
+<h2 id="Mybatis-是如何进行分页的？分页插件的原理是什么？"><a href="#Mybatis-是如何进行分页的？分页插件的原理是什么？" class="headerlink" title="Mybatis 是如何进行分页的？分页插件的原理是什么？"></a>Mybatis 是如何进行分页的？分页插件的原理是什么？</h2><p>Mybatis 使用 RowBounds 对象进行分页，它是针对 ResultSet 结果集执行的<strong>内存分页</strong>，而非<strong>数据库分页</strong>。</p>
+<p>所以，实际场景下，不适合直接使用 MyBatis 原有的 RowBounds 对象进行分页。而是使用如下两种方案：</p>
+<ul>
+<li>在 SQL 内直接书写带有数据库分页的参数来完成数据库分页功能</li>
+<li>也可以使用分页插件来完成数据库分页。</li>
+</ul>
+<p>这两者都是基于数据库分页，差别在于前者是工程师<strong>手动</strong>编写分页条件，后者是插件<strong>自动</strong>添加分页条件。</p>
+<hr>
+<p>分页插件的基本原理是使用 Mybatis 提供的插件接口，实现自定义分页插件。在插件的拦截方法内，拦截待执行的 SQL ，然后重写 SQL ，根据dialect 方言，添加对应的物理分页语句和物理分页参数。</p>
+<p>举例：<code>SELECT * FROM student</code> ，拦截 SQL 后重写为：<code>select * FROM student LIMI 0，10</code> 。</p>
+<p>目前市面上目前使用比较广泛的 MyBatis 分页插件有：</p>
+<ul>
+<li><a href="https://github.com/pagehelper/Mybatis-PageHelper">Mybatis-PageHelper</a></li>
+<li><a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a></li>
+</ul>
+<p>从现在看来，<a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a> 逐步使用的更加广泛。</p>
+<p>关于 MyBatis 分页插件的原理深入，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-2">《精尽 MyBatis 源码分析 —— 插件体系（二）之 PageHelper》</a> 。</p>
+<h2 id="MyBatis-与-Hibernate-有哪些不同？"><a href="#MyBatis-与-Hibernate-有哪些不同？" class="headerlink" title="MyBatis 与 Hibernate 有哪些不同？"></a>MyBatis 与 Hibernate 有哪些不同？</h2><p>Mybatis 和 Hibernate 不同，它<strong>不完全是</strong>一个 ORM 框架，因为MyBatis 需要程序员自己编写 SQL 语句。不过 MyBatis 可以通过 XML 或注解方式灵活配置要运行的 SQL 语句，并将 Java 对象和 SQL 语句映射生成最终执行的 SQL ，最后将 SQL 执行的结果再映射生成 Java 对象。</p>
+<p>Mybatis 学习门槛低，简单易学，程序员直接编写原生态 SQL ，可严格控制 SQL 执行性能，灵活度高。但是灵活的前提是 MyBatis 无法做到数据库无关性，如果需要实现支持多种数据库的软件则需要自定义多套 SQL 映射文件，工作量大。</p>
+<p>Hibernate 对象/关系映射能力强，数据库无关性好。如果用 Hibernate 开发可以节省很多代码，提高效率。但是  Hibernate 的缺点是学习门槛高，要精通门槛更高，而且怎么设计 O/R 映射，在性能和对象模型之间如何权衡，以及怎样用好  Hibernate 需要具有很强的经验和能力才行。 </p>
+<p>总之，按照用户的需求在有限的资源环境下只要能做出维护性、扩展性良好的软件架构都是好架构，所以框架只有适合才是最好。简单总结如下：</p>
+<ul>
+<li>Hibernate 属于全自动 ORM 映射工具，使用 Hibernate 查询关联对象或者关联集合对象时，可以根据对象关系模型直接获取。</li>
+<li>Mybatis 属于半自动 ORM 映射工具，在查询关联对象或关联集合对象时，需要手动编写 SQL 来完成。</li>
+</ul>
+<p>另外，在 <a href="https://www.jianshu.com/p/96171e647885">《浅析 Mybatis 与 Hibernate 的区别与用途》</a> 文章，也是写的非常不错的。</p>
+<p>当然，实际上，MyBatis 也可以搭配自动生成代码的工具，提升开发效率，还可以使用 <a href="http://mp.baomidou.com/">MyBatis-Plus</a> 框架，已经内置常用的 SQL 操作，也是非常不错的。</p>
+<h2 id="JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？"><a href="#JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？" class="headerlink" title="JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？"></a>JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？</h2><p>问题一：SQL 语句写在代码中造成代码不易维护，且代码会比较混乱。</p>
+<p>解决方式：将 SQL 语句配置在 Mapper XML 文件中，与 Java 代码分离。</p>
+<hr>
+<p>问题二：根据参数不同，拼接不同的 SQL 语句非常麻烦。例如 SQL 语句的 WHERE 条件不一定，可能多也可能少，占位符需要和参数一一对应。 </p>
+<p>解决方式：MyBatis 提供 <code>&lt;where /&gt;</code>、<code>&lt;if /&gt;</code> 等等动态语句所需要的标签，并支持 OGNL 表达式，简化了动态 SQL 拼接的代码，提升了开发效率。</p>
+<hr>
+<p>问题三，对结果集解析麻烦，SQL 变化可能导致解析代码变化，且解析前需要遍历。</p>
+<p>解决方式：Mybatis 自动将 SQL 执行结果映射成 Java 对象。</p>
+<hr>
+<p>问题四，数据库链接创建、释放频繁造成系统资源浪费从而影响系统性能，如果使用数据库链接池可解决此问题。</p>
+<p>解决方式：在 <code>mybatis-config.xml</code> 中，配置数据链接池，使用连接池管理数据库链接。</p>
+<p>😈 当然，即使不使用 MyBatis ，也可以使用数据库连接池。<br>另外，MyBatis 默认提供了数据库连接池的实现，只是说，因为其它开源的数据库连接池性能更好，所以一般很少使用 MyBatis 自带的连接池实现。</p>
+<h2 id="Mybatis-比-IBatis-比较大的几个改进是什么？"><a href="#Mybatis-比-IBatis-比较大的几个改进是什么？" class="headerlink" title="Mybatis 比 IBatis 比较大的几个改进是什么？"></a>Mybatis 比 IBatis 比较大的几个改进是什么？</h2><blockquote>
+<p>这是一个选择性了解的问题，因为可能现在很多面试官，都没用过 IBatis 框架。</p>
+</blockquote>
+<ol>
+<li>有接口绑定，包括注解绑定 SQL 和 XML 绑定 SQL 。</li>
+<li>动态 SQL 由原来的节点配置变成 OGNL 表达式。</li>
+<li>在一对一或一对多的时候，引进了 <code>association</code> ，在一对多的时候，引入了 <code>collection</code>节点，不过都是在 <code>&lt;resultMap /&gt;</code> 里面配置。</li>
+</ol>
+<h2 id="Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？"><a href="#Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？" class="headerlink" title="Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？"></a>Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？</h2><blockquote>
+<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
+</blockquote>
+<p>虽然 Mybatis 解析 XML 映射文件是<strong>按照顺序</strong>解析的。但是，被引用的 B 标签依然可以定义在任何地方，Mybatis 都可以正确识别。<strong>也就是说，无需按照顺序，进行定义</strong>。</p>
+<p>原理是，Mybatis 解析 A 标签，发现 A 标签引用了 B 标签，但是 B 标签尚未解析到，尚不存在，此时，Mybatis 会将 A 标签标记为<strong>未解析状态</strong>。然后，继续解析余下的标签，包含 B 标签，待所有标签解析完毕，Mybatis 会重新解析那些被标记为未解析的标签，此时再解析A标签时，B 标签已经存在，A 标签也就可以正常解析完成了。</p>
+<p>可能有一些绕，胖友可以看看 <a href="http://svip.iocoder.cn/MyBatis/builder-package-1">《精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config》</a> 。</p>
+<p>此处，我们在引申一个问题，Spring IOC 中，存在互相依赖的 Bean 对象，该如何解决呢？答案见 <a href="http://svip.iocoder.cn/Spring/IoC-get-Bean-createBean-5/">《【死磕 Spring】—— IoC 之加载 Bean：创建 Bean（五）之循环依赖处理》</a> 。</p>
+<h2 id="简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？"><a href="#简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？" class="headerlink" title="简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？"></a>简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？</h2><blockquote>
+<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
+</blockquote>
+<p>Mybatis 将所有 XML 配置信息都封装到 All-In-One 重量级对象Configuration内部。</p>
+<p>在 XML Mapper 文件中：</p>
+<ul>
+<li><code>&lt;parameterMap&gt;</code> 标签，会被解析为 ParameterMap 对象，其每个子元素会被解析为 ParameterMapping 对象。</li>
+<li><code>&lt;resultMap&gt;</code> 标签，会被解析为 ResultMap 对象，其每个子元素会被解析为 ResultMapping 对象。</li>
+<li>每一个 <code>&lt;select&gt;</code>、<code>&lt;insert&gt;</code>、<code>&lt;update&gt;</code>、<code>&lt;delete&gt;</code> 标签，均会被解析为一个 MappedStatement 对象，标签内的 SQL 会被解析为一个 BoundSql 对象。</li>
+</ul>
+<h2 id="666-彩蛋"><a href="#666-彩蛋" class="headerlink" title="666. 彩蛋"></a>666. 彩蛋</h2><p>参考与推荐如下文章：</p>
+<ul>
+<li>祖大俊 <a href="https://my.oschina.net/zudajun/blog/747682">《Mybatis3.4.x技术内幕（二十三）：Mybatis面试问题集锦（大结局）》</a></li>
+<li>Java3y <a href="https://segmentfault.com/a/1190000013678579">《Mybatis 常见面试题》</a></li>
+<li>Homiss <a href="https://github.com/Homiss/Java-interview-questions/blob/master/%E6%A1%86%E6%9E%B6/MyBatis%E9%9D%A2%E8%AF%95%E9%A2%98.md">《MyBatis 面试题》</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>MyBatis</category>
+        <category>面试</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+        <tag>MyBatis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>精尽 Spring Boot 面试题</title>
-    <url>/2016/10/12/4/</url>
+    <url>/2016/10/12/%E7%B2%BE%E5%B0%BD%20Spring%20Boot%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
     <content><![CDATA[<h1 id="精尽-Spring-Boot-面试题"><a href="#精尽-Spring-Boot-面试题" class="headerlink" title="精尽 Spring Boot 面试题"></a>精尽 Spring Boot 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
 <p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Spring Boot 面试题的大保健。</p>
 <p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
@@ -1588,363 +2489,6 @@
       </tags>
   </entry>
   <entry>
-    <title>MyBatis 面试题</title>
-    <url>/2016/10/12/5/</url>
-    <content><![CDATA[<h1 id="精尽-MyBatis-面试题"><a href="#精尽-MyBatis-面试题" class="headerlink" title="精尽 MyBatis 面试题"></a>精尽 MyBatis 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
-<p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 MyBatis 面试题的大保健。</p>
-<p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
-<h2 id="MyBatis-编程步骤"><a href="#MyBatis-编程步骤" class="headerlink" title="MyBatis 编程步骤"></a>MyBatis 编程步骤</h2><ol>
-<li>创建 SqlSessionFactory 对象。</li>
-<li>通过 SqlSessionFactory 获取 SqlSession 对象。</li>
-<li>通过 SqlSession 获得 Mapper 代理对象。</li>
-<li>通过 Mapper 代理对象，执行数据库操作。</li>
-<li>执行成功，则使用 SqlSession 提交事务。</li>
-<li>执行失败，则使用 SqlSession 回滚事务。</li>
-<li>最终，关闭会话。</li>
-</ol>
-<h2 id="和-的区别是什么？"><a href="#和-的区别是什么？" class="headerlink" title="#{} 和 ${} 的区别是什么？"></a><code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的区别是什么？</h2><p><code>$&#123;&#125;</code> 是 Properties 文件中的变量占位符，它可以用于 XML 标签属性值和 SQL 内部，属于<strong>字符串替换</strong>。例如将 <code>$&#123;driver&#125;</code> 会被静态替换为 <code>com.mysql.jdbc.Driver</code> ：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;dataSource type&#x3D;&quot;UNPOOLED&quot;&gt;<br>    &lt;property name&#x3D;&quot;driver&quot; value&#x3D;&quot;$&#123;driver&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;url&quot; value&#x3D;&quot;$&#123;url&#125;&quot;&#x2F;&gt;<br>    &lt;property name&#x3D;&quot;username&quot; value&#x3D;&quot;$&#123;username&#125;&quot;&#x2F;&gt;<br>&lt;&#x2F;dataSource&gt;<br></code></pre></td></tr></table></figure>
-
-<p><code>$&#123;&#125;</code> 也可以对传递进来的参数<strong>原样拼接</strong>在 SQL 中。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;getSubject3&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Subject&quot;&gt;<br>    SELECT * FROM subject<br>    WHERE id &#x3D; $&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>实际场景下，不推荐这么做。因为，可能有 SQL 注入的风险。</li>
-</ul>
-<hr>
-<p><code>#&#123;&#125;</code> 是 SQL 的参数占位符，Mybatis 会将 SQL 中的 <code>#&#123;&#125;</code> 替换为 <code>?</code> 号，在 SQL 执行前会使用 PreparedStatement 的参数设置方法，按序给 SQL 的 <code>?</code> 号占位符设置参数值，比如 <code>ps.setInt(0, parameterValue)</code> 。 所以，<code>#&#123;&#125;</code> 是<strong>预编译处理</strong>，可以有效防止 SQL 注入，提高系统安全性。</p>
-<hr>
-<p>另外，<code>#&#123;&#125;</code> 和 <code>$&#123;&#125;</code> 的取值方式非常方便。例如：<code>#&#123;item.name&#125;</code> 的取值方式，为使用反射从参数对象中，获取 <code>item</code> 对象的 <code>name</code> 属性值，相当于 <code>param.getItem().getName()</code> 。</p>
-<h2 id="当实体类中的属性名和表中的字段名不一样-，怎么办？"><a href="#当实体类中的属性名和表中的字段名不一样-，怎么办？" class="headerlink" title="当实体类中的属性名和表中的字段名不一样 ，怎么办？"></a>当实体类中的属性名和表中的字段名不一样 ，怎么办？</h2><p>第一种， 通过在查询的 SQL 语句中定义字段名的别名，让字段名的别名和实体类的属性名一致。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;select id&#x3D;&quot;selectOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultType&#x3D;&quot;Order&quot;&gt; <br>    SELECT order_id AS id, order_no AS orderno, order_price AS price <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>这里，艿艿还有几点建议：<ul>
-<li>1、数据库的关键字，统一使用大写，例如：<code>SELECT</code>、<code>AS</code>、<code>FROM</code>、<code>WHERE</code> 。</li>
-<li>2、每 5 个查询字段换一行，保持整齐。</li>
-<li>3、<code>,</code> 的后面，和 <code>=</code> 的前后，需要有空格，更加清晰。</li>
-<li>4、<code>SELECT</code>、<code>FROM</code>、<code>WHERE</code> 等，单独一行，高端大气。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>第二种，是第一种的特殊情况。大多数场景下，数据库字段名和实体类中的属性名差，主要是前者为<strong>下划线风格</strong>，后者为<strong>驼峰风格</strong>。在这种情况下，可以直接配置如下，实现自动的下划线转驼峰的功能。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;setting name&#x3D;&quot;logImpl&quot; value&#x3D;&quot;LOG4J&quot;&#x2F;&gt;<br>    &lt;setting name&#x3D;&quot;mapUnderscoreToCamelCase&quot; value&#x3D;&quot;true&quot; &#x2F;&gt;<br>&lt;&#x2F;settings&gt;<br></code></pre></td></tr></table></figure>
-
-<p>😈 也就说，约定大于配置。非常推荐！</p>
-<hr>
-<p>第三种，通过 <code>&lt;resultMap&gt;</code> 来映射字段名和实体类属性名的一一对应的关系。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;resultMap type&#x3D;&quot;me.gacl.domain.Order&quot; id&#x3D;”OrderResultMap”&gt; <br>    &lt;!–- 用 id 属性来映射主键字段 -–&gt; <br>    &lt;id property&#x3D;&quot;id&quot; column&#x3D;&quot;order_id&quot;&gt; <br>    &lt;!–- 用 result 属性来映射非主键字段，property 为实体类属性名，column 为数据表中的属性 -–&gt; <br>    &lt;result property&#x3D;&quot;orderNo&quot; column &#x3D;&quot;order_no&quot; &#x2F;&gt; <br>    &lt;result property&#x3D;&quot;price&quot; column&#x3D;&quot;order_price&quot; &#x2F;&gt; <br>&lt;&#x2F;resultMap&gt;<br><br>&lt;select id&#x3D;&quot;getOrder&quot; parameterType&#x3D;&quot;Integer&quot; resultMap&#x3D;&quot;OrderResultMap&quot;&gt;<br>    SELECT * <br>    FROM orders <br>    WHERE order_id &#x3D; #&#123;id&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>此处 <code>SELECT *</code> 仅仅作为示例只用，实际场景下，千万千万千万不要这么干。用多少字段，查询多少字段。</li>
-<li>相比第一种，第三种的<strong>重用性</strong>会一些。</li>
-</ul>
-<h2 id="XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？"><a href="#XML-映射文件中，除了常见的-select-insert-update-delete标-签之外，还有哪些标签？" class="headerlink" title="XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？"></a>XML 映射文件中，除了常见的 select | insert | update | delete标 签之外，还有哪些标签？</h2><p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html">《MyBatis 文档 —— Mapper XML 文件》</a> ：</p>
-<ul>
-<li><pre><code>&lt;cache /&gt;
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   标签，给定命名空间的缓存配置。<br><br>  - &#96;&lt;cache-ref &#x2F;&gt;&#96; 标签，其他命名空间缓存配置的引用。<br><br>- &#96;&lt;resultMap &#x2F;&gt;&#96; 标签，是最复杂也是最强大的元素，用来描述如何从数据库结果集中来加载对象。<br><br>- ~~&#96;&#96; 标签，已废弃！老式风格的参数映射。内联参数是首选,这个元素可能在将来被移除，这里不会记录。~~<br><br>- &#96;&#96;&#96;<br>  &lt;sql &#x2F;&gt;<br></code></pre></td></tr></table></figure>
-
- 标签，可被其他语句引用的可重用语句块。
-
-- `&lt;include /&gt;` 标签，引用 `&lt;sql /&gt;` 标签的语句。</code></pre>
-</li>
-<li><p><code>&lt;selectKey /&gt;</code> 标签，不支持自增的主键生成策略标签。</p>
-</li>
-</ul>
-<p>如下部分，可见 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> ：</p>
-<ul>
-<li><code>&lt;if /&gt;</code></li>
-<li><code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code></li>
-<li><code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code></li>
-<li><code>&lt;foreach /&gt;</code></li>
-<li><code>&lt;bind /&gt;</code></li>
-</ul>
-<h2 id="Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？"><a href="#Mybatis-动态-SQL-是做什么的？都有哪些动态-SQL-？能简述一下动态-SQL-的执行原理吗？" class="headerlink" title="Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？"></a>Mybatis 动态 SQL 是做什么的？都有哪些动态 SQL ？能简述一下动态 SQL 的执行原理吗？</h2><ul>
-<li>Mybatis 动态 SQL ，可以让我们在 XML 映射文件内，以 XML 标签的形式编写动态 SQL ，完成逻辑判断和动态拼接 SQL 的功能。</li>
-<li>Mybatis 提供了 9 种动态 SQL 标签：<code>&lt;if /&gt;</code>、<code>&lt;choose /&gt;</code>、<code>&lt;when /&gt;</code>、<code>&lt;otherwise /&gt;</code>、<code>&lt;trim /&gt;</code>、<code>&lt;where /&gt;</code>、<code>&lt;set /&gt;</code>、<code>&lt;foreach /&gt;</code>、<code>&lt;bind /&gt;</code> 。</li>
-<li>其执行原理为，使用 <strong>OGNL</strong> 的表达式，从 SQL 参数对象中计算表达式的值，根据表达式的值动态拼接 SQL ，以此来完成动态 SQL 的功能。</li>
-</ul>
-<p>如上的内容，更加详细的话，请看 <a href="http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html">《MyBatis 文档 —— 动态 SQL》</a> 文档。</p>
-<h2 id="最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？"><a href="#最佳实践中，通常一个-XML-映射文件，都会写一个-Mapper-接口与之对应。请问，这个-Mapper-接口的工作原理是什么？Mapper-接口里的方法，参数不同时，方法能重载吗？" class="headerlink" title="最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？"></a>最佳实践中，通常一个 XML 映射文件，都会写一个 Mapper 接口与之对应。请问，这个 Mapper 接口的工作原理是什么？Mapper 接口里的方法，参数不同时，方法能重载吗？</h2><p>Mapper 接口，对应的关系如下：</p>
-<ul>
-<li>接口的全限名，就是映射文件中的 <code>&quot;namespace&quot;</code> 的值。</li>
-<li>接口的方法名，就是映射文件中 MappedStatement 的 <code>&quot;id&quot;</code> 值。</li>
-<li>接口方法内的参数，就是传递给 SQL 的参数。</li>
-</ul>
-<p>Mapper 接口是没有实现类的，当调用接口方法时，接口全限名 + 方法名拼接字符串作为 key 值，可唯一定位一个对应的 MappedStatement 。举例：<code>com.mybatis3.mappers.StudentDao.findStudentById</code> ，可以唯一找到 <code>&quot;namespace&quot;</code> 为 <code>com.mybatis3.mappers.StudentDao</code> 下面 <code>&quot;id&quot;</code> 为 <code>findStudentById</code> 的 MappedStatement 。</p>
-<p>总结来说，在 Mybatis 中，每一个 <code>&lt;select /&gt;</code>、<code>&lt;insert /&gt;</code>、<code>&lt;update /&gt;</code>、<code>&lt;delete /&gt;</code> 标签，都会被解析为一个 MappedStatement 对象。</p>
-<p>另外，Mapper 接口的实现类，通过 MyBatis 使用 <strong>JDK Proxy</strong> 自动生成其代理对象 Proxy ，而代理对象 Proxy 会拦截接口方法，从而“调用”对应的 MappedStatement 方法，最终执行 SQL ，返回执行结果。整体流程如下图：<a href="http://static2.iocoder.cn/images/MyBatis/2020_03_15/02.png"><img src="http://cdn.tuwenbin.vip/02.png" alt="流程"></a>流程</p>
-<ul>
-<li><p>其中，SqlSession 在调用 Executor 之前，会获得对应的 MappedStatement 方法。例如：<code>DefaultSqlSession#select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler)</code> 方法，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; DefaultSqlSession.java<br><br>@Override<br>public void select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler) &#123;<br>    try &#123;<br>        &#x2F;&#x2F; 获得 MappedStatement 对象<br>        MappedStatement ms &#x3D; configuration.getMappedStatement(statement);<br>        &#x2F;&#x2F; 执行查询<br>        executor.query(ms, wrapCollection(parameter), rowBounds, handler);<br>    &#125; catch (Exception e) &#123;<br>        throw ExceptionFactory.wrapException(&quot;Error querying database.  Cause: &quot; + e, e);<br>    &#125; finally &#123;<br>        ErrorContext.instance().reset();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>完整的流程，胖友可以慢慢撸下 MyBatis 的源码。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Mapper 接口里的方法，是不能重载的，因为是<strong>全限名 + 方法名</strong>的保存和寻找策略。😈 所以有时，想个 Mapper 接口里的方法名，还是蛮闹心的，嘿嘿。</p>
-<h2 id="Mapper-接口绑定有几种实现方式-分别是怎么实现的"><a href="#Mapper-接口绑定有几种实现方式-分别是怎么实现的" class="headerlink" title="Mapper 接口绑定有几种实现方式,分别是怎么实现的?"></a>Mapper 接口绑定有几种实现方式,分别是怎么实现的?</h2><p>接口绑定有三种实现方式：</p>
-<p>第一种，通过 <strong>XML Mapper</strong> 里面写 SQL 来绑定。在这种情况下，要指定 XML 映射文件里面的 <code>&quot;namespace&quot;</code> 必须为接口的全路径名。</p>
-<p>第二种，通过<strong>注解</strong>绑定，就是在接口的方法上面加上 <code>@Select</code>、<code>@Update</code>、<code>@Insert</code>、<code>@Delete</code> 注解，里面包含 SQL 语句来绑定。</p>
-<p>第三种，是第二种的特例，也是通过<strong>注解</strong>绑定，在接口的方法上面加上 <code>@SelectProvider</code>、<code>@UpdateProvider</code>、<code>@InsertProvider</code>、<code>@DeleteProvider</code> 注解，通过 Java 代码，生成对应的动态 SQL 。</p>
-<hr>
-<p>实际场景下，最最最推荐的是<strong>第一种</strong>方式。因为，SQL 通过注解写在 Java 代码中，会非常杂乱。而写在 XML 中，更加有整体性，并且可以更加方便的使用 OGNL 表达式。</p>
-<h2 id="Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？"><a href="#Mybatis-的-XML-Mapper文件中，不同的-XML-映射文件，id-是否可以重复？" class="headerlink" title="Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？"></a>Mybatis 的 XML Mapper文件中，不同的 XML 映射文件，id 是否可以重复？</h2><p>不同的 XML Mapper 文件，如果配置了 <code>&quot;namespace&quot;</code> ，那么 id 可以重复；如果没有配置 <code>&quot;namespace&quot;</code> ，那么 id 不能重复。毕竟<code>&quot;namespace&quot;</code> 不是必须的，只是最佳实践而已。</p>
-<p>原因就是，<code>namespace + id</code> 是作为 <code>Map&lt;String, MappedStatement&gt;</code> 的 key 使用的。如果没有 <code>&quot;namespace&quot;</code>，就剩下 id ，那么 id 重复会导致数据互相覆盖。如果有了 <code>&quot;namespace&quot;</code>，自然 id 就可以重复，<code>&quot;namespace&quot;</code>不同，<code>namespace + id</code> 自然也就不同。</p>
-<h2 id="如何获取自动生成的-主-键值"><a href="#如何获取自动生成的-主-键值" class="headerlink" title="如何获取自动生成的(主)键值?"></a>如何获取自动生成的(主)键值?</h2><p>不同的数据库，获取自动生成的(主)键值的方式是不同的。</p>
-<p>MySQL 有两种方式，但是<strong>自增主键</strong>，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 方式一，使用 useGeneratedKeys + keyProperty 属性<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot; useGeneratedKeys&#x3D;&quot;true&quot; keyProperty&#x3D;&quot;id&quot;&gt;<br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br>    <br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签<br>&lt;insert id&#x3D;&quot;insert&quot; parameterType&#x3D;&quot;Person&quot;&gt;<br>    &lt;selectKey keyProperty&#x3D;&quot;id&quot; resultType&#x3D;&quot;long&quot; order&#x3D;&quot;AFTER&quot;&gt;<br>        SELECT LAST_INSERT_ID()<br>    &lt;&#x2F;selectKey&gt;<br>        <br>    INSERT INTO person(name, pswd)<br>    VALUE (#&#123;name&#125;, #&#123;pswd&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>其中，<strong>方式一</strong>较为常用。</li>
-</ul>
-<hr>
-<p>Oracle 有两种方式，<strong>序列</strong>和<strong>触发器</strong>。因为艿艿自己不了解 Oracle ，所以问了银行的朋友，他们是使用<strong>序列</strong>。而基于<strong>序列</strong>，根据 <code>&lt;selectKey /&gt;</code> 执行的时机，也有两种方式，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 这个是创建表的自增序列<br>CREATE SEQUENCE student_sequence<br>INCREMENT BY 1<br>NOMAXVALUE<br>NOCYCLE<br>CACHE 10;<br><br>&#x2F;&#x2F; 方式一，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + BEFORE<br>&lt;insert id&#x3D;&quot;add&quot; parameterType&#x3D;&quot;Student&quot;&gt;<br>　　&lt;selectKey keyProperty&#x3D;&quot;student_id&quot; resultType&#x3D;&quot;int&quot; order&#x3D;&quot;BEFORE&quot;&gt;<br>      select student_sequence.nextval FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>     INSERT INTO student(student_id, student_name, student_age)<br>     VALUES (#&#123;student_id&#125;,#&#123;student_name&#125;,#&#123;student_age&#125;)<br>&lt;&#x2F;insert&gt;<br><br>&#x2F;&#x2F; 方式二，使用 &#96;&lt;selectKey &#x2F;&gt;&#96; 标签 + AFTER<br>&lt;insert id&#x3D;&quot;save&quot; parameterType&#x3D;&quot;com.threeti.to.ZoneTO&quot; &gt;<br>    &lt;selectKey resultType&#x3D;&quot;java.lang.Long&quot; keyProperty&#x3D;&quot;id&quot; order&#x3D;&quot;AFTER&quot; &gt;<br>      SELECT SEQ_ZONE.CURRVAL AS id FROM dual<br>    &lt;&#x2F;selectKey&gt;<br>    <br>    INSERT INTO TBL_ZONE (ID, NAME ) <br>    VALUES (SEQ_ZONE.NEXTVAL, #&#123;name,jdbcType&#x3D;VARCHAR&#125;)<br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>他们使用第一种方式，没有具体原因，可能就没什么讲究吧。嘿嘿。</li>
-</ul>
-<p>至于为什么不用<strong>触发器</strong>呢？朋友描述如下：</p>
-<blockquote>
-<p>朋友：触发器不行啊，我们这边原来也有触发器，一有数据更改就会有问题了呀<br>艿艿：数据更改指的是？<br>朋友：就改线上某几条数据<br>艿艿：噢噢。手动改是吧？<br>朋友：不行~</p>
-</blockquote>
-<hr>
-<p>当然，数据库还有 SQLServer、PostgreSQL、DB2、H2 等等，具体的方式，胖友自己 Google 下噢。</p>
-<p>关于如何获取自动生成的(主)键值的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/executor-3/">《精尽 MyBatis 源码分析 —— SQL 执行（三）之 KeyGenerator》</a> 。</p>
-<h2 id="Mybatis-执行批量插入，能返回数据库主键列表吗？"><a href="#Mybatis-执行批量插入，能返回数据库主键列表吗？" class="headerlink" title="Mybatis 执行批量插入，能返回数据库主键列表吗？"></a>Mybatis 执行批量插入，能返回数据库主键列表吗？</h2><p>能，JDBC 都能做，Mybatis 当然也能做。</p>
-<h2 id="在-Mapper-中如何传递多个参数"><a href="#在-Mapper-中如何传递多个参数" class="headerlink" title="在 Mapper 中如何传递多个参数?"></a>在 Mapper 中如何传递多个参数?</h2><p>第一种，使用 Map 集合，装载多个参数进行传递。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>Map&lt;String, Object&gt; map &#x3D; new HashMap();<br>map.put(&quot;start&quot;, start);<br>map.put(&quot;end&quot;, end);<br>return studentMapper.selectStudents(map);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Map&lt;String, Object&gt; map);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; parameterType&#x3D;&quot;Map&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>显然，这不是一种优雅的方式。</li>
-</ul>
-<hr>
-<p>第二种，保持传递多个参数，使用 <code>@Param</code> 注解。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(@Param(&quot;start&quot;) Integer start, @Param(&quot;end&quot;) Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;start&#125;, #&#123;end&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>推荐使用这种方式。</li>
-</ul>
-<hr>
-<p>第三种，保持传递多个参数，不使用 <code>@Param</code> 注解。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; 调用方法<br>return studentMapper.selectStudents(0, 10);<br><br>&#x2F;&#x2F; Mapper 接口<br>List&lt;Student&gt; selectStudents(Integer start, Integer end);<br><br>&#x2F;&#x2F; Mapper XML 代码<br>&lt;select id&#x3D;&quot;selectStudents&quot; resultType&#x3D;&quot;Student&quot;&gt;<br>    SELECT * <br>    FROM students <br>    LIMIT #&#123;param1&#125;, #&#123;param2&#125;<br>&lt;&#x2F;select&gt;<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>其中，按照参数在方法方法中的位置，从 1 开始，逐个为 <code>#&#123;param1&#125;</code>、<code>#&#123;param2&#125;</code>、<code>#&#123;param3&#125;</code> 不断向下。</li>
-</ul>
-<h2 id="Mybatis-是否可以映射-Enum-枚举类？"><a href="#Mybatis-是否可以映射-Enum-枚举类？" class="headerlink" title="Mybatis 是否可以映射 Enum 枚举类？"></a>Mybatis 是否可以映射 Enum 枚举类？</h2><p>Mybatis 可以映射枚举类，对应的实现类为 EnumTypeHandler 或 EnumOrdinalTypeHandler 。</p>
-<ul>
-<li>EnumTypeHandler ，基于 <code>Enum.name</code> 属性( String )。<strong>默认</strong>。</li>
-<li>EnumOrdinalTypeHandler ，基于 <code>Enum.ordinal</code> 属性( <code>int</code> )。可通过 <code>&lt;setting name=&quot;defaultEnumTypeHandler&quot; value=&quot;EnumOrdinalTypeHandler&quot; /&gt;</code> 来设置。</li>
-</ul>
-<p>😈 当然，实际开发场景，我们很少使用 Enum 类型，更加的方式是，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public class Dog &#123;<br><br>    public static final int STATUS_GOOD &#x3D; 1;<br>    public static final int STATUS_BETTER &#x3D; 2;<br>    public static final int STATUS_BEST &#x3D; 3；<br>    <br>    private int status;<br>    <br>&#125;<br></code></pre></td></tr></table></figure>
-
-<hr>
-<p>并且，不单可以映射枚举类，Mybatis 可以映射任何对象到表的一列上。映射方式为自定义一个 TypeHandler 类，实现 TypeHandler 的<code>#setParameter(...)</code> 和 <code>#getResult(...)</code> 接口方法。</p>
-<p>TypeHandler 有两个作用：</p>
-<ul>
-<li>一是，完成从 javaType 至 jdbcType 的转换。</li>
-<li>二是，完成 jdbcType 至 javaType 的转换。</li>
-</ul>
-<p>具体体现为 <code>#setParameter(...)</code> 和 <code>#getResult(..)</code> 两个方法，分别代表设置 SQL 问号占位符参数和获取列查询结果。</p>
-<p>关于 TypeHandler 的<strong>原理</strong>，可以看看 <a href="http://svip.iocoder.cn/MyBatis/type-package/">《精尽 MyBatis 源码分析 —— 类型模块》</a> 。</p>
-<h2 id="Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？"><a href="#Mybatis-都有哪些-Executor-执行器？它们之间的区别是什么？" class="headerlink" title="Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？"></a>Mybatis 都有哪些 Executor 执行器？它们之间的区别是什么？</h2><p>Mybatis 有四种 Executor 执行器，分别是 SimpleExecutor、ReuseExecutor、BatchExecutor、CachingExecutor 。</p>
-<ul>
-<li>SimpleExecutor ：每执行一次 update 或 select 操作，就创建一个 Statement 对象，用完立刻关闭 Statement 对象。</li>
-<li>ReuseExecutor ：执行 update 或 select 操作，以 SQL 作为key 查找<strong>缓存</strong>的 Statement 对象，存在就使用，不存在就创建；用完后，不关闭 Statement 对象，而是放置于缓存 <code>Map&lt;String, Statement&gt;</code> 内，供下一次使用。简言之，就是重复使用 Statement 对象。</li>
-<li>BatchExecutor ：执行 update 操作（没有 select 操作，因为 JDBC 批处理不支持 select  操作），将所有 SQL 都添加到批处理中（通过 addBatch 方法），等待统一执行（使用 executeBatch 方法）。它缓存了多个  Statement 对象，每个 Statement 对象都是调用 addBatch 方法完毕后，等待一次执行 executeBatch 批处理。<strong>实际上，整个过程与 JDBC 批处理是相同</strong>。</li>
-<li>CachingExecutor ：在上述的三个执行器之上，增加<strong>二级缓存</strong>的功能。</li>
-</ul>
-<hr>
-<p>通过设置 <code>&lt;setting name=&quot;defaultExecutorType&quot; value=&quot;&quot;&gt;</code> 的 <code>&quot;value&quot;</code> 属性，可传入 SIMPLE、REUSE、BATCH 三个值，分别使用 SimpleExecutor、ReuseExecutor、BatchExecutor 执行器。</p>
-<p>通过设置 <code>&lt;setting name=&quot;cacheEnabled&quot; value=&quot;&quot;</code> 的 <code>&quot;value&quot;</code> 属性为 <code>true</code> 时，创建 CachingExecutor 执行器。</p>
-<hr>
-<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-1">《精尽 MyBatis 源码分析 —— SQL 执行（一）之 Executor》</a> 。</p>
-<h2 id="MyBatis-如何执行批量插入"><a href="#MyBatis-如何执行批量插入" class="headerlink" title="MyBatis 如何执行批量插入?"></a>MyBatis 如何执行批量插入?</h2><p>首先，在 Mapper XML 编写一个简单的 Insert 语句。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;insert id&#x3D;&quot;insertUser&quot; parameterType&#x3D;&quot;String&quot;&gt; <br>    INSERT INTO users(name) <br>    VALUES (#&#123;value&#125;) <br>&lt;&#x2F;insert&gt;<br></code></pre></td></tr></table></figure>
-
-<p>然后，然后在对应的 Mapper 接口中，编写映射的方法。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">public interface UserMapper &#123;<br>    <br>    void insertUser(@Param(&quot;name&quot;) String name);<br><br>&#125;<br></code></pre></td></tr></table></figure>
-
-<p>最后，调用该 Mapper 接口方法。代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">private static SqlSessionFactory sqlSessionFactory;<br><br>@Test<br>public void testBatch() &#123;<br>    &#x2F;&#x2F; 创建要插入的用户的名字的数组<br>    List&lt;String&gt; names &#x3D; new ArrayList&lt;&gt;();<br>    names.add(&quot;占小狼&quot;);<br>    names.add(&quot;朱小厮&quot;);<br>    names.add(&quot;徐妈&quot;);<br>    names.add(&quot;飞哥&quot;);<br><br>    &#x2F;&#x2F; 获得执行器类型为 Batch 的 SqlSession 对象，并且 autoCommit &#x3D; false ，禁止事务自动提交<br>    try (SqlSession session &#x3D; sqlSessionFactory.openSession(ExecutorType.BATCH, false)) &#123;<br>        &#x2F;&#x2F; 获得 Mapper 对象<br>        UserMapper mapper &#x3D; session.getMapper(UserMapper.class);<br>        &#x2F;&#x2F; 循环插入<br>        for (String name : names) &#123;<br>            mapper.insertUser(name);<br>        &#125;<br>        &#x2F;&#x2F; 提交批量操作<br>        session.commit();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
-
-<p>代码比较简单，胖友仔细看看。当然，还有另一种方式，代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">INSERT INTO [表名]([列名],[列名]) <br>VALUES<br>([列值],[列值])),<br>([列值],[列值])),<br>([列值],[列值]));<br></code></pre></td></tr></table></figure>
-
-<ul>
-<li>对于这种方式，需要保证单条 SQL 不超过语句的最大限制 <code>max_allowed_packet</code> 大小，默认为 1 M 。</li>
-</ul>
-<p>这两种方式的性能对比，可以看看 [《<a href="https://www.jianshu.com/p/cce617be9f9e">实验]mybatis批量插入方式的比较》</a> 。</p>
-<h2 id="介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？"><a href="#介绍-MyBatis-的一级缓存和二级缓存的概念和实现原理？" class="headerlink" title="介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？"></a>介绍 MyBatis 的一级缓存和二级缓存的概念和实现原理？</h2><p>内容有些长，直接参见 <a href="https://tech.meituan.com/mybatis_cache.html">《聊聊 MyBatis 缓存机制》</a> 一文。</p>
-<hr>
-<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/cache-package">《精尽 MyBatis 源码分析 —— 缓存模块》</a> 。</p>
-<h2 id="Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？"><a href="#Mybatis-是否支持延迟加载？如果支持，它的实现原理是什么？" class="headerlink" title="Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？"></a>Mybatis 是否支持延迟加载？如果支持，它的实现原理是什么？</h2><p>Mybatis 仅支持 association 关联对象和 collection 关联集合对象的延迟加载。其中，association 指的就是<strong>一对一</strong>，collection 指的就是<strong>一对多查询</strong>。</p>
-<p>在 Mybatis 配置文件中，可以配置 <code>&lt;setting name=&quot;lazyLoadingEnabled&quot; value=&quot;true&quot; /&gt;</code> 来启用延迟加载的功能。默认情况下，延迟加载的功能是<strong>关闭</strong>的。</p>
-<hr>
-<p>它的原理是，使用 CGLIB 或 Javassist( 默认 ) 创建目标对象的代理对象。当调用代理对象的延迟加载属性的 getting 方法时，进入拦截器方法。比如调用 <code>a.getB().getName()</code> 方法，进入拦截器的 <code>invoke(...)</code> 方法，发现 <code>a.getB()</code> 需要延迟加载时，那么就会单独发送事先保存好的查询关联 B 对象的 SQL ，把 B 查询上来，然后调用<code>a.setB(b)</code> 方法，于是 <code>a</code> 对象 <code>b</code> 属性就有值了，接着完成<code>a.getB().getName()</code> 方法的调用。这就是延迟加载的基本原理。</p>
-<p>当然了，不光是 Mybatis，几乎所有的包括 Hibernate 在内，支持延迟加载的原理都是一样的。</p>
-<hr>
-<p>这块的源码解析，可见 <a href="http://svip.iocoder.cn/MyBatis/executor-5">《 精尽 MyBatis 源码分析 —— SQL 执行（五）之延迟加载》</a> 文章。</p>
-<h2 id="Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"><a href="#Mybatis-能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。" class="headerlink" title="Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。"></a>Mybatis 能否执行一对一、一对多的关联查询吗？都有哪些实现方式，以及它们之间的区别。</h2><blockquote>
-<p>艿艿：这道题有点难度。理解倒是好理解，主要那块源码的实现，艿艿看的有点懵逼。大体的意思是懂的，但是一些细节没扣完。</p>
-</blockquote>
-<p>能，Mybatis 不仅可以执行一对一、一对多的关联查询，还可以执行多对一，多对多的关联查询。</p>
-<blockquote>
-<p>艿艿：不过貌似，我自己实际开发中，还是比较喜欢自己去查询和拼接映射的数据。😈</p>
-</blockquote>
-<ul>
-<li>多对一查询，其实就是一对一查询，只需要把 <code>selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/xzm_rainbow/article/details/15336959">《MyBatis：多对一表关系详解》</a> 。</li>
-<li>多对多查询，其实就是一对多查询，只需要把 <code>#selectOne(...)</code> 修改为 <code>selectList(...)</code> 即可。案例可见 <a href="https://blog.csdn.net/eson_15/article/details/51655188">《【MyBatis学习10】高级映射之多对多查询》</a> 。</li>
-</ul>
-<hr>
-<p>关联对象查询，有两种实现方式：</p>
-<blockquote>
-<p>艿艿：所有的技术方案，即会有好处，又会有坏处。很难出现，一个完美的银弹方案。</p>
-</blockquote>
-<ul>
-<li>一种是单独发送一个 SQL 去查询关联对象，赋给主对象，然后返回主对象。好处是多条 SQL 分开，相对简单，坏处是发起的 SQL 可能会比较多。</li>
-<li>另一种是使用嵌套查询，嵌套查询的含义为使用 <code>join</code> 查询，一部分列是 A 对象的属性值，另外一部分列是关联对象 B 的属性值。好处是只发一个 SQL 查询，就可以把主对象和其关联对象查出来，坏处是 SQL 可能比较复杂。</li>
-</ul>
-<p>那么问题来了，<code>join</code> 查询出来 100 条记录，如何确定主对象是 5 个，而不是 100 个呢？其去重复的原理是 <code>&lt;resultMap&gt;</code> 标签内的<code>&lt;id&gt;</code> 子标签，指定了唯一确定一条记录的 <code>id</code> 列。Mybatis 会根据<code>&lt;id&gt;</code> 列值来完成 100 条记录的去重复功能，<code>&lt;id&gt;</code> 可以有多个，代表了联合主键的语意。</p>
-<p>同样主对象的关联对象，也是根据这个原理去重复的。尽管一般情况下，只有主对象会有重复记录，关联对象一般不会重复。例如：下面 <code>join</code> 查询出来6条记录，一、二列是 Teacher 对象列，第三列为 Student 对象列。Mybatis 去重复处理后，结果为 1 个老师和 6 个学生，而不是 6 个老师和 6 个学生。</p>
-<table>
-<thead>
-<tr>
-<th>t_id</th>
-<th>t_name</th>
-<th>s_id</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1</td>
-<td>teacher</td>
-<td>38</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>39</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>40</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>41</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>42</td>
-</tr>
-<tr>
-<td>1</td>
-<td>teacher</td>
-<td>43</td>
-</tr>
-</tbody></table>
-<h2 id="简述-Mybatis-的插件运行原理？以及如何编写一个插件？"><a href="#简述-Mybatis-的插件运行原理？以及如何编写一个插件？" class="headerlink" title="简述 Mybatis 的插件运行原理？以及如何编写一个插件？"></a>简述 Mybatis 的插件运行原理？以及如何编写一个插件？</h2><p>Mybatis 仅可以编写针对 ParameterHandler、ResultSetHandler、StatementHandler、Executor 这 4 种接口的插件。</p>
-<p>Mybatis 使用 JDK 的动态代理，为需要拦截的接口生成代理对象以实现接口方法拦截功能，每当执行这 4 种接口对象的方法时，就会进入拦截方法，具体就是 InvocationHandler 的 <code>#invoke(...)</code>方法。当然，只会拦截那些你指定需要拦截的方法。</p>
-<hr>
-<p>编写一个 MyBatis 插件的步骤如下：</p>
-<ol>
-<li>首先，实现 Mybatis 的 Interceptor 接口，并实现 <code>#intercept(...)</code> 方法。</li>
-<li>然后，在给插件编写注解，指定要拦截哪一个接口的哪些方法即可</li>
-<li>最后，在配置文件中配置你编写的插件。</li>
-</ol>
-<p>具体的，可以参考 <a href="http://www.mybatis.org/mybatis-3/zh/configuration.html#plugins">《MyBatis 官方文档 —— 插件》</a> 。</p>
-<hr>
-<p>插件的详细解析，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-1">《精尽 MyBatis 源码分析 —— 插件体系（一）之原理》</a> 。</p>
-<h2 id="Mybatis-是如何进行分页的？分页插件的原理是什么？"><a href="#Mybatis-是如何进行分页的？分页插件的原理是什么？" class="headerlink" title="Mybatis 是如何进行分页的？分页插件的原理是什么？"></a>Mybatis 是如何进行分页的？分页插件的原理是什么？</h2><p>Mybatis 使用 RowBounds 对象进行分页，它是针对 ResultSet 结果集执行的<strong>内存分页</strong>，而非<strong>数据库分页</strong>。</p>
-<p>所以，实际场景下，不适合直接使用 MyBatis 原有的 RowBounds 对象进行分页。而是使用如下两种方案：</p>
-<ul>
-<li>在 SQL 内直接书写带有数据库分页的参数来完成数据库分页功能</li>
-<li>也可以使用分页插件来完成数据库分页。</li>
-</ul>
-<p>这两者都是基于数据库分页，差别在于前者是工程师<strong>手动</strong>编写分页条件，后者是插件<strong>自动</strong>添加分页条件。</p>
-<hr>
-<p>分页插件的基本原理是使用 Mybatis 提供的插件接口，实现自定义分页插件。在插件的拦截方法内，拦截待执行的 SQL ，然后重写 SQL ，根据dialect 方言，添加对应的物理分页语句和物理分页参数。</p>
-<p>举例：<code>SELECT * FROM student</code> ，拦截 SQL 后重写为：<code>select * FROM student LIMI 0，10</code> 。</p>
-<p>目前市面上目前使用比较广泛的 MyBatis 分页插件有：</p>
-<ul>
-<li><a href="https://github.com/pagehelper/Mybatis-PageHelper">Mybatis-PageHelper</a></li>
-<li><a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a></li>
-</ul>
-<p>从现在看来，<a href="https://github.com/baomidou/mybatis-plus">MyBatis-Plus</a> 逐步使用的更加广泛。</p>
-<p>关于 MyBatis 分页插件的原理深入，可以看看 <a href="http://svip.iocoder.cn/MyBatis/plugin-2">《精尽 MyBatis 源码分析 —— 插件体系（二）之 PageHelper》</a> 。</p>
-<h2 id="MyBatis-与-Hibernate-有哪些不同？"><a href="#MyBatis-与-Hibernate-有哪些不同？" class="headerlink" title="MyBatis 与 Hibernate 有哪些不同？"></a>MyBatis 与 Hibernate 有哪些不同？</h2><p>Mybatis 和 Hibernate 不同，它<strong>不完全是</strong>一个 ORM 框架，因为MyBatis 需要程序员自己编写 SQL 语句。不过 MyBatis 可以通过 XML 或注解方式灵活配置要运行的 SQL 语句，并将 Java 对象和 SQL 语句映射生成最终执行的 SQL ，最后将 SQL 执行的结果再映射生成 Java 对象。</p>
-<p>Mybatis 学习门槛低，简单易学，程序员直接编写原生态 SQL ，可严格控制 SQL 执行性能，灵活度高。但是灵活的前提是 MyBatis 无法做到数据库无关性，如果需要实现支持多种数据库的软件则需要自定义多套 SQL 映射文件，工作量大。</p>
-<p>Hibernate 对象/关系映射能力强，数据库无关性好。如果用 Hibernate 开发可以节省很多代码，提高效率。但是  Hibernate 的缺点是学习门槛高，要精通门槛更高，而且怎么设计 O/R 映射，在性能和对象模型之间如何权衡，以及怎样用好  Hibernate 需要具有很强的经验和能力才行。 </p>
-<p>总之，按照用户的需求在有限的资源环境下只要能做出维护性、扩展性良好的软件架构都是好架构，所以框架只有适合才是最好。简单总结如下：</p>
-<ul>
-<li>Hibernate 属于全自动 ORM 映射工具，使用 Hibernate 查询关联对象或者关联集合对象时，可以根据对象关系模型直接获取。</li>
-<li>Mybatis 属于半自动 ORM 映射工具，在查询关联对象或关联集合对象时，需要手动编写 SQL 来完成。</li>
-</ul>
-<p>另外，在 <a href="https://www.jianshu.com/p/96171e647885">《浅析 Mybatis 与 Hibernate 的区别与用途》</a> 文章，也是写的非常不错的。</p>
-<p>当然，实际上，MyBatis 也可以搭配自动生成代码的工具，提升开发效率，还可以使用 <a href="http://mp.baomidou.com/">MyBatis-Plus</a> 框架，已经内置常用的 SQL 操作，也是非常不错的。</p>
-<h2 id="JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？"><a href="#JDBC-编程有哪些不足之处，MyBatis是如何解决这些问题的？" class="headerlink" title="JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？"></a>JDBC 编程有哪些不足之处，MyBatis是如何解决这些问题的？</h2><p>问题一：SQL 语句写在代码中造成代码不易维护，且代码会比较混乱。</p>
-<p>解决方式：将 SQL 语句配置在 Mapper XML 文件中，与 Java 代码分离。</p>
-<hr>
-<p>问题二：根据参数不同，拼接不同的 SQL 语句非常麻烦。例如 SQL 语句的 WHERE 条件不一定，可能多也可能少，占位符需要和参数一一对应。 </p>
-<p>解决方式：MyBatis 提供 <code>&lt;where /&gt;</code>、<code>&lt;if /&gt;</code> 等等动态语句所需要的标签，并支持 OGNL 表达式，简化了动态 SQL 拼接的代码，提升了开发效率。</p>
-<hr>
-<p>问题三，对结果集解析麻烦，SQL 变化可能导致解析代码变化，且解析前需要遍历。</p>
-<p>解决方式：Mybatis 自动将 SQL 执行结果映射成 Java 对象。</p>
-<hr>
-<p>问题四，数据库链接创建、释放频繁造成系统资源浪费从而影响系统性能，如果使用数据库链接池可解决此问题。</p>
-<p>解决方式：在 <code>mybatis-config.xml</code> 中，配置数据链接池，使用连接池管理数据库链接。</p>
-<p>😈 当然，即使不使用 MyBatis ，也可以使用数据库连接池。<br>另外，MyBatis 默认提供了数据库连接池的实现，只是说，因为其它开源的数据库连接池性能更好，所以一般很少使用 MyBatis 自带的连接池实现。</p>
-<h2 id="Mybatis-比-IBatis-比较大的几个改进是什么？"><a href="#Mybatis-比-IBatis-比较大的几个改进是什么？" class="headerlink" title="Mybatis 比 IBatis 比较大的几个改进是什么？"></a>Mybatis 比 IBatis 比较大的几个改进是什么？</h2><blockquote>
-<p>这是一个选择性了解的问题，因为可能现在很多面试官，都没用过 IBatis 框架。</p>
-</blockquote>
-<ol>
-<li>有接口绑定，包括注解绑定 SQL 和 XML 绑定 SQL 。</li>
-<li>动态 SQL 由原来的节点配置变成 OGNL 表达式。</li>
-<li>在一对一或一对多的时候，引进了 <code>association</code> ，在一对多的时候，引入了 <code>collection</code>节点，不过都是在 <code>&lt;resultMap /&gt;</code> 里面配置。</li>
-</ol>
-<h2 id="Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？"><a href="#Mybatis-映射文件中，如果-A-标签通过-include-引用了B标签的内容，请问，B-标签能否定义在-A-标签的后面，还是说必须定义在A标签的前面？" class="headerlink" title="Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？"></a>Mybatis 映射文件中，如果 A 标签通过 include 引用了B标签的内容，请问，B 标签能否定义在 A 标签的后面，还是说必须定义在A标签的前面？</h2><blockquote>
-<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
-</blockquote>
-<p>虽然 Mybatis 解析 XML 映射文件是<strong>按照顺序</strong>解析的。但是，被引用的 B 标签依然可以定义在任何地方，Mybatis 都可以正确识别。<strong>也就是说，无需按照顺序，进行定义</strong>。</p>
-<p>原理是，Mybatis 解析 A 标签，发现 A 标签引用了 B 标签，但是 B 标签尚未解析到，尚不存在，此时，Mybatis 会将 A 标签标记为<strong>未解析状态</strong>。然后，继续解析余下的标签，包含 B 标签，待所有标签解析完毕，Mybatis 会重新解析那些被标记为未解析的标签，此时再解析A标签时，B 标签已经存在，A 标签也就可以正常解析完成了。</p>
-<p>可能有一些绕，胖友可以看看 <a href="http://svip.iocoder.cn/MyBatis/builder-package-1">《精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config》</a> 。</p>
-<p>此处，我们在引申一个问题，Spring IOC 中，存在互相依赖的 Bean 对象，该如何解决呢？答案见 <a href="http://svip.iocoder.cn/Spring/IoC-get-Bean-createBean-5/">《【死磕 Spring】—— IoC 之加载 Bean：创建 Bean（五）之循环依赖处理》</a> 。</p>
-<h2 id="简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？"><a href="#简述-Mybatis-的-XML-映射文件和-Mybatis-内部数据结构之间的映射关系？" class="headerlink" title="简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？"></a>简述 Mybatis 的 XML 映射文件和 Mybatis 内部数据结构之间的映射关系？</h2><blockquote>
-<p>老艿艿：这道题目，已经和源码实现，有点关系了。</p>
-</blockquote>
-<p>Mybatis 将所有 XML 配置信息都封装到 All-In-One 重量级对象Configuration内部。</p>
-<p>在 XML Mapper 文件中：</p>
-<ul>
-<li><code>&lt;parameterMap&gt;</code> 标签，会被解析为 ParameterMap 对象，其每个子元素会被解析为 ParameterMapping 对象。</li>
-<li><code>&lt;resultMap&gt;</code> 标签，会被解析为 ResultMap 对象，其每个子元素会被解析为 ResultMapping 对象。</li>
-<li>每一个 <code>&lt;select&gt;</code>、<code>&lt;insert&gt;</code>、<code>&lt;update&gt;</code>、<code>&lt;delete&gt;</code> 标签，均会被解析为一个 MappedStatement 对象，标签内的 SQL 会被解析为一个 BoundSql 对象。</li>
-</ul>
-<h2 id="666-彩蛋"><a href="#666-彩蛋" class="headerlink" title="666. 彩蛋"></a>666. 彩蛋</h2><p>参考与推荐如下文章：</p>
-<ul>
-<li>祖大俊 <a href="https://my.oschina.net/zudajun/blog/747682">《Mybatis3.4.x技术内幕（二十三）：Mybatis面试问题集锦（大结局）》</a></li>
-<li>Java3y <a href="https://segmentfault.com/a/1190000013678579">《Mybatis 常见面试题》</a></li>
-<li>Homiss <a href="https://github.com/Homiss/Java-interview-questions/blob/master/%E6%A1%86%E6%9E%B6/MyBatis%E9%9D%A2%E8%AF%95%E9%A2%98.md">《MyBatis 面试题》</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>MyBatis</category>
-        <category>面试</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-        <tag>MyBatis</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>MySQL学习笔记</title>
     <url>/2019/10/12/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="MySQL学习笔记"><a href="#MySQL学习笔记" class="headerlink" title="MySQL学习笔记"></a>MySQL学习笔记</h1><h2 id="登录和退出MySQL服务器"><a href="#登录和退出MySQL服务器" class="headerlink" title="登录和退出MySQL服务器"></a>登录和退出MySQL服务器</h2><figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"> 登录MySQL</span><br><span class="hljs-meta">$</span><span class="bash"> mysql -u root -p12345612</span><br><br><span class="hljs-meta">#</span><span class="bash"> 退出MySQL数据库服务器</span><br>exit;<br></code></pre></td></tr></table></figure>
@@ -2274,7 +2818,7 @@
   </entry>
   <entry>
     <title>精尽 Spring 面试题</title>
-    <url>/2016/10/12/3/</url>
+    <url>/2016/10/12/%E7%B2%BE%E5%B0%BD%20Spring%20%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
     <content><![CDATA[<h1 id="精尽-Spring-面试题"><a href="#精尽-Spring-面试题" class="headerlink" title="精尽 Spring 面试题"></a>精尽 Spring 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
 <p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 Spring 面试题的大保健。</p>
 <p>而题目的难度，艿艿尽量按照从容易到困难的顺序，逐步下去。</p>
