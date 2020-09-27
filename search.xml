@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>10</title>
-    <url>/2016/10/12/10/</url>
+    <title>11</title>
+    <url>/2016/10/12/11/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -15,8 +15,8 @@
       </tags>
   </entry>
   <entry>
-    <title>11</title>
-    <url>/2016/10/12/11/</url>
+    <title>10</title>
+    <url>/2016/10/12/10/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -59,6 +59,20 @@
   <entry>
     <title>14</title>
     <url>/2016/10/12/14/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>15</title>
+    <url>/2016/10/12/15/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -225,8 +239,8 @@
       </tags>
   </entry>
   <entry>
-    <title>27</title>
-    <url>/2016/10/12/27/</url>
+    <title>28</title>
+    <url>/2016/10/12/28/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -239,8 +253,8 @@
       </tags>
   </entry>
   <entry>
-    <title>28</title>
-    <url>/2016/10/12/28/</url>
+    <title>27</title>
+    <url>/2016/10/12/27/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -267,8 +281,8 @@
       </tags>
   </entry>
   <entry>
-    <title>30</title>
-    <url>/2016/10/12/30/</url>
+    <title>31</title>
+    <url>/2016/10/12/31/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -281,8 +295,8 @@
       </tags>
   </entry>
   <entry>
-    <title>31</title>
-    <url>/2016/10/12/31/</url>
+    <title>30</title>
+    <url>/2016/10/12/30/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -365,8 +379,8 @@
       </tags>
   </entry>
   <entry>
-    <title>37</title>
-    <url>/2016/10/12/37/</url>
+    <title>38</title>
+    <url>/2016/10/12/38/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -379,8 +393,8 @@
       </tags>
   </entry>
   <entry>
-    <title>38</title>
-    <url>/2016/10/12/38/</url>
+    <title>37</title>
+    <url>/2016/10/12/37/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -436,7 +450,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/43/</url>
+    <url>/2016/10/12/42/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -450,7 +464,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/42/</url>
+    <url>/2016/10/12/43/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -492,7 +506,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/46/</url>
+    <url>/2016/10/12/47/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -506,7 +520,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/47/</url>
+    <url>/2016/10/12/46/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -547,8 +561,8 @@
       </tags>
   </entry>
   <entry>
-    <title>50</title>
-    <url>/2016/10/12/50/</url>
+    <title>51</title>
+    <url>/2016/10/12/51/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -561,8 +575,8 @@
       </tags>
   </entry>
   <entry>
-    <title>51</title>
-    <url>/2016/10/12/51/</url>
+    <title>50</title>
+    <url>/2016/10/12/50/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -745,20 +759,6 @@
   <entry>
     <title>9</title>
     <url>/2016/10/12/9/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>15</title>
-    <url>/2016/10/12/15/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -1294,135 +1294,189 @@
 </ul>
 <p>参考 <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html">《Externalized Configuration》</a> 文档，我们整理顺序如下：</p>
 <ol>
-<li><pre><code>spring-boot-devtools
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>依赖的 <br><br></code></pre></td></tr></table></figure>
-spring-boot-devtools.properties
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>    配置文件。<br><br>   &gt; 这个灰常小众，具体说明可以看看 [《Spring Boot参考文档（12）开发者工具》](https:&#x2F;&#x2F;blog.csdn.net&#x2F;u011499747&#x2F;article&#x2F;details&#x2F;71746325) ，建议无视。<br><br>2. 单元测试上的 <br><br></code></pre></td></tr></table></figure>
-@TestPropertySource
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>和 <br><br></code></pre></td></tr></table></figure>
-@SpringBootTest
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>    注解指定的参数。<br><br>   &gt; 前者的优先级高于后者。可以看看 [《Spring、Spring Boot 和TestNG 测试指南 - @TestPropertySource》](https:&#x2F;&#x2F;segmentfault.com&#x2F;a&#x2F;1190000010854607) 一文。<br><br>3. 命令行指定的参数。例如 &#96;java -jar springboot.jar --server.port&#x3D;9090&#96; 。<br><br>4. 命令行中的 &#96;spring.application.json&#96; 指定参数。例如 &#96;java -Dspring.application.json&#x3D;&#39;&#123;&quot;name&quot;:&quot;Java&quot;&#125;&#39; -jar springboot.jar&#96; 。<br><br>5. ServletConfig 初始化参数。<br><br>6. ServletContext 初始化参数。<br><br>7. JNDI 参数。例如 &#96;java:comp&#x2F;env&#96; 。<br><br>8. Java 系统变量，即 &#96;System#getProperties()&#96; 方法对应的。<br><br>9. 操作系统环境变量。<br><br>10. RandomValuePropertySource 配置的 &#96;random.*&#96; 属性对应的值。<br><br>11. Jar **外部**的带指定 profile 的 application 配置文件。例如 &#96;application-&#123;profile&#125;.yaml&#96; 。<br><br>12. Jar **内部**的带指定 profile 的 application 配置文件。例如 &#96;application-&#123;profile&#125;.yaml&#96; 。<br><br>13. Jar **外部** application 配置文件。例如 &#96;application.yaml&#96; 。<br><br>14. Jar **内部** application 配置文件。例如 &#96;application.yaml&#96; 。<br><br>15. 在自定义的 &#96;@Configuration&#96; 类中定于的 &#96;@PropertySource&#96; 。<br><br>16. 启动的 main 方法中，定义的默认配置。即通过 &#96;SpringApplication#setDefaultProperties(Map&lt;String, Object&gt; defaultProperties)&#96; 方法进行设置。<br><br>嘿嘿，是不是很多很长，不用真的去记住。<br><br>- 一般来说，面试官不会因为这个题目回答的不好，对你扣分。<br>- 实际使用时，做下测试即可。<br>- 每一种配置方式的详细说明，可以看看 [《Spring Boot 参考指南（外部化配置）》](https:&#x2F;&#x2F;segmentfault.com&#x2F;a&#x2F;1190000015069140) 。<br><br>## Spring Boot 有哪些配置方式？<br><br>和 Spring 一样，一共提供了三种方式。<br><br>- 1、XML 配置文件。<br><br>    Bean 所需的依赖项和服务在 XML 格式的配置文件中指定。这些配置文件通常包含许多 bean 定义和特定于应用程序的配置选项。它们通常以 bean 标签开头。例如：<br><br></code></pre></td></tr></table></figure>
-&lt;bean id=&quot;studentBean&quot; class=&quot;org.edureka.firstSpring.StudentBean&quot;&gt;
-   &lt;property name=&quot;name&quot; value=&quot;Edureka&quot;&gt;&lt;/property&gt;
-&lt;/bean&gt;
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>- 2、注解配置。<br><br>    您可以通过在相关的类，方法或字段声明上使用注解，将 Bean 配置为组件类本身，而不是使用 XML 来描述 Bean 装配。默认情况下，Spring 容器中未打开注解装配。因此，您需要在使用它之前在 Spring 配置文件中启用它。例如：<br><br></code></pre></td></tr></table></figure>
-&lt;beans&gt;
-&lt;context:annotation-config/&gt;
-&lt;!-- bean definitions go here --&gt;
-&lt;/beans&gt;
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>- 3、Java Config 配置。<br><br>    Spring 的 Java 配置是通过使用 @Bean 和 @Configuration 来实现。<br><br>  - &#96;@Bean&#96; 注解扮演与 &#96;&lt;bean &#x2F;&gt;&#96; 元素相同的角色。<br><br>  - &#96;@Configuration&#96; 类允许通过简单地调用同一个类中的其他 &#96;@Bean&#96; 方法来定义 Bean 间依赖关系。<br><br>  - 例如：<br><br></code></pre></td></tr></table></figure>
- @Configuration
- public class StudentConfig &#123;
-
-     @Bean
-     public StudentBean myStudent() &#123;
-         return new StudentBean();
-     &#125;
-
- &#125;
- <figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>    - 是不是很熟悉 😈<br><br>目前主要使用 **Java Config** 配置为主。当然，三种配置方式是可以混合使用的。例如说：<br><br>- Dubbo 服务的配置，艿艿喜欢使用 XML 。<br>- Spring MVC 请求的配置，艿艿喜欢使用 &#96;@RequestMapping&#96; 注解。<br>- Spring MVC 拦截器的配置，艿艿喜欢 Java Config 配置。<br><br>------<br><br>另外，现在已经是 Spring Boot 的天下，所以更加是 **Java Config** 配置为主。<br><br>## Spring Boot 的核心注解是哪个？<br><br></code></pre></td></tr></table></figure>
-package cn.iocoder.skywalking.web01;
-</code></pre>
+<li><p><code>spring-boot-devtools</code>依赖的 <code>spring-boot-devtools.properties</code>配置文件。</p>
+<blockquote>
+<p>这个灰常小众，具体说明可以看看 <a href="https://blog.csdn.net/u011499747/article/details/71746325">《Spring Boot参考文档（12）开发者工具》</a> ，建议无视。</p>
+</blockquote>
+</li>
+<li><p>单元测试上的 <code>@TestPropertySource</code>和 <code>@SpringBootTest</code>注解指定的参数。</p>
+<blockquote>
+<p>前者的优先级高于后者。可以看看 <a href="https://segmentfault.com/a/1190000010854607">《Spring、Spring Boot 和TestNG 测试指南 - @TestPropertySource》</a> 一文。</p>
+</blockquote>
+</li>
+<li><p>命令行指定的参数。例如 <code>java -jar springboot.jar --server.port=9090</code> 。</p>
+</li>
+<li><p>命令行中的 <code>spring.application.json</code> 指定参数。例如 <code>java -Dspring.application.json=&#39;&#123;&quot;name&quot;:&quot;Java&quot;&#125;&#39; -jar springboot.jar</code> 。</p>
+</li>
+<li><p>ServletConfig 初始化参数。</p>
+</li>
+<li><p>ServletContext 初始化参数。</p>
+</li>
+<li><p>JNDI 参数。例如 <code>java:comp/env</code> 。</p>
+</li>
+<li><p>Java 系统变量，即 <code>System#getProperties()</code> 方法对应的。</p>
+</li>
+<li><p>操作系统环境变量。</p>
+</li>
+<li><p>RandomValuePropertySource 配置的 <code>random.*</code> 属性对应的值。</p>
+</li>
+<li><p>Jar <strong>外部</strong>的带指定 profile 的 application 配置文件。例如 <code>application-&#123;profile&#125;.yaml</code> 。</p>
+</li>
+<li><p>Jar <strong>内部</strong>的带指定 profile 的 application 配置文件。例如 <code>application-&#123;profile&#125;.yaml</code> 。</p>
+</li>
+<li><p>Jar <strong>外部</strong> application 配置文件。例如 <code>application.yaml</code> 。</p>
+</li>
+<li><p>Jar <strong>内部</strong> application 配置文件。例如 <code>application.yaml</code> 。</p>
+</li>
+<li><p>在自定义的 <code>@Configuration</code> 类中定于的 <code>@PropertySource</code> 。</p>
+</li>
+<li><p>启动的 main 方法中，定义的默认配置。即通过 <code>SpringApplication#setDefaultProperties(Map&lt;String, Object&gt; defaultProperties)</code> 方法进行设置。</p>
 </li>
 </ol>
-<p>import org.springframework.boot.SpringApplication;<br>import org.springframework.boot.autoconfigure.SpringBootApplication;</p>
-<p>@SpringBootApplication<br>public class Web01Application {</p>
-<pre><code>public static void main(String[] args) &#123;
-    SpringApplication.run(Web01Application.class, args);
-&#125;</code></pre>
-<p>}</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>- &#96;@SpringBootApplication&#96; 注解，就是 Spring Boot 的核心注解。<br><br>&#96;org.springframework.boot.autoconfigure.@SpringBootApplication&#96; 注解的代码如下：<br><br></code></pre></td></tr></table></figure>
-<p>// SpringBootApplication.java</p>
-<p>@Target({ElementType.TYPE})<br>@Retention(RetentionPolicy.RUNTIME)<br>@Documented<br>@Inherited<br>@SpringBootConfiguration<br>@EnableAutoConfiguration<br>@ComponentScan(<br>    excludeFilters = {@Filter(<br>    type = FilterType.CUSTOM,<br>    classes = {TypeExcludeFilter.class}<br>), @Filter(<br>    type = FilterType.CUSTOM,<br>    classes = {AutoConfigurationExcludeFilter.class}<br>)}<br>)<br>public @interface SpringBootApplication {<br>    @AliasFor(<br>        annotation = EnableAutoConfiguration.class<br>    )<br>    Class&lt;?&gt;[] exclude() default {};</p>
-<pre><code>@AliasFor(
-    annotation = EnableAutoConfiguration.class
-)
-String[] excludeName() default &#123;&#125;;
+<p>嘿嘿，是不是很多很长，不用真的去记住。</p>
+<ul>
+<li>一般来说，面试官不会因为这个题目回答的不好，对你扣分。</li>
+<li>实际使用时，做下测试即可。</li>
+<li>每一种配置方式的详细说明，可以看看 <a href="https://segmentfault.com/a/1190000015069140">《Spring Boot 参考指南（外部化配置）》</a> 。</li>
+</ul>
+<h2 id="Spring-Boot-有哪些配置方式？"><a href="#Spring-Boot-有哪些配置方式？" class="headerlink" title="Spring Boot 有哪些配置方式？"></a>Spring Boot 有哪些配置方式？</h2><p>和 Spring 一样，一共提供了三种方式。</p>
+<ul>
+<li><p>1、XML 配置文件。</p>
+<p>  Bean 所需的依赖项和服务在 XML 格式的配置文件中指定。这些配置文件通常包含许多 bean 定义和特定于应用程序的配置选项。它们通常以 bean 标签开头。例如：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;bean id&#x3D;&quot;studentBean&quot; class&#x3D;&quot;org.edureka.firstSpring.StudentBean&quot;&gt;<br>    &lt;property name&#x3D;&quot;name&quot; value&#x3D;&quot;Edureka&quot;&gt;&lt;&#x2F;property&gt;<br>&lt;&#x2F;bean&gt;<br></code></pre></td></tr></table></figure>
+</li>
+<li><p>2、注解配置。</p>
+<p>  您可以通过在相关的类，方法或字段声明上使用注解，将 Bean 配置为组件类本身，而不是使用 XML 来描述 Bean 装配。默认情况下，Spring 容器中未打开注解装配。因此，您需要在使用它之前在 Spring 配置文件中启用它。例如：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;beans&gt;<br>&lt;context:annotation-config&#x2F;&gt;<br>&lt;!-- bean definitions go here --&gt;<br>&lt;&#x2F;beans&gt;<br></code></pre></td></tr></table></figure>
+</li>
+<li><p>3、Java Config 配置。</p>
+<p>  Spring 的 Java 配置是通过使用 @Bean 和 @Configuration 来实现。</p>
+<ul>
+<li><p><code>@Bean</code> 注解扮演与 <code>&lt;bean /&gt;</code> 元素相同的角色。</p>
+</li>
+<li><p><code>@Configuration</code> 类允许通过简单地调用同一个类中的其他 <code>@Bean</code> 方法来定义 Bean 间依赖关系。</p>
+</li>
+<li><p>例如：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">@Configuration<br>public class StudentConfig &#123;<br>    <br>    @Bean<br>    public StudentBean myStudent() &#123;<br>        return new StudentBean();<br>    &#125;<br>    <br>&#125;<br></code></pre></td></tr></table></figure>
 
-@AliasFor(
-    annotation = ComponentScan.class,
-    attribute = &quot;basePackages&quot;
-)
-String[] scanBasePackages() default &#123;&#125;;
+<ul>
+<li>是不是很熟悉 😈</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>目前主要使用 <strong>Java Config</strong> 配置为主。当然，三种配置方式是可以混合使用的。例如说：</p>
+<ul>
+<li>Dubbo 服务的配置，艿艿喜欢使用 XML 。</li>
+<li>Spring MVC 请求的配置，艿艿喜欢使用 <code>@RequestMapping</code> 注解。</li>
+<li>Spring MVC 拦截器的配置，艿艿喜欢 Java Config 配置。</li>
+</ul>
+<hr>
+<p>另外，现在已经是 Spring Boot 的天下，所以更加是 <strong>Java Config</strong> 配置为主。</p>
+<h2 id="Spring-Boot-的核心注解是哪个？"><a href="#Spring-Boot-的核心注解是哪个？" class="headerlink" title="Spring Boot 的核心注解是哪个？"></a>Spring Boot 的核心注解是哪个？</h2><figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">package cn.iocoder.skywalking.web01;<br><br>import org.springframework.boot.SpringApplication;<br>import org.springframework.boot.autoconfigure.SpringBootApplication;<br><br>@SpringBootApplication<br>public class Web01Application &#123;<br><br>    public static void main(String[] args) &#123;<br>        SpringApplication.run(Web01Application.class, args);<br>    &#125;<br><br>&#125;<br></code></pre></td></tr></table></figure>
 
-@AliasFor(
-    annotation = ComponentScan.class,
-    attribute = &quot;basePackageClasses&quot;
-)
-Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
-<p>}</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>- 它组合了 3 个注解，详细说明，胖友看看 [《Spring Boot 系列：@SpringBootApplication 注解》](https:&#x2F;&#x2F;blog.csdn.net&#x2F;claram&#x2F;article&#x2F;details&#x2F;75125749) 。<br><br>- &#96;@Configuration&#96; 注解，指定类是 **Bean 定义**的配置类。<br><br>  &gt; &#96;@Configuration&#96; 注解，来自 &#96;spring-context&#96; 项目，用于 Java Config ，不是 Spring Boot 新带来的。<br><br>- &#96;#ComponentScan&#96; 注解，扫描指定包下的 Bean 们。<br><br>  &gt; &#96;@ComponentScan&#96; 注解，来自 &#96;spring-context&#96; 项目，用于 Java Config ，不是 Spring Boot 新带来的。<br><br>- &#96;@EnableAutoConfiguration&#96; 注解，打开自动配置的功能。如果我们想要关闭某个类的自动配置，可以设置注解的 &#96;exclude&#96; 或 &#96;excludeName&#96; 属性。<br><br>  &gt; &#96;@EnableAutoConfiguration&#96; 注解，来自 &#96;spring-boot-autoconfigure&#96; 项目，**它才是 Spring Boot 新带来的**。<br><br>## 什么是 Spring Boot 自动配置？<br><br>在 [「Spring Boot 的核心注解是哪个？」](http:&#x2F;&#x2F;svip.iocoder.cn&#x2F;Spring-Boot&#x2F;Interview&#x2F;#) 中，我们已经看到，使用 &#96;@@EnableAutoConfiguration&#96; 注解，打开 Spring Boot 自动配置的功能。具体如何实现的，可以看看如下两篇文章：<br><br>- [《@EnableAutoConfiguration 注解的工作原理》](https:&#x2F;&#x2F;www.jianshu.com&#x2F;p&#x2F;464d04c36fb1) 。<br>- [《一个面试题引起的 Spring Boot 启动解析》](https:&#x2F;&#x2F;juejin.im&#x2F;post&#x2F;5b679fbc5188251aad213110)<br>- 建议，能一边调试，一边看这篇文章。调试很简单，任一搭建一个 Spring Boot 项目即可。<br><br>如下是一个比较简单的总结：<br><br>1. Spring Boot 在启动时扫描项目所依赖的 jar 包，寻找包含&#96;spring.factories&#96; 文件的 jar 包。<br>2. 根据 &#96;spring.factories&#96; 配置加载 AutoConfigure 类。<br>3. 根据 [&#96;@Conditional&#96; 等条件注解](http:&#x2F;&#x2F;svip.iocoder.cn&#x2F;Spring-Boot&#x2F;Interview&#x2F;Spring Boot 条件注解) 的条件，进行自动配置并将 Bean 注入 Spring IoC 中。<br><br>## Spring Boot 有哪几种读取配置的方式？<br><br>Spring Boot 目前支持 **2** 种读取配置：<br><br>1. &#96;@Value&#96; 注解，读取配置到属性。最最最常用。<br><br>   &gt; 另外，支持和 &#96;@PropertySource&#96; 注解一起使用，指定使用的配置文件。<br><br>2. &#96;@ConfigurationProperties&#96; 注解，读取配置到类上。<br><br>   &gt; 另外，支持和 &#96;@PropertySource&#96; 注解一起使用，指定使用的配置文件。<br><br>详细的使用方式，可以参考 [《Spring Boot 读取配置的几种方式》](https:&#x2F;&#x2F;aoyouzi.iteye.com&#x2F;blog&#x2F;2422837) 。<br><br>## 使用 Spring Boot 后，项目结构是怎么样的呢？<br><br>我们先来说说项目的分层。一般来说，主流的有两种方式：<br><br>- 方式一，&#96;controller&#96;、&#96;service&#96;、&#96;dao&#96; 三个包，每个包下面添加相应的 XXXController、YYYService、ZZZDAO 。<br>- 方式二，按照业务模块分包，每个包里面放 Controller、Service、DAO 类。例如，业务模块分成 &#96;user&#96;、&#96;order&#96;、&#96;item&#96; 等等包，在 &#96;user&#96; 包里放 UserController、UserService、UserDAO 类。<br><br>那么，使用 Spring Boot 的项目怎么分层呢？艿艿自己的想法<br><br>- 现在项目都会进行服务化分拆，每个项目不会特别复杂，所以建议使用【方式一】。<br>- 以前的项目，大多是单体的项目，动则项目几万到几十万的代码，当时多采用【方式二】。<br><br>下面是一个简单的 Spring Boot 项目的 Demo ，如下所示：[![Spring Boot 项目的 Demo](D:\新建文件夹 (3)\05.png)](http:&#x2F;&#x2F;static2.iocoder.cn&#x2F;images&#x2F;Spring&#x2F;2018-12-26&#x2F;05.png)Spring Boot 项目的 Demo<br><br>## 如何在 Spring Boot 启动的时候运行一些特殊的代码？<br><br>如果需要在 SpringApplication 启动后执行一些特殊的代码，你可以实现 ApplicationRunner 或 CommandLineRunner 接口，这两个接口工作方式相同，都只提供单一的 run 方法，该方法仅在 &#96;SpringApplication#run(...)&#96; 方法**完成之前调用**。<br><br>一般情况下，我们不太会使用该功能。如果真需要，胖友可以详细看看 [《使用 ApplicationRunner 或 CommandLineRunner 》](https:&#x2F;&#x2F;qbgbook.gitbooks.io&#x2F;spring-boot-reference-guide-zh&#x2F;IV. Spring Boot features&#x2F;23.8 Using the ApplicationRunner or CommandLineRunner.html) 。<br><br>## Spring Boot 2.X 有什么新特性？<br><br>1. 起步 JDK 8 和支持 JDK 9<br>2. 第三方库的升级<br>3. Reactive Spring<br>4. HTTP&#x2F;2 支持<br>5. 配置属性的绑定<br>6. Gradle 插件<br>7. Actuator 改进<br>8. 数据支持的改进<br>9. Web 的改进<br>10. 支持 Quartz 自动配置<br>11. 测试的改进<br>12. 其它…<br><br>详细的说明，可以看看 [《Spring Boot 2.0系列文章(二)：Spring Boot 2.0 新特性详解》](http:&#x2F;&#x2F;www.54tianzhisheng.cn&#x2F;2018&#x2F;03&#x2F;06&#x2F;SpringBoot2-new-features) 。<br><br># 整合篇<br><br>## 如何将内嵌服务器换成 Jetty ？<br><br>默认情况下，&#96;spring-boot-starter-web&#96; 模块使用 Tomcat 作为内嵌的服务器。所以需要去除对 &#96;spring-boot-starter-tomcat&#96; 模块的引用，添加 &#96;spring-boot-starter-jetty&#96; 模块的引用。代码如下：<br><br></code></pre></td></tr></table></figure>
-<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-web</artifactId>
-    <exclusions>
-        <exclusion> <!-- 去除 Tomcat -->
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-tomcat</artifactId>
-        </exclusion>
-    </exclusions>
-</dependency>
-<dependency> <!-- 引入 Jetty -->
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-jetty</artifactId>
-</dependency>
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>## Spring Boot 中的监视器 Actuator 是什么？<br><br>&#96;spring-boot-actuator&#96; 提供 Spring Boot 的监视器功能，可帮助我们访问生产环境中正在运行的应用程序的**当前状态**。<br><br>- 关于 Spring Boot Actuator 的教程，可以看看 [《Spring Boot Actuator 使用》](https:&#x2F;&#x2F;www.jianshu.com&#x2F;p&#x2F;af9738634a21) 。<br>- 上述教程是基于 Spring Boot 1.X 的版本，如果胖友使用 Spring Boot 2.X 的版本，你将会发现 &#96;&#x2F;beans&#96; 等 Endpoint 是不存在的，参考 [《Spring boot 2 - Actuator endpoint, where is &#x2F;beans endpoint》](https:&#x2F;&#x2F;stackoverflow.com&#x2F;questions&#x2F;49174700&#x2F;spring-boot-2-actuator-endpoint-where-is-beans-endpoint) 问题来解决。<br><br>**安全性**<br><br>Spring Boot 2.X 默认情况下，&#96;spring-boot-actuator&#96; 产生的 Endpoint 是没有安全保护的，但是 Actuator 可能暴露敏感信息。<br><br>所以一般的做法是，引入 &#96;spring-boot-start-security&#96; 依赖，使用 Spring Security 对它们进行安全保护。<br><br>## 如何集成 Spring Boot 和 Spring MVC ？<br><br>1. 引入 &#96;spring-boot-starter-web&#96; 的依赖。<br><br>2. 实现 WebMvcConfigurer 接口，可添加自定义的 Spring MVC 配置。<br><br>   &gt; 因为 Spring Boot 2 基于 JDK 8 的版本，而 JDK 8 提供 &#96;default&#96; 方法，所以 Spring Boot 2 废弃了 WebMvcConfigurerAdapter 适配类，直接使用 WebMvcConfigurer 即可。<br><br></code></pre></td></tr></table></figure>
-   // WebMvcConfigurer.java
-   public interface WebMvcConfigurer {
+<ul>
+<li><code>@SpringBootApplication</code> 注解，就是 Spring Boot 的核心注解。</li>
+</ul>
+<p><code>org.springframework.boot.autoconfigure.@SpringBootApplication</code> 注解的代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; SpringBootApplication.java<br><br>@Target(&#123;ElementType.TYPE&#125;)<br>@Retention(RetentionPolicy.RUNTIME)<br>@Documented<br>@Inherited<br>@SpringBootConfiguration<br>@EnableAutoConfiguration<br>@ComponentScan(<br>    excludeFilters &#x3D; &#123;@Filter(<br>    type &#x3D; FilterType.CUSTOM,<br>    classes &#x3D; &#123;TypeExcludeFilter.class&#125;<br>), @Filter(<br>    type &#x3D; FilterType.CUSTOM,<br>    classes &#x3D; &#123;AutoConfigurationExcludeFilter.class&#125;<br>)&#125;<br>)<br>public @interface SpringBootApplication &#123;<br>    @AliasFor(<br>        annotation &#x3D; EnableAutoConfiguration.class<br>    )<br>    Class&lt;?&gt;[] exclude() default &#123;&#125;;<br><br>    @AliasFor(<br>        annotation &#x3D; EnableAutoConfiguration.class<br>    )<br>    String[] excludeName() default &#123;&#125;;<br><br>    @AliasFor(<br>        annotation &#x3D; ComponentScan.class,<br>        attribute &#x3D; &quot;basePackages&quot;<br>    )<br>    String[] scanBasePackages() default &#123;&#125;;<br><br>    @AliasFor(<br>        annotation &#x3D; ComponentScan.class,<br>        attribute &#x3D; &quot;basePackageClasses&quot;<br>    )<br>    Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;<br>&#125;<br></code></pre></td></tr></table></figure>
 
-<pre><code>   /** 配置路径匹配器 **/
-   default void configurePathMatch(PathMatchConfigurer configurer) &#123;&#125;
+<ul>
+<li><p>它组合了 3 个注解，详细说明，胖友看看 <a href="https://blog.csdn.net/claram/article/details/75125749">《Spring Boot 系列：@SpringBootApplication 注解》</a> 。</p>
+</li>
+<li><p><code>@Configuration</code> 注解，指定类是 <strong>Bean 定义</strong>的配置类。</p>
+<blockquote>
+<p><code>@Configuration</code> 注解，来自 <code>spring-context</code> 项目，用于 Java Config ，不是 Spring Boot 新带来的。</p>
+</blockquote>
+</li>
+<li><p><code>#ComponentScan</code> 注解，扫描指定包下的 Bean 们。</p>
+<blockquote>
+<p><code>@ComponentScan</code> 注解，来自 <code>spring-context</code> 项目，用于 Java Config ，不是 Spring Boot 新带来的。</p>
+</blockquote>
+</li>
+<li><p><code>@EnableAutoConfiguration</code> 注解，打开自动配置的功能。如果我们想要关闭某个类的自动配置，可以设置注解的 <code>exclude</code> 或 <code>excludeName</code> 属性。</p>
+<blockquote>
+<p><code>@EnableAutoConfiguration</code> 注解，来自 <code>spring-boot-autoconfigure</code> 项目，<strong>它才是 Spring Boot 新带来的</strong>。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="什么是-Spring-Boot-自动配置？"><a href="#什么是-Spring-Boot-自动配置？" class="headerlink" title="什么是 Spring Boot 自动配置？"></a>什么是 Spring Boot 自动配置？</h2><p>在 <a href="http://svip.iocoder.cn/Spring-Boot/Interview/#">「Spring Boot 的核心注解是哪个？」</a> 中，我们已经看到，使用 <code>@@EnableAutoConfiguration</code> 注解，打开 Spring Boot 自动配置的功能。具体如何实现的，可以看看如下两篇文章：</p>
+<ul>
+<li><a href="https://www.jianshu.com/p/464d04c36fb1">《@EnableAutoConfiguration 注解的工作原理》</a> 。</li>
+<li><a href="https://juejin.im/post/5b679fbc5188251aad213110">《一个面试题引起的 Spring Boot 启动解析》</a></li>
+<li>建议，能一边调试，一边看这篇文章。调试很简单，任一搭建一个 Spring Boot 项目即可。</li>
+</ul>
+<p>如下是一个比较简单的总结：</p>
+<ol>
+<li>Spring Boot 在启动时扫描项目所依赖的 jar 包，寻找包含<code>spring.factories</code> 文件的 jar 包。</li>
+<li>根据 <code>spring.factories</code> 配置加载 AutoConfigure 类。</li>
+<li>根据 [<code>@Conditional</code> 等条件注解](<a href="http://svip.iocoder.cn/Spring-Boot/Interview/Spring">http://svip.iocoder.cn/Spring-Boot/Interview/Spring</a> Boot 条件注解) 的条件，进行自动配置并将 Bean 注入 Spring IoC 中。</li>
+</ol>
+<h2 id="Spring-Boot-有哪几种读取配置的方式？"><a href="#Spring-Boot-有哪几种读取配置的方式？" class="headerlink" title="Spring Boot 有哪几种读取配置的方式？"></a>Spring Boot 有哪几种读取配置的方式？</h2><p>Spring Boot 目前支持 <strong>2</strong> 种读取配置：</p>
+<ol>
+<li><p><code>@Value</code> 注解，读取配置到属性。最最最常用。</p>
+<blockquote>
+<p>另外，支持和 <code>@PropertySource</code> 注解一起使用，指定使用的配置文件。</p>
+</blockquote>
+</li>
+<li><p><code>@ConfigurationProperties</code> 注解，读取配置到类上。</p>
+<blockquote>
+<p>另外，支持和 <code>@PropertySource</code> 注解一起使用，指定使用的配置文件。</p>
+</blockquote>
+</li>
+</ol>
+<p>详细的使用方式，可以参考 <a href="https://aoyouzi.iteye.com/blog/2422837">《Spring Boot 读取配置的几种方式》</a> 。</p>
+<h2 id="使用-Spring-Boot-后，项目结构是怎么样的呢？"><a href="#使用-Spring-Boot-后，项目结构是怎么样的呢？" class="headerlink" title="使用 Spring Boot 后，项目结构是怎么样的呢？"></a>使用 Spring Boot 后，项目结构是怎么样的呢？</h2><p>我们先来说说项目的分层。一般来说，主流的有两种方式：</p>
+<ul>
+<li>方式一，<code>controller</code>、<code>service</code>、<code>dao</code> 三个包，每个包下面添加相应的 XXXController、YYYService、ZZZDAO 。</li>
+<li>方式二，按照业务模块分包，每个包里面放 Controller、Service、DAO 类。例如，业务模块分成 <code>user</code>、<code>order</code>、<code>item</code> 等等包，在 <code>user</code> 包里放 UserController、UserService、UserDAO 类。</li>
+</ul>
+<p>那么，使用 Spring Boot 的项目怎么分层呢？艿艿自己的想法</p>
+<ul>
+<li>现在项目都会进行服务化分拆，每个项目不会特别复杂，所以建议使用【方式一】。</li>
+<li>以前的项目，大多是单体的项目，动则项目几万到几十万的代码，当时多采用【方式二】。</li>
+</ul>
+<p>下面是一个简单的 Spring Boot 项目的 Demo ，如下所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/05.png">![Spring Boot 项目的 Demo](D:\新建文件夹 (3)\05.png)</a>Spring Boot 项目的 Demo</p>
+<h2 id="如何在-Spring-Boot-启动的时候运行一些特殊的代码？"><a href="#如何在-Spring-Boot-启动的时候运行一些特殊的代码？" class="headerlink" title="如何在 Spring Boot 启动的时候运行一些特殊的代码？"></a>如何在 Spring Boot 启动的时候运行一些特殊的代码？</h2><p>如果需要在 SpringApplication 启动后执行一些特殊的代码，你可以实现 ApplicationRunner 或 CommandLineRunner 接口，这两个接口工作方式相同，都只提供单一的 run 方法，该方法仅在 <code>SpringApplication#run(...)</code> 方法<strong>完成之前调用</strong>。</p>
+<p>一般情况下，我们不太会使用该功能。如果真需要，胖友可以详细看看 [《使用 ApplicationRunner 或 CommandLineRunner 》](<a href="https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/IV">https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/IV</a>. Spring Boot features/23.8 Using the ApplicationRunner or CommandLineRunner.html) 。</p>
+<h2 id="Spring-Boot-2-X-有什么新特性？"><a href="#Spring-Boot-2-X-有什么新特性？" class="headerlink" title="Spring Boot 2.X 有什么新特性？"></a>Spring Boot 2.X 有什么新特性？</h2><ol>
+<li>起步 JDK 8 和支持 JDK 9</li>
+<li>第三方库的升级</li>
+<li>Reactive Spring</li>
+<li>HTTP/2 支持</li>
+<li>配置属性的绑定</li>
+<li>Gradle 插件</li>
+<li>Actuator 改进</li>
+<li>数据支持的改进</li>
+<li>Web 的改进</li>
+<li>支持 Quartz 自动配置</li>
+<li>测试的改进</li>
+<li>其它…</li>
+</ol>
+<p>详细的说明，可以看看 <a href="http://www.54tianzhisheng.cn/2018/03/06/SpringBoot2-new-features">《Spring Boot 2.0系列文章(二)：Spring Boot 2.0 新特性详解》</a> 。</p>
+<h1 id="整合篇"><a href="#整合篇" class="headerlink" title="整合篇"></a>整合篇</h1><h2 id="如何将内嵌服务器换成-Jetty-？"><a href="#如何将内嵌服务器换成-Jetty-？" class="headerlink" title="如何将内嵌服务器换成 Jetty ？"></a>如何将内嵌服务器换成 Jetty ？</h2><p>默认情况下，<code>spring-boot-starter-web</code> 模块使用 Tomcat 作为内嵌的服务器。所以需要去除对 <code>spring-boot-starter-tomcat</code> 模块的引用，添加 <code>spring-boot-starter-jetty</code> 模块的引用。代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&lt;dependency&gt;<br>    &lt;groupId&gt;org.springframework.boot&lt;&#x2F;groupId&gt;<br>    &lt;artifactId&gt;spring-boot-starter-web&lt;&#x2F;artifactId&gt;<br>    &lt;exclusions&gt;<br>        &lt;exclusion&gt; &lt;!-- 去除 Tomcat --&gt;<br>            &lt;groupId&gt;org.springframework.boot&lt;&#x2F;groupId&gt;<br>            &lt;artifactId&gt;spring-boot-starter-tomcat&lt;&#x2F;artifactId&gt;<br>        &lt;&#x2F;exclusion&gt;<br>    &lt;&#x2F;exclusions&gt;<br>&lt;&#x2F;dependency&gt;<br>&lt;dependency&gt; &lt;!-- 引入 Jetty --&gt;<br>    &lt;groupId&gt;org.springframework.boot&lt;&#x2F;groupId&gt;<br>    &lt;artifactId&gt;spring-boot-starter-jetty&lt;&#x2F;artifactId&gt;<br>&lt;&#x2F;dependency&gt;<br></code></pre></td></tr></table></figure>
 
-   /** 配置内容裁决的一些选项 **/
-   default void configureContentNegotiation(ContentNegotiationConfigurer configurer) &#123; &#125;
+<h2 id="Spring-Boot-中的监视器-Actuator-是什么？"><a href="#Spring-Boot-中的监视器-Actuator-是什么？" class="headerlink" title="Spring Boot 中的监视器 Actuator 是什么？"></a>Spring Boot 中的监视器 Actuator 是什么？</h2><p><code>spring-boot-actuator</code> 提供 Spring Boot 的监视器功能，可帮助我们访问生产环境中正在运行的应用程序的<strong>当前状态</strong>。</p>
+<ul>
+<li>关于 Spring Boot Actuator 的教程，可以看看 <a href="https://www.jianshu.com/p/af9738634a21">《Spring Boot Actuator 使用》</a> 。</li>
+<li>上述教程是基于 Spring Boot 1.X 的版本，如果胖友使用 Spring Boot 2.X 的版本，你将会发现 <code>/beans</code> 等 Endpoint 是不存在的，参考 <a href="https://stackoverflow.com/questions/49174700/spring-boot-2-actuator-endpoint-where-is-beans-endpoint">《Spring boot 2 - Actuator endpoint, where is /beans endpoint》</a> 问题来解决。</li>
+</ul>
+<p><strong>安全性</strong></p>
+<p>Spring Boot 2.X 默认情况下，<code>spring-boot-actuator</code> 产生的 Endpoint 是没有安全保护的，但是 Actuator 可能暴露敏感信息。</p>
+<p>所以一般的做法是，引入 <code>spring-boot-start-security</code> 依赖，使用 Spring Security 对它们进行安全保护。</p>
+<h2 id="如何集成-Spring-Boot-和-Spring-MVC-？"><a href="#如何集成-Spring-Boot-和-Spring-MVC-？" class="headerlink" title="如何集成 Spring Boot 和 Spring MVC ？"></a>如何集成 Spring Boot 和 Spring MVC ？</h2><ol>
+<li><p>引入 <code>spring-boot-starter-web</code> 的依赖。</p>
+</li>
+<li><p>实现 WebMvcConfigurer 接口，可添加自定义的 Spring MVC 配置。</p>
+<blockquote>
+<p>因为 Spring Boot 2 基于 JDK 8 的版本，而 JDK 8 提供 <code>default</code> 方法，所以 Spring Boot 2 废弃了 WebMvcConfigurerAdapter 适配类，直接使用 WebMvcConfigurer 即可。</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; WebMvcConfigurer.java<br>public interface WebMvcConfigurer &#123;<br><br>    &#x2F;** 配置路径匹配器 **&#x2F;<br>    default void configurePathMatch(PathMatchConfigurer configurer) &#123;&#125;<br>    <br>    &#x2F;** 配置内容裁决的一些选项 **&#x2F;<br>    default void configureContentNegotiation(ContentNegotiationConfigurer configurer) &#123; &#125;<br><br>    &#x2F;** 异步相关的配置 **&#x2F;<br>    default void configureAsyncSupport(AsyncSupportConfigurer configurer) &#123; &#125;<br><br>    default void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) &#123; &#125;<br><br>    default void addFormatters(FormatterRegistry registry) &#123;<br>    &#125;<br><br>    &#x2F;** 添加拦截器 **&#x2F;<br>    default void addInterceptors(InterceptorRegistry registry) &#123; &#125;<br><br>    &#x2F;** 静态资源处理 **&#x2F;<br>    default void addResourceHandlers(ResourceHandlerRegistry registry) &#123; &#125;<br><br>    &#x2F;** 解决跨域问题 **&#x2F;<br>    default void addCorsMappings(CorsRegistry registry) &#123; &#125;<br><br>    default void addViewControllers(ViewControllerRegistry registry) &#123; &#125;<br><br>    &#x2F;** 配置视图解析器 **&#x2F;<br>    default void configureViewResolvers(ViewResolverRegistry registry) &#123; &#125;<br><br>    &#x2F;** 添加参数解析器 **&#x2F;<br>    default void addArgumentResolvers(List&lt;HandlerMethodArgumentResolver&gt; resolvers) &#123;<br>    &#125;<br><br>    &#x2F;** 添加返回值处理器 **&#x2F;<br>    default void addReturnValueHandlers(List&lt;HandlerMethodReturnValueHandler&gt; handlers) &#123; &#125;<br><br>    &#x2F;** 这里配置视图解析器 **&#x2F;<br>    default void configureMessageConverters(List&lt;HttpMessageConverter&lt;?&gt;&gt; converters) &#123; &#125;<br><br>    &#x2F;** 配置消息转换器 **&#x2F;<br>    default void extendMessageConverters(List&lt;HttpMessageConverter&lt;?&gt;&gt; converters) &#123; &#125;<br><br>   &#x2F;** 配置异常处理器 **&#x2F;<br>    default void configureHandlerExceptionResolvers(List&lt;HandlerExceptionResolver&gt; resolvers) &#123; &#125;<br><br>    default void extendHandlerExceptionResolvers(List&lt;HandlerExceptionResolver&gt; resolvers) &#123; &#125;<br><br>    @Nullable<br>    default Validator getValidator() &#123; return null; &#125;<br><br>    @Nullable<br>    default MessageCodesResolver getMessageCodesResolver() &#123;  return null; &#125;<br><br>&#125;<br></code></pre></td></tr></table></figure>
 
-   /** 异步相关的配置 **/
-   default void configureAsyncSupport(AsyncSupportConfigurer configurer) &#123; &#125;
-
-   default void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) &#123; &#125;
-
-   default void addFormatters(FormatterRegistry registry) &#123;
-   &#125;
-
-   /** 添加拦截器 **/
-   default void addInterceptors(InterceptorRegistry registry) &#123; &#125;
-
-   /** 静态资源处理 **/
-   default void addResourceHandlers(ResourceHandlerRegistry registry) &#123; &#125;
-
-   /** 解决跨域问题 **/
-   default void addCorsMappings(CorsRegistry registry) &#123; &#125;
-
-   default void addViewControllers(ViewControllerRegistry registry) &#123; &#125;
-
-   /** 配置视图解析器 **/
-   default void configureViewResolvers(ViewResolverRegistry registry) &#123; &#125;
-
-   /** 添加参数解析器 **/
-   default void addArgumentResolvers(List&lt;HandlerMethodArgumentResolver&gt; resolvers) &#123;
-   &#125;
-
-   /** 添加返回值处理器 **/
-   default void addReturnValueHandlers(List&lt;HandlerMethodReturnValueHandler&gt; handlers) &#123; &#125;
-
-   /** 这里配置视图解析器 **/
-   default void configureMessageConverters(List&lt;HttpMessageConverter&lt;?&gt;&gt; converters) &#123; &#125;
-
-   /** 配置消息转换器 **/
-   default void extendMessageConverters(List&lt;HttpMessageConverter&lt;?&gt;&gt; converters) &#123; &#125;
-
-  /** 配置异常处理器 **/
-   default void configureHandlerExceptionResolvers(List&lt;HandlerExceptionResolver&gt; resolvers) &#123; &#125;
-
-   default void extendHandlerExceptionResolvers(List&lt;HandlerExceptionResolver&gt; resolvers) &#123; &#125;
-
-   @Nullable
-   default Validator getValidator() &#123; return null; &#125;
-
-   @Nullable
-   default MessageCodesResolver getMessageCodesResolver() &#123;  return null; &#125;</code></pre>
-<p>   }</p>
-<p>   ```</p>
+</li>
+</ol>
 <hr>
 <p>在使用 Spring MVC 时，我们一般会做如下几件事情：</p>
 <ol>
@@ -1534,7 +1588,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>5</title>
+    <title>MyBatis 面试题</title>
     <url>/2016/10/12/5/</url>
     <content><![CDATA[<h1 id="精尽-MyBatis-面试题"><a href="#精尽-MyBatis-面试题" class="headerlink" title="精尽 MyBatis 面试题"></a>精尽 MyBatis 面试题</h1><p>以下面试题，基于网络整理，和自己编辑。具体参考的文章，会在文末给出所有的链接。</p>
 <p>如果胖友有自己的疑问，欢迎在星球提问，我们一起整理吊吊的 MyBatis 面试题的大保健。</p>
@@ -1620,7 +1674,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 </ul>
 <p>Mapper 接口是没有实现类的，当调用接口方法时，接口全限名 + 方法名拼接字符串作为 key 值，可唯一定位一个对应的 MappedStatement 。举例：<code>com.mybatis3.mappers.StudentDao.findStudentById</code> ，可以唯一找到 <code>&quot;namespace&quot;</code> 为 <code>com.mybatis3.mappers.StudentDao</code> 下面 <code>&quot;id&quot;</code> 为 <code>findStudentById</code> 的 MappedStatement 。</p>
 <p>总结来说，在 Mybatis 中，每一个 <code>&lt;select /&gt;</code>、<code>&lt;insert /&gt;</code>、<code>&lt;update /&gt;</code>、<code>&lt;delete /&gt;</code> 标签，都会被解析为一个 MappedStatement 对象。</p>
-<p>另外，Mapper 接口的实现类，通过 MyBatis 使用 <strong>JDK Proxy</strong> 自动生成其代理对象 Proxy ，而代理对象 Proxy 会拦截接口方法，从而“调用”对应的 MappedStatement 方法，最终执行 SQL ，返回执行结果。整体流程如下图：<a href="http://static2.iocoder.cn/images/MyBatis/2020_03_15/02.png">![流程](D:\新建文件夹 (3)\02.png)</a>流程</p>
+<p>另外，Mapper 接口的实现类，通过 MyBatis 使用 <strong>JDK Proxy</strong> 自动生成其代理对象 Proxy ，而代理对象 Proxy 会拦截接口方法，从而“调用”对应的 MappedStatement 方法，最终执行 SQL ，返回执行结果。整体流程如下图：<a href="http://static2.iocoder.cn/images/MyBatis/2020_03_15/02.png"><img src="http://cdn.tuwenbin.vip/02.png" alt="流程"></a>流程</p>
 <ul>
 <li><p>其中，SqlSession 在调用 Executor 之前，会获得对应的 MappedStatement 方法。例如：<code>DefaultSqlSession#select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler)</code> 方法，代码如下：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">&#x2F;&#x2F; DefaultSqlSession.java<br><br>@Override<br>public void select(String statement, Object parameter, RowBounds rowBounds, ResultHandler handler) &#123;<br>    try &#123;<br>        &#x2F;&#x2F; 获得 MappedStatement 对象<br>        MappedStatement ms &#x3D; configuration.getMappedStatement(statement);<br>        &#x2F;&#x2F; 执行查询<br>        executor.query(ms, wrapCollection(parameter), rowBounds, handler);<br>    &#125; catch (Exception e) &#123;<br>        throw ExceptionFactory.wrapException(&quot;Error querying database.  Cause: &quot; + e, e);<br>    &#125; finally &#123;<br>        ErrorContext.instance().reset();<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
@@ -2252,7 +2306,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <blockquote>
 <p>艿艿：因为它的配色比较好看，哈哈哈哈。所以，没自己画一个最新的。</p>
 </blockquote>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/01.jpg">![Spring Framework](D:\新建文件夹 (3)\01.jpg)</a>Spring Framework</p>
+<p><img src="http://cdn.tuwenbin.vip/hyxytp5m.bmp" alt="hyxytp5m">Spring Framework</p>
 <p>我们按照一个一个分块来说。</p>
 <p><strong>Spring 核心容器</strong></p>
 <blockquote>
@@ -2437,7 +2491,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <blockquote>
 <p>艿艿，注意上面三段段话的<strong>加粗</strong>部分的内容。</p>
 </blockquote>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/02.jpg"><img src="http://cdn.tuwenbin.vip/02.jpg" alt="Spring IoC"></a>Spring IoC</p>
+<p><img src="http://cdn.tuwenbin.vip/hlvdxl2z.bmp" alt="hlvdxl2z">Spring IoC</p>
 <h2 id="什么是依赖注入？"><a href="#什么是依赖注入？" class="headerlink" title="什么是依赖注入？"></a>什么是依赖注入？</h2><p>在依赖注入中，你不必主动、手动创建对象，但必须描述如何创建它们。</p>
 <ul>
 <li>你不是直接在代码中将组件和服务连接在一起，而是描述配置文件中哪些组件需要哪些服务。</li>
@@ -2697,9 +2751,9 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <li>如果 Bean 实现 <strong>DisposableBean</strong> 接口，当 spring 容器关闭时，会调用 <code>#destroy()</code> 方法。</li>
 <li>如果为 bean 指定了 <strong>destroy</strong> 方法（例如 <code>&lt;bean /&gt;</code> 的 <code>destroy-method</code> 属性），那么将调用该方法。</li>
 </ul>
-<p>整体如下图：<a href="http://static2.iocoder.cn/images/Spring/2018-12-24/03.jpg"><img src="http://cdn.tuwenbin.vip/03.jpg" alt="流程图"></a>流程图</p>
+<p>整体如下图：<img src="http://cdn.tuwenbin.vip/qkhgsvo4.bmp" alt="qkhgsvo4">流程图</p>
 <p>无意中，艿艿又翻到一张有趣的整体图，如下图：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/08.png"><img src="http://cdn.tuwenbin.vip/08.png" alt="流程图"></a>流程图</p>
+<p><img src="http://cdn.tuwenbin.vip/t1but0ou.bmp" alt="t1but0ou">流程图</p>
 <h2 id="什么是-Spring-的内部-bean？"><a href="#什么是-Spring-的内部-bean？" class="headerlink" title="什么是 Spring 的内部 bean？"></a>什么是 Spring 的内部 bean？</h2><p>只有将 Bean <strong>仅</strong>用作另一个 Bean 的属性时，才能将 Bean 声明为内部 Bean。</p>
 <ul>
 <li>为了定义 Bean，Spring 提供基于 XML 的配置元数据在 <code>&lt;property&gt;</code>或 <code>&lt;constructor-arg&gt;</code> 中提供了 <code>&lt;bean&gt;</code>元素的使用。</li>
@@ -2832,7 +2886,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <li>如何在 Advice 中编写切面代码。</li>
 </ol>
 <p><strong>可以简单地认为, 使用 @Aspect 注解的类就是切面</strong></p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/04.jpg"><img src="http://cdn.tuwenbin.vip/04.jpg" alt="流程图"></a>流程图</p>
+<p><img src="http://cdn.tuwenbin.vip/iddff34h.bmp" alt="iddff34h">流程图</p>
 <h2 id="什么是-JoinPoint"><a href="#什么是-JoinPoint" class="headerlink" title="什么是 JoinPoint ?"></a>什么是 JoinPoint ?</h2><p>JoinPoint ，<strong>切点</strong>，程序运行中的一些时间点, 例如：</p>
 <ul>
 <li>一个方法的执行。</li>
@@ -2930,7 +2984,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <h2 id="什么是编织（Weaving）？"><a href="#什么是编织（Weaving）？" class="headerlink" title="什么是编织（Weaving）？"></a>什么是编织（Weaving）？</h2><p>Weaving ，<strong>编织</strong>。</p>
 <ul>
 <li>为了创建一个 Advice 对象而链接一个 Aspect 和其它应用类型或对象，称为编织（Weaving）。</li>
-<li>在 Spring AOP 中，编织在运行时执行，即动态代理。请参考下图：<a href="http://static2.iocoder.cn/images/Spring/2018-12-24/05.jpg"><img src="http://cdn.tuwenbin.vip/05.jpg" alt="Proxy"></a>Proxy</li>
+<li>在 Spring AOP 中，编织在运行时执行，即动态代理。请参考下图：<img src="http://cdn.tuwenbin.vip/nv5yvktr.bmp" alt="nv5yvktr">Proxy</li>
 </ul>
 <h2 id="Spring-如何使用-AOP-切面？"><a href="#Spring-如何使用-AOP-切面？" class="headerlink" title="Spring 如何使用 AOP 切面？"></a>Spring 如何使用 AOP 切面？</h2><p>在 Spring AOP 中，有两种方式配置 AOP 切面：</p>
 <ul>
@@ -2945,7 +2999,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
 <h2 id="什么是事务？"><a href="#什么是事务？" class="headerlink" title="什么是事务？"></a>什么是事务？</h2><p>事务就是对一系列的数据库操作（比如插入多条数据）进行统一的提交或回滚操作，如果插入成功，那么一起成功，如果中间有一条出现异常，那么回滚之前的所有操作。</p>
 <p>这样可以防止出现脏数据，防止数据库数据出现问题。</p>
 <h2 id="事务的特性指的是？"><a href="#事务的特性指的是？" class="headerlink" title="事务的特性指的是？"></a>事务的特性指的是？</h2><p>指的是 <strong>ACID</strong> ，如下图所示：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/06.png"><img src="http://cdn.tuwenbin.vip/06.png" alt="事务的特性"></a>事务的特性</p>
+<p><img src="http://cdn.tuwenbin.vip/8i4h2cu4.bmp" alt="8i4h2cu4">事务的特性</p>
 <ol>
 <li><strong>原子性</strong> Atomicity  ：一个事务（transaction）中的所有操作，或者全部完成，或者全部不完成，不会结束在中间某个环节。事务在执行过程中发生错误，会被恢复（Rollback）到事务开始前的状态，就像这个事务从来没有执行过一样。即，事务不可分割、不可约简。</li>
 <li><strong>一致性</strong> Consistency ：在事务开始之前和事务结束以后，数据库的完整性没有被破坏。这表示写入的资料必须完全符合所有的预设<a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%AE%8C%E6%95%B4%E6%80%A7">约束</a>、<a href="https://zh.wikipedia.org/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8_(%E6%95%B0%E6%8D%AE%E5%BA%93)">触发器</a>、<a href="https://zh.wikipedia.org/w/index.php?title=%E7%BA%A7%E8%81%94%E5%9B%9E%E6%BB%9A&action=edit&redlink=1">级联回滚</a>等。</li>
@@ -2985,7 +3039,7 @@ Class&lt;?&gt;[] scanBasePackageClasses() default &#123;&#125;;</code></pre>
   - 而是在 A 方法结束调用后，执行 `PlatformTransactionManager#commit(TransactionStatus status)` 方法，提交事务。</code></pre>
 </li>
 <li><pre><code>#rollback(TransactionStatus status)
-<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   方法，根据 TransactionStatus 情况，回滚事务。<br><br>  - 为什么根据 TransactionStatus 情况，进行回滚？原因同 &#96;#commit(TransactionStatus status)&#96; 方法。<br><br>③ 再之后，PlatformTransactionManager 有**抽象子**类 &#96;org.springframework.transaction.support.AbstractPlatformTransactionManager&#96; ，基于 [模板方法模式](https:&#x2F;&#x2F;blog.csdn.net&#x2F;carson_ho&#x2F;article&#x2F;details&#x2F;54910518) ，实现事务整体逻辑的骨架，而抽象 &#96;#doCommit(DefaultTransactionStatus status)&#96;、&#96;#doRollback(DefaultTransactionStatus status)&#96; 等等方法，交由子类类来实现。<br><br>&gt; 前方高能，即将进入关键的 ④ 步骤。<br><br>④ 最后，不同的数据持久层框架，会有其对应的 PlatformTransactionManager 实现类，如下图所示：[![事务的特性](http:&#x2F;&#x2F;cdn.tuwenbin.vip&#x2F;07.png)](http:&#x2F;&#x2F;static2.iocoder.cn&#x2F;images&#x2F;Spring&#x2F;2018-12-24&#x2F;07.png)事务的特性<br><br>- 所有的实现类，都基于 AbstractPlatformTransactionManager 这个骨架类。<br>- HibernateTransactionManager ，和 Hibernate5 的事务管理做集成。<br>- DataSourceTransactionManager ，和 JDBC 的事务管理做集成。所以，它也适用于 MyBatis、Spring JDBC 等等。<br>- JpaTransactionManager ，和 JPA 的事务管理做集成。<br><br>如下，是一个比较常见的 XML 方式来配置的事务管理器，使用的是 DataSourceTransactionManager 。代码如下：<br><br></code></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain"><br>   方法，根据 TransactionStatus 情况，回滚事务。<br><br>  - 为什么根据 TransactionStatus 情况，进行回滚？原因同 &#96;#commit(TransactionStatus status)&#96; 方法。<br><br>③ 再之后，PlatformTransactionManager 有**抽象子**类 &#96;org.springframework.transaction.support.AbstractPlatformTransactionManager&#96; ，基于 [模板方法模式](https:&#x2F;&#x2F;blog.csdn.net&#x2F;carson_ho&#x2F;article&#x2F;details&#x2F;54910518) ，实现事务整体逻辑的骨架，而抽象 &#96;#doCommit(DefaultTransactionStatus status)&#96;、&#96;#doRollback(DefaultTransactionStatus status)&#96; 等等方法，交由子类类来实现。<br><br>&gt; 前方高能，即将进入关键的 ④ 步骤。<br><br>④ 最后，不同的数据持久层框架，会有其对应的 PlatformTransactionManager 实现类，如下图所示：![6y2o9r32](http:&#x2F;&#x2F;cdn.tuwenbin.vip&#x2F;6y2o9r32.bmp)事务的特性<br><br>- 所有的实现类，都基于 AbstractPlatformTransactionManager 这个骨架类。<br>- HibernateTransactionManager ，和 Hibernate5 的事务管理做集成。<br>- DataSourceTransactionManager ，和 JDBC 的事务管理做集成。所以，它也适用于 MyBatis、Spring JDBC 等等。<br>- JpaTransactionManager ，和 JPA 的事务管理做集成。<br><br>如下，是一个比较常见的 XML 方式来配置的事务管理器，使用的是 DataSourceTransactionManager 。代码如下：<br><br></code></pre></td></tr></table></figure>
 &lt;!-- 事务管理器 --&gt;
 &lt;bean id=&quot;transactionManager&quot;
 class=&quot;org.springframework.jdbc.datasource.DataSourceTransactionManager&quot;&gt;
@@ -3125,7 +3179,7 @@ boolean isCompleted();</code></pre>
 <p>对于开发者，只需要使用 JdbcTemplate 类，它提供了很多便利的方法解决诸如把数据库数据转变成基本数据类型或对象，执行写好的或可调用的数据库操作语句，提供自定义的数据错误处理。</p>
 <p>没有使用过的胖友，可以看看 <a href="https://www.tianmaying.com/tutorial/spring-jdbc-data-accessing">《Spring JDBC 访问关系型数据库》</a> 文章。</p>
 <h2 id="Spring-数据数据访问层有哪些异常？"><a href="#Spring-数据数据访问层有哪些异常？" class="headerlink" title="Spring 数据数据访问层有哪些异常？"></a>Spring 数据数据访问层有哪些异常？</h2><p>通过使用 Spring 数据数据访问层，它统一了各个数据持久层框架的不同异常，统一进行提供 <code>org.springframework.dao.DataAccessException</code> 异常及其子类。如下图所示：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-24/09.jpg"><img src="http://cdn.tuwenbin.vip/09.jpg" alt="流程图"></a>流程图</p>
+<p><img src="http://cdn.tuwenbin.vip/hrq2vhvj.bmp" alt="hrq2vhvj">流程图</p>
 <h2 id="使用-Spring-访问-Hibernate-的方法有哪些？"><a href="#使用-Spring-访问-Hibernate-的方法有哪些？" class="headerlink" title="使用 Spring 访问 Hibernate 的方法有哪些？"></a>使用 Spring 访问 Hibernate 的方法有哪些？</h2><blockquote>
 <p>艿艿：这个问题很灵异，因为艿艿已经好久不使用 Hibernate 了，所以答案是直接复制的。</p>
 </blockquote>
