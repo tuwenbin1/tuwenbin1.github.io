@@ -4,8 +4,8 @@
 /* 必須配置(把下面 pre[class*="language-"]的color和background複製到這裏來) */
 article-container figure.highlight,
 article-container pre[class*="language-"] {
-	background: #faf8f5;
-	color: #728fcb;
+	background: #221a0f;  
+    color: #d3af86
 }
 
 /* 代碼框工具欄 (如果你關掉了copy、lang和shrink,可不用配置這個) */
