@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>10</title>
-    <url>/2016/10/12/10/</url>
+    <title>11</title>
+    <url>/2016/10/12/11/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -15,8 +15,8 @@
       </tags>
   </entry>
   <entry>
-    <title>11</title>
-    <url>/2016/10/12/11/</url>
+    <title>10</title>
+    <url>/2016/10/12/10/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -43,20 +43,6 @@
       </tags>
   </entry>
   <entry>
-    <title>13</title>
-    <url>/2016/10/12/13/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>14</title>
     <url>/2016/10/12/14/</url>
     <content><![CDATA[<p>11111111</p>
@@ -71,8 +57,8 @@
       </tags>
   </entry>
   <entry>
-    <title>16</title>
-    <url>/2016/10/12/16/</url>
+    <title>13</title>
+    <url>/2016/10/12/13/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -99,6 +85,20 @@
       </tags>
   </entry>
   <entry>
+    <title>16</title>
+    <url>/2016/10/12/16/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>17</title>
     <url>/2016/10/12/17/</url>
     <content><![CDATA[<p>11111111</p>
@@ -113,8 +113,8 @@
       </tags>
   </entry>
   <entry>
-    <title>19</title>
-    <url>/2016/10/12/19/</url>
+    <title>18</title>
+    <url>/2016/10/12/18/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -127,8 +127,8 @@
       </tags>
   </entry>
   <entry>
-    <title>18</title>
-    <url>/2016/10/12/18/</url>
+    <title>19</title>
+    <url>/2016/10/12/19/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -211,8 +211,8 @@
       </tags>
   </entry>
   <entry>
-    <title>25</title>
-    <url>/2016/10/12/25/</url>
+    <title>26</title>
+    <url>/2016/10/12/26/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -225,8 +225,8 @@
       </tags>
   </entry>
   <entry>
-    <title>26</title>
-    <url>/2016/10/12/26/</url>
+    <title>25</title>
+    <url>/2016/10/12/25/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -323,20 +323,6 @@
       </tags>
   </entry>
   <entry>
-    <title>33</title>
-    <url>/2016/10/12/33/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>34</title>
     <url>/2016/10/12/34/</url>
     <content><![CDATA[<p>11111111</p>
@@ -351,8 +337,8 @@
       </tags>
   </entry>
   <entry>
-    <title>37</title>
-    <url>/2016/10/12/37/</url>
+    <title>33</title>
+    <url>/2016/10/12/33/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -393,6 +379,34 @@
       </tags>
   </entry>
   <entry>
+    <title>40</title>
+    <url>/2016/10/12/40/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>37</title>
+    <url>/2016/10/12/37/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>38</title>
     <url>/2016/10/12/38/</url>
     <content><![CDATA[<p>11111111</p>
@@ -421,8 +435,8 @@
       </tags>
   </entry>
   <entry>
-    <title>40</title>
-    <url>/2016/10/12/40/</url>
+    <title>My awesome title</title>
+    <url>/2016/10/12/42/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -437,20 +451,6 @@
   <entry>
     <title>My awesome title</title>
     <url>/2016/10/12/41/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My awesome title</title>
-    <url>/2016/10/12/42/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -547,20 +547,6 @@
       </tags>
   </entry>
   <entry>
-    <title>My awesome title</title>
-    <url>/2016/10/12/49/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>50</title>
     <url>/2016/10/12/50/</url>
     <content><![CDATA[<p>11111111</p>
@@ -575,8 +561,8 @@
       </tags>
   </entry>
   <entry>
-    <title>51</title>
-    <url>/2016/10/12/51/</url>
+    <title>My awesome title</title>
+    <url>/2016/10/12/49/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -589,8 +575,8 @@
       </tags>
   </entry>
   <entry>
-    <title>53</title>
-    <url>/2016/10/12/53/</url>
+    <title>51</title>
+    <url>/2016/10/12/51/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -631,6 +617,20 @@
       </tags>
   </entry>
   <entry>
+    <title>53</title>
+    <url>/2016/10/12/53/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>55</title>
     <url>/2016/10/12/55/</url>
     <content><![CDATA[<p>11111111</p>
@@ -659,8 +659,8 @@
       </tags>
   </entry>
   <entry>
-    <title>57</title>
-    <url>/2016/10/12/57/</url>
+    <title>58</title>
+    <url>/2016/10/12/58/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -673,8 +673,8 @@
       </tags>
   </entry>
   <entry>
-    <title>58</title>
-    <url>/2016/10/12/58/</url>
+    <title>57</title>
+    <url>/2016/10/12/57/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -701,8 +701,8 @@
       </tags>
   </entry>
   <entry>
-    <title>9</title>
-    <url>/2016/10/12/9/</url>
+    <title>60</title>
+    <url>/2016/10/12/60/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -715,8 +715,8 @@
       </tags>
   </entry>
   <entry>
-    <title>60</title>
-    <url>/2016/10/12/60/</url>
+    <title>9</title>
+    <url>/2016/10/12/9/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -2058,7 +2058,7 @@
 <h2 id="Spring-Boot-中的-Starter-是什么？"><a href="#Spring-Boot-中的-Starter-是什么？" class="headerlink" title="Spring Boot 中的 Starter 是什么？"></a>Spring Boot 中的 Starter 是什么？</h2><p>比较<strong>通俗</strong>的说法：</p>
 <blockquote>
 <p>FROM <a href="https://www.cnblogs.com/EasonJim/p/7615801.html">《Spring Boot 中 Starter 是什么》</a></p>
-<p>比如我们要在 Spring Boot 中引入 Web MVC 的支持时，我们通常会引入这个模块 <code>spring-boot-starter-web</code> ，而这个模块如果解压包出来会发现里面什么都没有，只定义了一些 <strong>POM</strong> 依赖。如下图所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/03.png">![<code>spring-boot-starter-web</code>](D:\新建文件夹 (3)\03.png)</a><code>spring-boot-starter-web</code></p>
+<p>比如我们要在 Spring Boot 中引入 Web MVC 的支持时，我们通常会引入这个模块 <code>spring-boot-starter-web</code> ，而这个模块如果解压包出来会发现里面什么都没有，只定义了一些 <strong>POM</strong> 依赖。如下图所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/03.png"><img src="http://cdn.tuwenbin.vip/20200929103657.png" alt="`spring-boot-starter-web`"></a><code>spring-boot-starter-web</code></p>
 <p>经过研究，Starter 主要用来简化依赖用的。比如我们之前做MVC时要引入日志组件，那么需要去找到log4j的版本，然后引入，现在有了Starter之后，直接用这个之后，log4j就自动引入了，也不用关心版本这些问题。</p>
 </blockquote>
 <p>比较<strong>书名</strong>的说法：</p>
@@ -2074,7 +2074,7 @@
 <li><code>mybatis-spring-boot-starter</code> ：提供 MyBatis 。</li>
 </ul>
 <h2 id="创建一个-Spring-Boot-Project-的最简单的方法是什么？"><a href="#创建一个-Spring-Boot-Project-的最简单的方法是什么？" class="headerlink" title="创建一个 Spring Boot Project 的最简单的方法是什么？"></a>创建一个 Spring Boot Project 的最简单的方法是什么？</h2><p>Spring Initializr 是创建 Spring Boot Projects 的一个很好的工具。打开 <code>&quot;https://start.spring.io/&quot;</code> 网站，我们可以看到 Spring Initializr 工具，如下图所示：</p>
-<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-26/04.png">![Spring Initializr](D:\新建文件夹 (3)\04.png)</a>Spring Initializr</p>
+<p><a href="http://static2.iocoder.cn/images/Spring/2018-12-26/04.png"><img src="http://cdn.tuwenbin.vip/20200929103721.png" alt="Spring Initializr"></a>Spring Initializr</p>
 <ul>
 <li>图中的每一个<strong>红线</strong>，都可以填写相应的配置。相信胖友都很熟悉，就不哔哔了。</li>
 <li>点击生 GenerateProject ，生成 Spring Boot Project 。</li>
@@ -2317,7 +2317,7 @@
 <li>现在项目都会进行服务化分拆，每个项目不会特别复杂，所以建议使用【方式一】。</li>
 <li>以前的项目，大多是单体的项目，动则项目几万到几十万的代码，当时多采用【方式二】。</li>
 </ul>
-<p>下面是一个简单的 Spring Boot 项目的 Demo ，如下所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/05.png">![Spring Boot 项目的 Demo](D:\新建文件夹 (3)\05.png)</a>Spring Boot 项目的 Demo</p>
+<p>下面是一个简单的 Spring Boot 项目的 Demo ，如下所示：<a href="http://static2.iocoder.cn/images/Spring/2018-12-26/05.png"><img src="http://cdn.tuwenbin.vip/20200929103740.png" alt="Spring Boot 项目的 Demo"></a>Spring Boot 项目的 Demo</p>
 <h2 id="如何在-Spring-Boot-启动的时候运行一些特殊的代码？"><a href="#如何在-Spring-Boot-启动的时候运行一些特殊的代码？" class="headerlink" title="如何在 Spring Boot 启动的时候运行一些特殊的代码？"></a>如何在 Spring Boot 启动的时候运行一些特殊的代码？</h2><p>如果需要在 SpringApplication 启动后执行一些特殊的代码，你可以实现 ApplicationRunner 或 CommandLineRunner 接口，这两个接口工作方式相同，都只提供单一的 run 方法，该方法仅在 <code>SpringApplication#run(...)</code> 方法<strong>完成之前调用</strong>。</p>
 <p>一般情况下，我们不太会使用该功能。如果真需要，胖友可以详细看看 [《使用 ApplicationRunner 或 CommandLineRunner 》](<a href="https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/IV">https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/IV</a>. Spring Boot features/23.8 Using the ApplicationRunner or CommandLineRunner.html) 。</p>
 <h2 id="Spring-Boot-2-X-有什么新特性？"><a href="#Spring-Boot-2-X-有什么新特性？" class="headerlink" title="Spring Boot 2.X 有什么新特性？"></a>Spring Boot 2.X 有什么新特性？</h2><ol>
