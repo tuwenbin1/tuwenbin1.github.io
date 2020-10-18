@@ -133,8 +133,8 @@
       </tags>
   </entry>
   <entry>
-    <title>24</title>
-    <url>/2016/10/12/24/</url>
+    <title>23</title>
+    <url>/2016/10/12/23/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -147,8 +147,8 @@
       </tags>
   </entry>
   <entry>
-    <title>23</title>
-    <url>/2016/10/12/23/</url>
+    <title>24</title>
+    <url>/2016/10/12/24/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -175,20 +175,6 @@
       </tags>
   </entry>
   <entry>
-    <title>27</title>
-    <url>/2016/10/12/27/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>26</title>
     <url>/2016/10/12/26/</url>
     <content><![CDATA[<p>11111111</p>
@@ -203,8 +189,8 @@
       </tags>
   </entry>
   <entry>
-    <title>28</title>
-    <url>/2016/10/12/28/</url>
+    <title>27</title>
+    <url>/2016/10/12/27/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -219,6 +205,20 @@
   <entry>
     <title>29</title>
     <url>/2016/10/12/29/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>28</title>
+    <url>/2016/10/12/28/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -262,8 +262,8 @@
       </tags>
   </entry>
   <entry>
-    <title>31</title>
-    <url>/2016/10/12/31/</url>
+    <title>30</title>
+    <url>/2016/10/12/30/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -276,8 +276,8 @@
       </tags>
   </entry>
   <entry>
-    <title>30</title>
-    <url>/2016/10/12/30/</url>
+    <title>31</title>
+    <url>/2016/10/12/31/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -304,8 +304,8 @@
       </tags>
   </entry>
   <entry>
-    <title>34</title>
-    <url>/2016/10/12/34/</url>
+    <title>33</title>
+    <url>/2016/10/12/33/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -318,8 +318,8 @@
       </tags>
   </entry>
   <entry>
-    <title>33</title>
-    <url>/2016/10/12/33/</url>
+    <title>34</title>
+    <url>/2016/10/12/34/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -346,20 +346,6 @@
       </tags>
   </entry>
   <entry>
-    <title>37</title>
-    <url>/2016/10/12/37/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>36</title>
     <url>/2016/10/12/36/</url>
     <content><![CDATA[<p>11111111</p>
@@ -374,8 +360,50 @@
       </tags>
   </entry>
   <entry>
+    <title>37</title>
+    <url>/2016/10/12/37/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>38</title>
     <url>/2016/10/12/38/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>39</title>
+    <url>/2016/10/12/39/</url>
+    <content><![CDATA[<p>11111111</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>40</title>
+    <url>/2016/10/12/40/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -425,22 +453,8 @@
       </tags>
   </entry>
   <entry>
-    <title>39</title>
-    <url>/2016/10/12/39/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>40</title>
-    <url>/2016/10/12/40/</url>
+    <title>My awesome title</title>
+    <url>/2016/10/12/41/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -454,7 +468,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/41/</url>
+    <url>/2016/10/12/45/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -510,7 +524,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/45/</url>
+    <url>/2016/10/12/49/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -538,20 +552,6 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/47/</url>
-    <content><![CDATA[<p>11111111</p>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My awesome title</title>
     <url>/2016/10/12/48/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
@@ -566,7 +566,7 @@
   </entry>
   <entry>
     <title>My awesome title</title>
-    <url>/2016/10/12/49/</url>
+    <url>/2016/10/12/47/</url>
     <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
@@ -610,9 +610,9 @@
       </tags>
   </entry>
   <entry>
-    <title>51</title>
-    <url>/2016/10/12/51/</url>
-    <content><![CDATA[<p>11111111照片换掉</p>
+    <title>52</title>
+    <url>/2016/10/12/52/</url>
+    <content><![CDATA[<p>11111111</p>
 ]]></content>
       <categories>
         <category>分类1</category>
@@ -624,9 +624,9 @@
       </tags>
   </entry>
   <entry>
-    <title>52</title>
-    <url>/2016/10/12/52/</url>
-    <content><![CDATA[<p>11111111</p>
+    <title>51</title>
+    <url>/2016/10/12/51/</url>
+    <content><![CDATA[<p>11111111照片换掉</p>
 ]]></content>
       <categories>
         <category>分类1</category>
@@ -1199,45 +1199,47 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/2020/09/20/8JVM%E6%8E%A2%E7%A9%B6/</url>
-    <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><code class="hljs plain">title: JVM探究<br>date: 2020-9-20 21:18:45<br>categories: <br>    - JVM<br>tags: <br>    - JVM<br>cover:  http:&#x2F;&#x2F;cdn.tuwenbin.vip&#x2F;illust_84481577_20200920_103824.jpg<br></code></pre></td></tr></table></figure>
-
-
-
-<h1 id="JVM探究"><a href="#JVM探究" class="headerlink" title="JVM探究"></a>JVM探究</h1><p>请你谈谈你对JVM的理解?java8虚拟机和之前的变化更新?·</p>
+    <title>JVM探究</title>
+    <url>/2020/09/19/8%20JVM/</url>
+    <content><![CDATA[<h1 id="JVM探究"><a href="#JVM探究" class="headerlink" title="JVM探究"></a>JVM探究</h1><p>请你谈谈你对JVM的理解?java8虚拟机和之前的变化更新?·</p>
 <p>什么是OOM,什么是栈溢出 StackOverFlowErr?怎么分析?</p>
 <p>JVM的常用调优参数有哪些?</p>
 <p>内存快照如何抓取,怎么分析Dump文件?知道吗?</p>
 <p>谈谈JVM中,类加载器你的认识?</p>
-<h2 id="1-JVM的位置"><a href="#1-JVM的位置" class="headerlink" title="1.JVM的位置"></a>1.JVM的位置</h2><p><img src="http://cdn.tuwenbin.vip/20201019003920.png" alt="ScreenClip"></p>
-<h2 id="2JVM的体系结构"><a href="#2JVM的体系结构" class="headerlink" title="2JVM的体系结构"></a>2JVM的体系结构</h2><p><img src="http://cdn.tuwenbin.vip/20201019003929.png" alt="ScreenClip"></p>
-<h2 id="3-类加载器-作用：加载Class文件"><a href="#3-类加载器-作用：加载Class文件" class="headerlink" title="3.类加载器  作用：加载Class文件~"></a>3.类加载器  作用：加载Class文件~</h2><p><img src="http://cdn.tuwenbin.vip/20201019003932.png" alt="ScreenClip"></p>
-<h3 id="1-虚拟机自带的加载器"><a href="#1-虚拟机自带的加载器" class="headerlink" title="1.虚拟机自带的加载器"></a>1.虚拟机自带的加载器</h3><h3 id="2-启动类（根）的加载器"><a href="#2-启动类（根）的加载器" class="headerlink" title="2.启动类（根）的加载器"></a>2.启动类（根）的加载器</h3><h3 id="3-扩展类加载器"><a href="#3-扩展类加载器" class="headerlink" title="3.扩展类加载器"></a>3.扩展类加载器</h3><h3 id="4-应用程序加载器"><a href="#4-应用程序加载器" class="headerlink" title="4.应用程序加载器"></a>4.应用程序加载器</h3><h2 id="4-双亲委派机制"><a href="#4-双亲委派机制" class="headerlink" title="4.双亲委派机制"></a>4.双亲委派机制<img src="http://cdn.tuwenbin.vip/20201019003936.png" alt="ScreenClip"></h2><h2 id="5-沙箱安全机制"><a href="#5-沙箱安全机制" class="headerlink" title="5.沙箱安全机制"></a>5.沙箱安全机制<img src="http://cdn.tuwenbin.vip/20201019003942.png" alt="ScreenClip"></h2><p><img src="http://cdn.tuwenbin.vip/20201019003956.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019003959.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004003.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004007.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004020.png" alt="ScreenClip"></p>
-<h2 id="6-Native"><a href="#6-Native" class="headerlink" title="6, Native."></a>6, Native.<img src="http://cdn.tuwenbin.vip/20201019004023.png" alt="ScreenClip"></h2><h2 id="7-PC寄存器"><a href="#7-PC寄存器" class="headerlink" title="7.PC寄存器"></a>7.PC寄存器<img src="http://cdn.tuwenbin.vip/20201019004028.png" alt="ScreenClip"></h2><h2 id="8-方法区"><a href="#8-方法区" class="headerlink" title="8.方法区"></a>8.方法区<img src="http://cdn.tuwenbin.vip/20201019004034.png" alt="ScreenClip"></h2><h2 id="9-栈"><a href="#9-栈" class="headerlink" title="9.栈"></a>9.栈</h2><p><img src="http://cdn.tuwenbin.vip/20201019004037.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004051.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004055.png" alt="ScreenClip"></p>
-<h2 id="10-三种VM"><a href="#10-三种VM" class="headerlink" title="10.三种VM"></a>10.三种VM<img src="http://cdn.tuwenbin.vip/20201019004059.png" alt="ScreenClip"></h2><h2 id="11-堆"><a href="#11-堆" class="headerlink" title="11.堆"></a>11.堆<img src="http://cdn.tuwenbin.vip/20201019004102.png" alt="ScreenClip"></h2><p><img src="http://cdn.tuwenbin.vip/20201019004107.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004112.png" alt="ScreenClip"></p>
-<h2 id="12-新生区、老年区"><a href="#12-新生区、老年区" class="headerlink" title="12.新生区、老年区"></a>12.新生区、老年区<img src="http://cdn.tuwenbin.vip/20201019004114.png" alt="ScreenClip"></h2><p> <strong>老年区</strong></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004120.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004124.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004128.png" alt="ScreenClip"></p>
+<h2 id="1-JVM的位置"><a href="#1-JVM的位置" class="headerlink" title="1.JVM的位置"></a>1.JVM的位置</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019003920.png)</p>
+<h2 id="2JVM的体系结构"><a href="#2JVM的体系结构" class="headerlink" title="2JVM的体系结构"></a>2JVM的体系结构</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019003929.png)</p>
+<h2 id="3-类加载器-作用：加载Class文件"><a href="#3-类加载器-作用：加载Class文件" class="headerlink" title="3.类加载器  作用：加载Class文件~"></a>3.类加载器  作用：加载Class文件~</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019003932.png)</p>
+<h3 id="1-虚拟机自带的加载器"><a href="#1-虚拟机自带的加载器" class="headerlink" title="1.虚拟机自带的加载器"></a>1.虚拟机自带的加载器</h3><h3 id="2-启动类（根）的加载器"><a href="#2-启动类（根）的加载器" class="headerlink" title="2.启动类（根）的加载器"></a>2.启动类（根）的加载器</h3><h3 id="3-扩展类加载器"><a href="#3-扩展类加载器" class="headerlink" title="3.扩展类加载器"></a>3.扩展类加载器</h3><h3 id="4-应用程序加载器"><a href="#4-应用程序加载器" class="headerlink" title="4.应用程序加载器"></a>4.应用程序加载器</h3><h2 id="4-双亲委派机制-ScreenClip-D-新建文件夹-3-20201019003936-png"><a href="#4-双亲委派机制-ScreenClip-D-新建文件夹-3-20201019003936-png" class="headerlink" title="4.双亲委派机制![ScreenClip](D:\新建文件夹 (3)\20201019003936.png)"></a>4.双亲委派机制![ScreenClip](D:\新建文件夹 (3)\20201019003936.png)</h2><h2 id="5-沙箱安全机制-ScreenClip-D-新建文件夹-3-20201019003942-png"><a href="#5-沙箱安全机制-ScreenClip-D-新建文件夹-3-20201019003942-png" class="headerlink" title="5.沙箱安全机制![ScreenClip](D:\新建文件夹 (3)\20201019003942.png)"></a>5.沙箱安全机制![ScreenClip](D:\新建文件夹 (3)\20201019003942.png)</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019003956.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019003959.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004003.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004007.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004020.png)</p>
+<h2 id="6-Native-ScreenClip-D-新建文件夹-3-20201019004023-png"><a href="#6-Native-ScreenClip-D-新建文件夹-3-20201019004023-png" class="headerlink" title="6, Native.![ScreenClip](D:\新建文件夹 (3)\20201019004023.png)"></a>6, Native.![ScreenClip](D:\新建文件夹 (3)\20201019004023.png)</h2><h2 id="7-PC寄存器-ScreenClip-D-新建文件夹-3-20201019004028-png"><a href="#7-PC寄存器-ScreenClip-D-新建文件夹-3-20201019004028-png" class="headerlink" title="7.PC寄存器![ScreenClip](D:\新建文件夹 (3)\20201019004028.png)"></a>7.PC寄存器![ScreenClip](D:\新建文件夹 (3)\20201019004028.png)</h2><h2 id="8-方法区-ScreenClip-D-新建文件夹-3-20201019004034-png"><a href="#8-方法区-ScreenClip-D-新建文件夹-3-20201019004034-png" class="headerlink" title="8.方法区![ScreenClip](D:\新建文件夹 (3)\20201019004034.png)"></a>8.方法区![ScreenClip](D:\新建文件夹 (3)\20201019004034.png)</h2><h2 id="9-栈"><a href="#9-栈" class="headerlink" title="9.栈"></a>9.栈</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019004037.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004051.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004055.png)</p>
+<h2 id="10-三种VM-ScreenClip-D-新建文件夹-3-20201019004059-png"><a href="#10-三种VM-ScreenClip-D-新建文件夹-3-20201019004059-png" class="headerlink" title="10.三种VM![ScreenClip](D:\新建文件夹 (3)\20201019004059.png)"></a>10.三种VM![ScreenClip](D:\新建文件夹 (3)\20201019004059.png)</h2><h2 id="11-堆-ScreenClip-D-新建文件夹-3-20201019004102-png"><a href="#11-堆-ScreenClip-D-新建文件夹-3-20201019004102-png" class="headerlink" title="11.堆![ScreenClip](D:\新建文件夹 (3)\20201019004102.png)"></a>11.堆![ScreenClip](D:\新建文件夹 (3)\20201019004102.png)</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019004107.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004112.png)</p>
+<h2 id="12-新生区、老年区-ScreenClip-D-新建文件夹-3-20201019004114-png"><a href="#12-新生区、老年区-ScreenClip-D-新建文件夹-3-20201019004114-png" class="headerlink" title="12.新生区、老年区![ScreenClip](D:\新建文件夹 (3)\20201019004114.png)"></a>12.新生区、老年区![ScreenClip](D:\新建文件夹 (3)\20201019004114.png)</h2><p> <strong>老年区</strong></p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004120.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004124.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004128.png)</p>
 <p>元空间：逻辑上存在，物理上不存在</p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004132.png" alt="ScreenClip"></p>
-<h2 id="13-永久区"><a href="#13-永久区" class="headerlink" title="13.永久区"></a>13.永久区</h2><h2 id="14-堆内存调优"><a href="#14-堆内存调优" class="headerlink" title="14.堆内存调优"></a>14.堆内存调优<img src="http://cdn.tuwenbin.vip/20201019004136.png" alt="ScreenClip"></h2><h2 id="15、GC"><a href="#15、GC" class="headerlink" title="15、GC"></a>15、GC</h2><h3 id=""><a href="#" class="headerlink" title=""></a><img src="http://cdn.tuwenbin.vip/20201019004145.png" alt="ScreenClip"></h3><p><img src="http://cdn.tuwenbin.vip/20201019004148.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004152.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004156.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004203.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004207.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004211.png" alt="ScreenClip"></p>
-<h2 id="16-JMM"><a href="#16-JMM" class="headerlink" title="16.JMM"></a>16.JMM</h2><h2 id="17-总结"><a href="#17-总结" class="headerlink" title="17.总结"></a>17.总结</h2><p><img src="http://cdn.tuwenbin.vip/20201019004216.png" alt="ScreenClip"></p>
-<p><img src="http://cdn.tuwenbin.vip/20201019004221.png" alt="ScreenClip"></p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004132.png)</p>
+<h2 id="13-永久区"><a href="#13-永久区" class="headerlink" title="13.永久区"></a>13.永久区</h2><h2 id="14-堆内存调优-ScreenClip-D-新建文件夹-3-20201019004136-png"><a href="#14-堆内存调优-ScreenClip-D-新建文件夹-3-20201019004136-png" class="headerlink" title="14.堆内存调优![ScreenClip](D:\新建文件夹 (3)\20201019004136.png)"></a>14.堆内存调优![ScreenClip](D:\新建文件夹 (3)\20201019004136.png)</h2><h2 id="15、GC"><a href="#15、GC" class="headerlink" title="15、GC"></a>15、GC</h2><h3 id="ScreenClip-D-新建文件夹-3-20201019004145-png"><a href="#ScreenClip-D-新建文件夹-3-20201019004145-png" class="headerlink" title="![ScreenClip](D:\新建文件夹 (3)\20201019004145.png)"></a>![ScreenClip](D:\新建文件夹 (3)\20201019004145.png)</h3><p>![ScreenClip](D:\新建文件夹 (3)\20201019004148.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004152.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004156.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004203.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004207.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004211.png)</p>
+<h2 id="16-JMM"><a href="#16-JMM" class="headerlink" title="16.JMM"></a>16.JMM</h2><h2 id="17-总结"><a href="#17-总结" class="headerlink" title="17.总结"></a>17.总结</h2><p>![ScreenClip](D:\新建文件夹 (3)\20201019004216.png)</p>
+<p>![ScreenClip](D:\新建文件夹 (3)\20201019004221.png)</p>
 ]]></content>
+      <categories>
+        <category>JVM</category>
+      </categories>
+      <tags>
+        <tag>JVM</tag>
+      </tags>
   </entry>
   <entry>
     <title>MySQL查询优化</title>
